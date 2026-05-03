@@ -1,0 +1,22 @@
+node_modules/
+dist/
+.env
+.DS_Store
+/.vscode/
+content/raw_pdfs/*.pdf
+tools/poppler-bin.zip
+tools/poppler-bin/
+public/assets/content/**/img/*.jpg
+# We DO want images extracted to be committed, but ignore very large temp binaries if any
+!public/assets/content/**/img/# Node
+node_modules/
+
+# Vite build
+dist/
+
+# Ignore raw PDFs (do not commit original PDFs)
+content/raw_pdfs/*.pdf
+
+# Logs
+npm-debug.log*
+.vscode/
