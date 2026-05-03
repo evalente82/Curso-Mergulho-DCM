@@ -1306,6 +1306,8 @@ citadas são básicas para o funcionamento celular.
 
 O N2 é transportado dissolvido no plasma.
 
+[fisiologia_variacoes_hiperbaricas_pela_boyle.jpg]
+
                              Células dos tecidos. Paredes vasculares.
 
 Funções dos sistemas do organismo humano
@@ -1328,6 +1330,8 @@ graxos e transporte subsequente da gordura para o sistema circulatório e,
 produção de células imunes.
 
 5.1.a - APARELHO CIRCULATÓRIO
+
+[fisiologia_comunicacao_fossas_tecidos_face.jpg]
 
 A circulação do sangue
 

@@ -31,7 +31,7 @@
           "description": "A história do mergulho desde a Antiguidade até o mergulho moderno.",
           "icon": "⚓",
           "excerpt": "História do mergulho 1 (IN: Cousteau, Jaques-Yves. O Mundo dos Oceanos) \"Os seres humanos estão prestes a voltar ao mar, como alguns mamíferos fizeram há poucos milhões de anos, para se tornarem focas",
-          "imageCount": 6
+          "imageCount": 5
         },
         {
           "id": "certificadoras",
@@ -53,7 +53,7 @@
           "description": "Equipamentos essenciais: máscara, roupa, cilindro, regulador, BCD e acessórios.",
           "icon": "🤿",
           "excerpt": "Equipamentos 3 3.1 - EQUIPAMENTOS Os equipamentos abaixo citados, máscara, snorkel e nadadeiras, são aqueles indispensáveis para pratica das atividades do mergulho, por esta razão há este grupo de equ",
-          "imageCount": 15
+          "imageCount": 13
         },
         {
           "id": "fisica-mergulho",
@@ -64,7 +64,7 @@
           "description": "Física da água: pressão, empuxo, luz, som e temperatura no ambiente subaquático.",
           "icon": "🔬",
           "excerpt": "Física aplicada ao mergulho 4 4.1 - NOÇÕES DE FÍSICA Para a melhor compreensão do mergulho e seus efeitos sobre o corpo humano, será necessário o conhecimento de certas noções de física. Neste capítul",
-          "imageCount": 14
+          "imageCount": 13
         },
         {
           "id": "fisiologia",
@@ -75,7 +75,7 @@
           "description": "Efeitos do mergulho no organismo: barotraumas, narcose, doença descompressiva.",
           "icon": "🫁",
           "excerpt": "Fisiologia do mergulho 5 Neste capítulo abordaremos somente a parte da anatomia e fisiologia que estão ligadas diretamente com o mergulho, sendo dadas noções suficientes para o entendimento das altera",
-          "imageCount": 44
+          "imageCount": 39
         },
         {
           "id": "tabelas-descomp",
@@ -85,8 +85,8 @@
           "title": "Tabelas de Descompressão",
           "description": "Uso correto das tabelas de descompressão USN e BSAC.",
           "icon": "📊",
-          "excerpt": "Tabelas de descompressão 6 6.1 EMPREGO DAS TABELAS DE DESCOMPRESSÃO As tabelas para mergulhos com uso de ar comprimido, correntes no país, são homologadas pela DPC (Departamento de Portos e Costas), q",
-          "imageCount": 9
+          "excerpt": "tecidual ocorrido num acidente. Contudo, nenhum estudo em animais apoiou essa hipótese. 84 Tabelas de descompressão 6 6.1 EMPREGO DAS TABELAS DE DESCOMPRESSÃO As tabelas para mergulhos com uso de ar c",
+          "imageCount": 8
         },
         {
           "id": "procedimentos",
@@ -96,8 +96,8 @@
           "title": "Procedimentos, Técnica e Sinais",
           "description": "Técnicas de mergulho, planejamento e sinais manuais.",
           "icon": "🤙",
-          "excerpt": "Procedimentos, Técnica e Sinais 7 Desembaçando a Máscara Um dos fatores que mais atrapalham a boa visão do mergulhador é a máscara embaçada. Existem várias maneiras de desembaça-la. A primeira, mais f",
-          "imageCount": 8
+          "excerpt": "lâmina d'água situada a mais de 300 metros de altitude. Simplificando, é o mergulho em locais situados a mais de 300 acima do nível dos mares. 92 Procedimentos, Técnica e Sinais 7 Desembaçando a Másca",
+          "imageCount": 7
         },
         {
           "id": "animais-marinhos",
@@ -107,7 +107,7 @@
           "title": "Animais Marinhos",
           "description": "Animais marinhos perigosos e condutas de segurança.",
           "icon": "🐠",
-          "excerpt": "Animais Marinhos 8 8.1 ANIMAIS MARINHOS Os seres marinhos são em sua maioria tímidos e inofensivos, e quase sempre fogem da presença humana. Os animais agressivos são raramente encontrados e a maioria",
+          "excerpt": "102 103 104 Animais Marinhos 8 8.1 ANIMAIS MARINHOS Os seres marinhos são em sua maioria tímidos e inofensivos, e quase sempre fogem da presença humana. Os animais agressivos são raramente encontrados",
           "imageCount": 5
         }
       ]
@@ -165,7 +165,7 @@
     {
       "id": "curso_mergulho_autonomo_basico/tabelas-descomp",
       "title": "Tabelas de Descompressão",
-      "excerpt": "Tabelas de descompressão 6 6.1 EMPREGO DAS TABELAS DE DESCOMPRESSÃO As tabelas para mergulhos com uso de ar comprimido, correntes no país, são homologadas pela DPC (Departamento de Portos e Costas), q",
+      "excerpt": "tecidual ocorrido num acidente. Contudo, nenhum estudo em animais apoiou essa hipótese. 84 Tabelas de descompressão 6 6.1 EMPREGO DAS TABELAS DE DESCOMPRESSÃO As tabelas para mergulhos com uso de ar c",
       "tags": [
         "mergulho"
       ]
@@ -173,7 +173,7 @@
     {
       "id": "curso_mergulho_autonomo_basico/procedimentos",
       "title": "Procedimentos, Técnica e Sinais",
-      "excerpt": "Procedimentos, Técnica e Sinais 7 Desembaçando a Máscara Um dos fatores que mais atrapalham a boa visão do mergulhador é a máscara embaçada. Existem várias maneiras de desembaça-la. A primeira, mais f",
+      "excerpt": "lâmina d'água situada a mais de 300 metros de altitude. Simplificando, é o mergulho em locais situados a mais de 300 acima do nível dos mares. 92 Procedimentos, Técnica e Sinais 7 Desembaçando a Másca",
       "tags": [
         "mergulho"
       ]
@@ -181,7 +181,7 @@
     {
       "id": "curso_mergulho_autonomo_basico/animais-marinhos",
       "title": "Animais Marinhos",
-      "excerpt": "Animais Marinhos 8 8.1 ANIMAIS MARINHOS Os seres marinhos são em sua maioria tímidos e inofensivos, e quase sempre fogem da presença humana. Os animais agressivos são raramente encontrados e a maioria",
+      "excerpt": "102 103 104 Animais Marinhos 8 8.1 ANIMAIS MARINHOS Os seres marinhos são em sua maioria tímidos e inofensivos, e quase sempre fogem da presença humana. Os animais agressivos são raramente encontrados",
       "tags": [
         "mergulho"
       ]
