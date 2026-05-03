@@ -277,16 +277,33 @@ export default function ChapterReader() {
                       <table className="min-w-full text-sm">{children}</table>
                     </div>
                   ),
-                  // Código — quebra linha, nunca scroll horizontal
-                  pre: ({ children }) => (
-                    <pre className="overflow-x-auto max-w-full whitespace-pre-wrap break-words text-sm rounded-xl bg-ink-900 p-4 my-4">
-                      {children}
-                    </pre>
-                  ),
+                  // Bloco <pre> — se vier de indentação do MD (sem linguagem), renderiza como
+                  // parágrafo simples itálico, igual ao PDF. Só usa estilo de código quando
+                  // houver uma linguagem explícita (```js, ```bash etc.)
+                  pre: ({ children }) => {
+                    // Verifica se algum filho <code> tem classe de linguagem
+                    const hasLang = Array.isArray(children)
+                      ? children.some((c: any) => c?.props?.className?.includes('language-'))
+                      : (children as any)?.props?.className?.includes('language-')
+                    if (hasLang) {
+                      return (
+                        <pre className="overflow-x-auto max-w-full whitespace-pre-wrap break-words text-sm rounded-xl bg-ink-900 text-ink-100 p-4 my-4">
+                          {children}
+                        </pre>
+                      )
+                    }
+                    // Texto simples com indentação → parágrafo itálico, sem borda/fundo
+                    return (
+                      <p className="my-3 italic text-ink-500 text-center text-sm">
+                        {children}
+                      </p>
+                    )
+                  },
                   code: ({ children, className }) => {
                     const isBlock = className?.includes('language-')
                     if (isBlock) return <code className={className}>{children}</code>
-                    return <code className="bg-ink-100 text-ocean-800 rounded px-1 py-0.5 text-[0.85em] break-words">{children}</code>
+                    // inline code sem classe → texto simples, sem fundo colorido
+                    return <span>{children}</span>
                   },
                   // Linha horizontal vira separador visual
                   hr: () => <div className="my-8 border-t-2 border-ocean-100" />,
