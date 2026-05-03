@@ -3,8 +3,16 @@
 @tailwind utilities;
 
 @layer base {
-  html { scroll-behavior: smooth; }
+  html {
+    scroll-behavior: smooth;
+    overflow-x: hidden;        /* nunca scroll lateral na página */
+  }
   html, body, #root { height: 100%; }
+  body {
+    overflow-x: hidden;
+    word-break: break-word;
+    overflow-wrap: break-word;
+  }
 
   /* Fonte de leitura confortável para o Reader */
   .font-reading {
@@ -15,6 +23,38 @@
   ::-webkit-scrollbar { width: 4px; height: 4px; }
   ::-webkit-scrollbar-track { background: transparent; }
   ::-webkit-scrollbar-thumb { background: #94a3b8; border-radius: 9999px; }
+
+  /* Prose — evita transbordamento de qualquer elemento filho */
+  .prose * {
+    max-width: 100%;
+    word-break: break-word;
+    overflow-wrap: break-word;
+  }
+  /* Imagens sempre dentro do container */
+  .prose img {
+    height: auto;
+    max-width: 100%;
+  }
+  /* Tabelas — scroll só dentro do bloco, nunca na página */
+  .prose table {
+    display: block;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    white-space: nowrap;
+  }
+  /* Código — quebra linha em vez de rolar */
+  .prose pre,
+  .prose code {
+    white-space: pre-wrap !important;
+    word-break: break-word !important;
+    overflow-wrap: break-word !important;
+    overflow-x: hidden;
+  }
+  /* Texto pré-formatado vindo do PDF (muitos espaços) */
+  .prose p {
+    white-space: pre-line;        /* respeita \n mas colapsa espaços múltiplos */
+    overflow-wrap: break-word;
+  }
 }
 
 @layer components {

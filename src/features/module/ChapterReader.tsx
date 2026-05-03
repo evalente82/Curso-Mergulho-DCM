@@ -212,7 +212,7 @@ export default function ChapterReader() {
               animate={{ opacity: 1, x: 0 }}
               exit={{ opacity: 0, x: direction === 'right' ? -40 : 40 }}
               transition={{ duration: .35, ease: [.16,1,.3,1] }}
-              className="prose prose-ocean max-w-none font-reading"
+              className="prose prose-ocean max-w-none font-reading break-words overflow-hidden"
               style={{ fontSize, lineHeight: 1.85 }}
             >
               <ReactMarkdown
@@ -237,14 +237,32 @@ export default function ChapterReader() {
                     <figure className="my-6 flex flex-col items-center">
                       <img
                         src={src} alt={alt ?? ''}
-                        className="rounded-xl max-w-full mx-auto shadow-md"
+                        className="rounded-xl max-w-full w-auto h-auto mx-auto shadow-md"
                         loading="lazy"
+                        style={{ maxWidth: '100%' }}
                       />
                       {alt && alt.trim() !== '' && (
                         <figcaption className="text-center text-xs text-ink-400 mt-2 italic">{alt}</figcaption>
                       )}
                     </figure>
                   ),
+                  // Tabelas — scroll horizontal isolado no bloco, nunca na página
+                  table: ({ children }) => (
+                    <div className="overflow-x-auto w-full my-6 rounded-xl border border-ink-200">
+                      <table className="min-w-full text-sm">{children}</table>
+                    </div>
+                  ),
+                  // Código — quebra linha, nunca scroll horizontal
+                  pre: ({ children }) => (
+                    <pre className="overflow-x-auto max-w-full whitespace-pre-wrap break-words text-sm rounded-xl bg-ink-900 p-4 my-4">
+                      {children}
+                    </pre>
+                  ),
+                  code: ({ children, className }) => {
+                    const isBlock = className?.includes('language-')
+                    if (isBlock) return <code className={className}>{children}</code>
+                    return <code className="bg-ink-100 text-ocean-800 rounded px-1 py-0.5 text-[0.85em] break-words">{children}</code>
+                  },
                   // Linha horizontal vira separador visual
                   hr: () => <div className="my-8 border-t-2 border-ocean-100" />,
                 }}

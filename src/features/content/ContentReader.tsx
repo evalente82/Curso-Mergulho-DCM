@@ -175,7 +175,7 @@ export default function ContentReader() {
             initial={{ opacity: 0, y: 10 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: .4 }}
-            className="prose prose-ocean max-w-none font-reading"
+            className="prose prose-ocean max-w-none font-reading break-words overflow-hidden"
             style={{ fontSize, lineHeight: 1.85 }}
           >
             <ReactMarkdown
@@ -186,13 +186,48 @@ export default function ContentReader() {
                 h2: ({ children }) => <h2 id={slugify(String(children))}>{children}</h2>,
                 h3: ({ children }) => <h3 id={slugify(String(children))}>{children}</h3>,
                 h4: ({ children }) => <h4 id={slugify(String(children))}>{children}</h4>,
+                // Parágrafo só com imagem → div (evita <figure> em <p>)
+                p: ({ node, children }) => {
+                  const kids = node?.children ?? []
+                  const isImgOnly =
+                    kids.length === 1 &&
+                    kids[0].type === 'element' &&
+                    (kids[0] as { tagName?: string }).tagName === 'img'
+                  if (isImgOnly) return <div className="my-0">{children}</div>
+                  return <p>{children}</p>
+                },
                 // Imagens responsivas
                 img: ({ src, alt }) => (
-                  <figure className="my-6">
-                    <img src={src} alt={alt ?? ''} className="rounded-xl max-w-full mx-auto shadow" loading="lazy" />
-                    {alt && <figcaption className="text-center text-xs text-ink-400 mt-2">{alt}</figcaption>}
+                  <figure className="my-6 flex flex-col items-center">
+                    <img
+                      src={src} alt={alt ?? ''}
+                      className="rounded-xl max-w-full w-auto h-auto mx-auto shadow-md"
+                      loading="lazy"
+                      style={{ maxWidth: '100%' }}
+                    />
+                    {alt && alt.trim() !== '' && (
+                      <figcaption className="text-center text-xs text-ink-400 mt-2 italic">{alt}</figcaption>
+                    )}
                   </figure>
                 ),
+                // Tabelas com scroll interno
+                table: ({ children }) => (
+                  <div className="overflow-x-auto w-full my-6 rounded-xl border border-ink-200">
+                    <table className="min-w-full text-sm">{children}</table>
+                  </div>
+                ),
+                // Código sem scroll lateral
+                pre: ({ children }) => (
+                  <pre className="overflow-x-auto max-w-full whitespace-pre-wrap break-words text-sm rounded-xl bg-ink-900 p-4 my-4">
+                    {children}
+                  </pre>
+                ),
+                code: ({ children, className }) => {
+                  const isBlock = className?.includes('language-')
+                  if (isBlock) return <code className={className}>{children}</code>
+                  return <code className="bg-ink-100 text-ocean-800 rounded px-1 py-0.5 text-[0.85em] break-words">{children}</code>
+                },
+                hr: () => <div className="my-8 border-t-2 border-ocean-100" />,
               }}
             >
               {md}
