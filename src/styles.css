@@ -87,7 +87,21 @@
   }
 }
 
-/* ── Bloqueio total na impressão / captura via browser ── */
+/* ── Highlight de busca assertiva ── */
+/* Classe adicionada/removida via JS ao elemento encontrado pelo ?q= */
+.search-hit {
+  animation: search-pulse 3s ease forwards;
+  border-radius: 4px;
+  outline: 2px solid transparent;
+}
+
+@keyframes search-pulse {
+  0%   { background-color: #fef08a; outline-color: #facc15; }  /* amarelo vibrante */
+  30%  { background-color: #fef9c3; outline-color: #fde047; }  /* amarelo suave */
+  100% { background-color: transparent; outline-color: transparent; }
+}
+
+
 @media print {
   body * { visibility: hidden !important; }
   body::after {

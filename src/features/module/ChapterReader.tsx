@@ -1,5 +1,5 @@
 import React, { useEffect, useRef, useState, useCallback } from 'react'
-import { useParams, useNavigate } from 'react-router-dom'
+import { useParams, useNavigate, useSearchParams } from 'react-router-dom'
 import ReactMarkdown from 'react-markdown'
 import remarkGfm from 'remark-gfm'
 import { motion, AnimatePresence } from 'framer-motion'
@@ -74,6 +74,7 @@ export default function ChapterReader() {
     chapterId: string
   }>()
   const navigate = useNavigate()
+  const [searchParams] = useSearchParams()
 
   const [mod, setMod]           = useState<Module | null>(null)
   const [chapter, setChapter]   = useState<Chapter | null>(null)
@@ -177,6 +178,49 @@ export default function ChapterReader() {
     document.getElementById(id)?.scrollIntoView({ behavior: 'smooth', block: 'start' })
     setTocOpen(false)
   }, [])
+
+  // ── Scroll & highlight do termo de busca ──────────────────────────────────
+  // Quando o usuário chega via busca (?q=palavra), localiza o primeiro elemento
+  // do artigo que contém o termo e rola suavemente até ele, destacando-o.
+  useEffect(() => {
+    if (!md) return
+    const q = searchParams.get('q')?.trim()
+    if (!q) return
+
+    // Aguarda o React terminar de renderizar o artigo no DOM
+    const timer = setTimeout(() => {
+      const article = articleRef.current
+      if (!article) return
+
+      const qLower = q.toLowerCase()
+
+      // Percorre elementos de texto do artigo na ordem do DOM
+      const candidates = article.querySelectorAll<HTMLElement>(
+        'p, li, h1, h2, h3, h4, h5, h6, td, th'
+      )
+
+      let target: HTMLElement | null = null
+      Array.from(candidates).some(el => {
+        if (el.textContent?.toLowerCase().includes(qLower)) {
+          target = el as HTMLElement
+          return true
+        }
+        return false
+      })
+
+      if (!target) return
+      const hit = target as HTMLElement
+
+      // Scroll até o elemento
+      hit.scrollIntoView({ behavior: 'smooth', block: 'center' })
+
+      // Highlight visual: adiciona classe temporária
+      hit.classList.add('search-hit')
+      setTimeout(() => hit.classList.remove('search-hit'), 3000)
+    }, 400) // 400ms → garante que o artigo já está pintado
+
+    return () => clearTimeout(timer)
+  }, [md, searchParams])
 
   // ── Navegação entre capítulos ─────────────────────────────────────────────
   const chapters = mod?.chapters ?? []

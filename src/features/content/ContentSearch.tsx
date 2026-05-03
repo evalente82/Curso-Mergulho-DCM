@@ -63,7 +63,9 @@ export default function ContentSearch({ items }: { items: ContentItem[] }) {
                 <button
                   onClick={() => {
                     const [modId, chapId] = item.id.split('/')
-                    navigate(chapId ? `/modulo/${modId}/${chapId}` : `/modulo/${modId}`)
+                    const base = chapId ? `/modulo/${modId}/${chapId}` : `/modulo/${modId}`
+                    const qs   = q.trim() ? `?q=${encodeURIComponent(q.trim())}` : ''
+                    navigate(base + qs)
                   }}
                   className="w-full card p-4 text-left flex items-start gap-3 hover:bg-ocean-50 transition-colors"
                 >

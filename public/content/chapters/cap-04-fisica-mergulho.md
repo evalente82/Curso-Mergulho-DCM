@@ -22,6 +22,9 @@ moléculas de que a matéria é formada, ela terá características diferentes. 
 ÁGUA (matéria) é formada por moléculas de água. Uma molécula de água é
 formada por dois átomos de hidrogênio e um de oxigênio.
 
+![](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_varia_proporcionalmente_temperatura_volume.jpg)
+
+
 A matéria se divide em três estados:
 SÓLIDOS: Forma e volume definidos. São incompressíveis.
 LÍQÜIDO: Forma do recipiente que o contém, volume definido. São
@@ -30,11 +33,20 @@ GASOSO: Forma e volume indefinidos adquirem a forma e o volume do
 recipiente que os contém. São compressíveis (diminuem de volume com o
 aumento da pressão).
 
+![](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_varia_proporcionalmente_temperatura_volume_2.jpg)
+
+
                                                                                                                     25
 O ar atmosférico por nós respirado durante o mergulho é, uma mistura
 gasosa que, em condições hiperbáricas, tem comportamento diferente
 daquela observada na pressão atmosférica, com a seguinte composição
 aproximada:
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/Equipamentos_percentual_02.png)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/Equipamentos_percentual_01.png)
+
 
 GÁS            FÓRMULA  PERCENTUAL
 Nitrogênio              78,08 %
@@ -122,6 +134,9 @@ Se nós tivermos uma bola com um volume de 10 litros, ao nível do mar
 profundidade (pressão absoluta = 2 atm) o volume da mesma bola será
 reduzido a metade do volume inicial (5 litros).
 
+![](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_mistura_x_y_ar_liquido_sofre.png)
+
+
                            A 10 m será de 1/2
                            A 20 m será de 1/3
                            A 30 m será de 1/4
@@ -132,6 +147,9 @@ reduzido a metade do volume inicial (5 litros).
 profundidade até a superfície, lá ela terá volume dobrado (20 litros).
 "Em uma temperatura constante, o volume ocupado por uma determinada
 massa de gás, é inversamente proporcional à pressão absoluta a que está
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/Fisica-mergulho_03.png)
+
 
                                          sujeito.”
 
@@ -157,6 +175,9 @@ com a Lei de Charles o que pode se enunciar:
 temperatura no estado inicial é igual á relação tio produto, pressão vezes
                    volume, sobre temperatura no estado final"
 
+![](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_igual_peso_liquido_deslocado.png)
+
+
 onde:
        P é a pressão do gas.
        T é a temperatura termodinâmica.
@@ -164,6 +185,9 @@ onde:
 
 Portanto para comparar a mesma substância em estados diferentes (estando
 de acordo com as condições acima) afirma-se que:
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_igual_peso_liquido_deslocado_2.png)
+
 
 Lei de Dalton
 Os gases numa mistura exibem uma propriedade singular. Cada um exerce
@@ -184,6 +208,12 @@ mar.
  sozinho o volume global de mistura: a pressão total da mistura é a soma
          das pressões parciais dos diferentes gases que a compõem”
 
+![](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_sofrer_mesma_dissolvido_pela_02.png)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_sofrer_mesma_dissolvido_pela_01.png)
+
+
                                                                                                                     30
 Pp X (O2) +  Pp Y (N2) = P mistura X+Y(Ar)
 
@@ -196,15 +226,30 @@ objeto desloca um volume de líquido de peso exatamente igual ao seu, diz-se
 que tem flutuabilidade neutra; não afunda nem flutua. Se o peso do objeto é
 desloca uma quantidade de líquido de peso menor que o seu, o objeto afunda.
 
+![](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_fase_equilibrio_dissolvido_inferior.jpg)
+
+
                                                                                                                     31
 "Todo corpo imerso em um líquido em equilíbrio é submetido a uma força
    vertical dirigida de baixo para cima de intensidade igual ao peso do
                            volume de liquido deslocado.”
 
+![](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_superficie_fase_dito_supersaturado.jpg)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_dito_supersaturado_critica_nivel.jpg)
+
+
                                                                                                                     32
 Princípio de Pascal
 A pressão exercida sobre um ponto qualquer de um fluido se transmite em
 todas as direções com igual intensidade.
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_pressao_relativa_calculo_consumo.png)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_pode_admitir_equivalencia_padrao.png)
+
 
   “Quando um ponto de um líquido em equilíbrio sofre uma variação de
  pressão, todos os outros pontos do líquido também irão sofrer a mesma
@@ -219,6 +264,15 @@ gás no liquido é proporcional á pressão excedia por este gás neste líquido
 “Numa mistura gasosa, a quantidade dissolvida de cada gás da mistura é
 
                           proporcional à pressão parcial”
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/Fisica_Estados_01.png)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_altura_trinta_para_olhos.jpg)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_total_otica_absorvidas_podem.png)
+
 
                                                                      MOLÉCULAS
                                                                        LIQUIDAS
@@ -262,6 +316,9 @@ que possuem a escala em atmosfera (atm), outros em BAR, ou ainda em
 Libras Por polegadas Quadrada (PSI).
 
 Para convertermos essas escalas utilizamos a regra de três simples.
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/Fisica_Equivalencia01.png)
+
 
            A=B          EQUIVALÊNCIA PADRÃO
 
@@ -390,6 +447,9 @@ disponível, no caso, de ar comprimido, e a
 quantidade que iremos consumir em relação
 à profundidade.
 
+![](/assets/content/curso_mergulho_autonomo_basico/img/fisiologia_evolucao_sinais_mais_proxima.jpg)
+
+
                                                                                                                     37
 O homem, ao nível do mar, tem um consumo de ar de 20 litros por minuto
 (para efeitos de cálculo, uma média que leva em conta fatores como,
@@ -400,6 +460,9 @@ Cálculo do Consumo em Relação à Profundidade
 Para calcularmos o consumo de ar do mergulhador em diferentes
 profundidades basta multiplicar-mos o consumo ao nível do mar pela
 pressão ambiente absoluta.
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/Fisica-Consumo01.png)
+
 
 20 l./min. (consumo na super.) X Pabs (pressão absoluta) = Consumo
 
@@ -414,6 +477,9 @@ Cálculo em Relação à Capacidade de Cada Cilindro
 A equação resume-se na multiplicação da pressão de enchimento do cilindro
 pela sua capacidade volumétrica, desta forma encontraremos sua capacidade
 em litros.
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/Fisica_capacidade_cilindro.png)
+
 Quantos litros existem em uma garrafa de 11 litros e pressão de enchimento
 de 200 atm?
 Volume = 11 litros Pe= 200 atm
@@ -422,6 +488,9 @@ de 250 atm?
 Volume = 18 litros Pe = 250 atm
 
 Cálculo do Ar Disponível e do Ar Reserva
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/Fisica_capacidade_cilindro_02.png)
+
 Nos registros mais antigos (tipo “J”) encontra-se o sistema de reserva de ar
 (esta reserva não deve ser considerada para o consumo durante o mergulho).
 Resume-se a uma mola com pressão de 30 atm instalada no interior do
@@ -511,4 +580,3 @@ enrosco em seu hélice.
                                                                                                                     42
 
 ---
-
