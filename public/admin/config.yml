@@ -1,0 +1,102 @@
+# ══════════════════════════════════════════════════════════════════════════════
+# Decap CMS — Configuração do Painel de Conteúdo DCM
+#
+# Documentação: https://decapcms.org/docs/configuration-options/
+# Auth Proxy gratuito: https://github.com/sveltia/sveltia-cms-auth
+# ══════════════════════════════════════════════════════════════════════════════
+
+backend:
+  name: github
+  repo: evalente82/Curso-Mergulho-DCM
+  branch: main
+  # ── Proxy de autenticação OAuth gratuito (Cloudflare Workers) ──────────────
+  # Não exige backend próprio. O proxy redireciona para o GitHub OAuth.
+  # Configure seu GitHub OAuth App com callback:
+  #   https://sveltia-cms-auth.pages.dev/callback
+  base_url: https://sveltia-cms-auth.pages.dev
+  auth_endpoint: auth
+
+# ── Localização das mídias ────────────────────────────────────────────────────
+# media_folder: caminho no repositório onde as imagens são SALVAS
+# public_folder: prefixo usado nas URLs geradas dentro do markdown
+media_folder: public/assets/content/curso_mergulho_autonomo_basico/img
+public_folder: /Curso-Mergulho-DCM/assets/content/curso_mergulho_autonomo_basico/img
+
+# ── Locale do painel ──────────────────────────────────────────────────────────
+locale: pt
+
+# ══════════════════════════════════════════════════════════════════════════════
+# COLEÇÕES
+# ══════════════════════════════════════════════════════════════════════════════
+collections:
+
+  # ── Capítulos ───────────────────────────────────────────────────────────────
+  - name: chapters
+    label: "📖 Capítulos"
+    label_singular: "Capítulo"
+    description: "Conteúdo dos capítulos do curso. Edite o texto e as imagens."
+    folder: public/content/chapters
+    create: false          # Não permite criar novos capítulos pelo painel
+    delete: false          # Não permite deletar capítulos pelo painel
+    extension: md
+    # Os arquivos atuais não têm frontmatter — o Decap vai adicionar
+    # automaticamente ao primeiro save. Campos abaixo definem o frontmatter.
+    fields:
+      - label: "Título"
+        name: title
+        widget: string
+        hint: "Título do capítulo (ex: Equipamentos de Mergulho)"
+
+      - label: "Ordem"
+        name: order
+        widget: number
+        value_type: int
+        min: 1
+        max: 99
+        hint: "Posição do capítulo na sequência (1 = primeiro)"
+
+      - label: "Slug"
+        name: slug
+        widget: string
+        hint: "Identificador URL do capítulo (ex: cap-01). Não altere sem atualizar index.json."
+
+      - label: "Conteúdo"
+        name: body
+        widget: markdown
+        media_library:
+          config:
+            multiple: false
+        hint: "Conteúdo completo do capítulo em Markdown. Use a barra de ferramentas para inserir imagens."
+
+  # ── Índice de Módulos ───────────────────────────────────────────────────────
+  - name: module_config
+    label: "⚙️ Configuração do Módulo"
+    description: "Metadados do curso: título, descrição e lista de capítulos."
+    files:
+      - name: index
+        label: "index.json — Estrutura do Curso"
+        file: public/content/index.json
+        # index.json é um JSON puro, não Markdown
+        fields:
+          - label: "ID do Módulo"
+            name: id
+            widget: string
+            hint: "Identificador único do módulo (ex: curso-mergulho-autonomo-basico)"
+
+          - label: "Título do Módulo"
+            name: title
+            widget: string
+
+          - label: "Descrição"
+            name: description
+            widget: text
+
+          - label: "Capítulos"
+            name: chapters
+            widget: list
+            label_singular: "Capítulo"
+            fields:
+              - { label: "ID", name: id, widget: string }
+              - { label: "Título", name: title, widget: string }
+              - { label: "Arquivo", name: file, widget: string }
+              - { label: "Duração estimada (min)", name: duration, widget: number, value_type: int, required: false }
