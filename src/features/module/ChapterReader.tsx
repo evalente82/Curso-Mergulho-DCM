@@ -8,6 +8,7 @@ import {
   Maximize2, Minimize2, List, X, ChevronRight,
   LayoutDashboard,
 } from 'lucide-react'
+import { assetUrl } from '../../shared/basePath'
 import type { Module, Chapter } from './ModuleDashboard'
 
 // ── Utilitários ────────────────────────────────────────────────────────────
@@ -52,7 +53,7 @@ export default function ChapterReader() {
 
   // ── Carregar módulo ──────────────────────────────────────────────────────
   useEffect(() => {
-    fetch('/content/index.json')
+    fetch(assetUrl('/content/index.json'))
       .then(r => r.json())
       .then((idx) => {
         const found = (idx.modules as Module[])?.find(m => m.id === moduleId)
@@ -75,7 +76,7 @@ export default function ChapterReader() {
     setProgress(0)
     window.scrollTo(0, 0)
 
-    fetch(`/content/chapters/${chapter.filename}`)
+    fetch(assetUrl(`/content/chapters/${chapter.filename}`))
       .then(r => { if (!r.ok) throw new Error(); return r.text() })
       .then(text => {
         const clean = text.replace(/^---[\s\S]*?---\n?/, '')

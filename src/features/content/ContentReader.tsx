@@ -7,6 +7,7 @@ import {
   ArrowLeft, Minus, Plus, Maximize2, Minimize2,
   List, X, ChevronRight,
 } from 'lucide-react'
+import { assetUrl } from '../../shared/basePath'
 
 // ─── Tipos ────────────────────────────────────────────────────────────────────
 type TocEntry = { id: string; text: string; level: number }
@@ -49,7 +50,7 @@ export default function ContentReader() {
   // ── Carregar Markdown ──
   useEffect(() => {
     setMd(null)
-    fetch(`/content/raw/${id}.md`)
+    fetch(assetUrl(`/content/raw/${id}.md`))
       .then(r => { if (!r.ok) throw new Error(); return r.text() })
       .then(text => {
         // Remove o bloco de frontmatter YAML (--- ... ---) se presente

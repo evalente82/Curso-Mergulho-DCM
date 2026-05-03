@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react'
 import { useParams } from 'react-router-dom'
 import ModuleDashboard, { type Module } from './ModuleDashboard'
+import { assetUrl } from '../../shared/basePath'
 
 export default function ModulePage() {
   const { moduleId = 'curso_mergulho_autonomo_basico' } = useParams<{ moduleId: string }>()
@@ -8,7 +9,7 @@ export default function ModulePage() {
   const [error, setError] = useState(false)
 
   useEffect(() => {
-    fetch('/content/index.json')
+    fetch(assetUrl('/content/index.json'))
       .then(r => r.json())
       .then(idx => {
         const found = (idx.modules as Module[])?.find((m: Module) => m.id === moduleId)

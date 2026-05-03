@@ -6,6 +6,7 @@ import { Waves, BookOpen, Search, Menu, X, Construction, Wifi } from 'lucide-rea
 import ContentSearch from '../features/content/ContentSearch'
 import ModulePage from '../features/module/ModulePage'
 import ChapterReader from '../features/module/ChapterReader'
+import { assetUrl } from '../shared/basePath'
 
 // ─── Tipos ────────────────────────────────────────────────────────────────────
 export type ContentItem = {
@@ -143,7 +144,7 @@ function HomePage({ items: _items }: { items: unknown[] }) {
   const [mod, setMod] = useState<{ id: string; title: string; subtitle?: string; chapters: { id: string; title: string; description: string; icon: string; imageCount?: number; number: number }[] } | null>(null)
 
   useEffect(() => {
-    fetch('/content/index.json')
+    fetch(assetUrl('/content/index.json'))
       .then(r => r.json())
       .then(idx => setMod(idx.modules?.[0] ?? null))
       .catch(() => {})
@@ -261,7 +262,7 @@ function BuscaPage() {
   const [items, setItems] = useState<ContentItem[]>([])
 
   useEffect(() => {
-    fetch('/content/index.json')
+    fetch(assetUrl('/content/index.json'))
       .then(r => r.json())
       .then(idx => {
         // Monta lista de busca a partir dos capítulos
