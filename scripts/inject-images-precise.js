@@ -23,15 +23,15 @@ const CHAPTERS_DIR = path.join(ROOT, 'public', 'content', 'chapters')
 const IMG_BASE     = '/assets/content/curso_mergulho_autonomo_basico/img'
 const MAP_FILE     = path.join(__dirname, 'image-page-map.json')
 
-// Ranges de página por capítulo (pdfjs retornou 112 páginas, pdftotext 113)
-// Usando contagem do pdfjs (mais confiável para imagens)
+// Ranges de página por capítulo (pdfjs 1-based, 112 páginas total)
+// NOTA: fisiologia começa em pag 43 (não 44) — img-046.jpg está na pag 43
 const CHAPTER_PAGES = {
   'cap-00-capa':              { start: 1,   end: 2   },
   'cap-01-historia-mergulho': { start: 3,   end: 8   },
   'cap-02-certificadoras':    { start: 9,   end: 9   },
   'cap-03-equipamentos':      { start: 10,  end: 24  },
-  'cap-04-fisica-mergulho':   { start: 25,  end: 43  },
-  'cap-05-fisiologia':        { start: 44,  end: 85  },
+  'cap-04-fisica-mergulho':   { start: 25,  end: 42  },
+  'cap-05-fisiologia':        { start: 43,  end: 85  },
   'cap-06-tabelas-descomp':   { start: 86,  end: 100 },
   'cap-07-procedimentos':     { start: 71,  end: 104 },
   'cap-08-animais-marinhos':  { start: 105, end: 112 },
@@ -46,25 +46,27 @@ console.log('Mapa carregado:', Object.keys(imagePageMap).length, 'imagens')
 console.log('Páginas de texto:', rawPages.length)
 
 // ── Helper: extrair âncora de texto de uma página ─────────────────────────
-// Retorna as N últimas palavras significativas da página (para busca fuzzy)
+// Usa o texto no MEIO da página (não o fim) para posicionar a imagem
+// aproximadamente onde ela aparece visualmente no PDF.
 function getPageAnchor(pageNum) {
   const idx  = pageNum - 1
   const page = (rawPages[idx] || '').replace(/\s+/g, ' ').trim()
-  if (!page || page.length < 5) {
-    // Página em branco → tenta a anterior
+  if (!page || page.length < 10) {
     return pageNum > 1 ? getPageAnchor(pageNum - 1) : null
   }
 
-  // Remove cabeçalhos/rodapés comuns (número de página isolado, títulos curtos)
+  // Linhas significativas (>= 12 chars, não é só número de página)
   const lines = page.split(/\n/)
     .map(l => l.replace(/\s+/g, ' ').trim())
-    .filter(l => l.length >= 15 && !/^\d+$/.test(l))
+    .filter(l => l.length >= 12 && !/^\d{1,3}$/.test(l))
 
   if (lines.length === 0) return pageNum > 1 ? getPageAnchor(pageNum - 1) : null
 
-  // Retorna as últimas 6 palavras da última linha substantiva
-  const lastLine = lines[lines.length - 1]
-  const words    = lastLine.split(/\s+/)
+  // Usa a linha no ponto 55% do conteúdo da página
+  // → imagem cai aproximadamente no meio/final da parte textual acima dela
+  const midIdx   = Math.floor(lines.length * 0.55)
+  const midLine  = lines[Math.min(midIdx, lines.length - 1)]
+  const words    = midLine.split(/\s+/)
   return words.slice(-6).join(' ')
 }
 
@@ -79,14 +81,21 @@ function normalize(s) {
 }
 
 // ── Helper: encontrar posição da âncora no MD ─────────────────────────────
-// Retorna o índice de linha logo APÓS o parágrafo que contém a âncora
+// Usa n-gramas SEM filtrar stopwords — mantém a sequência de palavras
 function findAnchorLine(lines, anchor) {
   if (!anchor) return -1
   const normAnchor = normalize(anchor)
-  const words      = normAnchor.split(' ').filter(w => w.length > 3)
+  const allWords   = normAnchor.split(' ').filter(w => w.length > 0)
+  if (allWords.length === 0) return -1
+
+  // Remove número de página solto no final (1-3 dígitos)
+  const words = allWords[allWords.length - 1].match(/^\d{1,3}$/)
+    ? allWords.slice(0, -1)
+    : allWords
+
   if (words.length === 0) return -1
 
-  // Busca progressiva: começa com 5 palavras, reduz até 2
+  // Busca progressiva: 5 → 4 → 3 → 2 palavras consecutivas
   for (let wCount = Math.min(words.length, 5); wCount >= 2; wCount--) {
     const phrase = words.slice(-wCount).join(' ')
     for (let i = lines.length - 1; i >= 0; i--) {

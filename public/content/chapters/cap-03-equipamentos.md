@@ -305,6 +305,9 @@ conjunto de respiração subaquático autônomo (circuito aberto), e
 deixaremos para outra oportunidade a análise do equipamento dependente e
 de circuito aberto.
 
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-003.png)
+
+
                                                                                                                     16
 Cilindro
 
@@ -318,6 +321,12 @@ suportar a mesma pressão, são, entretanto mais leves e resistentes a corrosão
 Atualmente estão muitos difundidos cilindros de aço cromo molibdênio
 revestidos por camadas externa de outros materiais não ferrosos, entre eles o
 alumínio.
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-004.png)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-005.png)
+
 
 No corpo do cilindro deve conter as marcas da data de fabricação (data do
 primeiro teste hidrostático), do último teste hidrostático, tipo de material,
@@ -346,12 +355,6 @@ alumí nio.                                   2250 - pressão de trabalho do cil
                                              e m PSI. 0000B - número de série.
 3000 - pressão em PSI com que deve ser
 carregado o cilindro (pressão de trabalho).  P8T - marca do fabricante.
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-004.png)
-
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-005.png)
-
 
 S80 - quantidade de ar em pés cúbico         8C82+ - mês e ano do pri meiro teste
 quando o cilindro estiver na pressão de      hidrostático. Entre esses, a marca do
@@ -486,9 +489,6 @@ mesmo assim em quantidades mínimas, o gás expirado retoma ao
 compartimento de origem, tendo antes passado por um filtro de CO2; já nos
 rebreather de circuito semi fechado, o mergulhador continua expelindo
 
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-003.png)
-
-
                                                                                                                     22
 pequenas bolhas intermitentes, porém em menor volume do que no aparelho
 de mergulho autônomo convencional.
@@ -529,9 +529,6 @@ determinados gases se tornam tóxicos. A única maneira de evitar esse efeito
 indireto da pressão é diminuindo a porcentagem desses gases na mistura (ex.
 oxigênio e nitrogênio).
 
-                                                                                                                    23
-24
-
 ![](/assets/content/curso_mergulho_autonomo_basico/img/img-009.jpg)
 
 
@@ -564,6 +561,9 @@ oxigênio e nitrogênio).
 
 ![](/assets/content/curso_mergulho_autonomo_basico/img/img-019.png)
 
+
+                                                                                                                    23
+24
 
 ![](/assets/content/curso_mergulho_autonomo_basico/img/img-006.png)
 

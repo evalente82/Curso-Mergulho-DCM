@@ -34,6 +34,9 @@ Sistema Nervoso - Coordena todas as funções e atividades do corpo humano.
 Sistema Circulatório - Conduz o alimento celular do local de entrada no
 organismo até todas as células do corpo.
 
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-046.jpg)
+
+
                                                                                                                     43
 Sistema Respiratório – É o conjunto de órgãos responsáveis pelas trocas
 gasosas do organismo dos animais com o meio ambiente, ou seja, a hematose
@@ -108,6 +111,9 @@ transversalmente em duas cavidades comunicantes. As superiores são as
 
 aurículas, as inferiores os ventrículos. Na metade direita, circula o sangue
 
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-047.jpg)
+
+
                                44
 venoso, na esquerda o arterial.
 
@@ -147,6 +153,9 @@ alveolar ê superior a
 pressão parcial do
 no sangue venoso) e
 cede CO2 para o ar.
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-048.jpg)
+
 
                                  45
 Componentes anatômicos.
@@ -193,6 +202,9 @@ O significado de cada um desses volumes é o seguinte:
 1 - O volume de ar corrente é o volume de ar inspirado e expirado a cada
 inspiração normal e equivalente a cerca de 500 ml no adulto jovem.
 
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-049.jpg)
+
+
                                                                                                                     46
 2 - O volume inspiratório de ar reserva é o volume de ar adicional que
 pode ser inspirado além do volume corrente normal, sendo geralmente igual
@@ -213,9 +225,6 @@ Todos os volumes e capacidades pulmonares são aproximadamente 20 a
 indivíduos altos e atléticos do que em indivíduos pequenos e astênicos.
 Gráfico mostrando as execuções respiratórias durante a respiração e a
 inspiração normais e a expiração máximas.
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-049.jpg)
-
 
 Gráfico mostrando as excursões respiratórias durante a respiração normal de durante a
                                        inspiração e expiração máximas.
@@ -247,6 +256,9 @@ face.
 Todos eles possuem comunicação com as fossas nasais e são revestidos por
 uma camada de células muito delicada. Entre esta camada de células e o
 tecido ósseo apresentam-se vasos sanguíneos.
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-051.png)
+
 
                                                                                                                     48
 5.2 - OS EFEITOS DIRETOS DA PRESSÃO NO ORGANISMO
@@ -313,6 +325,9 @@ Causas.                                  .
 
  Otites agudas ou crônicas.
 
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-053.png)
+
+
                                          50
 Obs.: Esse barotrauma pode ocorrer com ou sem ruptura de Tímpano.
 
@@ -360,6 +375,9 @@ equilíbrio da pressão do meio ambiente em variação com a pressão no seu
 interior. A obstrução num destes condutos por um processo inflamatório ou
 por muco, impede o equilíbrio da pressão ambiente com a do interior dos
 sinus causando problemas tais como edemas e hemorragias.
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-052.jpg)
+
 
                                                                                                                     51
 Sintomas.
@@ -897,7 +915,7 @@ formação pela despressurização brusca se dá sem ponto de partida. No
 primeiro caso, essas partículas gasosas cresceriam por difusão dos gases do
 meio circunjacente para seu interior.
 
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-052.jpg)
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-059.jpg)
 
 
                                                                                                                     65
@@ -1008,6 +1026,9 @@ combatido precocemente
 
 Para Fins de Tratamento da Doença Descompressiva é Dividido em:
 
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-061.png)
+
+
                                                                                                                     68
 Doença Descompressiva Tipo I - Doença descompressiva onde os sintomas
 são percebidos como de origem não neurológica, com sintomas como
@@ -1049,9 +1070,6 @@ a subida. E a DD são bolhas de nitrogênio nos vasos sangüíneos, causada por
 falta de descompressão adequada quando o mergulhador esta retomando a
 superfície.
 
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-051.png)
-
-
 CONDUTA COM PACIENTES ACIDENTADOS
 
 NO FUNDO - Caso o mergulhador esteja inconsciente e com parada
@@ -1068,6 +1086,9 @@ DD deve obedecer ao seguinte procedimento:
 
     Deitado de bruços, levemente virado sobre o lado esquerdo.
     Administre O2 puro.
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-062.png)
+
 
                                                                                                                     70
 PROCEDIMENTOS APÓS A CONDUTA NA SUPERFÍCIE
@@ -1595,22 +1616,4 @@ essa hipótese.”
 
                                                                                                                     84
 
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-062.png)
-
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-061.png)
-
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-059.jpg)
-
-
 ![](/assets/content/curso_mergulho_autonomo_basico/img/img-055.png)
-
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-053.png)
-
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-048.jpg)
-
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-047.jpg)

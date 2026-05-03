@@ -29,6 +29,9 @@ GASOSO: Forma e volume indefinidos adquirem a forma e o volume do
 recipiente que os contém. São compressíveis (diminuem de volume com o
 aumento da pressão).
 
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-020.png)
+
+
                                                                                                                     25
 O ar atmosférico por nós respirado durante o mergulho é, uma mistura
 gasosa que, em condições hiperbáricas, tem comportamento diferente
@@ -126,6 +129,9 @@ reduzido a metade do volume inicial (5 litros).
                            A 30 m será de 1/4
                            A 40 m será de 1/5
 
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-024.png)
+
+
                                                                                                                     28
 Ao contrario se subirmos com uma bola de 10 litros, dos dez metros de
 profundidade até a superfície, lá ela terá volume dobrado (20 litros).
@@ -148,6 +154,12 @@ Equação Geral dos Gases
 Quando temos certo volume de gás a uma temperatura e pressão, e fazemos
 com que todas estas variáveis se alterem, é a combinação da Lei de Boyle
 com a Lei de Charles o que pode se enunciar:
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-025.jpg)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-026.jpg)
+
 
                                                                                                                     29
 "Quando uma quantidade de gás suporta uma variação de pressão e /ou
@@ -182,6 +194,12 @@ mar.
 
  sozinho o volume global de mistura: a pressão total da mistura é a soma
          das pressões parciais dos diferentes gases que a compõem”
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-027.jpg)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-028.png)
+
 
                                                                                                                     30
 Pp X (O2) +  Pp Y (N2) = P mistura X+Y(Ar)
@@ -262,6 +280,15 @@ Obs.: Supersaturação crítica é o nível
 máximo que um líquido pode admitir
 antes da liberação espontânea do gás
 em formas de bolhas (macro bolhas)
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-034.png)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-035.png)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-036.jpg)
+
 
 4.4 - UNIDADES DE EQUIVALÊNCIA PADRÃO
 
@@ -423,6 +450,9 @@ condições físicas, temperatura da água, esforço físico, etc.).
 
 Cálculo do Consumo em Relação à Profundidade
 
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-041.png)
+
+
 Para calcularmos o consumo de ar do mergulhador em diferentes
 profundidades basta multiplicar-mos o consumo ao nível do mar pela
 pressão ambiente absoluta.
@@ -510,6 +540,9 @@ superfície plana de separação entre a água e o ar, como a placa de vidro de
 uma máscara ou um aquário, possui o efeito de ampliar tudo o que vemos em
 33%. Um peixe visto a três metros de distância parece estar apenas a dois
 
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-043.jpg)
+
+
                                                                                                                     40
 metros, e dá a impressão de ser do tamanho que você esperaria se estivesse a
 dois metros. Os problemas adicionais na visão submarina incluem a visão
@@ -530,6 +563,9 @@ consegue saber de onde ele está vindo.
 Nesta situação um mergulhador em apnéia no fundo é obrigado a uma difícil
 decisão: terá fôlego para esperar a embarcação passar ou sobe
 
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-044.png)
+
+
                                                                                                                     41
 imediatamente, para escapar de sua rota.
 Quando em apnéia, para aumentar sua segurança e marcar sua presença,
@@ -537,46 +573,10 @@ deve rebocar uma bóia, de preferência com uma bandeira. Mesmo que um
 “lancheiro” ignore seu significado, vai se manter afastado para evitar um
 enrosco em seu hélice.
 
-                                                                                                                    42
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-046.jpg)
-
-
 ![](/assets/content/curso_mergulho_autonomo_basico/img/img-045.png)
 
 
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-044.png)
-
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-043.jpg)
-
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-041.png)
-
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-034.png)
-
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-035.png)
-
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-036.jpg)
-
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-027.jpg)
-
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-028.png)
-
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-025.jpg)
-
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-026.jpg)
-
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-024.png)
-
+                                                                                                                    42
 
 ![](/assets/content/curso_mergulho_autonomo_basico/img/img-021.png)
 
@@ -585,6 +585,3 @@ enrosco em seu hélice.
 
 
 ![](/assets/content/curso_mergulho_autonomo_basico/img/img-023.png)
-
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-020.png)

@@ -222,14 +222,25 @@ export default function ChapterReader() {
                   h2: ({ children }) => <h2 id={slugify(String(children))}>{children}</h2>,
                   h3: ({ children }) => <h3 id={slugify(String(children))}>{children}</h3>,
                   h4: ({ children }) => <h4 id={slugify(String(children))}>{children}</h4>,
+                  // Evita <figure> dentro de <p> (HTML inválido → erro React)
+                  // Se o parágrafo contém APENAS uma imagem, renderiza como div neutro
+                  p: ({ node, children }) => {
+                    const kids = node?.children ?? []
+                    const isImgOnly =
+                      kids.length === 1 &&
+                      kids[0].type === 'element' &&
+                      (kids[0] as { tagName?: string }).tagName === 'img'
+                    if (isImgOnly) return <div className="my-0">{children}</div>
+                    return <p>{children}</p>
+                  },
                   img: ({ src, alt }) => (
-                    <figure className="my-8">
+                    <figure className="my-6 flex flex-col items-center">
                       <img
                         src={src} alt={alt ?? ''}
                         className="rounded-xl max-w-full mx-auto shadow-md"
                         loading="lazy"
                       />
-                      {alt && alt !== 'Figura do capítulo' && !alt.startsWith('Figura do cap') && (
+                      {alt && alt.trim() !== '' && (
                         <figcaption className="text-center text-xs text-ink-400 mt-2 italic">{alt}</figcaption>
                       )}
                     </figure>

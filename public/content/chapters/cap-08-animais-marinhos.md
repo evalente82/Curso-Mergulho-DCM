@@ -46,6 +46,12 @@ capacidade de se mimetizar com as pedras,
 possui uma aparência que não muito agradável;
 além de feio, é perigoso. Os lados e o focinho
 
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-084.jpg)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-085.jpg)
+
+
                      105
 são cobertos por espinhos e dobras de pele. Os primeiros raios de suas
 barbatanas anais e dorsais possuem ferrões venenosos. As glândulas
@@ -91,6 +97,12 @@ vivendo em todos os mares quentes. Seu corpo cilíndrico tem somente duas
 Escondida numa fendas de rocha, a moréia fica à espera de sua vítima. Ela
 tem excelente olfato e seu alimento favorito são os moluscos.
 
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-086.png)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-087.png)
+
+
                                                                                                                   106
 Serpentes Marinhas
 
@@ -134,6 +146,9 @@ Raia é o nome genérico dos peixes da ordem dos Rajiformes. Há dois
                                    como a águia-do-mar, as raias-chitas, que são
                                    raias pequenas com espinhos laterais na cauda,
                                    e a raia-lisa, cuja cauda produz uma carga
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-088.png)
+
 
                                                                                                                   107
 elétrica bem fraca.
@@ -223,18 +238,3 @@ peixinhos.
 
 
 ![](/assets/content/curso_mergulho_autonomo_basico/img/img-091.png)
-
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-088.png)
-
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-086.png)
-
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-087.png)
-
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-084.jpg)
-
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-085.jpg)

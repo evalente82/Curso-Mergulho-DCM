@@ -277,6 +277,15 @@ menores) deve estar acima do mergulhador.
 ![](/assets/content/curso_mergulho_autonomo_basico/img/img-063.jpg)
 
 
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-079.png)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-080.png)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-081.jpg)
+
+
                                                                                                                   100
 OUTROS PROCEDIMENTOS DE MERGULHO
 
@@ -322,6 +331,9 @@ sem bebida alcoólica.
 - Não fume, se fumar antes de mergulhar, terá 7% de suas hemácias (células
 que transportam oxigênio) transportando CO (monóxido de carbono). Isto
 
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-064.png)
+
+
                                                                                                                   101
 acarretará numa grande diminuição em sua capacidade respiratória.
 - Programe o mergulho com seu dupla antes de entrar na água.
@@ -343,15 +355,6 @@ tipo: dor de cabeça, câimbras, etc.
 103
 104
 
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-079.png)
-
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-080.png)
-
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-081.jpg)
-
-
 ![](/assets/content/curso_mergulho_autonomo_basico/img/img-067.png)
 
 
@@ -359,6 +362,3 @@ tipo: dor de cabeça, câimbras, etc.
 
 
 ![](/assets/content/curso_mergulho_autonomo_basico/img/img-065.jpg)
-
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-064.png)
