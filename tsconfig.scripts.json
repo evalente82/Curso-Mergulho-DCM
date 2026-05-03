@@ -6,6 +6,7 @@
     "strict": true,
     "outDir": "dist-scripts",
     "resolveJsonModule": true
+    ,"types": ["node"]
   },
   "include": ["scripts/**/*"]
 }

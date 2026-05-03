@@ -2,4 +2,33 @@
 @tailwind components;
 @tailwind utilities;
 
-html, body, #root { height: 100%; }
+@layer base {
+  html { scroll-behavior: smooth; }
+  html, body, #root { height: 100%; }
+
+  /* Fonte de leitura confortável para o Reader */
+  .font-reading {
+    font-family: Georgia, Cambria, "Times New Roman", Times, serif;
+  }
+
+  /* Scrollbar fina estilo iOS */
+  ::-webkit-scrollbar { width: 4px; height: 4px; }
+  ::-webkit-scrollbar-track { background: transparent; }
+  ::-webkit-scrollbar-thumb { background: #94a3b8; border-radius: 9999px; }
+}
+
+@layer components {
+  .btn-primary {
+    @apply inline-flex items-center gap-2 rounded-xl bg-ocean-600 px-5 py-2.5 text-sm font-semibold text-white
+           shadow-sm hover:bg-ocean-700 active:scale-95 transition-all duration-150;
+  }
+  .btn-ghost {
+    @apply inline-flex items-center gap-2 rounded-xl px-4 py-2 text-sm font-medium text-ink-600
+           hover:bg-ink-100 active:scale-95 transition-all duration-150;
+  }
+  .card {
+    @apply rounded-2xl bg-white border border-ink-100 shadow-sm hover:shadow-md
+           transition-shadow duration-200;
+  }
+}
+
