@@ -50,6 +50,8 @@ produção de células imunes.
 
 5.1.a - APARELHO CIRCULATÓRIO
 
+![float-right](/assets/content/curso_mergulho_autonomo_basico/img/fisiologia_comunicacao_fossas_tecidos_face.jpg)
+
 A circulação do sangue
 
 é o movimento
@@ -395,9 +397,6 @@ pressão exterior, o que é possível pela sua comunicação com as fossas
 nasais. Caso contrário, a pressão relativamente menor no interior da máscara
 transformará esta numa verdadeira ventosa causando lesões ao redor do
 globo ocular e nos tecidos da face.
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/fisiologia_comunicacao_fossas_tecidos_face.jpg)
-
 
 Expansão do Estômago e Intestinos
 É proveniente da expansão dos gases deglutidos durante o mergulho quando

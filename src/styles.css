@@ -70,5 +70,39 @@
     @apply rounded-2xl bg-white border border-ink-100 shadow-sm hover:shadow-md
            transition-shadow duration-200;
   }
+
+  /* ── Proteção de conteúdo ── */
+  /* Impede seleção de texto no leitor */
+  .prose {
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+  }
+  /* Impede arrastar imagens */
+  .prose img {
+    -webkit-user-drag: none;
+    user-drag: none;
+    pointer-events: none;
+  }
+}
+
+/* ── Bloqueio total na impressão / captura via browser ── */
+@media print {
+  body * { visibility: hidden !important; }
+  body::after {
+    visibility: visible !important;
+    position: fixed;
+    inset: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 2rem;
+    font-weight: bold;
+    color: #1e293b;
+    content: "© Defesa Civil Maricá — Uso interno. Reprodução proibida.";
+    background: white;
+    z-index: 99999;
+  }
 }
 

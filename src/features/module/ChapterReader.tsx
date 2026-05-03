@@ -214,6 +214,9 @@ export default function ChapterReader() {
               transition={{ duration: .35, ease: [.16,1,.3,1] }}
               className="prose prose-ocean max-w-none font-reading break-words overflow-hidden"
               style={{ fontSize, lineHeight: 1.85 }}
+              onContextMenu={(e) => e.preventDefault()}
+              onCopy={(e) => e.preventDefault()}
+              onCut={(e) => e.preventDefault()}
             >
               <ReactMarkdown
                 remarkPlugins={[remarkGfm]}
@@ -233,19 +236,37 @@ export default function ChapterReader() {
                     if (isImgOnly) return <div className="my-0">{children}</div>
                     return <p>{children}</p>
                   },
-                  img: ({ src, alt }) => (
-                    <figure className="my-6 flex flex-col items-center">
-                      <img
-                        src={src} alt={alt ?? ''}
-                        className="rounded-xl max-w-full w-auto h-auto mx-auto shadow-md"
-                        loading="lazy"
-                        style={{ maxWidth: '100%' }}
-                      />
-                      {alt && alt.trim() !== '' && (
-                        <figcaption className="text-center text-xs text-ink-400 mt-2 italic">{alt}</figcaption>
-                      )}
-                    </figure>
-                  ),
+                  img: ({ src, alt }) => {
+                    // Layout float-right: imagem à direita, texto flui à esquerda
+                    if (alt === 'float-right') {
+                      return (
+                        <span
+                          className="float-right clear-right ml-5 mb-4 block"
+                          style={{ maxWidth: 'min(260px, 45%)' }}
+                        >
+                          <img
+                            src={src} alt=""
+                            className="rounded-xl w-full h-auto shadow-md"
+                            loading="lazy"
+                          />
+                        </span>
+                      )
+                    }
+                    // Layout padrão: centralizado
+                    return (
+                      <figure className="my-6 flex flex-col items-center clear-both">
+                        <img
+                          src={src} alt={alt ?? ''}
+                          className="rounded-xl max-w-full w-auto h-auto mx-auto shadow-md"
+                          loading="lazy"
+                          style={{ maxWidth: '100%' }}
+                        />
+                        {alt && alt.trim() !== '' && (
+                          <figcaption className="text-center text-xs text-ink-400 mt-2 italic">{alt}</figcaption>
+                        )}
+                      </figure>
+                    )
+                  },
                   // Tabelas — scroll horizontal isolado no bloco, nunca na página
                   table: ({ children }) => (
                     <div className="overflow-x-auto w-full my-6 rounded-xl border border-ink-200">
