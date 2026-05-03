@@ -88,12 +88,20 @@ export default function ChapterReader() {
 
   // ── Progresso de scroll ───────────────────────────────────────────────────
   useEffect(() => {
-    const onScroll = () => {
-      const total = document.documentElement.scrollHeight - window.innerHeight
-      setProgress(total > 0 ? Math.round((window.scrollY / total) * 100) : 0)
+    const calcProgress = () => {
+      // Suporte cross-browser: some mobile browsers usam body.scrollTop
+      const scrollY = window.scrollY ?? window.pageYOffset ?? document.documentElement.scrollTop ?? 0
+      const total   = (document.documentElement.scrollHeight - document.documentElement.clientHeight)
+      setProgress(total > 0 ? Math.min(100, Math.round((scrollY / total) * 100)) : 0)
     }
-    window.addEventListener('scroll', onScroll, { passive: true })
-    return () => window.removeEventListener('scroll', onScroll)
+    // Dispara imediatamente ao montar (garante 0% correto)
+    calcProgress()
+    window.addEventListener('scroll', calcProgress, { passive: true })
+    window.addEventListener('resize', calcProgress, { passive: true })
+    return () => {
+      window.removeEventListener('scroll', calcProgress)
+      window.removeEventListener('resize', calcProgress)
+    }
   }, [md])
 
   // ── IntersectionObserver → TOC ativo ──────────────────────────────────────
@@ -138,7 +146,7 @@ export default function ChapterReader() {
   return (
     <div className={fullscreen ? 'fixed inset-0 z-50 bg-white overflow-auto' : 'relative'}>
 
-      {/* ── Barra de progresso ── */}
+      {/* ── Barra de progresso — topo da tela, z acima do navbar ── */}
       <div className="fixed top-0 left-0 right-0 z-50 h-1 bg-ink-100 pointer-events-none">
         <motion.div
           className="h-full bg-ocean-500"
@@ -172,9 +180,21 @@ export default function ChapterReader() {
             )}
           </div>
 
-          <span className="text-xs text-ink-400 font-medium tabular-nums hidden md:block shrink-0">
-            {progress}% lido
-          </span>
+          {/* Progresso com mini-barra — visível em TODAS as telas */}
+          <div className="flex items-center gap-2 shrink-0">
+            <div className="flex flex-col items-end gap-0.5">
+              <span className="text-xs text-ink-400 font-medium tabular-nums leading-none">
+                {progress}% lido
+              </span>
+              <div className="w-20 h-1 rounded-full bg-ink-100 overflow-hidden">
+                <motion.div
+                  className="h-full bg-ocean-500 rounded-full"
+                  animate={{ width: `${progress}%` }}
+                  transition={{ ease: 'linear', duration: .1 }}
+                />
+              </div>
+            </div>
+          </div>
 
           <div className="flex items-center gap-1 shrink-0">
             <button onClick={() => setFontSize(s => Math.max(13, s - 1))} className="btn-ghost py-1.5 px-2" aria-label="Menor">
