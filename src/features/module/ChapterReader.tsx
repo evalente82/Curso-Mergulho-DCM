@@ -89,29 +89,30 @@ export default function ChapterReader() {
   // ── Progresso de scroll ───────────────────────────────────────────────────
   useEffect(() => {
     const calcProgress = () => {
-      // Suporte total cross-browser (Safari iOS, Chrome Android, Firefox)
-      // Quando html/body tem height:100%, o scroll pode estar no document ou no body
+      // Com html/body/root { height:100% }, o scroll fica no document.documentElement.
+      // Verificamos todas as fontes possíveis em ordem de prioridade.
       const scrollY =
-        window.pageYOffset ??
-        document.documentElement.scrollTop ??
-        document.body.scrollTop ??
+        document.documentElement.scrollTop ||
+        document.body.scrollTop            ||
+        window.pageYOffset                 ||
         0
 
-      const docH = Math.max(
-        document.body.scrollHeight        ?? 0,
-        document.body.offsetHeight        ?? 0,
-        document.documentElement.scrollHeight ?? 0,
-        document.documentElement.offsetHeight ?? 0
-      )
-      const viewH = window.innerHeight || document.documentElement.clientHeight
-      const total = docH - viewH
+      const scrollH =
+        document.documentElement.scrollHeight ||
+        document.body.scrollHeight            ||
+        0
+      const clientH =
+        document.documentElement.clientHeight ||
+        window.innerHeight                    ||
+        0
 
+      const total = scrollH - clientH
       setProgress(total > 10 ? Math.min(100, Math.round((scrollY / total) * 100)) : 0)
     }
 
     calcProgress()
 
-    // Escuta em TODOS os alvos possíveis — mobile Safari dispara em `document`
+    // Escuta em window, document E document.documentElement para cobrir todos os browsers
     window.addEventListener('scroll',   calcProgress, { passive: true })
     document.addEventListener('scroll', calcProgress, { passive: true })
     window.addEventListener('resize',   calcProgress, { passive: true })

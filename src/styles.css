@@ -7,8 +7,7 @@
     scroll-behavior: smooth;
     overflow-x: hidden;        /* nunca scroll lateral na página */
   }
-  /* NÃO definir height:100% em html/body/#root — isso faz o scroll
-     acontecer no body em vez de window, quebrando window.pageYOffset no Safari/mobile */
+  html, body, #root { height: 100%; }
   body {
     overflow-x: hidden;
     word-break: break-word;
