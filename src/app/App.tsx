@@ -3,8 +3,9 @@ import '../styles.css'
 import { motion, AnimatePresence } from 'framer-motion'
 import { BrowserRouter, Routes, Route, Link, useLocation, useNavigate } from 'react-router-dom'
 import { Waves, BookOpen, Search, Menu, X } from 'lucide-react'
-import ContentReader from '../features/content/ContentReader'
 import ContentSearch from '../features/content/ContentSearch'
+import ModulePage from '../features/module/ModulePage'
+import ChapterReader from '../features/module/ChapterReader'
 
 // ─── Tipos ────────────────────────────────────────────────────────────────────
 export type ContentItem = {
@@ -23,24 +24,15 @@ const pageVariants = {
 
 // ─── App Root ─────────────────────────────────────────────────────────────────
 export default function App() {
-  const [items, setItems] = useState<ContentItem[]>([])
-
-  useEffect(() => {
-    fetch('/content/index.json')
-      .then(r => r.json())
-      .then(j => setItems(j.items ?? []))
-      .catch(() => setItems([]))
-  }, [])
-
   return (
     <BrowserRouter>
-      <AppShell items={items} />
+      <AppShell />
     </BrowserRouter>
   )
 }
 
 // ─── Shell (Navbar + rotas animadas) ─────────────────────────────────────────
-function AppShell({ items }: { items: ContentItem[] }) {
+function AppShell() {
   const location = useLocation()
   const [menuOpen, setMenuOpen] = useState(false)
 
@@ -58,7 +50,7 @@ function AppShell({ items }: { items: ContentItem[] }) {
           <nav className="hidden sm:flex items-center gap-1">
             <NavLink to="/">Início</NavLink>
             <NavLink to="/busca">Busca</NavLink>
-            <Link to="/ler/curso_mergulho_autonomo_basico" className="btn-primary ml-3 py-1.5 text-xs">
+            <Link to="/modulo/curso_mergulho_autonomo_basico" className="btn-primary ml-3 py-1.5 text-xs">
               <BookOpen className="w-4 h-4" /> Ler Apostila
             </Link>
           </nav>
@@ -86,7 +78,7 @@ function AppShell({ items }: { items: ContentItem[] }) {
               <div className="flex flex-col gap-1 px-4 py-3">
                 <MobileNavLink to="/" onClick={() => setMenuOpen(false)}>Início</MobileNavLink>
                 <MobileNavLink to="/busca" onClick={() => setMenuOpen(false)}>Busca</MobileNavLink>
-                <MobileNavLink to="/ler/curso_mergulho_autonomo_basico" onClick={() => setMenuOpen(false)}>
+                <MobileNavLink to="/modulo/curso_mergulho_autonomo_basico" onClick={() => setMenuOpen(false)}>
                   Ler Apostila
                 </MobileNavLink>
               </div>
@@ -99,9 +91,10 @@ function AppShell({ items }: { items: ContentItem[] }) {
       <main className="flex-1">
         <AnimatePresence mode="wait">
           <Routes location={location} key={location.pathname}>
-            <Route path="/"        element={<PageWrapper><HomePage items={items} /></PageWrapper>} />
-            <Route path="/busca"   element={<PageWrapper><BuscaPage items={items} /></PageWrapper>} />
-            <Route path="/ler/:id" element={<PageWrapper><ContentReader /></PageWrapper>} />
+            <Route path="/"                          element={<PageWrapper><HomePage items={[]} /></PageWrapper>} />
+            <Route path="/busca"                     element={<PageWrapper><BuscaPage /></PageWrapper>} />
+            <Route path="/modulo/:moduleId"          element={<PageWrapper><ModulePage /></PageWrapper>} />
+            <Route path="/modulo/:moduleId/:chapterId" element={<ChapterReader />} />
           </Routes>
         </AnimatePresence>
       </main>
@@ -141,14 +134,21 @@ function MobileNavLink({ to, children, onClick }: { to: string; children: React.
 }
 
 // ─── Página Inicial (Dashboard Hero) ─────────────────────────────────────────
-function HomePage({ items }: { items: ContentItem[] }) {
+function HomePage({ items: _items }: { items: unknown[] }) {
   const navigate = useNavigate()
+  const [mod, setMod] = useState<{ id: string; title: string; subtitle?: string; chapters: { id: string; title: string; description: string; icon: string; imageCount?: number; number: number }[] } | null>(null)
+
+  useEffect(() => {
+    fetch('/content/index.json')
+      .then(r => r.json())
+      .then(idx => setMod(idx.modules?.[0] ?? null))
+      .catch(() => {})
+  }, [])
 
   return (
     <div className="max-w-5xl mx-auto px-4 py-8 space-y-10">
       {/* Hero */}
       <section className="relative overflow-hidden rounded-3xl bg-gradient-to-br from-ocean-800 to-ocean-950 text-white p-8 md:p-12">
-        {/* círculos decorativos */}
         <div className="absolute -top-10 -right-10 w-52 h-52 rounded-full bg-ocean-600/20 blur-2xl pointer-events-none" />
         <div className="absolute -bottom-8 -left-8 w-40 h-40 rounded-full bg-ocean-400/10 blur-2xl pointer-events-none" />
 
@@ -169,11 +169,8 @@ function HomePage({ items }: { items: ContentItem[] }) {
             Estude offline, em qualquer dispositivo.
           </p>
           <div className="flex flex-wrap gap-3">
-            <button
-              onClick={() => navigate('/ler/curso_mergulho_autonomo_basico')}
-              className="btn-primary"
-            >
-              <BookOpen className="w-4 h-4" /> Começar a Ler
+            <button onClick={() => navigate('/modulo/curso_mergulho_autonomo_basico')} className="btn-primary">
+              <BookOpen className="w-4 h-4" /> Ver Módulos
             </button>
             <button
               onClick={() => navigate('/busca')}
@@ -186,21 +183,46 @@ function HomePage({ items }: { items: ContentItem[] }) {
         </motion.div>
       </section>
 
-      {/* Cards de módulos */}
-      <section>
-        <h2 className="text-lg font-bold text-ink-700 mb-4">Módulos disponíveis</h2>
-        <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
-          {items.length === 0
-            ? Array.from({ length: 3 }).map((_, i) => (
-                <div key={i} className="card h-36 animate-pulse bg-ink-100" />
-              ))
-            : items.map((item, i) => (
-                <ModuleCard key={item.id} item={item} index={i} />
-              ))}
-        </div>
-      </section>
+      {/* Cards de capítulos */}
+      {mod && (
+        <section>
+          <div className="flex items-center justify-between mb-4">
+            <h2 className="text-lg font-bold text-ink-700">{mod.title}</h2>
+            <button
+              onClick={() => navigate('/modulo/curso_mergulho_autonomo_basico')}
+              className="text-xs text-ocean-600 font-semibold hover:underline"
+            >
+              Ver todos →
+            </button>
+          </div>
+          <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
+            {mod.chapters.slice(0, 6).map((chap, i) => (
+              <motion.button
+                key={chap.id}
+                initial={{ opacity: 0, y: 16 }}
+                animate={{ opacity: 1, y: 0 }}
+                transition={{ delay: i * .07, duration: .35, ease: [.16,1,.3,1] }}
+                onClick={() => navigate(`/modulo/curso_mergulho_autonomo_basico/${chap.id}`)}
+                className="card p-5 text-left flex flex-col gap-3 group hover:border-ocean-300 hover:shadow-md transition-all active:scale-[.98]"
+              >
+                <div className="flex items-start justify-between">
+                  <span className="text-2xl">{chap.icon}</span>
+                  <span className="text-xs font-bold text-ink-300 bg-ink-100 rounded-lg px-2 py-0.5">
+                    {String(chap.number).padStart(2,'0')}
+                  </span>
+                </div>
+                <div>
+                  <p className="font-bold text-sm text-ink-900 mb-0.5 group-hover:text-ocean-700 transition-colors line-clamp-1">{chap.title}</p>
+                  <p className="text-xs text-ink-500 line-clamp-2">{chap.description}</p>
+                </div>
+                <span className="text-xs text-ocean-600 font-semibold self-end">Ler →</span>
+              </motion.button>
+            ))}
+          </div>
+        </section>
+      )}
 
-      {/* Destaques / badges */}
+      {/* Destaques */}
       <section className="grid grid-cols-2 sm:grid-cols-4 gap-4">
         {[
           { icon: '🌊', label: 'Mergulho Autônomo' },
@@ -218,45 +240,25 @@ function HomePage({ items }: { items: ContentItem[] }) {
   )
 }
 
-// ─── Card de módulo ───────────────────────────────────────────────────────────
-function ModuleCard({ item, index }: { item: ContentItem; index: number }) {
-  const navigate = useNavigate()
-  return (
-    <motion.div
-      initial={{ opacity: 0, y: 16 }}
-      animate={{ opacity: 1, y: 0 }}
-      transition={{ delay: index * .07, duration: .35, ease: [.16,1,.3,1] }}
-      className="card p-5 cursor-pointer group"
-      onClick={() => navigate(`/ler/${item.id}`)}
-    >
-      <div className="flex items-start gap-3">
-        <div className="w-10 h-10 rounded-xl bg-ocean-100 flex items-center justify-center shrink-0
-                        group-hover:bg-ocean-200 transition-colors">
-          <BookOpen className="w-5 h-5 text-ocean-600" />
-        </div>
-        <div className="min-w-0">
-          <h3 className="font-semibold text-sm text-ink-900 line-clamp-2 leading-snug mb-1">
-            {item.title}
-          </h3>
-          {item.excerpt && (
-            <p className="text-xs text-ink-500 line-clamp-2 leading-relaxed">{item.excerpt}</p>
-          )}
-        </div>
-      </div>
-      <div className="mt-4 flex items-center justify-between">
-        {item.tags?.length ? (
-          <span className="text-xs text-ocean-600 bg-ocean-50 px-2 py-0.5 rounded-full font-medium">
-            {item.tags[0]}
-          </span>
-        ) : <span />}
-        <span className="text-xs text-ocean-600 font-semibold group-hover:underline">Ler →</span>
-      </div>
-    </motion.div>
-  )
-}
-
 // ─── Página de busca ──────────────────────────────────────────────────────────
-function BuscaPage({ items }: { items: ContentItem[] }) {
+function BuscaPage() {
+  const [items, setItems] = useState<ContentItem[]>([])
+
+  useEffect(() => {
+    fetch('/content/index.json')
+      .then(r => r.json())
+      .then(idx => {
+        // Monta lista de busca a partir dos capítulos
+        const chapters = idx.modules?.[0]?.chapters ?? []
+        setItems(chapters.map((c: { id: string; moduleId: string; title: string; description: string }) => ({
+          id: `${c.moduleId}/${c.id}`,
+          title: c.title,
+          excerpt: c.description,
+        })))
+      })
+      .catch(() => {})
+  }, [])
+
   return (
     <div className="max-w-3xl mx-auto px-4 py-8">
       <h1 className="text-2xl font-bold text-ink-800 mb-6 flex items-center gap-2">

@@ -61,7 +61,10 @@ export default function ContentSearch({ items }: { items: ContentItem[] }) {
                 transition={{ delay: i * .05 }}
               >
                 <button
-                  onClick={() => navigate(`/ler/${item.id}`)}
+                  onClick={() => {
+                    const [modId, chapId] = item.id.split('/')
+                    navigate(chapId ? `/modulo/${modId}/${chapId}` : `/modulo/${modId}`)
+                  }}
                   className="w-full card p-4 text-left flex items-start gap-3 hover:bg-ocean-50 transition-colors"
                 >
                   <BookOpen className="w-5 h-5 text-ocean-500 mt-0.5 shrink-0" />

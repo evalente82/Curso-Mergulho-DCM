@@ -9,7 +9,8 @@
     "typecheck": "tsc --noEmit",
     "format": "prettier --write \"src/**/*.{ts,tsx,js,jsx,json,md}\"",
     "lint": "eslint . --ext .ts,.tsx --report-unused-disable-directives --max-warnings 0",
-    "build-content": "ts-node --project tsconfig.scripts.json scripts/build-content.ts"
+    "build-content": "ts-node --project tsconfig.scripts.json scripts/build-content.ts",
+    "split-chapters": "node scripts/split-chapters.js"
   },
   "dependencies": {
     "axios": "^1.4.0",
