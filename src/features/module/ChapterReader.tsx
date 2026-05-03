@@ -22,6 +22,43 @@ function slugify(text: string) {
 
 type TocEntry = { id: string; text: string; level: number }
 
+// ── Pré-processa o markdown vindo dos capítulos ────────────────────────────
+// 1. Remove linhas de marcador de imagem [nome.jpg] que não foram convertidas
+// 2. Converte títulos de texto puro em headings markdown (#/##/###)
+//    para que apareçam no TOC e recebam estilo de título
+function preprocessMarkdown(raw: string): string {
+  // Padrões de título reconhecidos no material:
+  //   "5.1.a - APARELHO CIRCULATÓRIO"  → ### (subtítulo com letra)
+  //   "4.2 - LEI DE BOYLE"             → ## (subtítulo numérico)
+  //   "Fisiologia do mergulho  5"       → # (título do capítulo)
+  //   "EQUIPAMENTO BÁSICO"             → ## (tudo maiúsculo curto)
+  const SECTION_RE   = /^(\d+\.\d+[a-z]?\s*[-–]\s*.{3,60})\s*$/       // 5.1 - Titulo
+  const SUBSECT_RE   = /^(\d+\.\d+\.[a-z]\s*[-–]\s*.{3,60})\s*$/      // 5.1.a - Titulo
+  const ALLCAPS_RE   = /^([A-ZÁÀÂÃÉÈÊÍÌÎÓÒÔÕÚÙÛÇ][A-ZÁÀÂÃÉÈÊÍÌÎÓÒÔÕÚÙÛÇ\s\-\/()]{4,60})$/
+  const MARKER_RE    = /^\s*\[[\w\-]+\.(jpg|jpeg|png|gif|webp)\]\s*$/i // [nome.jpg] orphan
+
+  return raw.split('\n').map(line => {
+    // 1. Apaga marcadores órfãos de imagem
+    if (MARKER_RE.test(line)) return ''
+
+    // Já é um heading markdown → deixa como está
+    if (line.startsWith('#')) return line
+
+    const trimmed = line.trimEnd()
+
+    // 2. Subtítulo com letra: "5.1.a - ..."
+    if (SUBSECT_RE.test(trimmed)) return `### ${trimmed}`
+
+    // 3. Seção numerada: "4.2 - ..."
+    if (SECTION_RE.test(trimmed) && !SUBSECT_RE.test(trimmed)) return `## ${trimmed}`
+
+    // 4. Tudo maiúsculo (ex: "APARELHO CIRCULATÓRIO", "EQUIPAMENTO BÁSICO")
+    if (ALLCAPS_RE.test(trimmed) && trimmed === trimmed.toUpperCase()) return `## ${trimmed}`
+
+    return line
+  }).join('\n')
+}
+
 function extractToc(markdown: string): TocEntry[] {
   return markdown.split('\n')
     .flatMap(line => {
@@ -79,7 +116,7 @@ export default function ChapterReader() {
     fetch(assetUrl(`/content/chapters/${chapter.filename}`))
       .then(r => { if (!r.ok) throw new Error(); return r.text() })
       .then(text => {
-        const clean = text.replace(/^---[\s\S]*?---\n?/, '')
+        const clean = preprocessMarkdown(text.replace(/^---[\s\S]*?---\n?/, ''))
         setMd(clean)
         setToc(extractToc(clean))
       })
@@ -87,40 +124,39 @@ export default function ChapterReader() {
   }, [chapter])
 
   // ── Progresso de scroll ───────────────────────────────────────────────────
+  // Usa getBoundingClientRect() no article — não depende de scrollTop/scrollY,
+  // funciona independente de qual elemento CSS está scrollando (html/body/#root/etc.)
   useEffect(() => {
+    if (!md) return
+
     const calcProgress = () => {
-      // Com html/body/root { height:100% }, o scroll fica no document.documentElement.
-      // Verificamos todas as fontes possíveis em ordem de prioridade.
-      const scrollY =
-        document.documentElement.scrollTop ||
-        document.body.scrollTop            ||
-        window.pageYOffset                 ||
-        0
+      const article = articleRef.current
+      if (!article) return
 
-      const scrollH =
-        document.documentElement.scrollHeight ||
-        document.body.scrollHeight            ||
-        0
-      const clientH =
-        document.documentElement.clientHeight ||
-        window.innerHeight                    ||
-        0
+      const rect      = article.getBoundingClientRect()
+      const articleH  = article.offsetHeight
+      const viewH     = window.innerHeight || document.documentElement.clientHeight
 
-      const total = scrollH - clientH
-      setProgress(total > 10 ? Math.min(100, Math.round((scrollY / total) * 100)) : 0)
+      // Quantos px do artigo já passaram pelo topo da viewport
+      // (rect.top negativo significa que o topo saiu da tela = já rolamos para baixo)
+      const scrolled = Math.max(0, -rect.top)
+      // Total rolável = altura do artigo menos a viewport (deixamos o fim aparecer = 100%)
+      const total    = Math.max(1, articleH - viewH)
+
+      setProgress(Math.min(100, Math.round((scrolled / total) * 100)))
     }
 
     calcProgress()
 
-    // Escuta em window, document E document.documentElement para cobrir todos os browsers
-    window.addEventListener('scroll',   calcProgress, { passive: true })
-    document.addEventListener('scroll', calcProgress, { passive: true })
-    window.addEventListener('resize',   calcProgress, { passive: true })
+    window.addEventListener('scroll', calcProgress, { passive: true })
+    window.addEventListener('resize', calcProgress, { passive: true })
+    // Cobre casos onde o scroll está num elemento pai (iOS Safari, etc.)
+    document.addEventListener('scroll', calcProgress, { passive: true, capture: true })
 
     return () => {
-      window.removeEventListener('scroll',   calcProgress)
-      document.removeEventListener('scroll', calcProgress)
-      window.removeEventListener('resize',   calcProgress)
+      window.removeEventListener('scroll', calcProgress)
+      window.removeEventListener('resize', calcProgress)
+      document.removeEventListener('scroll', calcProgress, { capture: true } as any)
     }
   }, [md])
 
@@ -436,25 +472,40 @@ export default function ChapterReader() {
 function TocPanel({
   toc, activeId, onSelect
 }: { toc: TocEntry[]; activeId: string; onSelect: (id: string) => void }) {
-  return (
+  if (toc.length === 0) return (
     <nav aria-label="Índice">
       <p className="text-[10px] font-bold uppercase tracking-widest text-ink-400 mb-2 px-1">Neste capítulo</p>
+      <p className="text-xs text-ink-400 px-2">Nenhuma seção encontrada.</p>
+    </nav>
+  )
+
+  return (
+    <nav aria-label="Índice">
+      <p className="text-[10px] font-bold uppercase tracking-widest text-ink-400 mb-3 px-1">Neste capítulo</p>
       <ul className="space-y-0.5">
-        {toc.map(entry => (
-          <li key={entry.id}>
-            <button
-              onClick={() => onSelect(entry.id)}
-              className={`
-                w-full text-left flex items-center gap-1.5 rounded-lg px-2 py-1.5 text-xs transition-colors
-                ${entry.level === 1 ? 'font-bold' : entry.level === 2 ? 'font-semibold pl-4' : 'pl-6 text-ink-500'}
-                ${activeId === entry.id ? 'bg-ocean-50 text-ocean-700' : 'text-ink-600 hover:bg-ink-100'}
-              `}
-            >
-              {entry.level >= 3 && <ChevronRight className="w-3 h-3 shrink-0 text-ink-300" />}
-              <span className="line-clamp-2">{entry.text}</span>
-            </button>
-          </li>
-        ))}
+        {toc.map((entry, i) => {
+          const isActive = activeId === entry.id
+          const indent = entry.level === 1 ? '' : entry.level === 2 ? 'pl-3' : entry.level === 3 ? 'pl-6' : 'pl-8'
+          const weight = entry.level === 1 ? 'font-bold text-[11px]' : entry.level === 2 ? 'font-semibold text-[11px]' : 'font-normal text-[10.5px]'
+          const color  = isActive ? 'text-ocean-600 bg-ocean-50' : 'text-ink-600 hover:text-ocean-600 hover:bg-ink-50'
+
+          return (
+            <li key={`${entry.id}-${i}`} className="relative">
+              {/* Linha vertical da árvore para sub-itens */}
+              {entry.level > 1 && (
+                <span className="absolute left-[10px] top-0 bottom-0 w-px bg-ink-100" aria-hidden />
+              )}
+              <button
+                onClick={() => onSelect(entry.id)}
+                className={`w-full text-left flex items-center gap-1.5 rounded-lg px-2 py-1.5 transition-colors ${indent} ${weight} ${color}`}
+              >
+                {entry.level === 2 && <span className="shrink-0 w-1 h-1 rounded-full bg-current opacity-60 ml-0.5" />}
+                {entry.level >= 3 && <ChevronRight className="w-3 h-3 shrink-0 text-ink-300" />}
+                <span className="line-clamp-2 leading-tight">{entry.text}</span>
+              </button>
+            </li>
+          )
+        })}
       </ul>
     </nav>
   )
