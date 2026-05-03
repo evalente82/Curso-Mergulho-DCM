@@ -112,6 +112,9 @@ fantasiosa demais, além de impraticáveis. Em 1715, por exemplo, John
 Lethbridge descreveu sua caixa de couro com cavas em que alegava ter
 descido a “dez braças muitas centenas de vezes” - um feito impossível.
 
+![](/assets/content/curso_mergulho_autonomo_basico/img/historia-mergulho_feito_impossivel_feito_impossivel.jpg)
+
+
 Em 1715, um inventor inglês, John Lethbridge, projetou este implausível aparato blindado
 para mergulhos. Alegou ter descido a dez braças no tanque lacrado centenas de vezes - um
 feito impossível.
@@ -129,6 +132,9 @@ mergulhadores logo abandonaram os trajes de mergulho. Em vez disso,
 sentaram-se em câmaras de mergulho e orientaram manipuladores
 baixando-os da superfície para recuperar 95% do ouro transportado pelo S.S.
 Egypt.
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/historia-mergulho_verne_vinte_liberdade_curta.jpg)
+
 
                               Artefato de Rouquayrol e Denayrouze.
 
@@ -196,6 +202,9 @@ diante de seus olhos."
                                                                                                                      7
 Sistema desenvolvido por Emile Gagnan e Jaques-Yves Cousteau.
 
+![](/assets/content/curso_mergulho_autonomo_basico/img/historia-mergulho_pressao_camara_flui_valvula.jpg)
+
+
 Como funciona a válvula reguladora: A inalação reduz a pressão na câmara (A) por
 cima da membrana (B), fazendo-a levantar. A alavanca (C) ativada por essa membrana
 permite o fluxo de ar através da válvula de baixa pressão (D). Uma redução na pressão
@@ -207,7 +216,4 @@ pontilhadas).
                                                                                                                      8
 
 ---
-
-
-
 

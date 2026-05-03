@@ -275,6 +275,9 @@ internacionalmente.
 A bandeira é uma obrigação formal na presença de mergulhadores
 embarcados ou na água.
 
+![](/assets/content/curso_mergulho_autonomo_basico/img/equipamentos_valvulas_estagios_profundimetro_narguile.png)
+
+
                                                                                                                     15
 Equipamento Autônomo de Respiração Subaquático (Self-Contained
 Underwater Breathing Apparatus - SCUBA)
@@ -427,6 +430,15 @@ afetados pela diminuição de pressão no cilindro, como conseqüência não
 causam aumento gradativo no esforço respiratório, à medida que o cilindro
 esvazia.
 
+![](/assets/content/curso_mergulho_autonomo_basico/img/equipamento001.png)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/equipamentos_x_x.jpg)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/equipamentos_x_x.png)
+
+
                                                                                                                     19
 20
 Back Pack
@@ -454,6 +466,9 @@ O mergulho com respiração subaquática é o mergulho no qual respiramos
 abaixo da superfície das águas. Este tipo de mergulho pode ainda ser
 subdividido quanto ao tipo de equipamento ou quanto ao tipo de gás
 respirado.
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/Equipamentos_fluxograma.png)
+
 
  QUANTO AO         AUTÔNOMO    - Circuito aberto (Aqualung)
     TIPO DE        DEPENDENTE  - Circuito fechado (Rebreater
@@ -521,19 +536,11 @@ determinados gases se tornam tóxicos. A única maneira de evitar esse efeito
 indireto da pressão é diminuindo a porcentagem desses gases na mistura (ex.
 oxigênio e nitrogênio).
 
+![](/assets/content/curso_mergulho_autonomo_basico/img/Equipamentos_Tipos_de_Mergulho.png)
+
+
                                                                                                                     23
 24
 
 ---
-
-
-
-
-
-
-
-
-
-
-
 

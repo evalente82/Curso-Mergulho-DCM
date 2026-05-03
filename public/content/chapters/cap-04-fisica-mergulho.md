@@ -512,14 +512,3 @@ enrosco em seu hélice.
 
 ---
 
-
-
-
-
-
-
-
-
-
-
-

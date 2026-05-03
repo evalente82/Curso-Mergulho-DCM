@@ -304,8 +304,3 @@ tipo: dor de cabeça, câimbras, etc.
 
 ---
 
-
-
-
-
-

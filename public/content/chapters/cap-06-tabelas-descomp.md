@@ -310,9 +310,3 @@ geral considerar como mergulho em altitude aquele realizado sob uma
 
 ---
 
-
-
-
-
-
-
