@@ -125,6 +125,8 @@ fantasiosa demais, além de impraticáveis. Em 1715, por exemplo, John
 Lethbridge descreveu sua caixa de couro com cavas em que alegava ter
 descido a “dez braças muitas centenas de vezes” - um feito impossível.
 
+[historia-mergulho_feito_impossivel_feito_impossivel.jpg]
+
 Em 1715, um inventor inglês, John Lethbridge, projetou este implausível aparato blindado
 para mergulhos. Alegou ter descido a dez braças no tanque lacrado centenas de vezes - um
 feito impossível.
@@ -143,6 +145,7 @@ sentaram-se em câmaras de mergulho e orientaram manipuladores
 baixando-os da superfície para recuperar 95% do ouro transportado pelo S.S.
 Egypt.
 
+[historia-mergulho_verne_vinte_liberdade_curta.jpg]
                               Artefato de Rouquayrol e Denayrouze.
 
 Quatro anos antes da publicação do clássico de Júlio Verne, Vinte Mil
@@ -208,6 +211,8 @@ diante de seus olhos."
 
                                                                                                                      7
 Sistema desenvolvido por Emile Gagnan e Jaques-Yves Cousteau.
+
+[historia-mergulho_pressao_camara_flui_valvula.jpg]
 
 Como funciona a válvula reguladora: A inalação reduz a pressão na câmara (A) por
 cima da membrana (B), fazendo-a levantar. A alavanca (C) ativada por essa membrana
@@ -534,6 +539,8 @@ internacionalmente.
 A bandeira é uma obrigação formal na presença de mergulhadores
 embarcados ou na água.
 
+[equipamentos_valvulas_estagios_profundimetro_narguile.png]
+
                                                                                                                     15
 Equipamento Autônomo de Respiração Subaquático (Self-Contained
 Underwater Breathing Apparatus - SCUBA)
@@ -590,7 +597,7 @@ pressão de teste maior que a de trabalho (geralmente uma vez e meia)
 calculando desta forma a deformidade temporária e permanente do cilindro.
 E sujeita-lo a uma inspeção visual interna a cada ano.
 
-          CTC/DOT - 3AL - 3000 - 580 POOOO LUXFER 8A82
+[equipamentos_manutencao_preventiva_interna_cada_CILINDRO.png.png]
 
 CILINDRO DE ALUMÍNIO  CILINDRO DE AÇO CROMO
                                MOLIBDÊNIO
@@ -686,6 +693,9 @@ afetados pela diminuição de pressão no cilindro, como conseqüência não
 causam aumento gradativo no esforço respiratório, à medida que o cilindro
 esvazia.
 
+[equipamentos_x_x.png]
+[equipamentos_x_x.jpg]
+[equipamento001.png]
                                                                                                                     19
 20
 Back Pack
@@ -714,21 +724,7 @@ abaixo da superfície das águas. Este tipo de mergulho pode ainda ser
 subdividido quanto ao tipo de equipamento ou quanto ao tipo de gás
 respirado.
 
- QUANTO AO         AUTÔNOMO    - Circuito aberto (Aqualung)
-    TIPO DE        DEPENDENTE  - Circuito fechado (Rebreater
-                               fechado)
-EQUIPAMENTO                    - Circuito semi-fechado
-                               (Rebreater semi-fechado)
-
-                               - Narguile
-                               - Sino aberto (sinete)
-                               - Sino fechado
-
-QUANTO AO TIPO DE     RASO     - Realizado a cima de 40 m
-GÁS RESPIRADO EM   PROFUNDO
-                               - Realizado abaixo de 40 m
-      RELAÇÃO A                - Saturação
-  PROFUNDIDADE
+ [Equipamentos_fluxograma.png]
 
 Quanto ao tipo de equipamento
 
@@ -780,6 +776,7 @@ determinados gases se tornam tóxicos. A única maneira de evitar esse efeito
 indireto da pressão é diminuindo a porcentagem desses gases na mistura (ex.
 oxigênio e nitrogênio).
 
+[Equipamentos_Tipos_de_Mergulho.png]
                                                                                                                     23
 24
 Física aplicada ao mergulho 4

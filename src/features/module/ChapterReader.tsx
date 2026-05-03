@@ -89,18 +89,37 @@ export default function ChapterReader() {
   // ── Progresso de scroll ───────────────────────────────────────────────────
   useEffect(() => {
     const calcProgress = () => {
-      // Suporte cross-browser: some mobile browsers usam body.scrollTop
-      const scrollY = window.scrollY ?? window.pageYOffset ?? document.documentElement.scrollTop ?? 0
-      const total   = (document.documentElement.scrollHeight - document.documentElement.clientHeight)
-      setProgress(total > 0 ? Math.min(100, Math.round((scrollY / total) * 100)) : 0)
+      // Suporte total cross-browser (Safari iOS, Chrome Android, Firefox)
+      // Quando html/body tem height:100%, o scroll pode estar no document ou no body
+      const scrollY =
+        window.pageYOffset ??
+        document.documentElement.scrollTop ??
+        document.body.scrollTop ??
+        0
+
+      const docH = Math.max(
+        document.body.scrollHeight        ?? 0,
+        document.body.offsetHeight        ?? 0,
+        document.documentElement.scrollHeight ?? 0,
+        document.documentElement.offsetHeight ?? 0
+      )
+      const viewH = window.innerHeight || document.documentElement.clientHeight
+      const total = docH - viewH
+
+      setProgress(total > 10 ? Math.min(100, Math.round((scrollY / total) * 100)) : 0)
     }
-    // Dispara imediatamente ao montar (garante 0% correto)
+
     calcProgress()
-    window.addEventListener('scroll', calcProgress, { passive: true })
-    window.addEventListener('resize', calcProgress, { passive: true })
+
+    // Escuta em TODOS os alvos possíveis — mobile Safari dispara em `document`
+    window.addEventListener('scroll',   calcProgress, { passive: true })
+    document.addEventListener('scroll', calcProgress, { passive: true })
+    window.addEventListener('resize',   calcProgress, { passive: true })
+
     return () => {
-      window.removeEventListener('scroll', calcProgress)
-      window.removeEventListener('resize', calcProgress)
+      window.removeEventListener('scroll',   calcProgress)
+      document.removeEventListener('scroll', calcProgress)
+      window.removeEventListener('resize',   calcProgress)
     }
   }, [md])
 
