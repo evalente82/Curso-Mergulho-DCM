@@ -12,6 +12,10 @@ Status atual
 - Repositório inicializado e commit inicial criado.
 - Remote `origin` adicionado e `main` empurrada para https://github.com/evalente82/Curso-Mergulho-DCM.git
 - Roadmap técnico gerado e registrado (este arquivo).
+- **Fase 1 ✅** — Scaffold Vite + React + TypeScript + Tailwind + PWA concluído.
+- **Fase 2 ✅** — PWA offline-first configurado (Workbox, service worker, manifest, offline.html).
+- **Fase 3 ✅** — PDF extraído com pdftotext (melhor variante UTF-8 selecionada automaticamente), imagens extraídas, Markdown + index.json gerados e commitados.
+- **Fase 4 ✅** — UI/UX polida: Dashboard Hero, Reader com TOC automático + barra de progresso + modo fullscreen, busca full-text, design system `ocean` + tipografia de leitura, micro-interações Framer Motion.
 
 Fases do roadmap
 -----------------
