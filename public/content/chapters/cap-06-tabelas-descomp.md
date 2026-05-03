@@ -4,7 +4,6 @@ moduleId: "curso_mergulho_autonomo_basico"
 title: "Tabelas de Descompressão"
 number: 6
 ---
-
 Tabelas de descompressão 6
 
 6.1 EMPREGO DAS TABELAS DE DESCOMPRESSÃO
@@ -308,22 +307,46 @@ mergulho em locais situados a mais de 300 acima do nível dos mares.
 
                                                                                                                     92
 
----
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-079.png)
 
-![Figura do capítulo 6](/assets/content/curso_mergulho_autonomo_basico/img/img-081.jpg)
 
-![Figura do capítulo 6](/assets/content/curso_mergulho_autonomo_basico/img/img-082.png)
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-080.png)
 
-![Figura do capítulo 6](/assets/content/curso_mergulho_autonomo_basico/img/img-083.jpg)
 
-![Figura do capítulo 6](/assets/content/curso_mergulho_autonomo_basico/img/img-084.jpg)
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-081.jpg)
 
-![Figura do capítulo 6](/assets/content/curso_mergulho_autonomo_basico/img/img-085.jpg)
 
-![Figura do capítulo 6](/assets/content/curso_mergulho_autonomo_basico/img/img-086.png)
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-076.png)
 
-![Figura do capítulo 6](/assets/content/curso_mergulho_autonomo_basico/img/img-087.png)
 
-![Figura do capítulo 6](/assets/content/curso_mergulho_autonomo_basico/img/img-088.png)
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-077.png)
 
-![Figura do capítulo 6](/assets/content/curso_mergulho_autonomo_basico/img/img-089.png)
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-078.png)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-073.jpg)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-074.jpg)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-075.png)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-068.png)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-069.png)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-070.png)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-071.jpg)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-072.jpg)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-067.png)

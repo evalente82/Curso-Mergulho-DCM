@@ -4,7 +4,6 @@ moduleId: "curso_mergulho_autonomo_basico"
 title: "Física Aplicada ao Mergulho"
 number: 4
 ---
-
 Física aplicada ao mergulho 4
 
 4.1 - NOÇÕES DE FÍSICA
@@ -196,10 +195,25 @@ objeto desloca um volume de líquido de peso exatamente igual ao seu, diz-se
 que tem flutuabilidade neutra; não afunda nem flutua. Se o peso do objeto é
 desloca uma quantidade de líquido de peso menor que o seu, o objeto afunda.
 
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-029.png)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-030.jpg)
+
+
                                                                                                                     31
 "Todo corpo imerso em um líquido em equilíbrio é submetido a uma força
    vertical dirigida de baixo para cima de intensidade igual ao peso do
                            volume de liquido deslocado.”
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-031.jpg)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-032.png)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-033.png)
+
 
                                                                                                                     32
 Princípio de Pascal
@@ -254,6 +268,18 @@ em formas de bolhas (macro bolhas)
 Em nosso país podemos encontrar nas escolas o sistema métrico de medidas,
 mas no mergulho muitas vezes utilizamos o sistema inglês, isto porque
 muitos dos equipamentos que usamos são fabricados por empresas cujo país
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-037.jpg)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-038.jpg)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-039.jpg)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-040.png)
+
 
                                                                                                                     34
 de origem adota esse sistema. É interessante que o mergulhador saiba
@@ -450,6 +476,9 @@ refletida do objeto. Todas as outras cores são absorvidas e não podem ser
 vistas. No caso do mar, a luz vermelha é absorvida assim que rompe pela
 superfície da água. E a uma profundidade de cerca de oito metros
 
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-042.png)
+
+
                                                                                                                     39
 praticamente toda luz vermelha discernível ao olho humano já desvaneceu; o
 tanque de ar de vermelho brilhante de um mergulhador, por exemplo,
@@ -510,32 +539,52 @@ enrosco em seu hélice.
 
                                                                                                                     42
 
----
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-046.jpg)
 
-![Figura do capítulo 4](/assets/content/curso_mergulho_autonomo_basico/img/img-023.png)
 
-![Figura do capítulo 4](/assets/content/curso_mergulho_autonomo_basico/img/img-024.png)
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-045.png)
 
-![Figura do capítulo 4](/assets/content/curso_mergulho_autonomo_basico/img/img-025.jpg)
 
-![Figura do capítulo 4](/assets/content/curso_mergulho_autonomo_basico/img/img-026.jpg)
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-044.png)
 
-![Figura do capítulo 4](/assets/content/curso_mergulho_autonomo_basico/img/img-027.jpg)
 
-![Figura do capítulo 4](/assets/content/curso_mergulho_autonomo_basico/img/img-028.png)
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-043.jpg)
 
-![Figura do capítulo 4](/assets/content/curso_mergulho_autonomo_basico/img/img-029.png)
 
-![Figura do capítulo 4](/assets/content/curso_mergulho_autonomo_basico/img/img-030.jpg)
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-041.png)
 
-![Figura do capítulo 4](/assets/content/curso_mergulho_autonomo_basico/img/img-031.jpg)
 
-![Figura do capítulo 4](/assets/content/curso_mergulho_autonomo_basico/img/img-032.png)
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-034.png)
 
-![Figura do capítulo 4](/assets/content/curso_mergulho_autonomo_basico/img/img-033.png)
 
-![Figura do capítulo 4](/assets/content/curso_mergulho_autonomo_basico/img/img-034.png)
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-035.png)
 
-![Figura do capítulo 4](/assets/content/curso_mergulho_autonomo_basico/img/img-035.png)
 
-![Figura do capítulo 4](/assets/content/curso_mergulho_autonomo_basico/img/img-036.jpg)
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-036.jpg)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-027.jpg)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-028.png)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-025.jpg)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-026.jpg)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-024.png)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-021.png)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-022.png)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-023.png)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-020.png)

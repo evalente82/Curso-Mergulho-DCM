@@ -4,7 +4,6 @@ moduleId: "curso_mergulho_autonomo_basico"
 title: "Equipamentos"
 number: 3
 ---
-
 Equipamentos  3
 
 3.1 - EQUIPAMENTOS
@@ -348,6 +347,12 @@ alumí nio.                                   2250 - pressão de trabalho do cil
 3000 - pressão em PSI com que deve ser
 carregado o cilindro (pressão de trabalho).  P8T - marca do fabricante.
 
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-004.png)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-005.png)
+
+
 S80 - quantidade de ar em pés cúbico         8C82+ - mês e ano do pri meiro teste
 quando o cilindro estiver na pressão de      hidrostático. Entre esses, a marca do
 trabalho. No caso 80 pés cúbicos.            inspetor do que executou o teste.
@@ -481,6 +486,9 @@ mesmo assim em quantidades mínimas, o gás expirado retoma ao
 compartimento de origem, tendo antes passado por um filtro de CO2; já nos
 rebreather de circuito semi fechado, o mergulhador continua expelindo
 
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-003.png)
+
+
                                                                                                                     22
 pequenas bolhas intermitentes, porém em menor volume do que no aparelho
 de mergulho autônomo convencional.
@@ -524,34 +532,43 @@ oxigênio e nitrogênio).
                                                                                                                     23
 24
 
----
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-009.jpg)
 
-![Figura do capítulo 3](/assets/content/curso_mergulho_autonomo_basico/img/img-008.png)
 
-![Figura do capítulo 3](/assets/content/curso_mergulho_autonomo_basico/img/img-009.jpg)
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-010.jpg)
 
-![Figura do capítulo 3](/assets/content/curso_mergulho_autonomo_basico/img/img-010.jpg)
 
-![Figura do capítulo 3](/assets/content/curso_mergulho_autonomo_basico/img/img-011.jpg)
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-011.jpg)
 
-![Figura do capítulo 3](/assets/content/curso_mergulho_autonomo_basico/img/img-012.jpg)
 
-![Figura do capítulo 3](/assets/content/curso_mergulho_autonomo_basico/img/img-013.jpg)
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-012.jpg)
 
-![Figura do capítulo 3](/assets/content/curso_mergulho_autonomo_basico/img/img-014.jpg)
 
-![Figura do capítulo 3](/assets/content/curso_mergulho_autonomo_basico/img/img-015.png)
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-013.jpg)
 
-![Figura do capítulo 3](/assets/content/curso_mergulho_autonomo_basico/img/img-016.png)
 
-![Figura do capítulo 3](/assets/content/curso_mergulho_autonomo_basico/img/img-017.png)
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-014.jpg)
 
-![Figura do capítulo 3](/assets/content/curso_mergulho_autonomo_basico/img/img-018.png)
 
-![Figura do capítulo 3](/assets/content/curso_mergulho_autonomo_basico/img/img-019.png)
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-015.png)
 
-![Figura do capítulo 3](/assets/content/curso_mergulho_autonomo_basico/img/img-020.png)
 
-![Figura do capítulo 3](/assets/content/curso_mergulho_autonomo_basico/img/img-021.png)
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-016.png)
 
-![Figura do capítulo 3](/assets/content/curso_mergulho_autonomo_basico/img/img-022.png)
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-017.png)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-018.png)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-019.png)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-006.png)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-007.jpg)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-008.png)

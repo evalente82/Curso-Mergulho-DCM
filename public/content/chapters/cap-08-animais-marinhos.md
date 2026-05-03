@@ -4,7 +4,6 @@ moduleId: "curso_mergulho_autonomo_basico"
 title: "Animais Marinhos"
 number: 8
 ---
-
 Animais Marinhos  8
 
 8.1 ANIMAIS MARINHOS
@@ -182,6 +181,12 @@ tubarão-zebra e o tubarão-de-pregas e outra carnívoras como o
 tubarão-branco, o tubarão-azul e o tubarão-tigre. Os menores alimentam-se
 de pequenos peixes nas águas próximas da costa, os mais agressivos são
 
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-089.png)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-090.png)
+
+
                                                                                                                   108
 aqueles cujo tamanho e estruturas dos dentes indicam que são caçadores
 vorazes. São rápidos nadadores, impelidos pela cauda assimétrica; o lobo
@@ -214,14 +219,22 @@ peixinhos.
 
                                                                                                                   112
 
----
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-092.png)
 
-![Figura do capítulo 8](/assets/content/curso_mergulho_autonomo_basico/img/img-098.png)
 
-![Figura do capítulo 8](/assets/content/curso_mergulho_autonomo_basico/img/img-099.png)
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-091.png)
 
-![Figura do capítulo 8](/assets/content/curso_mergulho_autonomo_basico/img/img-100.png)
 
-![Figura do capítulo 8](/assets/content/curso_mergulho_autonomo_basico/img/img-101.jpg)
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-088.png)
 
-![Figura do capítulo 8](/assets/content/curso_mergulho_autonomo_basico/img/img-102.jpg)
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-086.png)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-087.png)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-084.jpg)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-085.jpg)

@@ -4,7 +4,6 @@ moduleId: "curso_mergulho_autonomo_basico"
 title: "Certificadoras"
 number: 2
 ---
-
 Certificadoras  2
 
 As certificadoras existentes espalhadas pelo mundo são entidades tais como
@@ -51,7 +50,3 @@ sem a qual nenhuma escola esta habilitada a formar mergulhadores
 profissionais no país.
 
                    9
-
----
-
-![Figura do capítulo 2](/assets/content/curso_mergulho_autonomo_basico/img/img-007.jpg)

@@ -4,7 +4,6 @@ moduleId: "curso_mergulho_autonomo_basico"
 title: "Fisiologia do Mergulho"
 number: 5
 ---
-
 Fisiologia do mergulho  5
 
 Neste capítulo abordaremos somente a parte da anatomia e fisiologia que
@@ -215,6 +214,9 @@ indivíduos altos e atléticos do que em indivíduos pequenos e astênicos.
 Gráfico mostrando as execuções respiratórias durante a respiração e a
 inspiração normais e a expiração máximas.
 
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-049.jpg)
+
+
 Gráfico mostrando as excursões respiratórias durante a respiração normal de durante a
                                        inspiração e expiração máximas.
                                                                                                                     47
@@ -222,6 +224,9 @@ Gráfico mostrando as excursões respiratórias durante a respiração normal de
 E constituído pela orelha externa, orelha média e orelha interna.
 Tímpano - é uma parede delgada que separa a orelha média da orelha interna
 e a faringe.
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-050.jpg)
+
 
  À medida que o mergulhador desce, ele terá que compensar o ouvido
                            quantas vezes for necessário.
@@ -382,6 +387,9 @@ globo ocular e nos tecidos da face.
 Expansão do Estômago e Intestinos
 É proveniente da expansão dos gases deglutidos durante o mergulho quando
 o mergulhador está subindo.
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-054.jpg)
+
 
                                                                                                                     52
 Barotrauma Cutâneo ou de Roupa
@@ -610,6 +618,12 @@ Embriaguez das Profundezas
 nervoso central. A ocorrência depende da pressão parcial do nitrogênio e da
 sua solubilidade nos tecidos. É semelhante à embriaguez causada pelo álcool
 
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-056.jpg)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-057.png)
+
+
                                                                                                                     58
                             ou efeito de gases anestésicos.
 Varia de indivíduo para indivíduo. Começa discretamente á partir dos 30
@@ -629,6 +643,9 @@ Intoxicação pelo Oxigênio (O2)
 No mergulho amador, cujas profundidades superiores aos 35 metros não são
 recomendadas, o percentual de oxigênio contido no ar comprimido não
 oferecerá os efeitos que conhecemos como intoxicação.
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-058.jpg)
+
 
                                                                                                                     59
 Todavia qualquer mergulhador pode vir a precisar de submeter-se a
@@ -880,6 +897,9 @@ formação pela despressurização brusca se dá sem ponto de partida. No
 primeiro caso, essas partículas gasosas cresceriam por difusão dos gases do
 meio circunjacente para seu interior.
 
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-052.jpg)
+
+
                                                                                                                     65
 Quando a patogenia da dor, segundo alguns, o aparecimento de bolhas nas
 estruturas articulares provoca dor por pressão direta sobre os tecidos
@@ -943,6 +963,9 @@ espasticidade, distúrbios esfincterianos podem ocorrer com uma distribuição
 correspondente à área medular atingida. O comprometimento dos centros
 nervosos superiores mais encontrados em acidentes com aviadores,
 trabalhadores de caixões pneumáticos e no interior de câmaras hiperbáricas
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-060.png)
+
 
                                                                                                                     67
 caracteriza-se por comprometimento progressivo da consciência, colapso,
@@ -1026,6 +1049,9 @@ a subida. E a DD são bolhas de nitrogênio nos vasos sangüíneos, causada por
 falta de descompressão adequada quando o mergulhador esta retomando a
 superfície.
 
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-051.png)
+
+
 CONDUTA COM PACIENTES ACIDENTADOS
 
 NO FUNDO - Caso o mergulhador esteja inconsciente e com parada
@@ -1062,6 +1088,9 @@ tratamento deverá ser realizado conjuntamente.
 
 No caso de DD ou EAG que seja necessário realizar o método de
 ressuscitarão, o paciente terá que ficar com o ventre para cima.
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-063.jpg)
+
 
                                                                                                                     71
 5.3 - "APAGAMENTO" E OUTRAS SÍNCOPES DO MERGULHO
@@ -1108,6 +1137,9 @@ pode acontecer que o O2 tenha chegado a
 níveis minimos. Então, o mergulhador
 "apaga" sem ter tido falta de ar.
 
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-064.png)
+
+
                                                                                                                     72
 A partir daí, duas hipóteses podem ocorrer:
 O Apagamento se deu acima da cota de equilíbrio.
@@ -1129,6 +1161,9 @@ afogamento.
 Por estar abaixo da cota de equilíbrio, a tendência ser cada vez ir mais para o
 fundo. A menos que seja resgatado por um companheiro nesse primeiros
 minutos, as probabilidades de jamais ser encontrado são quase totais.
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-065.jpg)
+
 
                                                                                                                     73
 Síncope por Falta de Oxigênio
@@ -1189,6 +1224,9 @@ fundo, tenha certeza de que esteja sendo observado por alguém capaz de
 intervir a seu favor. É devido a freqüência deste acidente nas águas claras,
 que a água muito azul é chamada, na gíria da pesca sub, de "água
 azul-caixão".
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-066.jpg)
+
 
                                                                                                                     75
 O Acidente Ocorre Ainda no Fundo:
@@ -1557,92 +1595,22 @@ essa hipótese.”
 
                                                                                                                     84
 
----
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-062.png)
 
-![Figura do capítulo 5](/assets/content/curso_mergulho_autonomo_basico/img/img-037.jpg)
 
-![Figura do capítulo 5](/assets/content/curso_mergulho_autonomo_basico/img/img-038.jpg)
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-061.png)
 
-![Figura do capítulo 5](/assets/content/curso_mergulho_autonomo_basico/img/img-039.jpg)
 
-![Figura do capítulo 5](/assets/content/curso_mergulho_autonomo_basico/img/img-040.png)
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-059.jpg)
 
-![Figura do capítulo 5](/assets/content/curso_mergulho_autonomo_basico/img/img-041.png)
 
-![Figura do capítulo 5](/assets/content/curso_mergulho_autonomo_basico/img/img-042.png)
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-055.png)
 
-![Figura do capítulo 5](/assets/content/curso_mergulho_autonomo_basico/img/img-043.jpg)
 
-![Figura do capítulo 5](/assets/content/curso_mergulho_autonomo_basico/img/img-044.png)
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-053.png)
 
-![Figura do capítulo 5](/assets/content/curso_mergulho_autonomo_basico/img/img-045.png)
 
-![Figura do capítulo 5](/assets/content/curso_mergulho_autonomo_basico/img/img-046.jpg)
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-048.jpg)
 
-![Figura do capítulo 5](/assets/content/curso_mergulho_autonomo_basico/img/img-047.jpg)
 
-![Figura do capítulo 5](/assets/content/curso_mergulho_autonomo_basico/img/img-048.jpg)
-
-![Figura do capítulo 5](/assets/content/curso_mergulho_autonomo_basico/img/img-049.jpg)
-
-![Figura do capítulo 5](/assets/content/curso_mergulho_autonomo_basico/img/img-050.jpg)
-
-![Figura do capítulo 5](/assets/content/curso_mergulho_autonomo_basico/img/img-051.png)
-
-![Figura do capítulo 5](/assets/content/curso_mergulho_autonomo_basico/img/img-052.jpg)
-
-![Figura do capítulo 5](/assets/content/curso_mergulho_autonomo_basico/img/img-053.png)
-
-![Figura do capítulo 5](/assets/content/curso_mergulho_autonomo_basico/img/img-054.jpg)
-
-![Figura do capítulo 5](/assets/content/curso_mergulho_autonomo_basico/img/img-055.png)
-
-![Figura do capítulo 5](/assets/content/curso_mergulho_autonomo_basico/img/img-056.jpg)
-
-![Figura do capítulo 5](/assets/content/curso_mergulho_autonomo_basico/img/img-057.png)
-
-![Figura do capítulo 5](/assets/content/curso_mergulho_autonomo_basico/img/img-058.jpg)
-
-![Figura do capítulo 5](/assets/content/curso_mergulho_autonomo_basico/img/img-059.jpg)
-
-![Figura do capítulo 5](/assets/content/curso_mergulho_autonomo_basico/img/img-060.png)
-
-![Figura do capítulo 5](/assets/content/curso_mergulho_autonomo_basico/img/img-061.png)
-
-![Figura do capítulo 5](/assets/content/curso_mergulho_autonomo_basico/img/img-062.png)
-
-![Figura do capítulo 5](/assets/content/curso_mergulho_autonomo_basico/img/img-063.jpg)
-
-![Figura do capítulo 5](/assets/content/curso_mergulho_autonomo_basico/img/img-064.png)
-
-![Figura do capítulo 5](/assets/content/curso_mergulho_autonomo_basico/img/img-065.jpg)
-
-![Figura do capítulo 5](/assets/content/curso_mergulho_autonomo_basico/img/img-066.jpg)
-
-![Figura do capítulo 5](/assets/content/curso_mergulho_autonomo_basico/img/img-067.png)
-
-![Figura do capítulo 5](/assets/content/curso_mergulho_autonomo_basico/img/img-068.png)
-
-![Figura do capítulo 5](/assets/content/curso_mergulho_autonomo_basico/img/img-069.png)
-
-![Figura do capítulo 5](/assets/content/curso_mergulho_autonomo_basico/img/img-070.png)
-
-![Figura do capítulo 5](/assets/content/curso_mergulho_autonomo_basico/img/img-071.jpg)
-
-![Figura do capítulo 5](/assets/content/curso_mergulho_autonomo_basico/img/img-072.jpg)
-
-![Figura do capítulo 5](/assets/content/curso_mergulho_autonomo_basico/img/img-073.jpg)
-
-![Figura do capítulo 5](/assets/content/curso_mergulho_autonomo_basico/img/img-074.jpg)
-
-![Figura do capítulo 5](/assets/content/curso_mergulho_autonomo_basico/img/img-075.png)
-
-![Figura do capítulo 5](/assets/content/curso_mergulho_autonomo_basico/img/img-076.png)
-
-![Figura do capítulo 5](/assets/content/curso_mergulho_autonomo_basico/img/img-077.png)
-
-![Figura do capítulo 5](/assets/content/curso_mergulho_autonomo_basico/img/img-078.png)
-
-![Figura do capítulo 5](/assets/content/curso_mergulho_autonomo_basico/img/img-079.png)
-
-![Figura do capítulo 5](/assets/content/curso_mergulho_autonomo_basico/img/img-080.png)
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-047.jpg)

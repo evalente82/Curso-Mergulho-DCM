@@ -4,7 +4,6 @@ moduleId: "curso_mergulho_autonomo_basico"
 title: "História do Mergulho"
 number: 1
 ---
-
 História do mergulho  1
 
              (IN: Cousteau, Jaques-Yves. O Mundo dos Oceanos)
@@ -122,6 +121,9 @@ pregas de couro como as de um acordeom para as articulações, mas sempre
 endureciam e encolhiam sob a pressão. O primeiro traje bem-sucedido,
 patenteado em 1913, combinava articulações de bilhas e esfera para
 
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-000.jpg)
+
+
                                                                                                                      5
 aumentar a flexibilidade. Não obstante, durante a primeira operação de
 resgate bem-sucedida em mar profundo (120 metros), em 1931, os
@@ -148,6 +150,9 @@ filtradas através de um agente químico, a fim de expurgá-las do dióxido de
 carbono. Na segunda Guerra Mundial os homens-rã usaram esse sistema,
 que provavelmente levou-os aos limites, descobrindo que o oxigênio puro
 sob pressão causa convulsões perigosas e que os mergulhos prolongados de
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-001.jpg)
+
 
                                                                                                                      6
 oxigênio só eram seguros perto da superfície, a uma profundidade não
@@ -206,16 +211,4 @@ pontilhadas).
 
                                                                                                                      8
 
----
-
-![Figura do capítulo 1](/assets/content/curso_mergulho_autonomo_basico/img/img-001.jpg)
-
-![Figura do capítulo 1](/assets/content/curso_mergulho_autonomo_basico/img/img-002.jpg)
-
-![Figura do capítulo 1](/assets/content/curso_mergulho_autonomo_basico/img/img-003.png)
-
-![Figura do capítulo 1](/assets/content/curso_mergulho_autonomo_basico/img/img-004.png)
-
-![Figura do capítulo 1](/assets/content/curso_mergulho_autonomo_basico/img/img-005.png)
-
-![Figura do capítulo 1](/assets/content/curso_mergulho_autonomo_basico/img/img-006.png)
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-002.jpg)

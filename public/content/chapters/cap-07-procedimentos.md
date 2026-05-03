@@ -4,7 +4,6 @@ moduleId: "curso_mergulho_autonomo_basico"
 title: "Procedimentos, Técnica e Sinais"
 number: 7
 ---
-
 Procedimentos, Técnica e Sinais 7
 
 Desembaçando a Máscara
@@ -179,6 +178,21 @@ Há sempre uma quantidade de ondas menores seguidas por ondas maiores.
 Esta seqüência se estende com uma constante o dia todo. À hora de entrar é
 logo após, a última seqüência de ondas maiores.
 
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-068.png)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-069.png)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-070.png)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-071.jpg)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-072.jpg)
+
+
                                                                                                                     96
 97
 Como Bater Perna
@@ -206,6 +220,15 @@ Cada um respira duas vezes e passa ao companheiro. Após estabelecer um
 calmo regime de trocas, deverá ser iniciada a subida. Nessa ocasião
 obviamente, se tem de exalar de maneira adequada.
 
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-073.jpg)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-074.jpg)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-075.png)
+
+
                                                                                                                     98
 Como Controlar a flutuabilidade
 
@@ -226,6 +249,15 @@ conveniente acrescentar mais 1 Kg de chumbo em seu cinto.
 
 ENCHER  ESVAZIAR
 
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-076.png)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-077.png)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-078.png)
+
+
                                               99
 Como Desalagar a Máscara
 Os dois métodos existentes são:
@@ -241,6 +273,9 @@ Em mergulhos com respiração subaquática, com
 velocidade de subida máxima de 9 m por minuto. Todas
 as bolhas que o mergulhador soltar (inclusive as
 menores) deve estar acima do mergulhador.
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-063.jpg)
+
 
                                                                                                                   100
 OUTROS PROCEDIMENTOS DE MERGULHO
@@ -298,24 +333,32 @@ tipo: dor de cabeça, câimbras, etc.
 - Nunca faça tudo o que você acha que pode fazer, faça sempre 30% menos.
 - Ajude seus colegas.
 
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-082.png)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-083.jpg)
+
+
                                                                                                                   102
 103
 104
 
----
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-079.png)
 
-![Figura do capítulo 7](/assets/content/curso_mergulho_autonomo_basico/img/img-090.png)
 
-![Figura do capítulo 7](/assets/content/curso_mergulho_autonomo_basico/img/img-091.png)
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-080.png)
 
-![Figura do capítulo 7](/assets/content/curso_mergulho_autonomo_basico/img/img-092.png)
 
-![Figura do capítulo 7](/assets/content/curso_mergulho_autonomo_basico/img/img-093.jpg)
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-081.jpg)
 
-![Figura do capítulo 7](/assets/content/curso_mergulho_autonomo_basico/img/img-094.png)
 
-![Figura do capítulo 7](/assets/content/curso_mergulho_autonomo_basico/img/img-095.png)
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-067.png)
 
-![Figura do capítulo 7](/assets/content/curso_mergulho_autonomo_basico/img/img-096.png)
 
-![Figura do capítulo 7](/assets/content/curso_mergulho_autonomo_basico/img/img-097.png)
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-066.jpg)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-065.jpg)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/img-064.png)
