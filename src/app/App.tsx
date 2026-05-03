@@ -23,9 +23,12 @@ const pageVariants = {
 }
 
 // ─── App Root ─────────────────────────────────────────────────────────────────
+// Em produção (GitHub Pages) o basename é /Curso-Mergulho-DCM, em dev é /
+const BASENAME = import.meta.env.BASE_URL.replace(/\/$/, '') || ''
+
 export default function App() {
   return (
-    <BrowserRouter basename="/Curso-Mergulho-DCM">
+    <BrowserRouter basename={BASENAME}>
       <AppShell />
     </BrowserRouter>
   )

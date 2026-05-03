@@ -1,12 +1,17 @@
 import { defineConfig } from 'vite'
 import { VitePWA } from 'vite-plugin-pwa'
 
+// Em produção (GitHub Pages) o app vive em /Curso-Mergulho-DCM/
+// Em dev (localhost) vive na raiz /
+const isProd = process.env.NODE_ENV === 'production'
+const BASE = isProd ? '/Curso-Mergulho-DCM/' : '/'
+
 export default defineConfig(async () => {
   // Carregamento dinâmico para compatibilidade com pacotes ESM-only
   const reactPlugin = (await import('@vitejs/plugin-react')).default
 
   return {
-    base: '/Curso-Mergulho-DCM/',
+    base: BASE,
     plugins: [
       reactPlugin(),
       VitePWA({
@@ -34,7 +39,7 @@ export default defineConfig(async () => {
           theme_color: '#0ea5a4',
           background_color: '#ffffff',
           display: 'standalone',
-          start_url: '/',
+          start_url: BASE,
           icons: [
             { src: 'icons/192.png', sizes: '192x192', type: 'image/png' },
             { src: 'icons/512.png', sizes: '512x512', type: 'image/png' }
