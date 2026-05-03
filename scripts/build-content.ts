@@ -12,8 +12,8 @@ function build(){
     return
   }
 
-  const files = fs.readdirSync(CONTENT_DIR).filter((f) => f.endsWith('.md'))
-  const items = files.map((f) => {
+  const files = fs.readdirSync(CONTENT_DIR).filter((f: string) => f.endsWith('.md'))
+  const items = files.map((f: string) => {
     const full = path.join(CONTENT_DIR, f)
     const raw = fs.readFileSync(full, 'utf8')
     const m = matter(raw)
@@ -30,11 +30,11 @@ function build(){
 build()
 
 function walkRaw(): Array<{ id: string; title: string; path: string }> {
-  if (!fs.existsSync(RAW_DIR)) return []
-  const files = fs.readdirSync(RAW_DIR)
+  if (!fs.existsSync(CONTENT_DIR)) return []
+  const files = fs.readdirSync(CONTENT_DIR)
   return files
-    .filter((f) => f.endsWith('.md'))
-    .map((f) => ({ id: path.basename(f, '.md'), title: path.basename(f, '.md'), path: `content/raw/${f}` }))
+    .filter((f: string) => f.endsWith('.md'))
+    .map((f: string) => ({ id: path.basename(f, '.md'), title: path.basename(f, '.md'), path: `content/raw/${f}` }))
 }
 
 function buildIndex() {
