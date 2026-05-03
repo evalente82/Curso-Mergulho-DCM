@@ -1,0 +1,10 @@
+{
+  "items": [
+    {
+      "id": "curso_mergulho_autonomo_basico",
+      "title": "curso_mergulho_autonomo_basico",
+      "excerpt": "Ã¯Â»Â¿---\r ---\r id: curso_mergulho_autonomo_basico\r title: 'Mergulho AutÃÂ´nomo - Apostila'\r sourceFile: 'content/raw_pdfs/curso_mergulho_autonomo_basico.pdf'\r tags: ['mergulho','seguranca']\r ---\r \r MANUAL DO MERGULHO\r AUTÃÂÃ¢ÂÂNOMO DESPORTIVO\r \r \r \r                     ÃÂ¯Ã¢ÂÂ¬ÃÂ \r Curso de Mergulho (BÃÂÃÂ¡sico)\r \r \r \r \r       ÃÂ¯Ã¢ÂÂ¬ÃÂ ÃÂ¯Ã¢ÂÂ¬ÃÂ ÃÂ¯Ã¢ÂÂ¬ÃÂ ÃÂ¯Ã¢ÂÂ¬ÃÂ ÃÂ",
+      "path": "content/raw/curso_mergulho_autonomo_basico.md"
+    }
+  ]
+}
