@@ -30,10 +30,14 @@
     word-break: break-word;
     overflow-wrap: break-word;
   }
-  /* Imagens sempre dentro do container */
+  /* Imagens sempre dentro do container — qualidade máxima em todos os dispositivos */
   .prose img {
     height: auto;
     max-width: 100%;
+    /* Hint para o browser usar o algoritmo de maior qualidade na interpolação.
+       Evita o borrão em telas Retina (DPR 2x/3x) e ao redimensionar. */
+    image-rendering: -webkit-optimize-contrast; /* Safari / Chrome legado */
+    image-rendering: high-quality;              /* Chrome 85+, Firefox 93+, Edge */
   }
   /* Tabelas — scroll só dentro do bloco, nunca na página */
   .prose table {

@@ -31,7 +31,7 @@
           "description": "A história do mergulho desde a Antiguidade até o mergulho moderno.",
           "icon": "⚓",
           "excerpt": "História do mergulho 1 (IN: Cousteau, Jaques-Yves. O Mundo dos Oceanos) \"Os seres humanos estão prestes a voltar ao mar, como alguns mamíferos fizeram há poucos milhões de anos, para se tornarem focas",
-          "imageCount": 5
+          "imageCount": 6
         },
         {
           "id": "certificadoras",
@@ -41,7 +41,7 @@
           "title": "Certificadoras",
           "description": "Entidades certificadoras de mergulho no Brasil e no mundo.",
           "icon": "🏅",
-          "excerpt": "Certificadoras 2 As certificadoras existentes espalhadas pelo mundo são entidades tais como sociedades, associações, corporações, federações e confederações, que tem por objetivo a padronização na ins",
+          "excerpt": "permitindo o fluxo de ar para o mergulhador. O ar expirado flui por uma válvula só de saída (G) para a câmara (H), que é aberta para a água através de orifícios (linhas pontilhadas). 8 Certificadoras ",
           "imageCount": 1
         },
         {
@@ -52,8 +52,8 @@
           "title": "Equipamentos",
           "description": "Equipamentos essenciais: máscara, roupa, cilindro, regulador, BCD e acessórios.",
           "icon": "🤿",
-          "excerpt": "Equipamentos 3 3.1 - EQUIPAMENTOS Os equipamentos abaixo citados, máscara, snorkel e nadadeiras, são aqueles indispensáveis para pratica das atividades do mergulho, por esta razão há este grupo de equ",
-          "imageCount": 13
+          "excerpt": "Autoridade Marítima para as Atividades Subaquáticas, NORMAM-15/DPC sem a qual nenhuma escola esta habilitada a formar mergulhadores profissionais no país. 9 Equipamentos 3 3.1 - EQUIPAMENTOS Os equipa",
+          "imageCount": 15
         },
         {
           "id": "fisica-mergulho",
@@ -63,8 +63,8 @@
           "title": "Física Aplicada ao Mergulho",
           "description": "Física da água: pressão, empuxo, luz, som e temperatura no ambiente subaquático.",
           "icon": "🔬",
-          "excerpt": "Física aplicada ao mergulho 4 4.1 - NOÇÕES DE FÍSICA Para a melhor compreensão do mergulho e seus efeitos sobre o corpo humano, será necessário o conhecimento de certas noções de física. Neste capítul",
-          "imageCount": 13
+          "excerpt": "Para a melhor compreensão do mergulho e seus efeitos sobre o corpo humano, será necessário o conhecimento de certas noções de física. Neste capítulo veremos somente a parte da física diretamente aplic",
+          "imageCount": 12
         },
         {
           "id": "fisiologia",
@@ -74,8 +74,8 @@
           "title": "Fisiologia do Mergulho",
           "description": "Efeitos do mergulho no organismo: barotraumas, narcose, doença descompressiva.",
           "icon": "🫁",
-          "excerpt": "Fisiologia do mergulho 5 Neste capítulo abordaremos somente a parte da anatomia e fisiologia que estão ligadas diretamente com o mergulho, sendo dadas noções suficientes para o entendimento das altera",
-          "imageCount": 39
+          "excerpt": "Neste capítulo abordaremos somente a parte da anatomia e fisiologia que estão ligadas diretamente com o mergulho, sendo dadas noções suficientes para o entendimento das alterações fisiológicas e patol",
+          "imageCount": 46
         },
         {
           "id": "tabelas-descomp",
@@ -85,8 +85,8 @@
           "title": "Tabelas de Descompressão",
           "description": "Uso correto das tabelas de descompressão USN e BSAC.",
           "icon": "📊",
-          "excerpt": "tecidual ocorrido num acidente. Contudo, nenhum estudo em animais apoiou essa hipótese. 84 Tabelas de descompressão 6 6.1 EMPREGO DAS TABELAS DE DESCOMPRESSÃO As tabelas para mergulhos com uso de ar c",
-          "imageCount": 8
+          "excerpt": "um mergulho, utilizada para calcular o TRN de um mergulho repetitivo. Representa a quantidade de nitrogênio residual que se tem após um determinado mergulho. Quanto mais próximo do início do alfabeto,",
+          "imageCount": 9
         },
         {
           "id": "procedimentos",
@@ -96,8 +96,8 @@
           "title": "Procedimentos, Técnica e Sinais",
           "description": "Técnicas de mergulho, planejamento e sinais manuais.",
           "icon": "🤙",
-          "excerpt": "lâmina d'água situada a mais de 300 metros de altitude. Simplificando, é o mergulho em locais situados a mais de 300 acima do nível dos mares. 92 Procedimentos, Técnica e Sinais 7 Desembaçando a Másca",
-          "imageCount": 7
+          "excerpt": "mergulhador cair, com todo o equipamento, para dentro do barco ou d'água, resultando daí contusões ou perda do equipamento. Entrada silenciosa A entrada silenciosa é um dos melhores procedimentos: o m",
+          "imageCount": 8
         },
         {
           "id": "animais-marinhos",
@@ -107,8 +107,8 @@
           "title": "Animais Marinhos",
           "description": "Animais marinhos perigosos e condutas de segurança.",
           "icon": "🐠",
-          "excerpt": "102 103 104 Animais Marinhos 8 8.1 ANIMAIS MARINHOS Os seres marinhos são em sua maioria tímidos e inofensivos, e quase sempre fogem da presença humana. Os animais agressivos são raramente encontrados",
-          "imageCount": 5
+          "excerpt": "nadadeiras. Estas nadadeiras não são vistas facilmente e correm como fitas ao longo das costas e do ventre. Ela é venenosa, mas seu veneno não sai das presas, como na serpente, e sim do céu da boca. E",
+          "imageCount": 3
         }
       ]
     }
@@ -133,7 +133,7 @@
     {
       "id": "curso_mergulho_autonomo_basico/certificadoras",
       "title": "Certificadoras",
-      "excerpt": "Certificadoras 2 As certificadoras existentes espalhadas pelo mundo são entidades tais como sociedades, associações, corporações, federações e confederações, que tem por objetivo a padronização na ins",
+      "excerpt": "permitindo o fluxo de ar para o mergulhador. O ar expirado flui por uma válvula só de saída (G) para a câmara (H), que é aberta para a água através de orifícios (linhas pontilhadas). 8 Certificadoras ",
       "tags": [
         "mergulho"
       ]
@@ -141,7 +141,7 @@
     {
       "id": "curso_mergulho_autonomo_basico/equipamentos",
       "title": "Equipamentos",
-      "excerpt": "Equipamentos 3 3.1 - EQUIPAMENTOS Os equipamentos abaixo citados, máscara, snorkel e nadadeiras, são aqueles indispensáveis para pratica das atividades do mergulho, por esta razão há este grupo de equ",
+      "excerpt": "Autoridade Marítima para as Atividades Subaquáticas, NORMAM-15/DPC sem a qual nenhuma escola esta habilitada a formar mergulhadores profissionais no país. 9 Equipamentos 3 3.1 - EQUIPAMENTOS Os equipa",
       "tags": [
         "mergulho"
       ]
@@ -149,7 +149,7 @@
     {
       "id": "curso_mergulho_autonomo_basico/fisica-mergulho",
       "title": "Física Aplicada ao Mergulho",
-      "excerpt": "Física aplicada ao mergulho 4 4.1 - NOÇÕES DE FÍSICA Para a melhor compreensão do mergulho e seus efeitos sobre o corpo humano, será necessário o conhecimento de certas noções de física. Neste capítul",
+      "excerpt": "Para a melhor compreensão do mergulho e seus efeitos sobre o corpo humano, será necessário o conhecimento de certas noções de física. Neste capítulo veremos somente a parte da física diretamente aplic",
       "tags": [
         "mergulho"
       ]
@@ -157,7 +157,7 @@
     {
       "id": "curso_mergulho_autonomo_basico/fisiologia",
       "title": "Fisiologia do Mergulho",
-      "excerpt": "Fisiologia do mergulho 5 Neste capítulo abordaremos somente a parte da anatomia e fisiologia que estão ligadas diretamente com o mergulho, sendo dadas noções suficientes para o entendimento das altera",
+      "excerpt": "Neste capítulo abordaremos somente a parte da anatomia e fisiologia que estão ligadas diretamente com o mergulho, sendo dadas noções suficientes para o entendimento das alterações fisiológicas e patol",
       "tags": [
         "mergulho"
       ]
@@ -165,7 +165,7 @@
     {
       "id": "curso_mergulho_autonomo_basico/tabelas-descomp",
       "title": "Tabelas de Descompressão",
-      "excerpt": "tecidual ocorrido num acidente. Contudo, nenhum estudo em animais apoiou essa hipótese. 84 Tabelas de descompressão 6 6.1 EMPREGO DAS TABELAS DE DESCOMPRESSÃO As tabelas para mergulhos com uso de ar c",
+      "excerpt": "um mergulho, utilizada para calcular o TRN de um mergulho repetitivo. Representa a quantidade de nitrogênio residual que se tem após um determinado mergulho. Quanto mais próximo do início do alfabeto,",
       "tags": [
         "mergulho"
       ]
@@ -173,7 +173,7 @@
     {
       "id": "curso_mergulho_autonomo_basico/procedimentos",
       "title": "Procedimentos, Técnica e Sinais",
-      "excerpt": "lâmina d'água situada a mais de 300 metros de altitude. Simplificando, é o mergulho em locais situados a mais de 300 acima do nível dos mares. 92 Procedimentos, Técnica e Sinais 7 Desembaçando a Másca",
+      "excerpt": "mergulhador cair, com todo o equipamento, para dentro do barco ou d'água, resultando daí contusões ou perda do equipamento. Entrada silenciosa A entrada silenciosa é um dos melhores procedimentos: o m",
       "tags": [
         "mergulho"
       ]
@@ -181,7 +181,7 @@
     {
       "id": "curso_mergulho_autonomo_basico/animais-marinhos",
       "title": "Animais Marinhos",
-      "excerpt": "102 103 104 Animais Marinhos 8 8.1 ANIMAIS MARINHOS Os seres marinhos são em sua maioria tímidos e inofensivos, e quase sempre fogem da presença humana. Os animais agressivos são raramente encontrados",
+      "excerpt": "nadadeiras. Estas nadadeiras não são vistas facilmente e correm como fitas ao longo das costas e do ventre. Ela é venenosa, mas seu veneno não sai das presas, como na serpente, e sim do céu da boca. E",
       "tags": [
         "mergulho"
       ]

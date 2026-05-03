@@ -16,7 +16,7 @@ const CHAPTER_DEFS = [
   { number: 2,  slug: 'certificadoras',    title: 'Certificadoras',              startLine: 220 },
   { number: 3,  slug: 'equipamentos',      title: 'Equipamentos',                startLine: 266 },
   { number: 4,  slug: 'fisica-mergulho',   title: 'Física Aplicada ao Mergulho', startLine: 784 },
-  { number: 5,  slug: 'fisiologia',        title: 'Fisiologia do Mergulho',      startLine: 1288 },
+  { number: 5,  slug: 'fisiologia',        title: 'Fisiologia do Mergulho',      startLine: 1209 },
   { number: 6,  slug: 'tabelas-descomp',   title: 'Tabelas de Descompressão',    startLine: 2839 },
   { number: 7,  slug: 'procedimentos',     title: 'Procedimentos, Técnica e Sinais', startLine: 3141 },
   { number: 8,  slug: 'animais-marinhos',  title: 'Animais Marinhos',            startLine: 3437 },
@@ -97,12 +97,9 @@ chapters.forEach((chap, i) => {
     .replace(/^---[\s\S]*?---\n?/, '')  // remove frontmatter se presente
     .trim()
 
-  // Montar bloco de imagens do capítulo
-  const imgBlock = chapImages[i].length > 0
-    ? '\n\n---\n\n' + chapImages[i]
-        .map(img => `![Figura do capítulo ${chap.number}](${IMG_BASE}/${img})`)
-        .join('\n\n')
-    : ''
+  // Bloco de imagens NÃO é adicionado aqui.
+  // Use scripts/sync-images-from-raw.js para injetar imagens com ancoragem precisa.
+  const imgBlock = ''
 
   // Extrair um excerpt limpo (primeiros 200 chars sem artefatos)
   const excerptRaw = cleanBody

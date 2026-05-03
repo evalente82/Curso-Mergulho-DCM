@@ -36,8 +36,8 @@ const CHAPTER_RANGES = [
   { slug: 'historia-mergulho', start: 20,   end: 220  },
   { slug: 'certificadoras',    start: 220,  end: 266  },
   { slug: 'equipamentos',      start: 266,  end: 784  },
-  { slug: 'fisica-mergulho',   start: 784,  end: 1288 },
-  { slug: 'fisiologia',        start: 1288, end: 2839 },
+  { slug: 'fisica-mergulho',   start: 784,  end: 1209 },
+  { slug: 'fisiologia',        start: 1209, end: 2839 },
   { slug: 'tabelas-descomp',   start: 2839, end: 3141 },
   { slug: 'procedimentos',     start: 3141, end: 3437 },
   { slug: 'animais-marinhos',  start: 3437, end: 99999},
@@ -49,7 +49,8 @@ const rawLines    = rawContent.split('\n')
 
 // ── Detectar todos os marcadores ──────────────────────────────────────────
 // Padrão: linha contendo APENAS [nome.jpg] ou [float-right:nome.jpg]
-const MARKER_RE = /^\s*\[(float-right:)?([a-zA-Z0-9_\-]+\.(jpg|jpeg|png|gif|webp))\]\s*$/i
+// Aceita caracteres Unicode (letras acentuadas como é, ã, ç, etc.) no nome do arquivo
+const MARKER_RE = /^\s*\[(float-right:)?([\w\u00C0-\u024F_\-]+\.(jpg|jpeg|png|gif|webp))\]\s*$/i
 
 const markers = []
 rawLines.forEach((line, lineIdx) => {
