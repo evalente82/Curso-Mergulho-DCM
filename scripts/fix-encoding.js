@@ -6,21 +6,18 @@ const RAW_DIR = path.resolve(process.cwd(), 'content', 'raw')
 function fixFile(file){
   const buf = fs.readFileSync(file)
   // Try to detect if file has many replacement chars; if so reinterpret as latin1
+  const iconv = require('iconv-lite')
   const textUtf8 = buf.toString('utf8')
-  const replacerCount = (textUtf8.match(/�/g) || []).length
-  if (replacerCount === 0 && isMostlyValidUtf8(textUtf8)){
-    // still, some characters may be mojibake (Ã¡ etc). We'll try latin1 decode and choose better.
-    const latin = buf.toString('latin1')
-    if (scoreText(latin) > scoreText(textUtf8)){
-      writeFile(file, latin)
-      return true
-    }
-    return false
-  } else {
-    const latin = buf.toString('latin1')
-    writeFile(file, latin)
-    return true
-  }
+  const repl = (textUtf8.match(/�/g) || []).length
+  const tryWin1252 = iconv.decode(buf, 'win1252')
+  const tryLatin1 = iconv.decode(buf, 'latin1')
+  // pick the decode that scores highest for Portuguese accented chars
+  const scores = [scoreText(textUtf8), scoreText(tryWin1252), scoreText(tryLatin1)]
+  const best = Math.max(...scores)
+  if (best === scores[0] && isMostlyValidUtf8(textUtf8) && repl === 0) return false
+  if (best === scores[1]) writeFile(file, tryWin1252)
+  else writeFile(file, tryLatin1)
+  return true
 }
 
 function writeFile(file, content){

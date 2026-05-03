@@ -4,6 +4,7 @@ import { motion } from 'framer-motion'
 import { BrowserRouter, Routes, Route, Link } from 'react-router-dom'
 import ContentList from '../features/content/ContentList'
 import ContentReader from '../features/content/ContentReader'
+import ModuleLayout from '../features/module/ModuleLayout'
 
 export default function App() {
   const [items, setItems] = useState<{id:string;title:string}[]>([])
@@ -25,6 +26,7 @@ export default function App() {
           <Routes>
             <Route path="/" element={<div>Bem vindo ao scaffold inicial.</div>} />
             <Route path="/content" element={<ContentList items={items} />} />
+            <Route path="/module/mergulho" element={<ModuleLayout><ContentReader id={'curso_mergulho_autonomo_basico'} /></ModuleLayout>} />
             <Route path="/content/:id" element={<ContentRoute />} />
           </Routes>
         </main>
