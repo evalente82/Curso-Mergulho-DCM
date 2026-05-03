@@ -14,16 +14,26 @@
   "dependencies": {
     "axios": "^1.4.0",
     "clsx": "^1.2.1",
-    "flexsearch": "^0.7.31",
+    "flexsearch": "^0.7.43",
     "framer-motion": "^10.12.16",
+    "fs-extra": "^11.3.4",
+    "gray-matter": "^4.0.3",
     "lucide-react": "^0.262.0",
+    "pdf-parse": "^2.4.5",
+    "pdfjs-dist": "^5.7.284",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-markdown": "^8.0.7"
+    "react-markdown": "^8.0.7",
+    "react-router-dom": "^6.30.3",
+    "rehype-highlight": "^7.0.2",
+    "remark-gfm": "^4.0.1"
   },
   "devDependencies": {
+    "@types/node": "^20.19.39",
     "@types/react": "^18.2.21",
     "@types/react-dom": "^18.2.7",
+    "@types/react-router-dom": "^5.3.3",
+    "@vitejs/plugin-react": "^5.2.0",
     "autoprefixer": "^10.4.14",
     "eslint": "^8.50.0",
     "eslint-config-prettier": "^9.0.0",
@@ -33,7 +43,6 @@
     "ts-node": "^10.9.1",
     "typescript": "^5.2.2",
     "vite": "^5.1.4",
-    "vite-plugin-pwa": "^0.18.0",
-    "@types/node": "^20.5.1"
+    "vite-plugin-pwa": "^0.18.0"
   }
 }

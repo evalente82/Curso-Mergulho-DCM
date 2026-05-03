@@ -1,6 +1,6 @@
-import fs from 'fs'
-import path from 'path'
-import matter from 'gray-matter'
+const fs = require('fs')
+const path = require('path')
+const matter = require('gray-matter')
 
 const CONTENT_DIR = path.resolve(process.cwd(), 'content', 'raw')
 const OUT = path.resolve(process.cwd(), 'content', 'index.json')
@@ -28,17 +28,3 @@ function build(){
 }
 
 build()
-
-function walkRaw(): Array<{ id: string; title: string; path: string }> {
-  if (!fs.existsSync(RAW_DIR)) return []
-  const files = fs.readdirSync(RAW_DIR)
-  return files
-    .filter((f) => f.endsWith('.md'))
-    .map((f) => ({ id: path.basename(f, '.md'), title: path.basename(f, '.md'), path: `content/raw/${f}` }))
-}
-
-function buildIndex() {
-  // The previous buildIndex function is replaced by the new build function
-}
-
-buildIndex()
