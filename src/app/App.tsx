@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react'
 import '../styles.css'
 import { motion, AnimatePresence } from 'framer-motion'
 import { BrowserRouter, Routes, Route, Link, useLocation, useNavigate } from 'react-router-dom'
-import { Waves, BookOpen, Search, Menu, X } from 'lucide-react'
+import { Waves, BookOpen, Search, Menu, X, Construction, Wifi } from 'lucide-react'
 import ContentSearch from '../features/content/ContentSearch'
 import ModulePage from '../features/module/ModulePage'
 import ChapterReader from '../features/module/ChapterReader'
@@ -96,6 +96,7 @@ function AppShell() {
           <Routes location={location} key={location.pathname}>
             <Route path="/"                          element={<PageWrapper><HomePage items={[]} /></PageWrapper>} />
             <Route path="/busca"                     element={<PageWrapper><BuscaPage /></PageWrapper>} />
+            <Route path="/em-construcao"             element={<PageWrapper><EmConstrucaoPage /></PageWrapper>} />
             <Route path="/modulo/:moduleId"          element={<PageWrapper><ModulePage /></PageWrapper>} />
             <Route path="/modulo/:moduleId/:chapterId" element={<ChapterReader />} />
           </Routes>
@@ -228,15 +229,27 @@ function HomePage({ items: _items }: { items: unknown[] }) {
       {/* Destaques */}
       <section className="grid grid-cols-2 sm:grid-cols-4 gap-4">
         {[
-          { icon: '🌊', label: 'Mergulho Autônomo' },
-          { icon: '🤿', label: 'Equipamentos' },
-          { icon: '🆘', label: 'Busca e Resgate' },
-          { icon: '📶', label: 'Funciona Offline' },
-        ].map(({ icon, label }) => (
-          <div key={label} className="card flex flex-col items-center gap-2 py-5 px-3 text-center">
+          { icon: '🌊', label: 'Mergulho Autônomo', to: '/modulo/curso_mergulho_autonomo_basico', available: true },
+          { icon: '🤿', label: 'Equipamentos',       to: '/em-construcao', available: false },
+          { icon: '🆘', label: 'Busca e Resgate',    to: '/em-construcao', available: false },
+          { icon: '📶', label: 'Funciona Offline',   to: '/em-construcao', available: false },
+        ].map(({ icon, label, to, available }, i) => (
+          <motion.button
+            key={label}
+            onClick={() => navigate(to)}
+            initial={{ opacity: 0, y: 16 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ delay: i * .07, duration: .35, ease: [.16,1,.3,1] }}
+            className="card flex flex-col items-center gap-2 py-5 px-3 text-center hover:border-ocean-300 hover:shadow-md active:scale-[.98] transition-all cursor-pointer relative"
+          >
             <span className="text-2xl">{icon}</span>
             <span className="text-xs font-semibold text-ink-600">{label}</span>
-          </div>
+            {!available && (
+              <span className="absolute top-2 right-2 text-[10px] font-bold bg-amber-100 text-amber-700 rounded px-1.5 py-0.5 leading-tight">
+                Em breve
+              </span>
+            )}
+          </motion.button>
         ))}
       </section>
     </div>
@@ -272,3 +285,59 @@ function BuscaPage() {
   )
 }
 
+// ─── Página Em Construção ─────────────────────────────────────────────────────
+function EmConstrucaoPage() {
+  const navigate = useNavigate()
+
+  return (
+    <div className="max-w-2xl mx-auto px-4 py-20 flex flex-col items-center text-center gap-6">
+      <motion.div
+        initial={{ scale: .8, opacity: 0 }}
+        animate={{ scale: 1, opacity: 1 }}
+        transition={{ type: 'spring', stiffness: 200, damping: 18 }}
+        className="w-24 h-24 rounded-3xl bg-amber-100 flex items-center justify-center"
+      >
+        <Construction className="w-12 h-12 text-amber-500" />
+      </motion.div>
+
+      <motion.div
+        initial={{ opacity: 0, y: 16 }}
+        animate={{ opacity: 1, y: 0 }}
+        transition={{ delay: .15, duration: .4 }}
+      >
+        <h1 className="text-2xl font-extrabold text-ink-900 mb-2">Módulo em construção</h1>
+        <p className="text-ink-500 text-sm leading-relaxed max-w-sm mx-auto">
+          Este conteúdo está sendo preparado pela equipe da Defesa Civil Maricá
+          e estará disponível em breve. Aguarde as próximas atualizações!
+        </p>
+      </motion.div>
+
+      <motion.div
+        initial={{ opacity: 0 }}
+        animate={{ opacity: 1 }}
+        transition={{ delay: .3 }}
+        className="flex gap-3"
+      >
+        <button
+          onClick={() => navigate('/')}
+          className="btn-primary"
+        >
+          <Waves className="w-4 h-4" /> Voltar ao Início
+        </button>
+        <button
+          onClick={() => navigate('/modulo/curso_mergulho_autonomo_basico')}
+          className="inline-flex items-center gap-2 rounded-xl border border-ocean-400 px-5 py-2.5
+                     text-sm font-semibold text-ocean-700 hover:bg-ocean-50 active:scale-95 transition-all"
+        >
+          <BookOpen className="w-4 h-4" /> Ler Apostila
+        </button>
+      </motion.div>
+
+      {/* Badge de offline disponível */}
+      <div className="flex items-center gap-2 text-xs text-emerald-700 bg-emerald-50 border border-emerald-200 rounded-xl px-4 py-2">
+        <Wifi className="w-4 h-4" />
+        O módulo de Mergulho Autônomo já está disponível offline
+      </div>
+    </div>
+  )
+}
