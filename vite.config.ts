@@ -6,6 +6,7 @@ export default defineConfig(async () => {
   const reactPlugin = (await import('@vitejs/plugin-react')).default
 
   return {
+    base: '/Curso-Mergulho-DCM/',
     plugins: [
       reactPlugin(),
       VitePWA({

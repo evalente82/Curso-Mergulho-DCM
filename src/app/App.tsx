@@ -25,7 +25,7 @@ const pageVariants = {
 // ─── App Root ─────────────────────────────────────────────────────────────────
 export default function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/Curso-Mergulho-DCM">
       <AppShell />
     </BrowserRouter>
   )
