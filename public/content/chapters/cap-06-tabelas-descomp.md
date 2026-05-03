@@ -4,6 +4,7 @@ moduleId: "curso_mergulho_autonomo_basico"
 title: "Tabelas de Descompressão"
 number: 6
 ---
+
 Tabelas de descompressão 6
 
 6.1 EMPREGO DAS TABELAS DE DESCOMPRESSÃO
@@ -78,15 +79,6 @@ nitrogênio que ainda resta dissolvido no organismo do mergulhador no
 momento em que vai DS em um mergulho repetitivo, já transformado em
 tempo (minutos) e em relação à profundidade máxima que se programou
 atingir no novo mergulho.
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-079.png)
-
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-080.png)
-
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-081.jpg)
-
 
 LETRA DO GRUPO REPETITIVO (LGR) - É uma letra relacionada com
 um mergulho, utilizada para calcular o TRN de um mergulho repetitivo.
@@ -300,6 +292,9 @@ maior.
 
 EXEMPLO GRÁFICO DEMONSTRATIVO DE MERGULHO
 
+![](/assets/content/curso_mergulho_autonomo_basico/img/tabelas-descomp_demonstrativo_mergulho_altitude_mergulhadores.png)
+
+
 6.2 -TEMPO DE ESPERA PARA VOAR
 Um intervalo de superfície de 12 horas é necessário para garantir que o
 mergulhador fique livre dos sintomas do Mal Descompressivo quando voar
@@ -314,39 +309,47 @@ geral considerar como mergulho em altitude aquele realizado sob uma
 lâmina d'água situada a mais de 300 metros de altitude. Simplificando, é o
 mergulho em locais situados a mais de 300 acima do nível dos mares.
 
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-067.png)
-
-
                                                                                                                     92
 
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-076.png)
+---
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/tabelas-descomp_para_cima_soltar_inclusive.jpg)
 
 
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-077.png)
+![](/assets/content/curso_mergulho_autonomo_basico/img/tabelas-descomp_superior_lateral_para_cima.png)
 
 
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-078.png)
+![](/assets/content/curso_mergulho_autonomo_basico/img/tabelas-descomp_para_cima_como_subir.png)
 
 
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-073.jpg)
+![](/assets/content/curso_mergulho_autonomo_basico/img/tabelas-descomp_flutuabilidade_negativa_chumbo_cinto.png)
 
 
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-074.jpg)
+![](/assets/content/curso_mergulho_autonomo_basico/img/tabelas-descomp_flutuabilidade_negativa_chumbo_cinto.png)
 
 
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-075.png)
+![](/assets/content/curso_mergulho_autonomo_basico/img/tabelas-descomp_positiva_deve_visor_mascara.png)
 
 
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-068.png)
+![](/assets/content/curso_mergulho_autonomo_basico/img/tabelas-descomp_errado_errado_deixa_funcionar.png)
 
 
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-069.png)
+![](/assets/content/curso_mergulho_autonomo_basico/img/tabelas-descomp_decantada_certo_errado_errado.jpg)
 
 
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-070.png)
+![](/assets/content/curso_mergulho_autonomo_basico/img/tabelas-descomp_suspensao_decantada_certo_errado.jpg)
 
 
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-071.jpg)
+![](/assets/content/curso_mergulho_autonomo_basico/img/tabelas-descomp_x_x.jpg)
 
 
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-072.jpg)
+![](/assets/content/curso_mergulho_autonomo_basico/img/tabelas-descomp_x_x.png)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/tabelas-descomp_x_x.png)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/tabelas-descomp_x_x.jpg)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/tabelas-descomp_x_x.png)

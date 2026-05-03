@@ -4,6 +4,7 @@ moduleId: "curso_mergulho_autonomo_basico"
 title: "Física Aplicada ao Mergulho"
 number: 4
 ---
+
 Física aplicada ao mergulho 4
 
 4.1 - NOÇÕES DE FÍSICA
@@ -21,6 +22,9 @@ moléculas de que a matéria é formada, ela terá características diferentes. 
 ÁGUA (matéria) é formada por moléculas de água. Uma molécula de água é
 formada por dois átomos de hidrogênio e um de oxigênio.
 
+![](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_caracteristicas_diferentes_divide_estados.png)
+
+
 A matéria se divide em três estados:
 SÓLIDOS: Forma e volume definidos. São incompressíveis.
 LÍQÜIDO: Forma do recipiente que o contém, volume definido. São
@@ -29,14 +33,14 @@ GASOSO: Forma e volume indefinidos adquirem a forma e o volume do
 recipiente que os contém. São compressíveis (diminuem de volume com o
 aumento da pressão).
 
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-020.png)
-
-
                                                                                                                     25
 O ar atmosférico por nós respirado durante o mergulho é, uma mistura
 gasosa que, em condições hiperbáricas, tem comportamento diferente
 daquela observada na pressão atmosférica, com a seguinte composição
 aproximada:
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_composicao_aproximada_nitrogenio_oxigenio.png)
+
 
 GÁS            FÓRMULA  PERCENTUAL
 Nitrogênio              78,08 %
@@ -44,10 +48,16 @@ Oxigênio       N²       20,95 %
 Gás carbônico  O²       0,03 %
 Outros gases   CO²      0,94%
 
+![](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_outros_gases_preocupamos_principalmente.png)
+
+
                ---
 
 Para efeitos de cálculo no mergulho com ar podemos utilizas as
 porcentagens de 80% de N² e 20% de O² .
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_podemos_utilizas_componentes_alguns.png)
+
 
 No mergulho com AR COMPRIMIDO nos preocupamos principalmente
 com o oxigênio e o nitrogênio seus principais componentes, e com alguns
@@ -124,13 +134,13 @@ Se nós tivermos uma bola com um volume de 10 litros, ao nível do mar
 profundidade (pressão absoluta = 2 atm) o volume da mesma bola será
 reduzido a metade do volume inicial (5 litros).
 
+![](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_retomam_normal_inicial_litros.png)
+
+
                            A 10 m será de 1/2
                            A 20 m será de 1/3
                            A 30 m será de 1/4
                            A 40 m será de 1/5
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-024.png)
-
 
                                                                                                                     28
 Ao contrario se subirmos com uma bola de 10 litros, dos dez metros de
@@ -149,17 +159,17 @@ maneira, a pressão varia proporcionalmente com a temperatura se o volume
 se mantiver constante.
 "A uma pressão constante o volume natural de uma mesma quantidade de
 
+![](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_varia_proporcionalmente_temperatura_volume.jpg)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_varia_proporcionalmente_temperatura_volume.jpg)
+
+
                gás é proporcional a uma temperatura absoluta.”
 Equação Geral dos Gases
 Quando temos certo volume de gás a uma temperatura e pressão, e fazemos
 com que todas estas variáveis se alterem, é a combinação da Lei de Boyle
 com a Lei de Charles o que pode se enunciar:
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-025.jpg)
-
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-026.jpg)
-
 
                                                                                                                     29
 "Quando uma quantidade de gás suporta uma variação de pressão e /ou
@@ -173,6 +183,9 @@ onde:
        T é a temperatura termodinâmica.
        kPT é uma constante.
 
+![](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_onde_pressao_diferentes_estando.jpg)
+
+
 Portanto para comparar a mesma substância em estados diferentes (estando
 de acordo com as condições acima) afirma-se que:
 
@@ -183,6 +196,9 @@ por cada gás é chamada de pressão parcial, e a força exercida pela mistura
 (chamada de pressão total) é a sorna de todas as pressões parciais dos gases
 constituintes. O ar é composto em grande parte de cerca de 20 % de oxigênio
 e 80 % de nitrogênio. Se o ar fosse encerrado dentro de um recipiente e todo
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_cada_exerce_cerca_oxigenio.png)
+
 
 o oxigênio removido, a pressão cairia de l Kg para 0,8 Kgf./cm². E se em vez
 disso o nitrogênio fosse removido, a pressão baixaria para 0,2 Kgf./cm².
@@ -195,14 +211,11 @@ mar.
  sozinho o volume global de mistura: a pressão total da mistura é a soma
          das pressões parciais dos diferentes gases que a compõem”
 
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-027.jpg)
-
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-028.png)
-
-
                                                                                                                     30
 Pp X (O2) +  Pp Y (N2) = P mistura X+Y(Ar)
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_mistura_x_y_ar_liquido_sofre.png)
+
 
 Principio de Arquimedes
 
@@ -213,10 +226,7 @@ objeto desloca um volume de líquido de peso exatamente igual ao seu, diz-se
 que tem flutuabilidade neutra; não afunda nem flutua. Se o peso do objeto é
 desloca uma quantidade de líquido de peso menor que o seu, o objeto afunda.
 
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-029.png)
-
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-030.jpg)
+![](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_liquido_sofre_peso_objeto.jpg)
 
 
                                                                                                                     31
@@ -224,13 +234,13 @@ desloca uma quantidade de líquido de peso menor que o seu, o objeto afunda.
    vertical dirigida de baixo para cima de intensidade igual ao peso do
                            volume de liquido deslocado.”
 
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-031.jpg)
+![](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_igual_peso_liquido_deslocado.png)
 
 
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-032.png)
+![](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_igual_peso_liquido_deslocado.png)
 
 
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-033.png)
+![](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_submetido_forca_liquido_deslocado.jpg)
 
 
                                                                                                                     32
@@ -241,6 +251,12 @@ todas as direções com igual intensidade.
   “Quando um ponto de um líquido em equilíbrio sofre uma variação de
  pressão, todos os outros pontos do líquido também irão sofrer a mesma
 
+![](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_sofrer_mesma_dissolvido_pela.png)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_sofrer_mesma_dissolvido_pela.png)
+
+
                                         variação.”
 Lei de Henry
 É interessante substituir a noção de quantidade de gás dissolvido pela noção
@@ -249,6 +265,9 @@ estado de saturação, estabelecer uma simples comparação de pressões.
  "Para um sistema liquido/gás e temperatura constante a solubilidade do
 gás no liquido é proporcional á pressão excedia por este gás neste líquido.
 “Numa mistura gasosa, a quantidade dissolvida de cada gás da mistura é
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_pressao_parcial_liquidas_moleculas.jpg)
+
 
                           proporcional à pressão parcial”
 
@@ -265,11 +284,17 @@ liquido) e a pressão de gás livre (na
 atmosfera) estão em equilíbrio: Fase de
 equilíbrio
 
+![](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_fase_equilibrio_dissolvido_inferior.jpg)
+
+
 ESTADO DE NÃO SATURAÇÃO -
 Um líquido é dito não saturado quando
 a tensão de gás dissolvido é inferior a
 pressão do gás livre na superfície: Fase
 de absorção de gás.
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_superficie_fase_dito_supersaturado.jpg)
+
 
 ESTADO DE SUPERSATURAÇÃO -
 Um líquido é dito supersaturado
@@ -281,13 +306,10 @@ máximo que um líquido pode admitir
 antes da liberação espontânea do gás
 em formas de bolhas (macro bolhas)
 
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-034.png)
+![](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_pode_admitir_equivalencia_padrao.png)
 
 
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-035.png)
-
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-036.jpg)
+![](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_dito_supersaturado_critica_nivel.jpg)
 
 
 4.4 - UNIDADES DE EQUIVALÊNCIA PADRÃO
@@ -295,18 +317,6 @@ em formas de bolhas (macro bolhas)
 Em nosso país podemos encontrar nas escolas o sistema métrico de medidas,
 mas no mergulho muitas vezes utilizamos o sistema inglês, isto porque
 muitos dos equipamentos que usamos são fabricados por empresas cujo país
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-037.jpg)
-
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-038.jpg)
-
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-039.jpg)
-
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-040.png)
-
 
                                                                                                                     34
 de origem adota esse sistema. É interessante que o mergulhador saiba
@@ -426,6 +436,9 @@ a pressão atmosférica. Os manômetros são construídos de modo que seu zero
 indique a pressão atmosférica. Exceto quando especificada, a leitura de uma
 pressão refere-se à pressão manométrica.
 
+![](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_pressao_relativa_calculo_consumo.png)
+
+
 Pressão Absoluta
 
 Pressão absoluta (Pabs) ou pressão total (Pt)
@@ -449,9 +462,6 @@ quantidade que iremos consumir em relação
 condições físicas, temperatura da água, esforço físico, etc.).
 
 Cálculo do Consumo em Relação à Profundidade
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-041.png)
-
 
 Para calcularmos o consumo de ar do mergulhador em diferentes
 profundidades basta multiplicar-mos o consumo ao nível do mar pela
@@ -506,7 +516,7 @@ refletida do objeto. Todas as outras cores são absorvidas e não podem ser
 vistas. No caso do mar, a luz vermelha é absorvida assim que rompe pela
 superfície da água. E a uma profundidade de cerca de oito metros
 
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-042.png)
+![](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_total_otica_absorvidas_podem.png)
 
 
                                                                                                                     39
@@ -520,6 +530,9 @@ metros. Só restam os raios mais curtos: azul índigo e violeta. Abaixo de
 trinta metros ou por ai, toda luz parece um azul monocromática. Assim
 quando o mar é puro e claro, como acontece no oceano aberto, à tonalidade
 menos absorvida do espectro, azul, é refletida para os olhos.
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_altura_trinta_para_olhos.jpg)
+
 
 Mergulhe no mar, abra os olhos, olhe ao redor. O que você vê? Formas
 indistintas, completamente desfocadas. Sem detalhes. Cores esmaecidas,
@@ -539,9 +552,6 @@ uma máscara não é um instrumento perfeito. A refração da luz através da
 superfície plana de separação entre a água e o ar, como a placa de vidro de
 uma máscara ou um aquário, possui o efeito de ampliar tudo o que vemos em
 33%. Um peixe visto a três metros de distância parece estar apenas a dois
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-043.jpg)
-
 
                                                                                                                     40
 metros, e dá a impressão de ser do tamanho que você esperaria se estivesse a
@@ -563,7 +573,7 @@ consegue saber de onde ele está vindo.
 Nesta situação um mergulhador em apnéia no fundo é obrigado a uma difícil
 decisão: terá fôlego para esperar a embarcação passar ou sobe
 
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-044.png)
+![](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_maior_realidade_perigo_potencial.png)
 
 
                                                                                                                     41
@@ -573,15 +583,8 @@ deve rebocar uma bóia, de preferência com uma bandeira. Mesmo que um
 “lancheiro” ignore seu significado, vai se manter afastado para evitar um
 enrosco em seu hélice.
 
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-045.png)
-
-
                                                                                                                     42
 
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-021.png)
+---
 
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-022.png)
-
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-023.png)
+![](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_x_para_evitar.png)

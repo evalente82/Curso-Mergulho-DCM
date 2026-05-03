@@ -4,6 +4,7 @@ moduleId: "curso_mergulho_autonomo_basico"
 title: "Equipamentos"
 number: 3
 ---
+
 Equipamentos  3
 
 3.1 - EQUIPAMENTOS
@@ -282,6 +283,9 @@ Conjunto de respiração subaquático autônomo, composto por um ou mais
 cilindros de alta pressão, conjunto de válvulas (1° e 2° estágios) e B.C.,
 manômetro e profundímetro
 
+![](/assets/content/curso_mergulho_autonomo_basico/img/equipamentos_valvulas_estagios_profundimetro_narguile.png)
+
+
 Narguile
 
 Caracteriza-se por ser um equipamento de respiração subaquático
@@ -305,9 +309,6 @@ conjunto de respiração subaquático autônomo (circuito aberto), e
 deixaremos para outra oportunidade a análise do equipamento dependente e
 de circuito aberto.
 
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-003.png)
-
-
                                                                                                                     16
 Cilindro
 
@@ -322,12 +323,6 @@ Atualmente estão muitos difundidos cilindros de aço cromo molibdênio
 revestidos por camadas externa de outros materiais não ferrosos, entre eles o
 alumínio.
 
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-004.png)
-
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-005.png)
-
-
 No corpo do cilindro deve conter as marcas da data de fabricação (data do
 primeiro teste hidrostático), do último teste hidrostático, tipo de material,
 pressão de trabalho, volume interno, número de série, órgão de fiscalização,
@@ -338,6 +333,12 @@ caso dos cilindros um teste hidrostático a cada cinco anos expondo-o a uma
 pressão de teste maior que a de trabalho (geralmente uma vez e meia)
 calculando desta forma a deformidade temporária e permanente do cilindro.
 E sujeita-lo a uma inspeção visual interna a cada ano.
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/equipamentos_manutencao_preventiva_interna_cada.png)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/equipamentos_manutencao_preventiva_interna_cada.png)
+
 
           CTC/DOT - 3AL - 3000 - 580 POOOO LUXFER 8A82
 
@@ -529,46 +530,48 @@ determinados gases se tornam tóxicos. A única maneira de evitar esse efeito
 indireto da pressão é diminuindo a porcentagem desses gases na mistura (ex.
 oxigênio e nitrogênio).
 
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-009.jpg)
-
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-010.jpg)
-
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-011.jpg)
-
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-012.jpg)
-
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-013.jpg)
-
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-014.jpg)
-
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-015.png)
-
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-016.png)
-
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-017.png)
-
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-018.png)
-
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-019.png)
-
-
                                                                                                                     23
 24
 
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-006.png)
+---
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/equipamentos_x_x.png)
 
 
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-007.jpg)
+![](/assets/content/curso_mergulho_autonomo_basico/img/equipamentos_x_x.jpg)
 
 
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-008.png)
+![](/assets/content/curso_mergulho_autonomo_basico/img/equipamentos_x_x.jpg)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/equipamentos_x_x.png)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/equipamentos_x_x.png)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/equipamentos_x_x.jpg)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/equipamentos_x_x.jpg)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/equipamentos_x_x.png)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/equipamentos_x_x.jpg)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/equipamentos_x_x.jpg)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/equipamentos_x_x.png)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/equipamentos_x_x.png)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/equipamentos_x_x.jpg)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/equipamentos_x_x.png)

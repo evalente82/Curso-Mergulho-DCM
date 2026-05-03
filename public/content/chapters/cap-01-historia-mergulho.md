@@ -4,6 +4,7 @@ moduleId: "curso_mergulho_autonomo_basico"
 title: "História do Mergulho"
 number: 1
 ---
+
 História do mergulho  1
 
              (IN: Cousteau, Jaques-Yves. O Mundo dos Oceanos)
@@ -111,6 +112,9 @@ fantasiosa demais, além de impraticáveis. Em 1715, por exemplo, John
 Lethbridge descreveu sua caixa de couro com cavas em que alegava ter
 descido a “dez braças muitas centenas de vezes” - um feito impossível.
 
+![](/assets/content/curso_mergulho_autonomo_basico/img/historia-mergulho_feito_impossivel_feito_impossivel.jpg)
+
+
 Em 1715, um inventor inglês, John Lethbridge, projetou este implausível aparato blindado
 para mergulhos. Alegou ter descido a dez braças no tanque lacrado centenas de vezes - um
 feito impossível.
@@ -120,9 +124,6 @@ resolvidos por um traje de mergulho articulado. Os projetos antigos usavam
 pregas de couro como as de um acordeom para as articulações, mas sempre
 endureciam e encolhiam sob a pressão. O primeiro traje bem-sucedido,
 patenteado em 1913, combinava articulações de bilhas e esfera para
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-000.jpg)
-
 
                                                                                                                      5
 aumentar a flexibilidade. Não obstante, durante a primeira operação de
@@ -151,7 +152,7 @@ carbono. Na segunda Guerra Mundial os homens-rã usaram esse sistema,
 que provavelmente levou-os aos limites, descobrindo que o oxigênio puro
 sob pressão causa convulsões perigosas e que os mergulhos prolongados de
 
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-001.jpg)
+![](/assets/content/curso_mergulho_autonomo_basico/img/historia-mergulho_verne_vinte_liberdade_curta.jpg)
 
 
                                                                                                                      6
@@ -209,6 +210,9 @@ permitindo o fluxo de ar para o mergulhador. O ar expirado flui por uma válvula
 saída (G) para a câmara (H), que é aberta para a água através de orifícios (linhas
 pontilhadas).
 
+![](/assets/content/curso_mergulho_autonomo_basico/img/historia-mergulho_pressao_camara_flui_valvula.jpg)
+
+
                                                                                                                      8
 
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-002.jpg)
+---

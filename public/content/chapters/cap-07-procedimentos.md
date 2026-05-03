@@ -4,6 +4,7 @@ moduleId: "curso_mergulho_autonomo_basico"
 title: "Procedimentos, Técnica e Sinais"
 number: 7
 ---
+
 Procedimentos, Técnica e Sinais 7
 
 Desembaçando a Máscara
@@ -139,6 +140,9 @@ em direção ao BC deixando que os bolsos (abas) passem por de baixos dos
 braços. Este procedimento deve ser evitado quando o mar estiver agitado,
 muito frio ou com forte correnteza para evitar perda de calor
 
+![](/assets/content/curso_mergulho_autonomo_basico/img/fisiologia_respeitar_tempo_giria_pesca.jpg)
+
+
                                                                                                                     95
 desnecessariamente ou deriva para longe do barco enquanto se efetua a
 equipagem.
@@ -178,21 +182,6 @@ Há sempre uma quantidade de ondas menores seguidas por ondas maiores.
 Esta seqüência se estende com uma constante o dia todo. À hora de entrar é
 logo após, a última seqüência de ondas maiores.
 
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-068.png)
-
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-069.png)
-
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-070.png)
-
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-071.jpg)
-
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-072.jpg)
-
-
                                                                                                                     96
 97
 Como Bater Perna
@@ -202,6 +191,9 @@ ainda mais.
 Em atividades especificas como mergulhos em cavernas, existem batidas de
 pernas apropriadas, para lugares apertados e de modo a não levantar a
 suspensão decantada.
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/tabelas-descomp_suspensao_decantada_certo_errado.jpg)
+
 
                                                             CERTO
 
@@ -220,15 +212,6 @@ Cada um respira duas vezes e passa ao companheiro. Após estabelecer um
 calmo regime de trocas, deverá ser iniciada a subida. Nessa ocasião
 obviamente, se tem de exalar de maneira adequada.
 
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-073.jpg)
-
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-074.jpg)
-
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-075.png)
-
-
                                                                                                                     98
 Como Controlar a flutuabilidade
 
@@ -238,25 +221,25 @@ colocar-se na posição vertical, sem bater os pés, ao inspirar você fica
 boiando e ao expirar você começa a afundar, a linha d'água fica na altura do
 visor da máscara.
 
+![](/assets/content/curso_mergulho_autonomo_basico/img/tabelas-descomp_positiva_deve_visor_mascara.png)
+
+
 Em mergulho livre, isso significa que você terá flutuabilidade positiva até
 aproximadamente quatro metros de profundidade. Entre os quatro e oito
 metros de profundidade, terá flutuabilidade neutra e abaixo dos oito metros
 de profundidade flutuabilidade negativa.
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/tabelas-descomp_flutuabilidade_negativa_chumbo_cinto.png)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/tabelas-descomp_flutuabilidade_negativa_chumbo_cinto.png)
+
 
 Quando mergulhando em locais de rasa profundidade (até 6 metros),
 principalmente se utilizando equipamento de respiração subaquática é
 conveniente acrescentar mais 1 Kg de chumbo em seu cinto.
 
 ENCHER  ESVAZIAR
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-076.png)
-
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-077.png)
-
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-078.png)
-
 
                                               99
 Como Desalagar a Máscara
@@ -266,6 +249,12 @@ máscara e expirar pelo nariz com a cabeça, olhando para cima.
 Na posição horizontal, comprimimos com a mão a parte superior lateral da
 máscara, e expiramos pelo nariz.
 
+![](/assets/content/curso_mergulho_autonomo_basico/img/tabelas-descomp_superior_lateral_para_cima.png)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/tabelas-descomp_para_cima_como_subir.png)
+
+
 Como Subir
 - Olhando para cima.
 - Se a água estiver muito suja, com a mão para cima.
@@ -274,16 +263,7 @@ velocidade de subida máxima de 9 m por minuto. Todas
 as bolhas que o mergulhador soltar (inclusive as
 menores) deve estar acima do mergulhador.
 
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-063.jpg)
-
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-079.png)
-
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-080.png)
-
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-081.jpg)
+![](/assets/content/curso_mergulho_autonomo_basico/img/tabelas-descomp_para_cima_soltar_inclusive.jpg)
 
 
                                                                                                                   100
@@ -331,7 +311,7 @@ sem bebida alcoólica.
 - Não fume, se fumar antes de mergulhar, terá 7% de suas hemácias (células
 que transportam oxigênio) transportando CO (monóxido de carbono). Isto
 
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-064.png)
+![](/assets/content/curso_mergulho_autonomo_basico/img/fisiologia_evolucao_sinais_mais_proxima.jpg)
 
 
                                                                                                                   101
@@ -345,20 +325,43 @@ tipo: dor de cabeça, câimbras, etc.
 - Nunca faça tudo o que você acha que pode fazer, faça sempre 30% menos.
 - Ajude seus colegas.
 
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-082.png)
-
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-083.jpg)
+![](/assets/content/curso_mergulho_autonomo_basico/img/tabelas-descomp_demonstrativo_mergulho_altitude_mergulhadores.png)
 
 
                                                                                                                   102
 103
 104
 
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-067.png)
+---
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/procedimentos_x_x.jpg)
 
 
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-066.jpg)
+![](/assets/content/curso_mergulho_autonomo_basico/img/procedimentos_x_x.png)
 
 
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-065.jpg)
+![](/assets/content/curso_mergulho_autonomo_basico/img/tabelas-descomp_errado_errado_deixa_funcionar.png)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/tabelas-descomp_decantada_certo_errado_errado.jpg)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/tabelas-descomp_x_x.jpg)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/tabelas-descomp_x_x.png)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/tabelas-descomp_x_x.png)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/tabelas-descomp_x_x.jpg)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/tabelas-descomp_x_x.png)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/fisiologia_respirar_forcam_nesse_primeiros.jpg)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/fisiologia_ganha_oxigenio_sistema_aciona.png)

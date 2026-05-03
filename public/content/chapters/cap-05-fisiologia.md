@@ -4,6 +4,7 @@ moduleId: "curso_mergulho_autonomo_basico"
 title: "Fisiologia do Mergulho"
 number: 5
 ---
+
 Fisiologia do mergulho  5
 
 Neste capítulo abordaremos somente a parte da anatomia e fisiologia que
@@ -22,6 +23,9 @@ infecções. Plaquetas - Ajuda na coagulação do sangue.
 O sangue transporta o O2 e a glicose até as células. Estas duas substâncias
 citadas são básicas para o funcionamento celular.
 
+![](/assets/content/curso_mergulho_autonomo_basico/img/fisiologia_funcionamento_celular_paredes_vasculares.jpg)
+
+
 O N2 é transportado dissolvido no plasma.
 
                              Células dos tecidos. Paredes vasculares.
@@ -33,9 +37,6 @@ Sistema Muscular - Movimentação, e proteção aos órgãos vitais.
 Sistema Nervoso - Coordena todas as funções e atividades do corpo humano.
 Sistema Circulatório - Conduz o alimento celular do local de entrada no
 organismo até todas as células do corpo.
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-046.jpg)
-
 
                                                                                                                     43
 Sistema Respiratório – É o conjunto de órgãos responsáveis pelas trocas
@@ -76,6 +77,9 @@ CO2 para que ele seja
 
 eliminado na respiração
 
+![](/assets/content/curso_mergulho_autonomo_basico/img/fisiologia_eliminado_respiracao_gasosa_chamada.jpg)
+
+
 do ar dos pulmões, após
 
 a troca gasosa, chamada
@@ -110,9 +114,6 @@ longitudinais, que não se comunicam. Por sua vez, cada parte é dividida
 transversalmente em duas cavidades comunicantes. As superiores são as
 
 aurículas, as inferiores os ventrículos. Na metade direita, circula o sangue
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-047.jpg)
-
 
                                44
 venoso, na esquerda o arterial.
@@ -154,7 +155,7 @@ pressão parcial do
 no sangue venoso) e
 cede CO2 para o ar.
 
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-048.jpg)
+![](/assets/content/curso_mergulho_autonomo_basico/img/fisiologia_organismo_esse_nivel_alveolar.jpg)
 
 
                                  45
@@ -181,6 +182,9 @@ provocando assim a entrada do
 ar atmosférico pelo nariz e
 boca.
 
+![](/assets/content/curso_mergulho_autonomo_basico/img/fisiologia_demais_levantam_nova_forma.jpg)
+
+
 Expiração: Intercostais relaxam, as costelas voltam à posição reduzindo a
 caixa (o diafragma que estava estendido levanta-se encurtando a caixa),
 assim o ar é expulso dos pulmões.
@@ -201,9 +205,6 @@ O significado de cada um desses volumes é o seguinte:
 
 1 - O volume de ar corrente é o volume de ar inspirado e expirado a cada
 inspiração normal e equivalente a cerca de 500 ml no adulto jovem.
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-049.jpg)
-
 
                                                                                                                     46
 2 - O volume inspiratório de ar reserva é o volume de ar adicional que
@@ -234,9 +235,6 @@ E constituído pela orelha externa, orelha média e orelha interna.
 Tímpano - é uma parede delgada que separa a orelha média da orelha interna
 e a faringe.
 
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-050.jpg)
-
-
  À medida que o mergulhador desce, ele terá que compensar o ouvido
                            quantas vezes for necessário.
 
@@ -245,6 +243,9 @@ o nariz e a boca tentando soprar para fora).
 Se por acaso não consegui compensar, deve subir e abortar o mergulho. É o
 melhor e mais aconselhável a fazer.
 Se continuar forçando, poderá ter BAROTRAUMA DA ORELHA.
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/fisiologia_barotrauma_orelha_tuba_auditiva.png)
+
 
                                          orelha externa orelha média orelha interna
 
@@ -256,9 +257,6 @@ face.
 Todos eles possuem comunicação com as fossas nasais e são revestidos por
 uma camada de células muito delicada. Entre esta camada de células e o
 tecido ósseo apresentam-se vasos sanguíneos.
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-051.png)
-
 
                                                                                                                     48
 5.2 - OS EFEITOS DIRETOS DA PRESSÃO NO ORGANISMO
@@ -313,6 +311,9 @@ pelo ar vindo da faringe. A pressão na orelha externa passa a deformar a
 membrana timpânica, que sofre um abaulamento, podendo romper-se com
 facilidade.
 
+![](/assets/content/curso_mergulho_autonomo_basico/img/fisiologia_podendo_romper_se_facilidade_causas.png)
+
+
 Causas.                                  .
 
  Velocidade de descida do mergulhador.
@@ -324,9 +325,6 @@ Causas.                                  .
  Infecção nas vias aéreas superiores.
 
  Otites agudas ou crônicas.
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-053.png)
-
 
                                          50
 Obs.: Esse barotrauma pode ocorrer com ou sem ruptura de Tímpano.
@@ -376,9 +374,6 @@ interior. A obstrução num destes condutos por um processo inflamatório ou
 por muco, impede o equilíbrio da pressão ambiente com a do interior dos
 sinus causando problemas tais como edemas e hemorragias.
 
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-052.jpg)
-
-
                                                                                                                     51
 Sintomas.
 Forte dor localizada e sangramento pelo nariz.
@@ -402,12 +397,12 @@ nasais. Caso contrário, a pressão relativamente menor no interior da máscara
 transformará esta numa verdadeira ventosa causando lesões ao redor do
 globo ocular e nos tecidos da face.
 
+![](/assets/content/curso_mergulho_autonomo_basico/img/fisiologia_comunicacao_fossas_tecidos_face.jpg)
+
+
 Expansão do Estômago e Intestinos
 É proveniente da expansão dos gases deglutidos durante o mergulho quando
 o mergulhador está subindo.
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-054.jpg)
-
 
                                                                                                                     52
 Barotrauma Cutâneo ou de Roupa
@@ -632,15 +627,12 @@ FONTE: casuística da BACS (Marinha do Brasil)
 Intoxicação pelo Nitrogênio (N2) - Narcose pelo Nitrogênio ou
 Embriaguez das Profundezas
 
+![](/assets/content/curso_mergulho_autonomo_basico/img/fisiologia_pelo_nitrogenio_parcial_nitrogenio.jpg)
+
+
  Efeito narcótico provocado por gases inertes ao se difundirem no sistema
 nervoso central. A ocorrência depende da pressão parcial do nitrogênio e da
 sua solubilidade nos tecidos. É semelhante à embriaguez causada pelo álcool
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-056.jpg)
-
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-057.png)
-
 
                                                                                                                     58
                             ou efeito de gases anestésicos.
@@ -649,6 +641,9 @@ metros de profundidade, manifestando-se de acordo com a suscetibilidade
 do indivíduo. Quando maior a profundidade, pelo efeito tóxico decorrente,
 maior a deterioração da destreza física e mental, até a apresentação de um
 quadro de desordem total das reações.
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/fisiologia_total_reacoes_esta_operacao.jpg)
+
 
 Profilaxia.
 Não mergulhar com ar comprimido em profundidades maiores que 40
@@ -661,9 +656,6 @@ Intoxicação pelo Oxigênio (O2)
 No mergulho amador, cujas profundidades superiores aos 35 metros não são
 recomendadas, o percentual de oxigênio contido no ar comprimido não
 oferecerá os efeitos que conhecemos como intoxicação.
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-058.jpg)
-
 
                                                                                                                     59
 Todavia qualquer mergulhador pode vir a precisar de submeter-se a
@@ -915,7 +907,7 @@ formação pela despressurização brusca se dá sem ponto de partida. No
 primeiro caso, essas partículas gasosas cresceriam por difusão dos gases do
 meio circunjacente para seu interior.
 
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-059.jpg)
+![](/assets/content/curso_mergulho_autonomo_basico/img/fisiologia_formando_bolhas_ponto_partida.jpg)
 
 
                                                                                                                     65
@@ -961,6 +953,9 @@ formas clinicas.
 
 Formas de Manifestação
 
+![](/assets/content/curso_mergulho_autonomo_basico/img/fisiologia_formas_manifestacao_unico_sintoma.png)
+
+
 MANIFESTAÇÕES OSTEOMUSCULOARTICULARES - A dor desta
 origem é indiscutivelmente a manifestação mais freqüente: ocorre em mais
 de noventa por cento dos casos, pode constituir o único sintoma. Sua
@@ -981,9 +976,6 @@ espasticidade, distúrbios esfincterianos podem ocorrer com uma distribuição
 correspondente à área medular atingida. O comprometimento dos centros
 nervosos superiores mais encontrados em acidentes com aviadores,
 trabalhadores de caixões pneumáticos e no interior de câmaras hiperbáricas
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-060.png)
-
 
                                                                                                                     67
 caracteriza-se por comprometimento progressivo da consciência, colapso,
@@ -1018,6 +1010,9 @@ vasos sangüíneos abdominais, com
 fuga de considerável volume de
 líquido para a cavidade peritoneal.
 
+![](/assets/content/curso_mergulho_autonomo_basico/img/fisiologia_quadro_choque_consideravel_volume.png)
+
+
 Outra explicação é a formação das
 bolhas nas glândulas supra-renais.
 Esse quadro, por vezes bastante
@@ -1025,9 +1020,6 @@ grave ou mesmo mortal deve ser
 combatido precocemente
 
 Para Fins de Tratamento da Doença Descompressiva é Dividido em:
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-061.png)
-
 
                                                                                                                     68
 Doença Descompressiva Tipo I - Doença descompressiva onde os sintomas
@@ -1084,17 +1076,20 @@ NA SUPERFÍCIE
 A posição correta para remoção ou espera do paciente com provável EAG ou
 DD deve obedecer ao seguinte procedimento:
 
+![](/assets/content/curso_mergulho_autonomo_basico/img/fisiologia_atencao_respiracao_seguinte_procedimento.png)
+
+
     Deitado de bruços, levemente virado sobre o lado esquerdo.
     Administre O2 puro.
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-062.png)
-
 
                                                                                                                     70
 PROCEDIMENTOS APÓS A CONDUTA NA SUPERFÍCIE
 
 Tanto o paciente afogado como com EAG ou DD deverão ser aquecidos e
 adiministrar oxigênio puro se possível.
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/fisiologia_evolucao_sinais_mais_proxima.jpg)
+
 
 O acompanhante deverá prestar atenção e anotar a evolução dos sinais e
 sintomas que o paciente e a conduta que está sendo realizada.
@@ -1109,9 +1104,6 @@ tratamento deverá ser realizado conjuntamente.
 
 No caso de DD ou EAG que seja necessário realizar o método de
 ressuscitarão, o paciente terá que ficar com o ventre para cima.
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-063.jpg)
-
 
                                                                                                                     71
 5.3 - "APAGAMENTO" E OUTRAS SÍNCOPES DO MERGULHO
@@ -1140,6 +1132,9 @@ hiperventilação) obriga também a uma
 expiração, se perde mais CO2 do que a
 quantidade que se ganha em oxigênio.
 
+![](/assets/content/curso_mergulho_autonomo_basico/img/fisiologia_ganha_oxigenio_sistema_aciona.png)
+
+
 Iniciando-se o mergulho com um percentual
 baixo de dióxido de carbono, vai demorar
 mais para que o sistema que aciona a
@@ -1157,9 +1152,6 @@ respirar e o coerente fim daquela apnéia,
 pode acontecer que o O2 tenha chegado a
 níveis minimos. Então, o mergulhador
 "apaga" sem ter tido falta de ar.
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-064.png)
-
 
                                                                                                                     72
 A partir daí, duas hipóteses podem ocorrer:
@@ -1183,7 +1175,7 @@ Por estar abaixo da cota de equilíbrio, a tendência ser cada vez ir mais para 
 fundo. A menos que seja resgatado por um companheiro nesse primeiros
 minutos, as probabilidades de jamais ser encontrado são quase totais.
 
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-065.jpg)
+![](/assets/content/curso_mergulho_autonomo_basico/img/fisiologia_respirar_forcam_nesse_primeiros.jpg)
 
 
                                                                                                                     73
@@ -1246,7 +1238,7 @@ intervir a seu favor. É devido a freqüência deste acidente nas águas claras,
 que a água muito azul é chamada, na gíria da pesca sub, de "água
 azul-caixão".
 
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-066.jpg)
+![](/assets/content/curso_mergulho_autonomo_basico/img/fisiologia_respeitar_tempo_giria_pesca.jpg)
 
 
                                                                                                                     75
@@ -1616,4 +1608,15 @@ essa hipótese.”
 
                                                                                                                     84
 
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-055.png)
+---
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/fisiologia_difundirem_sistema_pelo_alcool.png)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/fisiologia_dental_sinusal_marinha_brasil.png)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/fisiologia_variacoes_hiperbaricas_pela_boyle.jpg)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/fisiologia_obviamente_maiores_expiracao_maximas.jpg)

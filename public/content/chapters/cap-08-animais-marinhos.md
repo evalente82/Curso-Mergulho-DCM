@@ -4,6 +4,7 @@ moduleId: "curso_mergulho_autonomo_basico"
 title: "Animais Marinhos"
 number: 8
 ---
+
 Animais Marinhos  8
 
 8.1 ANIMAIS MARINHOS
@@ -38,6 +39,12 @@ desagradável, o cauteloso mergulhador se vira e torna a enxotar o peixe - por
 alguns segundos. Esse jogo de intimidação pode se prolongar por horas, sem
 qualquer fadiga aparente de parte da barracuda.
 
+![](/assets/content/curso_mergulho_autonomo_basico/img/animais-marinhos_barracuda_manganga_mimetizar_pedras.jpg)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/animais-marinhos_estava_aguas_direcao_barracuda.jpg)
+
+
 Mangangá
 
 O mangangá, também conhecido como
@@ -45,12 +52,6 @@ peixe-escorpião ou peixe-pedra, pela sua
 capacidade de se mimetizar com as pedras,
 possui uma aparência que não muito agradável;
 além de feio, é perigoso. Os lados e o focinho
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-084.jpg)
-
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-085.jpg)
-
 
                      105
 são cobertos por espinhos e dobras de pele. Os primeiros raios de suas
@@ -86,6 +87,9 @@ A moréia é uma grande comedora de carne e todos os peixes evitam chegar
 perto dos seus dentes curvos e pontudos. Existem 80 espécies de moréias
 vivendo em todos os mares quentes. Seu corpo cilíndrico tem somente duas
 
+![](/assets/content/curso_mergulho_autonomo_basico/img/animais-marinhos_somente_duas_costas_ventre.png)
+
+
                                     nadadeiras. Estas nadadeiras não são vistas
                                     facilmente e correm como fitas ao longo das
                                     costas e do ventre.
@@ -96,12 +100,6 @@ vivendo em todos os mares quentes. Seu corpo cilíndrico tem somente duas
 
 Escondida numa fendas de rocha, a moréia fica à espera de sua vítima. Ela
 tem excelente olfato e seu alimento favorito são os moluscos.
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-086.png)
-
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-087.png)
-
 
                                                                                                                   106
 Serpentes Marinhas
@@ -147,7 +145,7 @@ Raia é o nome genérico dos peixes da ordem dos Rajiformes. Há dois
                                    raias pequenas com espinhos laterais na cauda,
                                    e a raia-lisa, cuja cauda produz uma carga
 
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-088.png)
+![](/assets/content/curso_mergulho_autonomo_basico/img/animais-marinhos_rajiformes_dois_raias_venenosas.png)
 
 
                                                                                                                   107
@@ -176,6 +174,9 @@ para paralisar um inimigo agressor. Com esses
 pés, o ouriço-do-mar se movimenta lentamente
 pelo leito do mar, procurando abrigo nas cavidades das rochas e alimentos.
 
+![](/assets/content/curso_mergulho_autonomo_basico/img/animais-marinhos_possante_mecanismo_movimenta_lentamente.png)
+
+
 O alimento consiste principalmente em algas, mas o ouriço-do-mar come
 também pedaços de peixes e restos de animais. O mergulhador sem proteção
 adequada que se chocar num ouriço-do-mar logo saberá por que tem este
@@ -195,12 +196,6 @@ As inúmeras espécies de tubarões incluem algumas inofensivas, como o
 tubarão-zebra e o tubarão-de-pregas e outra carnívoras como o
 tubarão-branco, o tubarão-azul e o tubarão-tigre. Os menores alimentam-se
 de pequenos peixes nas águas próximas da costa, os mais agressivos são
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-089.png)
-
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-090.png)
-
 
                                                                                                                   108
 aqueles cujo tamanho e estruturas dos dentes indicam que são caçadores
@@ -234,7 +229,15 @@ peixinhos.
 
                                                                                                                   112
 
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-092.png)
+---
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/animais-marinhos_x_x.png)
 
 
-![](/assets/content/curso_mergulho_autonomo_basico/img/img-091.png)
+![](/assets/content/curso_mergulho_autonomo_basico/img/animais-marinhos_x_x.png)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/animais-marinhos_dolorosa_tubarao_marfim_recobertas.png)
+
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/animais-marinhos_pode_mesmo_rodeada_serpentes.png)

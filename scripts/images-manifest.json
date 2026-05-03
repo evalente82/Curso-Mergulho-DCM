@@ -1,0 +1,653 @@
+{
+  "img-000.jpg": {
+    "newName": "historia-mergulho_feito_impossivel_feito_impossivel.jpg",
+    "page": 5,
+    "fracY": 0.598,
+    "textBefore": "A maioria dos projetos antigos, até mesmo os de Leonardo da Vinci, era\r fantasiosa demais, além de i",
+    "textAfter": "Em 1715, um inventor inglês, John Lethbridge, projetou este implausível aparato blindado\r para mergu"
+  },
+  "img-001.jpg": {
+    "newName": "historia-mergulho_verne_vinte_liberdade_curta.jpg",
+    "page": 6,
+    "fracY": 0.384,
+    "textBefore": "Artefato de Rouquayrol e Denayrouze.\r \r Quatro anos antes da publicação do clássico de Júlio Verne, ",
+    "textAfter": "Léguas Submarinas, Benoît Rouquayrol e Auguste Denayrouze produziram\r um artefato que permitia ao me"
+  },
+  "img-002.jpg": {
+    "newName": "historia-mergulho_pressao_camara_flui_valvula.jpg",
+    "page": 8,
+    "fracY": 0.319,
+    "textBefore": "Sistema desenvolvido por Emile Gagnan e Jaques-Yves Cousteau.\r \r Como funciona a válvula reguladora:",
+    "textAfter": "cima da membrana (B), fazendo-a levantar. A alavanca (C) ativada por essa membrana\r permite o fluxo "
+  },
+  "img-003.png": {
+    "newName": "equipamentos_valvulas_estagios_profundimetro_narguile.png",
+    "page": 16,
+    "fracY": 0.177,
+    "textBefore": "Underwater Breathing Apparatus - SCUBA)\r \r Conjunto de respiração subaquático autônomo, composto por",
+    "textAfter": "manômetro e profundímetro\r \r Narguile"
+  },
+  "img-004.png": {
+    "newName": "equipamentos_manutencao_preventiva_interna_cada.png",
+    "page": 17,
+    "fracY": 0.678,
+    "textBefore": "pressão de trabalho, volume interno, número de série, órgão de fiscalização,\r etc.\r \r Todo equipamen",
+    "textAfter": "caso dos cilindros um teste hidrostático a cada cinco anos expondo-o a uma\r pressão de teste maior q"
+  },
+  "img-005.png": {
+    "newName": "equipamentos_manutencao_preventiva_interna_cada.png",
+    "page": 17,
+    "fracY": 0.677,
+    "textBefore": "pressão de trabalho, volume interno, número de série, órgão de fiscalização,\r etc.\r \r Todo equipamen",
+    "textAfter": "caso dos cilindros um teste hidrostático a cada cinco anos expondo-o a uma\r pressão de teste maior q"
+  },
+  "img-006.png": {
+    "newName": "equipamentos_x_x.png",
+    "page": 20,
+    "fracY": 0.171,
+    "textBefore": "",
+    "textAfter": "20"
+  },
+  "img-007.jpg": {
+    "newName": "equipamentos_x_x.jpg",
+    "page": 20,
+    "fracY": 0.474,
+    "textBefore": "",
+    "textAfter": "20"
+  },
+  "img-008.png": {
+    "newName": "equipamentos_x_x.png",
+    "page": 20,
+    "fracY": 0.777,
+    "textBefore": "20",
+    "textAfter": ""
+  },
+  "img-009.jpg": {
+    "newName": "equipamentos_x_x.jpg",
+    "page": 24,
+    "fracY": 0.236,
+    "textBefore": "",
+    "textAfter": "24"
+  },
+  "img-010.jpg": {
+    "newName": "equipamentos_x_x.jpg",
+    "page": 24,
+    "fracY": 0.484,
+    "textBefore": "",
+    "textAfter": "24"
+  },
+  "img-011.jpg": {
+    "newName": "equipamentos_x_x.jpg",
+    "page": 24,
+    "fracY": 0.751,
+    "textBefore": "24",
+    "textAfter": ""
+  },
+  "img-012.jpg": {
+    "newName": "equipamentos_x_x.jpg",
+    "page": 24,
+    "fracY": 0.75,
+    "textBefore": "24",
+    "textAfter": ""
+  },
+  "img-013.jpg": {
+    "newName": "equipamentos_x_x.jpg",
+    "page": 24,
+    "fracY": 0.514,
+    "textBefore": "24",
+    "textAfter": ""
+  },
+  "img-014.jpg": {
+    "newName": "equipamentos_x_x.jpg",
+    "page": 24,
+    "fracY": 0.271,
+    "textBefore": "",
+    "textAfter": "24"
+  },
+  "img-015.png": {
+    "newName": "equipamentos_x_x.png",
+    "page": 24,
+    "fracY": 0.322,
+    "textBefore": "",
+    "textAfter": "24"
+  },
+  "img-016.png": {
+    "newName": "equipamentos_x_x.png",
+    "page": 24,
+    "fracY": 0.142,
+    "textBefore": "",
+    "textAfter": "24"
+  },
+  "img-017.png": {
+    "newName": "equipamentos_x_x.png",
+    "page": 24,
+    "fracY": 0.556,
+    "textBefore": "24",
+    "textAfter": ""
+  },
+  "img-018.png": {
+    "newName": "equipamentos_x_x.png",
+    "page": 24,
+    "fracY": 0.873,
+    "textBefore": "24",
+    "textAfter": ""
+  },
+  "img-019.png": {
+    "newName": "equipamentos_x_x.png",
+    "page": 24,
+    "fracY": 0.673,
+    "textBefore": "24",
+    "textAfter": ""
+  },
+  "img-020.png": {
+    "newName": "fisica-mergulho_caracteristicas_diferentes_divide_estados.png",
+    "page": 25,
+    "fracY": 0.566,
+    "textBefore": "MATÉRIA é o nome genérico que indica tudo que podemos ver, que ocupa\r lugar no espaço e tem peso. A ",
+    "textAfter": "ÁGUA (matéria) é formada por moléculas de água. Uma molécula de água é\r formada por dois átomos de h"
+  },
+  "img-021.png": {
+    "newName": "fisica-mergulho_composicao_aproximada_nitrogenio_oxigenio.png",
+    "page": 26,
+    "fracY": 0.202,
+    "textBefore": "O ar atmosférico por nós respirado durante o mergulho é, uma mistura\r gasosa que, em condições hiper",
+    "textAfter": "GÁS            FÓRMULA  PERCENTUAL\r Nitrogênio              78,08 %\r Oxigênio       N²       20,95 %"
+  },
+  "img-022.png": {
+    "newName": "fisica-mergulho_podemos_utilizas_componentes_alguns.png",
+    "page": 26,
+    "fracY": 0.688,
+    "textBefore": "---\r \r Para efeitos de cálculo no mergulho com ar podemos utilizas as",
+    "textAfter": "porcentagens de 80% de N² e 20% de O² .\r \r No mergulho com AR COMPRIMIDO nos preocupamos principalme"
+  },
+  "img-023.png": {
+    "newName": "fisica-mergulho_outros_gases_preocupamos_principalmente.png",
+    "page": 26,
+    "fracY": 0.668,
+    "textBefore": "Outros gases   CO²      0,94%\r \r                ---",
+    "textAfter": "Para efeitos de cálculo no mergulho com ar podemos utilizas as\r porcentagens de 80% de N² e 20% de O"
+  },
+  "img-024.png": {
+    "newName": "fisica-mergulho_retomam_normal_inicial_litros.png",
+    "page": 28,
+    "fracY": 0.664,
+    "textBefore": "antes de mergulhar, terá seus pulmões sendo “espremidos”, à medida que\r desce e a pressão a sua volt",
+    "textAfter": "Se nós tivermos uma bola com um volume de 10 litros, ao nível do mar\r (pressão absoluta de = 1 atm) "
+  },
+  "img-025.jpg": {
+    "newName": "fisica-mergulho_varia_proporcionalmente_temperatura_volume.jpg",
+    "page": 29,
+    "fracY": 0.427,
+    "textBefore": "sujeito.”\r \r Lei de Charles e Gay Lussac\r A Lei de Charles nos explica que a pressão varia proporcio",
+    "textAfter": "temperatura se o volume se mantiver constante, é o que observamos ao\r recarregarmos os cilindros de "
+  },
+  "img-026.jpg": {
+    "newName": "fisica-mergulho_varia_proporcionalmente_temperatura_volume.jpg",
+    "page": 29,
+    "fracY": 0.409,
+    "textBefore": "sujeito.”\r \r Lei de Charles e Gay Lussac\r A Lei de Charles nos explica que a pressão varia proporcio",
+    "textAfter": "temperatura se o volume se mantiver constante, é o que observamos ao\r recarregarmos os cilindros de "
+  },
+  "img-027.jpg": {
+    "newName": "fisica-mergulho_onde_pressao_diferentes_estando.jpg",
+    "page": 30,
+    "fracY": 0.239,
+    "textBefore": "volume, sobre temperatura no estado final\"\r \r onde:\r        P é a pressão do gas.",
+    "textAfter": "T é a temperatura termodinâmica.\r        kPT é uma constante.\r \r Portanto para comparar a mesma subs"
+  },
+  "img-028.png": {
+    "newName": "fisica-mergulho_cada_exerce_cerca_oxigenio.png",
+    "page": 30,
+    "fracY": 0.512,
+    "textBefore": "de acordo com as condições acima) afirma-se que:\r \r Lei de Dalton\r Os gases numa mistura exibem uma ",
+    "textAfter": "uma pressão que é independente de todos os outros gases. A força exercida\r por cada gás é chamada de"
+  },
+  "img-029.png": {
+    "newName": "fisica-mergulho_mistura_x_y_ar_liquido_sofre.png",
+    "page": 31,
+    "fracY": 0.139,
+    "textBefore": "Pp X (O2) +  Pp Y (N2) = P mistura X+Y(Ar)",
+    "textAfter": "Principio de Arquimedes\r \r O Principio de Arquimedes enuncia que um objeto imerso num líquido sofre"
+  },
+  "img-030.jpg": {
+    "newName": "fisica-mergulho_liquido_sofre_peso_objeto.jpg",
+    "page": 31,
+    "fracY": 0.46,
+    "textBefore": "Principio de Arquimedes\r \r O Principio de Arquimedes enuncia que um objeto imerso num líquido sofre",
+    "textAfter": "um empuxo de baixo para cima igual ao peso do volume de líquido que\r desloca. Um objeto flutua quand"
+  },
+  "img-031.jpg": {
+    "newName": "fisica-mergulho_submetido_forca_liquido_deslocado.jpg",
+    "page": 32,
+    "fracY": 0.216,
+    "textBefore": "\"Todo corpo imerso em um líquido em equilíbrio é submetido a uma força",
+    "textAfter": "vertical dirigida de baixo para cima de intensidade igual ao peso do\r                            vol"
+  },
+  "img-032.png": {
+    "newName": "fisica-mergulho_igual_peso_liquido_deslocado.png",
+    "page": 32,
+    "fracY": 0.505,
+    "textBefore": "\"Todo corpo imerso em um líquido em equilíbrio é submetido a uma força\r    vertical dirigida de baix",
+    "textAfter": "volume de liquido deslocado.”"
+  },
+  "img-033.png": {
+    "newName": "fisica-mergulho_igual_peso_liquido_deslocado.png",
+    "page": 32,
+    "fracY": 0.728,
+    "textBefore": "\"Todo corpo imerso em um líquido em equilíbrio é submetido a uma força\r    vertical dirigida de baix",
+    "textAfter": "volume de liquido deslocado.”"
+  },
+  "img-034.png": {
+    "newName": "fisica-mergulho_sofrer_mesma_dissolvido_pela.png",
+    "page": 33,
+    "fracY": 0.273,
+    "textBefore": "todas as direções com igual intensidade.\r \r   “Quando um ponto de um líquido em equilíbrio sofre uma",
+    "textAfter": "variação.”\r Lei de Henry\r É interessante substituir a noção de quantidade de gás dissolvido pela noç"
+  },
+  "img-035.png": {
+    "newName": "fisica-mergulho_sofrer_mesma_dissolvido_pela.png",
+    "page": 33,
+    "fracY": 0.273,
+    "textBefore": "todas as direções com igual intensidade.\r \r   “Quando um ponto de um líquido em equilíbrio sofre uma",
+    "textAfter": "variação.”\r Lei de Henry\r É interessante substituir a noção de quantidade de gás dissolvido pela noç"
+  },
+  "img-036.jpg": {
+    "newName": "fisica-mergulho_pressao_parcial_liquidas_moleculas.jpg",
+    "page": 33,
+    "fracY": 0.794,
+    "textBefore": "“Numa mistura gasosa, a quantidade dissolvida de cada gás da mistura é\r \r                           ",
+    "textAfter": "MOLÉCULAS\r                                                                        LIQUIDAS\r \r       "
+  },
+  "img-037.jpg": {
+    "newName": "fisica-mergulho_fase_equilibrio_dissolvido_inferior.jpg",
+    "page": 34,
+    "fracY": 0.198,
+    "textBefore": "quando a tensão de gás dissolvido (no\r liquido) e a pressão de gás livre (na\r atmosfera) estão em eq",
+    "textAfter": "ESTADO DE NÃO SATURAÇÃO -\r Um líquido é dito não saturado quando\r a tensão de gás dissolvido é infer"
+  },
+  "img-038.jpg": {
+    "newName": "fisica-mergulho_dito_supersaturado_critica_nivel.jpg",
+    "page": 34,
+    "fracY": 0.512,
+    "textBefore": "de absorção de gás.\r \r ESTADO DE SUPERSATURAÇÃO -\r Um líquido é dito supersaturado",
+    "textAfter": "quando a tensão de gás dissolvido é\r superior a pressão de gás livre na sua\r superfície. Fase de res"
+  },
+  "img-039.jpg": {
+    "newName": "fisica-mergulho_superficie_fase_dito_supersaturado.jpg",
+    "page": 34,
+    "fracY": 0.362,
+    "textBefore": "ESTADO DE NÃO SATURAÇÃO -\r Um líquido é dito não saturado quando\r a tensão de gás dissolvido é infer",
+    "textAfter": "de absorção de gás.\r \r ESTADO DE SUPERSATURAÇÃO -\r Um líquido é dito supersaturado"
+  },
+  "img-040.png": {
+    "newName": "fisica-mergulho_pode_admitir_equivalencia_padrao.png",
+    "page": 34,
+    "fracY": 0.687,
+    "textBefore": "superior a pressão de gás livre na sua\r superfície. Fase de restituição de gás.\r Obs.: Supersaturaçã",
+    "textAfter": "antes da liberação espontânea do gás\r em formas de bolhas (macro bolhas)\r \r 4.4 - UNIDADES DE EQUIVA"
+  },
+  "img-041.png": {
+    "newName": "fisica-mergulho_pressao_relativa_calculo_consumo.png",
+    "page": 37,
+    "fracY": 0.745,
+    "textBefore": "Pressão absoluta (Pabs) ou pressão total (Pt)\r é a somatória da pressão atmosférica com a\r pressão r",
+    "textAfter": "Patm + Prel = Pabs\r \r Cálculo de Consumo de Ar"
+  },
+  "img-042.png": {
+    "newName": "fisica-mergulho_total_otica_absorvidas_podem.png",
+    "page": 39,
+    "fracY": 0.738,
+    "textBefore": "200 atm X 11 l. = 2200 l. - Ar Total\r 30 atm X 11 l. = 330 l. - Ar Res.\r 2200 l. - 330 l. = 1870 l. ",
+    "textAfter": "A luz branca visível é constituída por um espectro de todas as cores -\r vermelha, laranja, amarela, "
+  },
+  "img-043.jpg": {
+    "newName": "fisica-mergulho_altura_trinta_para_olhos.jpg",
+    "page": 40,
+    "fracY": 0.211,
+    "textBefore": "pareceria um marrom escuro opaco. A uma profundidade de 22 metros um\r tanque de ar amarelo parece ma",
+    "textAfter": "metros. Só restam os raios mais curtos: azul índigo e violeta. Abaixo de\r trinta metros ou por ai, t"
+  },
+  "img-044.png": {
+    "newName": "fisica-mergulho_maior_realidade_perigo_potencial.png",
+    "page": 41,
+    "fracY": 0.378,
+    "textBefore": "E tudo que enxergamos nos parecerá uns 25% mais próximo e 33%\r                              maior do",
+    "textAfter": "O som na água\r A velocidade do som na água é quatro vezes maior do que no ar e tem maior\r alcance.\r "
+  },
+  "img-045.png": {
+    "newName": "fisica-mergulho_x_para_evitar.png",
+    "page": 42,
+    "fracY": 0,
+    "textBefore": "",
+    "textAfter": "imediatamente, para escapar de sua rota.\r Quando em apnéia, para aumentar sua segurança e marcar sua"
+  },
+  "img-046.jpg": {
+    "newName": "fisiologia_funcionamento_celular_paredes_vasculares.jpg",
+    "page": 43,
+    "fracY": 0.592,
+    "textBefore": "infecções. Plaquetas - Ajuda na coagulação do sangue.\r \r O sangue transporta o O2 e a glicose até as",
+    "textAfter": "O N2 é transportado dissolvido no plasma.\r \r                              Células dos tecidos. Pared"
+  },
+  "img-047.jpg": {
+    "newName": "fisiologia_eliminado_respiracao_gasosa_chamada.jpg",
+    "page": 44,
+    "fracY": 0.53,
+    "textBefore": "CO2 para que ele seja\r \r eliminado na respiração",
+    "textAfter": "do ar dos pulmões, após\r \r a troca gasosa, chamada"
+  },
+  "img-048.jpg": {
+    "newName": "fisiologia_organismo_esse_nivel_alveolar.jpg",
+    "page": 45,
+    "fracY": 0.69,
+    "textBefore": "5.1.b - APARELHO RESPIRATÓRIO\r \r Proporciona a entrada,           CO2\r no organismo, do O2 e a      ",
+    "textAfter": "retirada do CO2. Isso se\r dá através de uma troca\r denomina hematose, que\r ocorre a nível alveolar"
+  },
+  "img-049.jpg": {
+    "newName": "fisiologia_demais_levantam_nova_forma.jpg",
+    "page": 46,
+    "fracY": 0.3,
+    "textBefore": "Inspiração: Intercostais se\r contraem e, como a primeira\r costela acha-se fixa, todas as\r demais se ",
+    "textAfter": "diafragma se achata e com isso\r a caixa torácica se expande. Os\r pulmões dilatam-se se\r adaptando à "
+  },
+  "img-050.jpg": {
+    "newName": "fisiologia_obviamente_maiores_expiracao_maximas.jpg",
+    "page": 47,
+    "fracY": 0.718,
+    "textBefore": "6 - A capacidade pulmonar total é o maior esforço inspiratório possível\r (cerca de 5800 mI).\r Todos ",
+    "textAfter": "indivíduos altos e atléticos do que em indivíduos pequenos e astênicos.\r Gráfico mostrando as execuç"
+  },
+  "img-051.png": {
+    "newName": "fisiologia_barotrauma_orelha_tuba_auditiva.png",
+    "page": 48,
+    "fracY": 0.581,
+    "textBefore": "Se por acaso não consegui compensar, deve subir e abortar o mergulho. É o\r melhor e mais aconselháve",
+    "textAfter": "orelha externa orelha média orelha interna\r \r                                                       "
+  },
+  "img-052.jpg": {
+    "newName": "fisiologia_variacoes_hiperbaricas_pela_boyle.jpg",
+    "page": 49,
+    "fracY": 0.217,
+    "textBefore": "O organismo do mergulhador sofre dois tipos de efeitos pelas variações\r hiperbáricas.",
+    "textAfter": "Os efeitos diretos ou primários são os efeitos mecânicos ocasionados\r diretamente pelo aumento da pr"
+  },
+  "img-053.png": {
+    "newName": "fisiologia_podendo_romper_se_facilidade_causas.png",
+    "page": 50,
+    "fracY": 0.634,
+    "textBefore": "tímpano. Qualquer obstrução da tuba auditiva impede essa passagem de ar, e\r a pressão na orelha médi",
+    "textAfter": "facilidade.\r \r Causas.                                  ."
+  },
+  "img-054.jpg": {
+    "newName": "fisiologia_comunicacao_fossas_tecidos_face.jpg",
+    "page": 52,
+    "fracY": 0.7,
+    "textBefore": "precipitada de graves resultados.\r Barotrauma de Máscara\r A pressão no interior da máscara facial de",
+    "textAfter": "nasais. Caso contrário, a pressão relativamente menor no interior da máscara\r transformará esta numa"
+  },
+  "img-055.png": {
+    "newName": "fisiologia_dental_sinusal_marinha_brasil.png",
+    "page": 57,
+    "fracY": 0.768,
+    "textBefore": "BAROTRAUMA                                       %\r Timpânico                                      7",
+    "textAfter": "Facial                                         4,06 %\r Toráxico                                     "
+  },
+  "img-056.jpg": {
+    "newName": "fisiologia_pelo_nitrogenio_parcial_nitrogenio.jpg",
+    "page": 58,
+    "fracY": 0.215,
+    "textBefore": "5.2 - OS EFEITOS INDIRETOS DA PRESSÃO NO ORGANISMO\r Intoxicação pelo Nitrogênio (N2) - Narcose pelo ",
+    "textAfter": "Embriaguez das Profundezas\r \r  Efeito narcótico provocado por gases inertes ao se difundirem no sist"
+  },
+  "img-057.png": {
+    "newName": "fisiologia_difundirem_sistema_pelo_alcool.png",
+    "page": 58,
+    "fracY": 0.649,
+    "textBefore": "Intoxicação pelo Nitrogênio (N2) - Narcose pelo Nitrogênio ou\r Embriaguez das Profundezas\r \r  Efeito",
+    "textAfter": "nervoso central. A ocorrência depende da pressão parcial do nitrogênio e da\r sua solubilidade nos te"
+  },
+  "img-058.jpg": {
+    "newName": "fisiologia_total_reacoes_esta_operacao.jpg",
+    "page": 59,
+    "fracY": 0.4,
+    "textBefore": "do indivíduo. Quando maior a profundidade, pelo efeito tóxico decorrente,\r maior a deterioração da d",
+    "textAfter": "Profilaxia.\r Não mergulhar com ar comprimido em profundidades maiores que 40\r metros. Não ingerir ál"
+  },
+  "img-059.jpg": {
+    "newName": "fisiologia_formando_bolhas_ponto_partida.jpg",
+    "page": 65,
+    "fracY": 0.727,
+    "textBefore": "programadas, permite a volta à pressão atmosférica sem problemas, sendo o\r excesso de nitrogênio gra",
+    "textAfter": "nitrogênio, e causando obstrução da circulação sanguínea e manifestações\r regionais e gerais da doen"
+  },
+  "img-060.png": {
+    "newName": "fisiologia_formas_manifestacao_unico_sintoma.png",
+    "page": 67,
+    "fracY": 0.23,
+    "textBefore": "De acordo com os órgãos ou sistemas mais atingidos, temos as seguintes\r formas clinicas.\r \r Formas d",
+    "textAfter": "MANIFESTAÇÕES OSTEOMUSCULOARTICULARES - A dor desta\r origem é indiscutivelmente a manifestação mais "
+  },
+  "img-061.png": {
+    "newName": "fisiologia_quadro_choque_consideravel_volume.png",
+    "page": 68,
+    "fracY": 0.671,
+    "textBefore": "manchas avermelhadas distribuídas irregularmente pela superfície atingida.\r \r CHOQUE - Algumas vezes",
+    "textAfter": "provavelmente pelo grande\r extravasamento de plasma pelos\r vasos sangüíneos abdominais, com\r fuga de"
+  },
+  "img-062.png": {
+    "newName": "fisiologia_atencao_respiracao_seguinte_procedimento.png",
+    "page": 70,
+    "fracY": 0.378,
+    "textBefore": "Caso o mergulhador esteja inconsciente, mas sem parada respiratória,\r deve-se conduzi-la até a super",
+    "textAfter": "NA SUPERFÍCIE\r A posição correta para remoção ou espera do paciente com provável EAG ou\r DD deve obe"
+  },
+  "img-063.jpg": {
+    "newName": "fisiologia_evolucao_sinais_mais_proxima.jpg",
+    "page": 71,
+    "fracY": 0.322,
+    "textBefore": "Tanto o paciente afogado como com EAG ou DD deverão ser aquecidos e\r adiministrar oxigênio puro se p",
+    "textAfter": "sintomas que o paciente e a conduta que está sendo realizada.\r \r No caso de uma DD ou EAG, acionar a"
+  },
+  "img-064.png": {
+    "newName": "fisiologia_ganha_oxigenio_sistema_aciona.png",
+    "page": 72,
+    "fracY": 0.577,
+    "textBefore": "Como a cada inspiração (na técnica de\r hiperventilação) obriga também a uma\r expiração, se perde mai",
+    "textAfter": "Iniciando-se o mergulho com um percentual\r baixo de dióxido de carbono, vai demorar\r mais para que o"
+  },
+  "img-065.jpg": {
+    "newName": "fisiologia_respirar_forcam_nesse_primeiros.jpg",
+    "page": 73,
+    "fracY": 0.742,
+    "textBefore": "desta descida ou mesmo já tendo chegado ao fundo, o estímulo para respirar\r torna-se compulsivo, dev",
+    "textAfter": "abertura da glote e o corpo começa a \"respirar água\". É o início do\r afogamento.\r Por estar abaixo d"
+  },
+  "img-066.jpg": {
+    "newName": "fisiologia_respeitar_tempo_giria_pesca.jpg",
+    "page": 75,
+    "fracY": 0.523,
+    "textBefore": "aprofundar. As águas claras iludem a noção de profundidade e apenas na\r subida é que o mergulhador p",
+    "textAfter": "apnéia, em qualquer profundidade. Se for necessário um mergulho mais\r fundo, tenha certeza de que es"
+  },
+  "img-067.png": {
+    "newName": "tabelas-descomp_demonstrativo_mergulho_altitude_mergulhadores.png",
+    "page": 92,
+    "fracY": 0.425,
+    "textBefore": "maior.\r \r EXEMPLO GRÁFICO DEMONSTRATIVO DE MERGULHO",
+    "textAfter": "6.2 -TEMPO DE ESPERA PARA VOAR\r Um intervalo de superfície de 12 horas é necessário para garantir qu"
+  },
+  "img-068.png": {
+    "newName": "tabelas-descomp_x_x.png",
+    "page": 97,
+    "fracY": 0.151,
+    "textBefore": "",
+    "textAfter": "97"
+  },
+  "img-069.png": {
+    "newName": "tabelas-descomp_x_x.png",
+    "page": 97,
+    "fracY": 0.353,
+    "textBefore": "",
+    "textAfter": "97"
+  },
+  "img-070.png": {
+    "newName": "tabelas-descomp_x_x.png",
+    "page": 97,
+    "fracY": 0.587,
+    "textBefore": "97",
+    "textAfter": ""
+  },
+  "img-071.jpg": {
+    "newName": "tabelas-descomp_x_x.jpg",
+    "page": 97,
+    "fracY": 0.801,
+    "textBefore": "97",
+    "textAfter": ""
+  },
+  "img-072.jpg": {
+    "newName": "tabelas-descomp_x_x.jpg",
+    "page": 97,
+    "fracY": 0.166,
+    "textBefore": "",
+    "textAfter": "97"
+  },
+  "img-073.jpg": {
+    "newName": "tabelas-descomp_suspensao_decantada_certo_errado.jpg",
+    "page": 98,
+    "fracY": 0.315,
+    "textBefore": "Em atividades especificas como mergulhos em cavernas, existem batidas de\r pernas apropriadas, para l",
+    "textAfter": "CERTO\r \r                                                             ERRADO"
+  },
+  "img-074.jpg": {
+    "newName": "tabelas-descomp_decantada_certo_errado_errado.jpg",
+    "page": 98,
+    "fracY": 0.416,
+    "textBefore": "suspensão decantada.\r \r                                                             CERTO",
+    "textAfter": "ERRADO\r \r                                                             ERRADO"
+  },
+  "img-075.png": {
+    "newName": "tabelas-descomp_errado_errado_deixa_funcionar.png",
+    "page": 98,
+    "fracY": 0.526,
+    "textBefore": "ERRADO\r \r                                                             ERRADO",
+    "textAfter": "Troca de Reguladores\r Para casos de emergência, quando o regulador de um dos mergulhadores\r deixa de"
+  },
+  "img-076.png": {
+    "newName": "tabelas-descomp_positiva_deve_visor_mascara.png",
+    "page": 99,
+    "fracY": 0.157,
+    "textBefore": "Como Controlar a flutuabilidade\r \r A roupa de neoprene por ter flutuabilidade bastante positiva deve",
+    "textAfter": "compensada, através do cinto de lastro. E a melhor maneira de se fazer isto, é\r colocar-se na posiçã"
+  },
+  "img-077.png": {
+    "newName": "tabelas-descomp_flutuabilidade_negativa_chumbo_cinto.png",
+    "page": 99,
+    "fracY": 0.733,
+    "textBefore": "aproximadamente quatro metros de profundidade. Entre os quatro e oito\r metros de profundidade, terá ",
+    "textAfter": "Quando mergulhando em locais de rasa profundidade (até 6 metros),\r principalmente se utilizando equi"
+  },
+  "img-078.png": {
+    "newName": "tabelas-descomp_flutuabilidade_negativa_chumbo_cinto.png",
+    "page": 99,
+    "fracY": 0.713,
+    "textBefore": "aproximadamente quatro metros de profundidade. Entre os quatro e oito\r metros de profundidade, terá ",
+    "textAfter": "Quando mergulhando em locais de rasa profundidade (até 6 metros),\r principalmente se utilizando equi"
+  },
+  "img-079.png": {
+    "newName": "tabelas-descomp_para_cima_como_subir.png",
+    "page": 100,
+    "fracY": 0.293,
+    "textBefore": "Como Desalagar a Máscara\r Os dois métodos existentes são:\r Na posição vertical, comprimindo levement",
+    "textAfter": "Na posição horizontal, comprimimos com a mão a parte superior lateral da\r máscara, e expiramos pelo "
+  },
+  "img-080.png": {
+    "newName": "tabelas-descomp_superior_lateral_para_cima.png",
+    "page": 100,
+    "fracY": 0.384,
+    "textBefore": "Os dois métodos existentes são:\r Na posição vertical, comprimindo levemente com a mão a parte superi",
+    "textAfter": "máscara, e expiramos pelo nariz.\r \r Como Subir\r - Olhando para cima."
+  },
+  "img-081.jpg": {
+    "newName": "tabelas-descomp_para_cima_soltar_inclusive.jpg",
+    "page": 100,
+    "fracY": 0.636,
+    "textBefore": "máscara, e expiramos pelo nariz.\r \r Como Subir\r - Olhando para cima.",
+    "textAfter": "- Se a água estiver muito suja, com a mão para cima.\r Em mergulhos com respiração subaquática, com\r "
+  },
+  "img-082.png": {
+    "newName": "procedimentos_x_x.png",
+    "page": 103,
+    "fracY": 0.879,
+    "textBefore": "103",
+    "textAfter": ""
+  },
+  "img-083.jpg": {
+    "newName": "procedimentos_x_x.jpg",
+    "page": 104,
+    "fracY": 0.88,
+    "textBefore": "104",
+    "textAfter": ""
+  },
+  "img-084.jpg": {
+    "newName": "animais-marinhos_barracuda_manganga_mimetizar_pedras.jpg",
+    "page": 105,
+    "fracY": 0.844,
+    "textBefore": "alguns segundos. Esse jogo de intimidação pode se prolongar por horas, sem\r qualquer fadiga aparente",
+    "textAfter": "O mangangá, também conhecido como\r peixe-escorpião ou peixe-pedra, pela sua\r capacidade de se mimeti"
+  },
+  "img-085.jpg": {
+    "newName": "animais-marinhos_estava_aguas_direcao_barracuda.jpg",
+    "page": 105,
+    "fracY": 0.576,
+    "textBefore": "dezenas de casos de ataque - e na maioria dos casos as informações não são\r fidedignas.\r \r O banhist",
+    "textAfter": "turvas e o ataque\r provavelmente foi acidental;\r a identidade do peixe atacante não foi confirmada c"
+  },
+  "img-086.png": {
+    "newName": "animais-marinhos_pode_mesmo_rodeada_serpentes.png",
+    "page": 106,
+    "fracY": 0.397,
+    "textBefore": "queimadura. Esse guarda-chuva é a medusa, também\r conhecida popularmente como água-viva. É um\r metaz",
+    "textAfter": "nocivo às pessoas. Seu nome foi tomado de uma das\r Górgonias de mitologia grega - A Medusa, que tinh"
+  },
+  "img-087.png": {
+    "newName": "animais-marinhos_somente_duas_costas_ventre.png",
+    "page": 106,
+    "fracY": 0.749,
+    "textBefore": "A moréia é uma grande comedora de carne e todos os peixes evitam chegar\r perto dos seus dentes curvo",
+    "textAfter": "nadadeiras. Estas nadadeiras não são vistas\r                                     facilmente e correm"
+  },
+  "img-088.png": {
+    "newName": "animais-marinhos_rajiformes_dois_raias_venenosas.png",
+    "page": 107,
+    "fracY": 0.828,
+    "textBefore": "Raia\r \r Raia é o nome genérico dos peixes da ordem dos Rajiformes. Há dois",
+    "textAfter": "grupos: Os Torpedinidae, ou raias-elétricas, e\r                                    os Ragidae, ou ra"
+  },
+  "img-089.png": {
+    "newName": "animais-marinhos_possante_mecanismo_movimenta_lentamente.png",
+    "page": 108,
+    "fracY": 0.438,
+    "textBefore": "Esta pequena bola um pouco achatada, coberta\r de espinhos, é um ouriço-do-mar. Na parte de\r baixo do",
+    "textAfter": "mastigação. Os pés em forma de tubo, que saem\r por entre os espinhos, raramente são usados\r para par"
+  },
+  "img-090.png": {
+    "newName": "animais-marinhos_dolorosa_tubarao_marfim_recobertas.png",
+    "page": 108,
+    "fracY": 0.766,
+    "textBefore": "sua remoção é sempre dolorosa.\r \r Tubarão",
+    "textAfter": "O tubarão tem placas compactas\r                                                      em lugar das es"
+  },
+  "img-091.png": {
+    "newName": "animais-marinhos_x_x.png",
+    "page": 110,
+    "fracY": 0.923,
+    "textBefore": "110",
+    "textAfter": ""
+  },
+  "img-092.png": {
+    "newName": "animais-marinhos_x_x.png",
+    "page": 111,
+    "fracY": 0.911,
+    "textBefore": "111",
+    "textAfter": ""
+  }
+}
