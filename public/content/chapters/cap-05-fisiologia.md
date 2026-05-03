@@ -23,10 +23,9 @@ infecções. Plaquetas - Ajuda na coagulação do sangue.
 O sangue transporta o O2 e a glicose até as células. Estas duas substâncias
 citadas são básicas para o funcionamento celular.
 
-![](/assets/content/curso_mergulho_autonomo_basico/img/fisiologia_funcionamento_celular_paredes_vasculares.jpg)
-
-
 O N2 é transportado dissolvido no plasma.
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/fisiologia_variacoes_hiperbaricas_pela_boyle.jpg)
 
                              Células dos tecidos. Paredes vasculares.
 
@@ -1614,9 +1613,6 @@ essa hipótese.”
 
 
 ![](/assets/content/curso_mergulho_autonomo_basico/img/fisiologia_dental_sinusal_marinha_brasil.png)
-
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/fisiologia_variacoes_hiperbaricas_pela_boyle.jpg)
 
 
 ![](/assets/content/curso_mergulho_autonomo_basico/img/fisiologia_obviamente_maiores_expiracao_maximas.jpg)
