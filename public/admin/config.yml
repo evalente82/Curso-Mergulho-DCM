@@ -1,28 +1,24 @@
 # ══════════════════════════════════════════════════════════════════════════════
 # Decap CMS — Configuração do Painel de Conteúdo DCM
-#
 # Documentação: https://decapcms.org/docs/configuration-options/
-# Auth Proxy gratuito: https://github.com/sveltia/sveltia-cms-auth
 # ══════════════════════════════════════════════════════════════════════════════
+
+# ── Modo LOCAL (desenvolvimento sem OAuth) ────────────────────────────────────
+# Permite editar arquivos locais sem autenticação GitHub.
+# REMOVA esta linha antes do deploy em produção.
+local_backend: true
 
 backend:
   name: github
   repo: evalente82/Curso-Mergulho-DCM
   branch: main
-  # ── Proxy de autenticação OAuth gratuito (Cloudflare Workers) ──────────────
-  # Não exige backend próprio. O proxy redireciona para o GitHub OAuth.
-  # Configure seu GitHub OAuth App com callback:
-  #   https://sveltia-cms-auth.pages.dev/callback
   base_url: https://sveltia-cms-auth.pages.dev
   auth_endpoint: auth
 
 # ── Localização das mídias ────────────────────────────────────────────────────
-# media_folder: caminho no repositório onde as imagens são SALVAS
-# public_folder: prefixo usado nas URLs geradas dentro do markdown
 media_folder: public/assets/content/curso_mergulho_autonomo_basico/img
 public_folder: /Curso-Mergulho-DCM/assets/content/curso_mergulho_autonomo_basico/img
 
-# ── Locale do painel ──────────────────────────────────────────────────────────
 locale: pt
 
 # ══════════════════════════════════════════════════════════════════════════════
@@ -34,56 +30,58 @@ collections:
   - name: chapters
     label: "📖 Capítulos"
     label_singular: "Capítulo"
-    description: "Conteúdo dos capítulos do curso. Edite o texto e as imagens."
+    description: "Edite o texto e as imagens dos capítulos do curso."
     folder: public/content/chapters
-    create: false          # Não permite criar novos capítulos pelo painel
-    delete: false          # Não permite deletar capítulos pelo painel
+    create: false
+    delete: false
     extension: md
-    # Os arquivos atuais não têm frontmatter — o Decap vai adicionar
-    # automaticamente ao primeiro save. Campos abaixo definem o frontmatter.
+    # Campos mapeados com o frontmatter REAL dos arquivos
+    # (id, moduleId, title, number)
     fields:
       - label: "Título"
         name: title
         widget: string
-        hint: "Título do capítulo (ex: Equipamentos de Mergulho)"
+        hint: "Título exibido no menu e no topo do capítulo."
 
-      - label: "Ordem"
-        name: order
+      - label: "ID do Capítulo"
+        name: id
+        widget: string
+        hint: "Identificador único (ex: historia-mergulho). Não altere."
+
+      - label: "ID do Módulo"
+        name: moduleId
+        widget: hidden
+        default: "curso_mergulho_autonomo_basico"
+
+      - label: "Número do Capítulo"
+        name: number
         widget: number
         value_type: int
-        min: 1
-        max: 99
-        hint: "Posição do capítulo na sequência (1 = primeiro)"
-
-      - label: "Slug"
-        name: slug
-        widget: string
-        hint: "Identificador URL do capítulo (ex: cap-01). Não altere sem atualizar index.json."
+        min: 0
+        hint: "Posição na sequência (0 = capa)."
 
       - label: "Conteúdo"
         name: body
         widget: markdown
+        hint: "Conteúdo completo. Use a barra de ferramentas para inserir imagens."
         media_library:
           config:
             multiple: false
-        hint: "Conteúdo completo do capítulo em Markdown. Use a barra de ferramentas para inserir imagens."
 
   # ── Índice de Módulos ───────────────────────────────────────────────────────
   - name: module_config
-    label: "⚙️ Configuração do Módulo"
-    description: "Metadados do curso: título, descrição e lista de capítulos."
+    label: "⚙️ Configuração do Curso"
+    description: "Título, descrição e ordem dos capítulos."
     files:
       - name: index
         label: "index.json — Estrutura do Curso"
         file: public/content/index.json
-        # index.json é um JSON puro, não Markdown
         fields:
           - label: "ID do Módulo"
             name: id
             widget: string
-            hint: "Identificador único do módulo (ex: curso-mergulho-autonomo-basico)"
 
-          - label: "Título do Módulo"
+          - label: "Título do Curso"
             name: title
             widget: string
 
@@ -99,4 +97,4 @@ collections:
               - { label: "ID", name: id, widget: string }
               - { label: "Título", name: title, widget: string }
               - { label: "Arquivo", name: file, widget: string }
-              - { label: "Duração estimada (min)", name: duration, widget: number, value_type: int, required: false }
+              - { label: "Duração (min)", name: duration, widget: number, value_type: int, required: false }
