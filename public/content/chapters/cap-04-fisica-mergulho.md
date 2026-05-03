@@ -1,390 +1,369 @@
----
+﻿---
 id: "fisica-mergulho"
 moduleId: "curso_mergulho_autonomo_basico"
-title: "Física Aplicada ao Mergulho"
+title: "FÃ­sica Aplicada ao Mergulho"
 number: 4
 ---
 
-Física aplicada ao mergulho 4
+FÃ­sica aplicada ao mergulho 4
 
-4.1 - NOÇÕES DE FÍSICA
-Para a melhor compreensão do mergulho e seus efeitos sobre o corpo
-humano, será necessário o conhecimento de certas noções de física. Neste
-capítulo veremos somente a parte da física diretamente aplicada ao
+4.1 - NOÃ‡Ã•ES DE FÃSICA
+Para a melhor compreensÃ£o do mergulho e seus efeitos sobre o corpo
+humano, serÃ¡ necessÃ¡rio o conhecimento de certas noÃ§Ãµes de fÃ­sica. Neste
+capÃ­tulo veremos somente a parte da fÃ­sica diretamente aplicada ao
 mergulho.
-Alguns conceitos básicos.
-FÍSICA é a ciência que estuda as propriedades dos corpos, os seus
-fenômenos e as leis que as regem, sem lhes alterar a substância.
-MATÉRIA é o nome genérico que indica tudo que podemos ver, que ocupa
-lugar no espaço e tem peso. A matéria é formada por moléculas que por sua
-vez são formadas por átomos. Dependendo do tipo de ligação que une essas
-moléculas de que a matéria é formada, ela terá características diferentes. A
-ÁGUA (matéria) é formada por moléculas de água. Uma molécula de água é
-formada por dois átomos de hidrogênio e um de oxigênio.
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_caracteristicas_diferentes_divide_estados.png)
+Alguns conceitos bÃ¡sicos.
+FÃSICA Ã© a ciÃªncia que estuda as propriedades dos corpos, os seus
+fenÃ´menos e as leis que as regem, sem lhes alterar a substÃ¢ncia.
+MATÃ‰RIA Ã© o nome genÃ©rico que indica tudo que podemos ver, que ocupa
+lugar no espaÃ§o e tem peso. A matÃ©ria Ã© formada por molÃ©culas que por sua
+vez sÃ£o formadas por Ã¡tomos. Dependendo do tipo de ligaÃ§Ã£o que une essas
+molÃ©culas de que a matÃ©ria Ã© formada, ela terÃ¡ caracterÃ­sticas diferentes. A
+ÃGUA (matÃ©ria) Ã© formada por molÃ©culas de Ã¡gua. Uma molÃ©cula de Ã¡gua Ã©
+formada por dois Ã¡tomos de hidrogÃªnio e um de oxigÃªnio.
 
 
-A matéria se divide em três estados:
-SÓLIDOS: Forma e volume definidos. São incompressíveis.
-LÍQÜIDO: Forma do recipiente que o contém, volume definido. São
-considerados praticamente incompressíveis.
+
+A matÃ©ria se divide em trÃªs estados:
+SÃ“LIDOS: Forma e volume definidos. SÃ£o incompressÃ­veis.
+LÃQÃœIDO: Forma do recipiente que o contÃ©m, volume definido. SÃ£o
+considerados praticamente incompressÃ­veis.
 GASOSO: Forma e volume indefinidos adquirem a forma e o volume do
-recipiente que os contém. São compressíveis (diminuem de volume com o
-aumento da pressão).
+recipiente que os contÃ©m. SÃ£o compressÃ­veis (diminuem de volume com o
+aumento da pressÃ£o).
 
                                                                                                                     25
-O ar atmosférico por nós respirado durante o mergulho é, uma mistura
-gasosa que, em condições hiperbáricas, tem comportamento diferente
-daquela observada na pressão atmosférica, com a seguinte composição
+O ar atmosfÃ©rico por nÃ³s respirado durante o mergulho Ã©, uma mistura
+gasosa que, em condiÃ§Ãµes hiperbÃ¡ricas, tem comportamento diferente
+daquela observada na pressÃ£o atmosfÃ©rica, com a seguinte composiÃ§Ã£o
 aproximada:
 
-![](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_composicao_aproximada_nitrogenio_oxigenio.png)
 
 
-GÁS            FÓRMULA  PERCENTUAL
-Nitrogênio              78,08 %
-Oxigênio       N²       20,95 %
-Gás carbônico  O²       0,03 %
-Outros gases   CO²      0,94%
+GÃS            FÃ“RMULA  PERCENTUAL
+NitrogÃªnio              78,08 %
+OxigÃªnio       NÂ²       20,95 %
+GÃ¡s carbÃ´nico  OÂ²       0,03 %
+Outros gases   COÂ²      0,94%
 
-![](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_outros_gases_preocupamos_principalmente.png)
 
 
                ---
 
-Para efeitos de cálculo no mergulho com ar podemos utilizas as
-porcentagens de 80% de N² e 20% de O² .
+Para efeitos de cÃ¡lculo no mergulho com ar podemos utilizas as
+porcentagens de 80% de NÂ² e 20% de OÂ² .
 
-![](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_podemos_utilizas_componentes_alguns.png)
 
 
 No mergulho com AR COMPRIMIDO nos preocupamos principalmente
-com o oxigênio e o nitrogênio seus principais componentes, e com alguns
-outros gases mais raros, mas de grande influência quando ocorrem no meio
-respiratório.
+com o oxigÃªnio e o nitrogÃªnio seus principais componentes, e com alguns
+outros gases mais raros, mas de grande influÃªncia quando ocorrem no meio
+respiratÃ³rio.
 
                                                                                                                     26
-OXIGÊNIO (O2) existe em estado livre na atmosfera, da qual ocupa a parte
-de 21 % de seu volume. É incolor, inodoro e sem sabor. É por si só suficiente
+OXIGÃŠNIO (O2) existe em estado livre na atmosfera, da qual ocupa a parte
+de 21 % de seu volume. Ã‰ incolor, inodoro e sem sabor. Ã‰ por si sÃ³ suficiente
 para manter a vida. Pode ser usado em circunstancias especial como meio
-respiratório durante a descompressão, em misturas respiratórias com outros
+respiratÃ³rio durante a descompressÃ£o, em misturas respiratÃ³rias com outros
 gases inertes ou no tratamento do Mal Descompressivo. Se respirado em
-pressões elevadas por tempo prolongado, torna-se tóxico, efeitos que
-estudaremos mais tarde. Nada pode queimar sem oxigênio, mas ele sozinho
-não entra em combustão.
+pressÃµes elevadas por tempo prolongado, torna-se tÃ³xico, efeitos que
+estudaremos mais tarde. Nada pode queimar sem oxigÃªnio, mas ele sozinho
+nÃ£o entra em combustÃ£o.
 
-NITROGÊNIO (N2), no seu estado livre, corresponde a 79 % em volume da
-atmosfera, é inodoro, incolor e insípido, é também inerte, isto é, não reage
-quimicamente, sendo incapaz de manter a combustão ou a vida. Sob pressões
-parciais elevadas torna-se narcótico além de aumentar consideravelmente a
-densidade da mistura respiratória, tornando-a pesada à respiração.
+NITROGÃŠNIO (N2), no seu estado livre, corresponde a 79 % em volume da
+atmosfera, Ã© inodoro, incolor e insÃ­pido, Ã© tambÃ©m inerte, isto Ã©, nÃ£o reage
+quimicamente, sendo incapaz de manter a combustÃ£o ou a vida. Sob pressÃµes
+parciais elevadas torna-se narcÃ³tico alÃ©m de aumentar consideravelmente a
+densidade da mistura respiratÃ³ria, tornando-a pesada Ã  respiraÃ§Ã£o.
 
-GÁS CARBÔNICO (DIÓXIDO DE CARBONO OU ANÍDRICO
-CARBÔNICO CO2), nas concentrações comumente encontradas no ar
-(0,03%) é como os anteriores desprovido de odor, cor ou sabor. Entretanto,
-em concentrações mais altas, apresenta cheiro e sabor ácidos. Formado pela
-combinação de duas partes de oxigênio para uma de carbono é o resultado da
-queima de matéria orgânica e da oxidação dos alimentos nos organismos
-vivos. Sua presença, na mistura respiratória do mergulhador, é totalmente
-indesejável, como veremos.
+GÃS CARBÃ”NICO (DIÃ“XIDO DE CARBONO OU ANÃDRICO
+CARBÃ”NICO CO2), nas concentraÃ§Ãµes comumente encontradas no ar
+(0,03%) Ã© como os anteriores desprovido de odor, cor ou sabor. Entretanto,
+em concentraÃ§Ãµes mais altas, apresenta cheiro e sabor Ã¡cidos. Formado pela
+combinaÃ§Ã£o de duas partes de oxigÃªnio para uma de carbono Ã© o resultado da
+queima de matÃ©ria orgÃ¢nica e da oxidaÃ§Ã£o dos alimentos nos organismos
+vivos. Sua presenÃ§a, na mistura respiratÃ³ria do mergulhador, Ã© totalmente
+indesejÃ¡vel, como veremos.
 
-MONÓXIDO DE CARBONO (CO) E HIDROGÊNIO SULFURADO
-(H²S), resultantes respectivamente da combustão incompleta e da
-decomposição de matéria orgânica, são esses gases altamente tóxicos e
-instáveis. Reagindo com a hemoglobina do sangue, impedem a combinação
-desta com o oxigênio.
+MONÃ“XIDO DE CARBONO (CO) E HIDROGÃŠNIO SULFURADO
+(HÂ²S), resultantes respectivamente da combustÃ£o incompleta e da
+decomposiÃ§Ã£o de matÃ©ria orgÃ¢nica, sÃ£o esses gases altamente tÃ³xicos e
+instÃ¡veis. Reagindo com a hemoglobina do sangue, impedem a combinaÃ§Ã£o
+desta com o oxigÃªnio.
 
-4.2 - LEIS DA FÍSICA IMPORTANTES AO MERGULHO
+4.2 - LEIS DA FÃSICA IMPORTANTES AO MERGULHO
 
 Ao mergulha entramos em contato com um mundo completamente novo, em
-condições bem diferentes das que encontramos normalmente.
+condiÃ§Ãµes bem diferentes das que encontramos normalmente.
 
-Ao nível do mar, a camada gasosa que envolve a terra exerce sobre o
-organismo do homem a pressão de uma atmosfera (aproximadamente
+Ao nÃ­vel do mar, a camada gasosa que envolve a terra exerce sobre o
+organismo do homem a pressÃ£o de uma atmosfera (aproximadamente
 
-1 kg/cm²), mas, por ser a densidade da água maior que a do ar (800 vezes), o
+1 kg/cmÂ²), mas, por ser a densidade da Ã¡gua maior que a do ar (800 vezes), o
 
-mergulhador a cada dez metros de profundidade estará sofrendo um
-acréscimo de mais uma pressão igual à atmosfera sobre a pressão que
+mergulhador a cada dez metros de profundidade estarÃ¡ sofrendo um
+acrÃ©scimo de mais uma pressÃ£o igual Ã  atmosfera sobre a pressÃ£o que
 suportava antes.
 
-Assim, a dez metros a pressão total será de 2 atmosferas, a vinte metros de
+Assim, a dez metros a pressÃ£o total serÃ¡ de 2 atmosferas, a vinte metros de
 
                                                                                                                     27
-três atmosferas e assim por diante. Se compararmos essa situação com a de
-um aviador, veremos que para reduzir a pressão ambiente para meia
+trÃªs atmosferas e assim por diante. Se compararmos essa situaÃ§Ã£o com a de
+um aviador, veremos que para reduzir a pressÃ£o ambiente para meia
 
-atmosfera (0,5 kgf./cm²), ele deverá subir uma altitude de 5.400 metros.
+atmosfera (0,5 kgf./cmÂ²), ele deverÃ¡ subir uma altitude de 5.400 metros.
 
-Durante o mergulho, submetido a essa situação especial, o organismo reagirá
-seguindo princípios e leis da física cujo conhecimento será importante na
-formação do mergulhador.
+Durante o mergulho, submetido a essa situaÃ§Ã£o especial, o organismo reagirÃ¡
+seguindo princÃ­pios e leis da fÃ­sica cujo conhecimento serÃ¡ importante na
+formaÃ§Ã£o do mergulhador.
 Lei de Boyle e Mariotte
-A Lei de Boyle diz que quanto maior for a pressão exercida sobre o gás no
-recipiente; menor volume haverá. Pois as moléculas deste gás se aproximam
-umas das outras; e de forma inversa quando menor a pressão exercida maior
-o volume. Isso significa que um mergulhador em apnéia respirando fundo
-antes de mergulhar, terá seus pulmões sendo “espremidos”, à medida que
-desce e a pressão a sua volta aumenta o volume de ar nos pulmões diminui, o
-tórax se encolhe e o abdômen também como se estivesse exalando. Quando
-ele volta à superfície, o tórax e o abdômen retomam ao normal.
-Se nós tivermos uma bola com um volume de 10 litros, ao nível do mar
-(pressão absoluta de = 1 atm) e levarmos essa mesma bola a 10 metros de
-profundidade (pressão absoluta = 2 atm) o volume da mesma bola será
+A Lei de Boyle diz que quanto maior for a pressÃ£o exercida sobre o gÃ¡s no
+recipiente; menor volume haverÃ¡. Pois as molÃ©culas deste gÃ¡s se aproximam
+umas das outras; e de forma inversa quando menor a pressÃ£o exercida maior
+o volume. Isso significa que um mergulhador em apnÃ©ia respirando fundo
+antes de mergulhar, terÃ¡ seus pulmÃµes sendo â€œespremidosâ€, Ã  medida que
+desce e a pressÃ£o a sua volta aumenta o volume de ar nos pulmÃµes diminui, o
+tÃ³rax se encolhe e o abdÃ´men tambÃ©m como se estivesse exalando. Quando
+ele volta Ã  superfÃ­cie, o tÃ³rax e o abdÃ´men retomam ao normal.
+Se nÃ³s tivermos uma bola com um volume de 10 litros, ao nÃ­vel do mar
+(pressÃ£o absoluta de = 1 atm) e levarmos essa mesma bola a 10 metros de
+profundidade (pressÃ£o absoluta = 2 atm) o volume da mesma bola serÃ¡
 reduzido a metade do volume inicial (5 litros).
 
-![](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_retomam_normal_inicial_litros.png)
 
 
-                           A 10 m será de 1/2
-                           A 20 m será de 1/3
-                           A 30 m será de 1/4
-                           A 40 m será de 1/5
+                           A 10 m serÃ¡ de 1/2
+                           A 20 m serÃ¡ de 1/3
+                           A 30 m serÃ¡ de 1/4
+                           A 40 m serÃ¡ de 1/5
 
                                                                                                                     28
 Ao contrario se subirmos com uma bola de 10 litros, dos dez metros de
-profundidade até a superfície, lá ela terá volume dobrado (20 litros).
+profundidade atÃ© a superfÃ­cie, lÃ¡ ela terÃ¡ volume dobrado (20 litros).
 "Em uma temperatura constante, o volume ocupado por uma determinada
-massa de gás, é inversamente proporcional à pressão absoluta a que está
+massa de gÃ¡s, Ã© inversamente proporcional Ã  pressÃ£o absoluta a que estÃ¡
 
-                                         sujeito.”
+                                         sujeito.â€
 
 Lei de Charles e Gay Lussac
-A Lei de Charles nos explica que a pressão varia proporcionalmente com a
-temperatura se o volume se mantiver constante, é o que observamos ao
+A Lei de Charles nos explica que a pressÃ£o varia proporcionalmente com a
+temperatura se o volume se mantiver constante, Ã© o que observamos ao
 recarregarmos os cilindros de mergulho, na medida em que aumentamos a
-pressão em seu interior, notamos a elevação de sua temperatura. Da mesma
-maneira, a pressão varia proporcionalmente com a temperatura se o volume
+pressÃ£o em seu interior, notamos a elevaÃ§Ã£o de sua temperatura. Da mesma
+maneira, a pressÃ£o varia proporcionalmente com a temperatura se o volume
 se mantiver constante.
-"A uma pressão constante o volume natural de uma mesma quantidade de
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_varia_proporcionalmente_temperatura_volume.jpg)
+"A uma pressÃ£o constante o volume natural de uma mesma quantidade de
 
 
-![](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_varia_proporcionalmente_temperatura_volume.jpg)
 
 
-               gás é proporcional a uma temperatura absoluta.”
-Equação Geral dos Gases
-Quando temos certo volume de gás a uma temperatura e pressão, e fazemos
-com que todas estas variáveis se alterem, é a combinação da Lei de Boyle
+
+               gÃ¡s Ã© proporcional a uma temperatura absoluta.â€
+EquaÃ§Ã£o Geral dos Gases
+Quando temos certo volume de gÃ¡s a uma temperatura e pressÃ£o, e fazemos
+com que todas estas variÃ¡veis se alterem, Ã© a combinaÃ§Ã£o da Lei de Boyle
 com a Lei de Charles o que pode se enunciar:
 
                                                                                                                     29
-"Quando uma quantidade de gás suporta uma variação de pressão e /ou
-     de temperatura a relação do produto, pressão vezes volume, sobre
+"Quando uma quantidade de gÃ¡s suporta uma variaÃ§Ã£o de pressÃ£o e /ou
+     de temperatura a relaÃ§Ã£o do produto, pressÃ£o vezes volume, sobre
 
-temperatura no estado inicial é igual á relação tio produto, pressão vezes
+temperatura no estado inicial Ã© igual Ã¡ relaÃ§Ã£o tio produto, pressÃ£o vezes
                    volume, sobre temperatura no estado final"
 
 onde:
-       P é a pressão do gas.
-       T é a temperatura termodinâmica.
-       kPT é uma constante.
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_onde_pressao_diferentes_estando.jpg)
+       P Ã© a pressÃ£o do gas.
+       T Ã© a temperatura termodinÃ¢mica.
+       kPT Ã© uma constante.
 
 
-Portanto para comparar a mesma substância em estados diferentes (estando
-de acordo com as condições acima) afirma-se que:
+
+Portanto para comparar a mesma substÃ¢ncia em estados diferentes (estando
+de acordo com as condiÃ§Ãµes acima) afirma-se que:
 
 Lei de Dalton
 Os gases numa mistura exibem uma propriedade singular. Cada um exerce
-uma pressão que é independente de todos os outros gases. A força exercida
-por cada gás é chamada de pressão parcial, e a força exercida pela mistura
-(chamada de pressão total) é a sorna de todas as pressões parciais dos gases
-constituintes. O ar é composto em grande parte de cerca de 20 % de oxigênio
-e 80 % de nitrogênio. Se o ar fosse encerrado dentro de um recipiente e todo
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_cada_exerce_cerca_oxigenio.png)
+uma pressÃ£o que Ã© independente de todos os outros gases. A forÃ§a exercida
+por cada gÃ¡s Ã© chamada de pressÃ£o parcial, e a forÃ§a exercida pela mistura
+(chamada de pressÃ£o total) Ã© a sorna de todas as pressÃµes parciais dos gases
+constituintes. O ar Ã© composto em grande parte de cerca de 20 % de oxigÃªnio
+e 80 % de nitrogÃªnio. Se o ar fosse encerrado dentro de um recipiente e todo
 
 
-o oxigênio removido, a pressão cairia de l Kg para 0,8 Kgf./cm². E se em vez
-disso o nitrogênio fosse removido, a pressão baixaria para 0,2 Kgf./cm².
-Assim a pressão parcial do oxigênio é de 0,2 Kgf./cm²; a do nitrogênio é de
-0,8 Kgf./cm²; e o total é de l Kgf./cm², a pressão absoluta do ar ao nível do
+
+o oxigÃªnio removido, a pressÃ£o cairia de l Kg para 0,8 Kgf./cmÂ². E se em vez
+disso o nitrogÃªnio fosse removido, a pressÃ£o baixaria para 0,2 Kgf./cmÂ².
+Assim a pressÃ£o parcial do oxigÃªnio Ã© de 0,2 Kgf./cmÂ²; a do nitrogÃªnio Ã© de
+0,8 Kgf./cmÂ²; e o total Ã© de l Kgf./cmÂ², a pressÃ£o absoluta do ar ao nÃ­vel do
 
 mar.
-   "Numa mistura gasosa, cada gás comporta-se como se ele ocupasse
+   "Numa mistura gasosa, cada gÃ¡s comporta-se como se ele ocupasse
 
- sozinho o volume global de mistura: a pressão total da mistura é a soma
-         das pressões parciais dos diferentes gases que a compõem”
+ sozinho o volume global de mistura: a pressÃ£o total da mistura Ã© a soma
+         das pressÃµes parciais dos diferentes gases que a compÃµemâ€
 
                                                                                                                     30
 Pp X (O2) +  Pp Y (N2) = P mistura X+Y(Ar)
 
-![](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_mistura_x_y_ar_liquido_sofre.png)
 
 
 Principio de Arquimedes
 
-O Principio de Arquimedes enuncia que um objeto imerso num líquido sofre
-um empuxo de baixo para cima igual ao peso do volume de líquido que
-desloca. Um objeto flutua quando a força do empuxo supera seu peso. Se o
-objeto desloca um volume de líquido de peso exatamente igual ao seu, diz-se
-que tem flutuabilidade neutra; não afunda nem flutua. Se o peso do objeto é
-desloca uma quantidade de líquido de peso menor que o seu, o objeto afunda.
+O Principio de Arquimedes enuncia que um objeto imerso num lÃ­quido sofre
+um empuxo de baixo para cima igual ao peso do volume de lÃ­quido que
+desloca. Um objeto flutua quando a forÃ§a do empuxo supera seu peso. Se o
+objeto desloca um volume de lÃ­quido de peso exatamente igual ao seu, diz-se
+que tem flutuabilidade neutra; nÃ£o afunda nem flutua. Se o peso do objeto Ã©
+desloca uma quantidade de lÃ­quido de peso menor que o seu, o objeto afunda.
 
-![](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_liquido_sofre_peso_objeto.jpg)
 
 
                                                                                                                     31
-"Todo corpo imerso em um líquido em equilíbrio é submetido a uma força
+"Todo corpo imerso em um lÃ­quido em equilÃ­brio Ã© submetido a uma forÃ§a
    vertical dirigida de baixo para cima de intensidade igual ao peso do
-                           volume de liquido deslocado.”
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_igual_peso_liquido_deslocado.png)
+                           volume de liquido deslocado.â€
 
 
-![](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_igual_peso_liquido_deslocado.png)
 
 
-![](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_submetido_forca_liquido_deslocado.jpg)
+
 
 
                                                                                                                     32
-Princípio de Pascal
-A pressão exercida sobre um ponto qualquer de um fluido se transmite em
-todas as direções com igual intensidade.
+PrincÃ­pio de Pascal
+A pressÃ£o exercida sobre um ponto qualquer de um fluido se transmite em
+todas as direÃ§Ãµes com igual intensidade.
 
-  “Quando um ponto de um líquido em equilíbrio sofre uma variação de
- pressão, todos os outros pontos do líquido também irão sofrer a mesma
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_sofrer_mesma_dissolvido_pela.png)
+  â€œQuando um ponto de um lÃ­quido em equilÃ­brio sofre uma variaÃ§Ã£o de
+ pressÃ£o, todos os outros pontos do lÃ­quido tambÃ©m irÃ£o sofrer a mesma
 
 
-![](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_sofrer_mesma_dissolvido_pela.png)
 
 
-                                        variação.”
+
+                                        variaÃ§Ã£o.â€
 Lei de Henry
-É interessante substituir a noção de quantidade de gás dissolvido pela noção
-de tensão ("pressão" do gás dissolvido) isto permite, tomando como base o
-estado de saturação, estabelecer uma simples comparação de pressões.
- "Para um sistema liquido/gás e temperatura constante a solubilidade do
-gás no liquido é proporcional á pressão excedia por este gás neste líquido.
-“Numa mistura gasosa, a quantidade dissolvida de cada gás da mistura é
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_pressao_parcial_liquidas_moleculas.jpg)
+Ã‰ interessante substituir a noÃ§Ã£o de quantidade de gÃ¡s dissolvido pela noÃ§Ã£o
+de tensÃ£o ("pressÃ£o" do gÃ¡s dissolvido) isto permite, tomando como base o
+estado de saturaÃ§Ã£o, estabelecer uma simples comparaÃ§Ã£o de pressÃµes.
+ "Para um sistema liquido/gÃ¡s e temperatura constante a solubilidade do
+gÃ¡s no liquido Ã© proporcional Ã¡ pressÃ£o excedia por este gÃ¡s neste lÃ­quido.
+â€œNuma mistura gasosa, a quantidade dissolvida de cada gÃ¡s da mistura Ã©
 
 
-                          proporcional à pressão parcial”
 
-                                                                     MOLÉCULAS
+                          proporcional Ã  pressÃ£o parcialâ€
+
+                                                                     MOLÃ‰CULAS
                                                                        LIQUIDAS
 
-                                                                         MOLÉCULAS
-                                                                             DE GÁS
+                                                                         MOLÃ‰CULAS
+                                                                             DE GÃS
 
                                                                                                                     33
-ESTADO SATURADO - É obtido
-quando a tensão de gás dissolvido (no
-liquido) e a pressão de gás livre (na
-atmosfera) estão em equilíbrio: Fase de
-equilíbrio
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_fase_equilibrio_dissolvido_inferior.jpg)
+ESTADO SATURADO - Ã‰ obtido
+quando a tensÃ£o de gÃ¡s dissolvido (no
+liquido) e a pressÃ£o de gÃ¡s livre (na
+atmosfera) estÃ£o em equilÃ­brio: Fase de
+equilÃ­brio
 
 
-ESTADO DE NÃO SATURAÇÃO -
-Um líquido é dito não saturado quando
-a tensão de gás dissolvido é inferior a
-pressão do gás livre na superfície: Fase
-de absorção de gás.
 
-![](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_superficie_fase_dito_supersaturado.jpg)
+ESTADO DE NÃƒO SATURAÃ‡ÃƒO -
+Um lÃ­quido Ã© dito nÃ£o saturado quando
+a tensÃ£o de gÃ¡s dissolvido Ã© inferior a
+pressÃ£o do gÃ¡s livre na superfÃ­cie: Fase
+de absorÃ§Ã£o de gÃ¡s.
 
 
-ESTADO DE SUPERSATURAÇÃO -
-Um líquido é dito supersaturado
-quando a tensão de gás dissolvido é
-superior a pressão de gás livre na sua
-superfície. Fase de restituição de gás.
-Obs.: Supersaturação crítica é o nível
-máximo que um líquido pode admitir
-antes da liberação espontânea do gás
+
+ESTADO DE SUPERSATURAÃ‡ÃƒO -
+Um lÃ­quido Ã© dito supersaturado
+quando a tensÃ£o de gÃ¡s dissolvido Ã©
+superior a pressÃ£o de gÃ¡s livre na sua
+superfÃ­cie. Fase de restituiÃ§Ã£o de gÃ¡s.
+Obs.: SupersaturaÃ§Ã£o crÃ­tica Ã© o nÃ­vel
+mÃ¡ximo que um lÃ­quido pode admitir
+antes da liberaÃ§Ã£o espontÃ¢nea do gÃ¡s
 em formas de bolhas (macro bolhas)
 
-![](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_pode_admitir_equivalencia_padrao.png)
 
 
-![](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_dito_supersaturado_critica_nivel.jpg)
 
 
-4.4 - UNIDADES DE EQUIVALÊNCIA PADRÃO
+4.4 - UNIDADES DE EQUIVALÃŠNCIA PADRÃƒO
 
-Em nosso país podemos encontrar nas escolas o sistema métrico de medidas,
-mas no mergulho muitas vezes utilizamos o sistema inglês, isto porque
-muitos dos equipamentos que usamos são fabricados por empresas cujo país
+Em nosso paÃ­s podemos encontrar nas escolas o sistema mÃ©trico de medidas,
+mas no mergulho muitas vezes utilizamos o sistema inglÃªs, isto porque
+muitos dos equipamentos que usamos sÃ£o fabricados por empresas cujo paÃ­s
 
                                                                                                                     34
-de origem adota esse sistema. É interessante que o mergulhador saiba
-converter as unidades de um sistema para o outro (Ex.: Existem manômetros
+de origem adota esse sistema. Ã‰ interessante que o mergulhador saiba
+converter as unidades de um sistema para o outro (Ex.: Existem manÃ´metros
 que possuem a escala em atmosfera (atm), outros em BAR, ou ainda em
 Libras Por polegadas Quadrada (PSI).
 
-Para convertermos essas escalas utilizamos a regra de três simples.
+Para convertermos essas escalas utilizamos a regra de trÃªs simples.
 
-           A=B          EQUIVALÊNCIA PADRÃO
+           A=B          EQUIVALÃŠNCIA PADRÃƒO
 
-           C=X          EQUIVALÊNCIA À SABER
+           C=X          EQUIVALÃŠNCIA Ã€ SABER
 
-                    A · X = B · C logo X = B·C
+                    A Â· X = B Â· C logo X = BÂ·C
                                                           A
 
 COMPRIMENTO
-01 metro (m) = 100 centímetros (cm) = 1000 milímetros (mm) = 3,28 pés
+01 metro (m) = 100 centÃ­metros (cm) = 1000 milÃ­metros (mm) = 3,28 pÃ©s
 (ft.) = 39,37 polegadas (pol.)
-01 pé = 12 polegadas = 0, 3048 m
+01 pÃ© = 12 polegadas = 0, 3048 m
 01" (polegada) = 2,54 cm
 
 Exemplo I               Exemplo II
 
-Quantos metros equivalem a 60 pés? Quantos pés equivalem a 24 metros?
+Quantos metros equivalem a 60 pÃ©s? Quantos pÃ©s equivalem a 24 metros?
 
-1 pé = 0,30 metros      0,30 metros = 1 pé
-60 pés = X metros       24 metros = X pés
+1 pÃ© = 0,30 metros      0,30 metros = 1 pÃ©
+60 pÃ©s = X metros       24 metros = X pÃ©s
 
-           = 18 metros                                       80 pés
+           = 18 metros                                       80 pÃ©s
 
-A seguir veremos algumas definições:
+A seguir veremos algumas definiÃ§Ãµes:
 
-PRESSÃO é, por definição, a força exercida por unidade de área.
+PRESSÃƒO Ã©, por definiÃ§Ã£o, a forÃ§a exercida por unidade de Ã¡rea.
 
-FORÇA é toda ação que tende a produzir movimento e pode ser expressa em
-libras /força.
+FORÃ‡A Ã© toda aÃ§Ã£o que tende a produzir movimento e pode ser expressa em
+libras /forÃ§a.
 
-ÁREA é a superfície sobre a qual a força é exercida e pode ser medida em
+ÃREA Ã© a superfÃ­cie sobre a qual a forÃ§a Ã© exercida e pode ser medida em
 polegadas quadradas.
-Assim a pressão pode ser medida em libras força por polegadas quadradas
-(PSI) quando no sistema inglês.
+Assim a pressÃ£o pode ser medida em libras forÃ§a por polegadas quadradas
+(PSI) quando no sistema inglÃªs.
 
-Da mesma forma, se estivermos usando o sistema métrico à pressão será
+Da mesma forma, se estivermos usando o sistema mÃ©trico Ã  pressÃ£o serÃ¡
 
                                                                                                                     35
-expressa em gramas ou quilogramas força por centímetro quadrado. Isto
-nada mais é do que outra expressão de força sobre unidade de área.
+expressa em gramas ou quilogramas forÃ§a por centÃ­metro quadrado. Isto
+nada mais Ã© do que outra expressÃ£o de forÃ§a sobre unidade de Ã¡rea.
 
-O manômetro é o aparelho utilizado para medir a pressão. As unidades
-barométricas são:
+O manÃ´metro Ã© o aparelho utilizado para medir a pressÃ£o. As unidades
+baromÃ©tricas sÃ£o:
 
 atm = atmosfera
 
-PSI = libras força/pol²
+PSI = libras forÃ§a/polÂ²
 
-mm Hg = milímetros de mercúrio
+mm Hg = milÃ­metros de mercÃºrio
 
- atm = 14,7 PSI = 1, 003 Kgf./cm² = 1,01 Bar = 760 mm Hg = 33,9 pés da
-água do mar = 10,3 m de água doce.
+ atm = 14,7 PSI = 1, 003 Kgf./cmÂ² = 1,01 Bar = 760 mm Hg = 33,9 pÃ©s da
+Ã¡gua do mar = 10,3 m de Ã¡gua doce.
 
-Aproximadamente para efeitos de cálculos pode-se usar:
+Aproximadamente para efeitos de cÃ¡lculos pode-se usar:
 
-1 atm = 15 PSI = 1Kgf./ cm2 = 1 Bar = 760 mm Hg = 33 pés de água do mar
-= 10 m de água doce.
+1 atm = 15 PSI = 1Kgf./ cm2 = 1 Bar = 760 mm Hg = 33 pÃ©s de Ã¡gua do mar
+= 10 m de Ã¡gua doce.
 
 Exemplo I                         Exemplo II
-Quantos PSI têm em 7 atm?         Quantos atm têm em 150 PSI?
+Quantos PSI tÃªm em 7 atm?         Quantos atm tÃªm em 150 PSI?
 
 1atm = 15 PSI                     15 PSI = 1 Bar
 7atm = X                          150 PSI = X
@@ -394,197 +373,192 @@ X = 15 PSI x 7 atm = 105 PSI      X = 1 Bar x 150 PSI = 10 BAR
 
 Exemplo III
 
-Quantos atm têm em 30 m de água do ATENÇÃO: Neste ultimo problema
+Quantos atm tÃªm em 30 m de Ã¡gua do ATENÃ‡ÃƒO: Neste ultimo problema
 
-mar?                              estamos calculando equivalência de
+mar?                              estamos calculando equivalÃªncia de
 
-                                  pressão e não a pressão absoluta a
+                                  pressÃ£o e nÃ£o a pressÃ£o absoluta a
 
-10m de água = 1 atm               30m de profundidade (que será de 4
+10m de Ã¡gua = 1 atm               30m de profundidade (que serÃ¡ de 4
 
-30 m de água = X                  atm absolutas ou 4 ATA).
+30 m de Ã¡gua = X                  atm absolutas ou 4 ATA).
 
-X = 1 atm x 30 m de água = 3 atm
-          10 m de água
+X = 1 atm x 30 m de Ã¡gua = 3 atm
+          10 m de Ã¡gua
 
                                                                 36
-Pressão Atmosférica
+PressÃ£o AtmosfÃ©rica
 
-Pressão atmosférica (Patm) é o resultado do peso da atmosfera produzindo
-uma determinada força sobre a superfície da terra. Esta pressão ao nível do
-mar é de uma atm ou o equivalente em qualquer uma das unidades. Ela atua
-em todas as direções e sentidos e em quase todas as estruturas, incluindo o
-nosso próprio corpo, que transmite pressão livremente e é exposto á mesma
-pressão em todas as direções e sentidos, interna e externamente. Seus efeitos
-são assim neutralizados e, por isso, geralmente, ignoramos a presença da
-pressão atmosférica.
+PressÃ£o atmosfÃ©rica (Patm) Ã© o resultado do peso da atmosfera produzindo
+uma determinada forÃ§a sobre a superfÃ­cie da terra. Esta pressÃ£o ao nÃ­vel do
+mar Ã© de uma atm ou o equivalente em qualquer uma das unidades. Ela atua
+em todas as direÃ§Ãµes e sentidos e em quase todas as estruturas, incluindo o
+nosso prÃ³prio corpo, que transmite pressÃ£o livremente e Ã© exposto Ã¡ mesma
+pressÃ£o em todas as direÃ§Ãµes e sentidos, interna e externamente. Seus efeitos
+sÃ£o assim neutralizados e, por isso, geralmente, ignoramos a presenÃ§a da
+pressÃ£o atmosfÃ©rica.
 
-Pressão Relativa
+PressÃ£o Relativa
 
-Pressão relativa (Prel) é toda pressão além da pressão atmosférica. Pode ser
+PressÃ£o relativa (Prel) Ã© toda pressÃ£o alÃ©m da pressÃ£o atmosfÃ©rica. Pode ser
 chamada de:
 
-Pressão Hidrostática (Phid) é a pressão relativa na água. Quanto maior a
-profundidade maior será a pressão hidrostática. A cada 10 m teremos um
+PressÃ£o HidrostÃ¡tica (Phid) Ã© a pressÃ£o relativa na Ã¡gua. Quanto maior a
+profundidade maior serÃ¡ a pressÃ£o hidrostÃ¡tica. A cada 10 m teremos um
 aumento de 1 atm.
 
-Pressão Manométrica (Pman) é a pressão relativa em compartimentos
-fechados. Quando dizemos que a pressão de aqualung é de 200 atm,
-queremos dizer que a pressão é de 200 atm acima da pressão atmosférica,
-porque os manômetros medem a diferença entre uma determinada pressão e
-a pressão atmosférica. Os manômetros são construídos de modo que seu zero
-indique a pressão atmosférica. Exceto quando especificada, a leitura de uma
-pressão refere-se à pressão manométrica.
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_pressao_relativa_calculo_consumo.png)
+PressÃ£o ManomÃ©trica (Pman) Ã© a pressÃ£o relativa em compartimentos
+fechados. Quando dizemos que a pressÃ£o de aqualung Ã© de 200 atm,
+queremos dizer que a pressÃ£o Ã© de 200 atm acima da pressÃ£o atmosfÃ©rica,
+porque os manÃ´metros medem a diferenÃ§a entre uma determinada pressÃ£o e
+a pressÃ£o atmosfÃ©rica. Os manÃ´metros sÃ£o construÃ­dos de modo que seu zero
+indique a pressÃ£o atmosfÃ©rica. Exceto quando especificada, a leitura de uma
+pressÃ£o refere-se Ã  pressÃ£o manomÃ©trica.
 
 
-Pressão Absoluta
 
-Pressão absoluta (Pabs) ou pressão total (Pt)
-é a somatória da pressão atmosférica com a
-pressão relativa.
+PressÃ£o Absoluta
+
+PressÃ£o absoluta (Pabs) ou pressÃ£o total (Pt)
+Ã© a somatÃ³ria da pressÃ£o atmosfÃ©rica com a
+pressÃ£o relativa.
 
                Patm + Prel = Pabs
 
-Cálculo de Consumo de Ar
+CÃ¡lculo de Consumo de Ar
 
-No mergulho autônomo, onde a capacidade
-da mistura gasosa é limitada, faz-se
-necessário os cálculos da quantidade
-disponível, no caso, de ar comprimido, e a
-quantidade que iremos consumir em relação
-à profundidade.
+No mergulho autÃ´nomo, onde a capacidade
+da mistura gasosa Ã© limitada, faz-se
+necessÃ¡rio os cÃ¡lculos da quantidade
+disponÃ­vel, no caso, de ar comprimido, e a
+quantidade que iremos consumir em relaÃ§Ã£o
+Ã  profundidade.
 
                                                                                                                     37
-O homem, ao nível do mar, tem um consumo de ar de 20 litros por minuto
-(para efeitos de cálculo, uma média que leva em conta fatores como,
-condições físicas, temperatura da água, esforço físico, etc.).
+O homem, ao nÃ­vel do mar, tem um consumo de ar de 20 litros por minuto
+(para efeitos de cÃ¡lculo, uma mÃ©dia que leva em conta fatores como,
+condiÃ§Ãµes fÃ­sicas, temperatura da Ã¡gua, esforÃ§o fÃ­sico, etc.).
 
-Cálculo do Consumo em Relação à Profundidade
+CÃ¡lculo do Consumo em RelaÃ§Ã£o Ã  Profundidade
 
 Para calcularmos o consumo de ar do mergulhador em diferentes
-profundidades basta multiplicar-mos o consumo ao nível do mar pela
-pressão ambiente absoluta.
+profundidades basta multiplicar-mos o consumo ao nÃ­vel do mar pela
+pressÃ£o ambiente absoluta.
 
-20 l./min. (consumo na super.) X Pabs (pressão absoluta) = Consumo
+20 l./min. (consumo na super.) X Pabs (pressÃ£o absoluta) = Consumo
 
-Qual será o consumo de ar de um mergulhador a 20 metros de profundidade?
+Qual serÃ¡ o consumo de ar de um mergulhador a 20 metros de profundidade?
 Cons. Super. = 20 litros por minuto Pabs a 20 m = 3 ATA
 20 X 3 = 60 litros por minuto
-Qual será o consumo de ar de um mergulhador a 55 metros de profundidade?
+Qual serÃ¡ o consumo de ar de um mergulhador a 55 metros de profundidade?
 Cons. Super. = 20 litros por minuto Pabs a 55 m = 6,5 ATA
 20 X 6.5 = 130 litros por minuto
 
-Cálculo em Relação à Capacidade de Cada Cilindro
-A equação resume-se na multiplicação da pressão de enchimento do cilindro
-pela sua capacidade volumétrica, desta forma encontraremos sua capacidade
+CÃ¡lculo em RelaÃ§Ã£o Ã  Capacidade de Cada Cilindro
+A equaÃ§Ã£o resume-se na multiplicaÃ§Ã£o da pressÃ£o de enchimento do cilindro
+pela sua capacidade volumÃ©trica, desta forma encontraremos sua capacidade
 em litros.
-Quantos litros existem em uma garrafa de 11 litros e pressão de enchimento
+Quantos litros existem em uma garrafa de 11 litros e pressÃ£o de enchimento
 de 200 atm?
 Volume = 11 litros Pe= 200 atm
-Quantos litros existem em uma garrafa de 18 litros e pressão de enchimento
+Quantos litros existem em uma garrafa de 18 litros e pressÃ£o de enchimento
 de 250 atm?
 Volume = 18 litros Pe = 250 atm
 
-Cálculo do Ar Disponível e do Ar Reserva
-Nos registros mais antigos (tipo “J”) encontra-se o sistema de reserva de ar
-(esta reserva não deve ser considerada para o consumo durante o mergulho).
-Resume-se a uma mola com pressão de 30 atm instalada no interior do
+CÃ¡lculo do Ar DisponÃ­vel e do Ar Reserva
+Nos registros mais antigos (tipo â€œJâ€) encontra-se o sistema de reserva de ar
+(esta reserva nÃ£o deve ser considerada para o consumo durante o mergulho).
+Resume-se a uma mola com pressÃ£o de 30 atm instalada no interior do
 
                                                                                                                     38
-registro, a mesma fecha a passagem de ar quando a pressão da mola
+registro, a mesma fecha a passagem de ar quando a pressÃ£o da mola
 equaliza-se com a do interior da garrafa, o mergulhador avisado que seu ar
-disponível chegou ao fim deve acionar a alavanca de reserva (restabelecendo
-assim sua respiração normalmente) e dirigir-se a superfície. Nos conjuntos
-de respiração autônomos mais modernos a leitura do ar reserva é feita pelo
-manômetro.
-Quantos litros de Ar Reserva existem em uma garrafa de 11 litros e pressão
+disponÃ­vel chegou ao fim deve acionar a alavanca de reserva (restabelecendo
+assim sua respiraÃ§Ã£o normalmente) e dirigir-se a superfÃ­cie. Nos conjuntos
+de respiraÃ§Ã£o autÃ´nomos mais modernos a leitura do ar reserva Ã© feita pelo
+manÃ´metro.
+Quantos litros de Ar Reserva existem em uma garrafa de 11 litros e pressÃ£o
 de enchimento de 200 atm?
-Pressão da mola = 30 atm
+PressÃ£o da mola = 30 atm
 Volume = 11 litros
-Pressão de enchimento = 200 atm
+PressÃ£o de enchimento = 200 atm
 
 200 atm X 11 l. = 2200 l. - Ar Total
 30 atm X 11 l. = 330 l. - Ar Res.
-2200 l. - 330 l. = 1870 l. - Ar Útil
-4.1 - LUZ, ÓTICA E SOM
-A luz branca visível é constituída por um espectro de todas as cores -
-vermelha, laranja, amarela, verde, azul, índigo, violeta. Quando olhamos
+2200 l. - 330 l. = 1870 l. - Ar Ãštil
+4.1 - LUZ, Ã“TICA E SOM
+A luz branca visÃ­vel Ã© constituÃ­da por um espectro de todas as cores -
+vermelha, laranja, amarela, verde, azul, Ã­ndigo, violeta. Quando olhamos
 para um objeto e o vemos como azul, estamos vendo a luz azul do espectro
-refletida do objeto. Todas as outras cores são absorvidas e não podem ser
-vistas. No caso do mar, a luz vermelha é absorvida assim que rompe pela
-superfície da água. E a uma profundidade de cerca de oito metros
+refletida do objeto. Todas as outras cores sÃ£o absorvidas e nÃ£o podem ser
+vistas. No caso do mar, a luz vermelha Ã© absorvida assim que rompe pela
+superfÃ­cie da Ã¡gua. E a uma profundidade de cerca de oito metros
 
-![](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_total_otica_absorvidas_podem.png)
 
 
                                                                                                                     39
-praticamente toda luz vermelha discernível ao olho humano já desvaneceu; o
+praticamente toda luz vermelha discernÃ­vel ao olho humano jÃ¡ desvaneceu; o
 tanque de ar de vermelho brilhante de um mergulhador, por exemplo,
 pareceria um marrom escuro opaco. A uma profundidade de 22 metros um
 tanque de ar amarelo parece mais de um azul esverdeado, porque a luz
-amarela discernível foi absorvida pela água. Os raios ainda mais curtos de
-luz (comprimento de onda) são quase todos absorvidos na altura de trinta
-metros. Só restam os raios mais curtos: azul índigo e violeta. Abaixo de
-trinta metros ou por ai, toda luz parece um azul monocromática. Assim
-quando o mar é puro e claro, como acontece no oceano aberto, à tonalidade
-menos absorvida do espectro, azul, é refletida para os olhos.
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_altura_trinta_para_olhos.jpg)
+amarela discernÃ­vel foi absorvida pela Ã¡gua. Os raios ainda mais curtos de
+luz (comprimento de onda) sÃ£o quase todos absorvidos na altura de trinta
+metros. SÃ³ restam os raios mais curtos: azul Ã­ndigo e violeta. Abaixo de
+trinta metros ou por ai, toda luz parece um azul monocromÃ¡tica. Assim
+quando o mar Ã© puro e claro, como acontece no oceano aberto, Ã  tonalidade
+menos absorvida do espectro, azul, Ã© refletida para os olhos.
 
 
-Mergulhe no mar, abra os olhos, olhe ao redor. O que você vê? Formas
+
+Mergulhe no mar, abra os olhos, olhe ao redor. O que vocÃª vÃª? Formas
 indistintas, completamente desfocadas. Sem detalhes. Cores esmaecidas,
-dificilmente algo reconhecível. Fora da água, a luz passa pelo ar e penetra em
-seu olho - que contém um fluido similar em densidade à água do mar. A
-diferença de densidade entre o ar e esse fluido desvia ou refrata os raios da
+dificilmente algo reconhecÃ­vel. Fora da Ã¡gua, a luz passa pelo ar e penetra em
+seu olho - que contÃ©m um fluido similar em densidade Ã  Ã¡gua do mar. A
+diferenÃ§a de densidade entre o ar e esse fluido desvia ou refrata os raios da
 luz ao entrarem em seu olho. A luz refratada focaliza-se na retina. Debaixo
-d'água, no entanto, a luz passa da água do mar para seu olho com uma
-refração mínima, por causa da densidade similar dos fluidos; assim, tudo
-parece desfocado. Você se toma extremamente hipermetrope.
+d'Ã¡gua, no entanto, a luz passa da Ã¡gua do mar para seu olho com uma
+refraÃ§Ã£o mÃ­nima, por causa da densidade similar dos fluidos; assim, tudo
+parece desfocado. VocÃª se toma extremamente hipermetrope.
 
-Se você interpõe um bolsão de ar entre a água e o olho, o cristalino ocular
+Se vocÃª interpÃµe um bolsÃ£o de ar entre a Ã¡gua e o olho, o cristalino ocular
 funciona direito.
 
-Para formar esse bolsão de ar, você põe uma máscara de mergulhador. Mas
-uma máscara não é um instrumento perfeito. A refração da luz através da
-superfície plana de separação entre a água e o ar, como a placa de vidro de
-uma máscara ou um aquário, possui o efeito de ampliar tudo o que vemos em
-33%. Um peixe visto a três metros de distância parece estar apenas a dois
+Para formar esse bolsÃ£o de ar, vocÃª pÃµe uma mÃ¡scara de mergulhador. Mas
+uma mÃ¡scara nÃ£o Ã© um instrumento perfeito. A refraÃ§Ã£o da luz atravÃ©s da
+superfÃ­cie plana de separaÃ§Ã£o entre a Ã¡gua e o ar, como a placa de vidro de
+uma mÃ¡scara ou um aquÃ¡rio, possui o efeito de ampliar tudo o que vemos em
+33%. Um peixe visto a trÃªs metros de distÃ¢ncia parece estar apenas a dois
 
                                                                                                                     40
-metros, e dá a impressão de ser do tamanho que você esperaria se estivesse a
-dois metros. Os problemas adicionais na visão submarina incluem a visão
-afunilada e a distorção da visão periférica.
+metros, e dÃ¡ a impressÃ£o de ser do tamanho que vocÃª esperaria se estivesse a
+dois metros. Os problemas adicionais na visÃ£o submarina incluem a visÃ£o
+afunilada e a distorÃ§Ã£o da visÃ£o perifÃ©rica.
 
-  E tudo que enxergamos nos parecerá uns 25% mais próximo e 33%
+  E tudo que enxergamos nos parecerÃ¡ uns 25% mais prÃ³ximo e 33%
                              maior do que na realidade.
 
-O som na água
-A velocidade do som na água é quatro vezes maior do que no ar e tem maior
+O som na Ã¡gua
+A velocidade do som na Ã¡gua Ã© quatro vezes maior do que no ar e tem maior
 alcance.
 O que poderia parecer uma vantagem traz consigo um perigo potencial:
-qualquer ruído irá atingir quase contemporaneamente os dois ouvidos e,
+qualquer ruÃ­do irÃ¡ atingir quase contemporaneamente os dois ouvidos e,
 devido a isso, perde-se a capacidade de localizar a sua origem.
-Quando mergulhados pode se perceber que uma embarcação está se
-aproximando porque o ruído que emite está aumentando, mas não se
-consegue saber de onde ele está vindo.
-Nesta situação um mergulhador em apnéia no fundo é obrigado a uma difícil
-decisão: terá fôlego para esperar a embarcação passar ou sobe
+Quando mergulhados pode se perceber que uma embarcaÃ§Ã£o estÃ¡ se
+aproximando porque o ruÃ­do que emite estÃ¡ aumentando, mas nÃ£o se
+consegue saber de onde ele estÃ¡ vindo.
+Nesta situaÃ§Ã£o um mergulhador em apnÃ©ia no fundo Ã© obrigado a uma difÃ­cil
+decisÃ£o: terÃ¡ fÃ´lego para esperar a embarcaÃ§Ã£o passar ou sobe
 
-![](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_maior_realidade_perigo_potencial.png)
 
 
                                                                                                                     41
 imediatamente, para escapar de sua rota.
-Quando em apnéia, para aumentar sua segurança e marcar sua presença,
-deve rebocar uma bóia, de preferência com uma bandeira. Mesmo que um
-“lancheiro” ignore seu significado, vai se manter afastado para evitar um
-enrosco em seu hélice.
+Quando em apnÃ©ia, para aumentar sua seguranÃ§a e marcar sua presenÃ§a,
+deve rebocar uma bÃ³ia, de preferÃªncia com uma bandeira. Mesmo que um
+â€œlancheiroâ€ ignore seu significado, vai se manter afastado para evitar um
+enrosco em seu hÃ©lice.
 
                                                                                                                     42
 
 ---
 
-![](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_x_para_evitar.png)

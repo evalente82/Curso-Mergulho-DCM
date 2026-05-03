@@ -1,4 +1,4 @@
----
+﻿---
 id: "equipamentos"
 moduleId: "curso_mergulho_autonomo_basico"
 title: "Equipamentos"
@@ -9,462 +9,459 @@ Equipamentos  3
 
 3.1 - EQUIPAMENTOS
 
-Os equipamentos abaixo citados, máscara, snorkel e nadadeiras, são aqueles
-indispensáveis para pratica das atividades do mergulho, por esta razão há
+Os equipamentos abaixo citados, mÃ¡scara, snorkel e nadadeiras, sÃ£o aqueles
+indispensÃ¡veis para pratica das atividades do mergulho, por esta razÃ£o hÃ¡
 este grupo de equipamentos convencionou-se chamar de EQUIPAMENTO
-BÁSICO DE MERGULHO.
+BÃSICO DE MERGULHO.
 
-Máscara
+MÃ¡scara
 
-Tem como objetivo adequar nossa visão, já que esta não está adaptada ao
-meio aquático, criando um espaço de ar entre os olhos e a água. Variam
+Tem como objetivo adequar nossa visÃ£o, jÃ¡ que esta nÃ£o estÃ¡ adaptada ao
+meio aquÃ¡tico, criando um espaÃ§o de ar entre os olhos e a Ã¡gua. Variam
 muito de acordo com os diversos fabricantes, estas podem ser em borracha
-sintética ou silicone, transparentes, pretas ou coloridas, o importante é que
+sintÃ©tica ou silicone, transparentes, pretas ou coloridas, o importante Ã© que
 seu vidro seja sempre temperado. Quanto menor seu volume interno, mais
-fácil a equalização da pressão interna da máscara com a pressão hidrostática
+fÃ¡cil a equalizaÃ§Ã£o da pressÃ£o interna da mÃ¡scara com a pressÃ£o hidrostÃ¡tica
 ambiente. Deve-se escolher a que melhor se adapte ao rosto, pois disto
-dependerá sua perfeita vedação e conforto durante o mergulho.
+dependerÃ¡ sua perfeita vedaÃ§Ã£o e conforto durante o mergulho.
 
-Há três tipos básicos:
+HÃ¡ trÃªs tipos bÃ¡sicos:
 
-A ovalada; a de nariz moldado com visor único; e a de nariz moldado de
+A ovalada; a de nariz moldado com visor Ãºnico; e a de nariz moldado de
 visor duplo.
 
-As duas últimas são as mais recomendadas, pois geralmente apresentam um
-volume interno pequeno e seu nariz moldado torna mais fácil a
-compensação. As de visor duplo são melhores para aqueles que tenham
-problemas visuais, pois, é mais fácil a troca do vidro por lentes corretivas
+As duas Ãºltimas sÃ£o as mais recomendadas, pois geralmente apresentam um
+volume interno pequeno e seu nariz moldado torna mais fÃ¡cil a
+compensaÃ§Ã£o. As de visor duplo sÃ£o melhores para aqueles que tenham
+problemas visuais, pois, Ã© mais fÃ¡cil a troca do vidro por lentes corretivas
 (em casas especializadas).
 
-Procedimento na compra da máscara:
-    Colocar a máscara na sua fase sem a tira posterior.
-    Inspirar pelo nariz.
-    A máscara deve permanecer grudada a face mesmo sem a tira, é a
-       comprovação da perfeita vedação.
+Procedimento na compra da mÃ¡scara:
+   ïƒ˜ Colocar a mÃ¡scara na sua fase sem a tira posterior.
+   ïƒ˜ Inspirar pelo nariz.
+   ïƒ˜ A mÃ¡scara deve permanecer grudada a face mesmo sem a tira, Ã© a
+       comprovaÃ§Ã£o da perfeita vedaÃ§Ã£o.
 
-Uma máscara é composta de:
-    Lentes - Fabricadas com vidro temperado, de alto impacto,
-       proporcionando maior segurança.
-    Corpo - Fabricado em silicone (transparente ou preto) ou borracha na
-       cor escura ou colorida. Deve assegurar uma perfeita adaptação ao
+Uma mÃ¡scara Ã© composta de:
+   ïƒ˜ Lentes - Fabricadas com vidro temperado, de alto impacto,
+       proporcionando maior seguranÃ§a.
+   ïƒ˜ Corpo - Fabricado em silicone (transparente ou preto) ou borracha na
+       cor escura ou colorida. Deve assegurar uma perfeita adaptaÃ§Ã£o ao
 
                  10
-       rosto para evitar a passagem de água e também ter um espaço
-       confortável e flexível para o nariz, para ajudar na compensação.
-    Armação - É a parte rígida onde a lente e o sistema de fixação e ajuste
-       da tira estão apoiados.
-    Tira de ajuste do mesmo material do corpo.
-    Fivelas para ajuste da tira.
+       rosto para evitar a passagem de Ã¡gua e tambÃ©m ter um espaÃ§o
+       confortÃ¡vel e flexÃ­vel para o nariz, para ajudar na compensaÃ§Ã£o.
+   ïƒ˜ ArmaÃ§Ã£o - Ã‰ a parte rÃ­gida onde a lente e o sistema de fixaÃ§Ã£o e ajuste
+       da tira estÃ£o apoiados.
+   ïƒ˜ Tira de ajuste do mesmo material do corpo.
+   ïƒ˜ Fivelas para ajuste da tira.
 
 Snorkel
 
-É um tubo acoplado a um bocal que tem como função permitir a
-respiração na superfície mesmo quando a cabeça esta voltada para
-baixo, este é provavelmente o mais simples dos equipamentos de todo
+Ã‰ um tubo acoplado a um bocal que tem como funÃ§Ã£o permitir a
+respiraÃ§Ã£o na superfÃ­cie mesmo quando a cabeÃ§a esta voltada para
+baixo, este Ã© provavelmente o mais simples dos equipamentos de todo
 conjunto, e o mais importante. Deve ser utilizado tanto em mergulho
-livre (apnéia) como com equipamento autônomo. A escolha depende
-do costume de cada mergulhador, no entanto recomenda-se que não
-seja muito comprido ou fino (deve ter o diâmetro interno entre 1,7cm e
-2cm, e comprimento entre 7 e 12 cm) o que aumenta a resistência a
-respiração. O indicado será sempre o mais simples possível, sem
-válvulas e sem sistemas que possibilitam panes e a entrada de água
-durante o mergulho. Outro motivo para não usar tubo com válvulas é
-que, embora para quem experimente pela pr imeira vez as válvulas
+livre (apnÃ©ia) como com equipamento autÃ´nomo. A escolha depende
+do costume de cada mergulhador, no entanto recomenda-se que nÃ£o
+seja muito comprido ou fino (deve ter o diÃ¢metro interno entre 1,7cm e
+2cm, e comprimento entre 7 e 12 cm) o que aumenta a resistÃªncia a
+respiraÃ§Ã£o. O indicado serÃ¡ sempre o mais simples possÃ­vel, sem
+vÃ¡lvulas e sem sistemas que possibilitam panes e a entrada de Ã¡gua
+durante o mergulho. Outro motivo para nÃ£o usar tubo com vÃ¡lvulas Ã©
+que, embora para quem experimente pela pr imeira vez as vÃ¡lvulas
 ajudem no esvaziamento do tubo, elas tornam -se um tormento para
 quem quer afundar. Nas subidas e descidas, o tubo vibra muito mais
-devido à dimensão dessas válvulas, o que o torna muito desconfortável.
+devido Ã  dimensÃ£o dessas vÃ¡lvulas, o que o torna muito desconfortÃ¡vel.
 O seu sistema de diafragma sofr e desgaste natural com o tempo e,
-portanto, a manutenção torna-se onerosa. O bocal deve ser macio e
-anatômico para impedir a entrada de água.
+portanto, a manutenÃ§Ã£o torna-se onerosa. O bocal deve ser macio e
+anatÃ´mico para impedir a entrada de Ã¡gua.
 
-Deve ser preso à tira da máscara, por uma presilha e não passado sob ela,
-prevenindo assim sua possível perda caso seja necessária a retirada da
-máscara. Em situações especiais, onde possa atrapalhar o mergulhador
-deslocando a máscara e acarretando seu alagamento, pode ser colocado no
+Deve ser preso Ã  tira da mÃ¡scara, por uma presilha e nÃ£o passado sob ela,
+prevenindo assim sua possÃ­vel perda caso seja necessÃ¡ria a retirada da
+mÃ¡scara. Em situaÃ§Ãµes especiais, onde possa atrapalhar o mergulhador
+deslocando a mÃ¡scara e acarretando seu alagamento, pode ser colocado no
 bolso do colete.
 
 Nadadeiras
 
-É o equipamento que permite a propulsão em meio aquático. Quase 100% do
-deslocamento do mergulhador deverão depender exclusivamente das
-nadadeiras. As mãos só são utilizadas apenas para uma brusca mudança de
-direção. Devem ajustar-se confortavelmente aos pés, não ficando nem
-folgadas ou apertadas de mais. Para nadadeiras um pouco folgadas é
+Ã‰ o equipamento que permite a propulsÃ£o em meio aquÃ¡tico. Quase 100% do
+deslocamento do mergulhador deverÃ£o depender exclusivamente das
+nadadeiras. As mÃ£os sÃ³ sÃ£o utilizadas apenas para uma brusca mudanÃ§a de
+direÃ§Ã£o. Devem ajustar-se confortavelmente aos pÃ©s, nÃ£o ficando nem
+folgadas ou apertadas de mais. Para nadadeiras um pouco folgadas Ã©
 recomendado o uso de ligas, meias ou botas de neoprene.
 
-Existem vários tipos de nadadeiras; de calçadeiras com calcanhar inteiro e
+Existem vÃ¡rios tipos de nadadeiras; de calÃ§adeiras com calcanhar inteiro e
 
                                                                                                                     11
-nadadeiras de calçadeiras com calcanhar de tiras posteriores, elas ainda se
-diferenciam também em relação ao tamanho de sua pala (ou palhetas), as de
-pala curta são ideais para mergulhos em apnéia a baixa profundidade, as de
-pala média são muito usadas em mergulho autônomos e técnicos, e as longas
-em apnéias profundas.
+nadadeiras de calÃ§adeiras com calcanhar de tiras posteriores, elas ainda se
+diferenciam tambÃ©m em relaÃ§Ã£o ao tamanho de sua pala (ou palhetas), as de
+pala curta sÃ£o ideais para mergulhos em apnÃ©ia a baixa profundidade, as de
+pala mÃ©dia sÃ£o muito usadas em mergulho autÃ´nomos e tÃ©cnicos, e as longas
+em apnÃ©ias profundas.
 
 Cinto de Lastro
 
-Tem por função deixar o mergulhador com flutuabilidade neutra,
+Tem por funÃ§Ã£o deixar o mergulhador com flutuabilidade neutra,
 compensando a flutuabilidade da roupa de neoprene, ou, por conseguinte,
 em casos especiais, aquela que o mergulhador desejar. Sua fivela deve ser de
-soltura rápida para quando haja qualquer necessidade, possamos nos livrar
+soltura rÃ¡pida para quando haja qualquer necessidade, possamos nos livrar
 sem dificuldades.
 
-      SOLTE-O EM QUALQUER SITUAÇÃO QUE POSSA TER
-             DIFICULDADES DE CHEGAR A SUPERFÍCIE.
+      SOLTE-O EM QUALQUER SITUAÃ‡ÃƒO QUE POSSA TER
+             DIFICULDADES DE CHEGAR A SUPERFÃCIE.
 
 Existem cintos de nylon, borracha ou PVC e os chumbos podem ser fixos ou
-de desengate rápido pesando em geral 0,5 Kg; 1 Kg; 2 Kg ou 3 Kg.
+de desengate rÃ¡pido pesando em geral 0,5 Kg; 1 Kg; 2 Kg ou 3 Kg.
 
 O peso adequado para o lastro depende da espessura do traje, do
-equipamento, do tipo de água (doce ou salgada), do tipo de mergulho e da
-flutuabilidade de seu próprio corpo. O peso do lastro ideal é quando, boiando
-na posição vertical, a linha d`água estiver na altura do nariz.
+equipamento, do tipo de Ã¡gua (doce ou salgada), do tipo de mergulho e da
+flutuabilidade de seu prÃ³prio corpo. O peso do lastro ideal Ã© quando, boiando
+na posiÃ§Ã£o vertical, a linha d`Ã¡gua estiver na altura do nariz.
 
 O cinto de lastro deve ser seguro pelo lado oposto da fivela para evitar que os
 pesos se soltem.
 
 Facas
 
-É um equipamento de segurança indispensável em qualquer tipo de
+Ã‰ um equipamento de seguranÃ§a indispensÃ¡vel em qualquer tipo de
 mergulho. Existe com os mais variados formatos e tamanhos, sua escolha
 depende do tipo de mergulho a que se destina, por exemplo, as facas
-pequenas e de laminas finas e alongadas como adagas, são muito utilizadas
-na caça submarina, já as facas com ponta quadrada e encaixe para porcas são
-muito úteis no mergulho autônomo.
+pequenas e de laminas finas e alongadas como adagas, sÃ£o muito utilizadas
+na caÃ§a submarina, jÃ¡ as facas com ponta quadrada e encaixe para porcas sÃ£o
+muito Ãºteis no mergulho autÃ´nomo.
 
-O maior cuidado ao comprar uma faca é com as laminas que não pegam bom
-fio. Só a faca não adianta, tem que estar afiada.
+O maior cuidado ao comprar uma faca Ã© com as laminas que nÃ£o pegam bom
+fio. SÃ³ a faca nÃ£o adianta, tem que estar afiada.
 
 Existem pontos para colocarmos a faca, na perna, no cinto ou no colete
-equilibrador. Todos os lugares você deverá alcançar com as duas mãos. A
-faca no braço, não é uma boa opção, pois só a alcançaremos com uma das
-mãos.
+equilibrador. Todos os lugares vocÃª deverÃ¡ alcanÃ§ar com as duas mÃ£os. A
+faca no braÃ§o, nÃ£o Ã© uma boa opÃ§Ã£o, pois sÃ³ a alcanÃ§aremos com uma das
+mÃ£os.
 
                                                                                                                     12
 Luvas
 
-Sem dúvida o uso de luvas que protejam contra eventuais escoriações é uma
-precaução conveniente, como também nos oferece uma proteção térmica
-adequada em condições mais severas.
+Sem dÃºvida o uso de luvas que protejam contra eventuais escoriaÃ§Ãµes Ã© uma
+precauÃ§Ã£o conveniente, como tambÃ©m nos oferece uma proteÃ§Ã£o tÃ©rmica
+adequada em condiÃ§Ãµes mais severas.
 
-Existem luvas de PVC e de neoprene que são grossas e dão boa proteção,
-mas tiram bastante a sensibilidade do mergulhador. As de algodão são mais
-finas e flexíveis, mas deixam penetrar espinhos como os do ouriço. A
-mesclagem da luva de neoprene com couro é a melhor opção.
+Existem luvas de PVC e de neoprene que sÃ£o grossas e dÃ£o boa proteÃ§Ã£o,
+mas tiram bastante a sensibilidade do mergulhador. As de algodÃ£o sÃ£o mais
+finas e flexÃ­veis, mas deixam penetrar espinhos como os do ouriÃ§o. A
+mesclagem da luva de neoprene com couro Ã© a melhor opÃ§Ã£o.
 
 Colete Equilibrado ou B.C. (Bouyancy Compensator)
 
-Tem por objetivo manter o mergulhador numa condição de neutralidade a
-qualquer profundidade. Também é utilizado como apoio na superfície
-funcionando como colete salva-vidas, em situação critica de emergência ele
-pode ser utilizado para auxiliar a volta à superfície.
+Tem por objetivo manter o mergulhador numa condiÃ§Ã£o de neutralidade a
+qualquer profundidade. TambÃ©m Ã© utilizado como apoio na superfÃ­cie
+funcionando como colete salva-vidas, em situaÃ§Ã£o critica de emergÃªncia ele
+pode ser utilizado para auxiliar a volta Ã  superfÃ­cie.
 
 Uma vez equilibrado pelo uso correto do lastro, o mergulhador inicia a
 atividade e, conforme aumenta sua profundidade, perde flutuabilidade
-devido à compressão de sua roupa e do próprio corpo (vide Lei de Boyle/
+devido Ã  compressÃ£o de sua roupa e do prÃ³prio corpo (vide Lei de Boyle/
 Mariotte e o Principio de Arquimedes). Esta perda de flutuabilidade se
-traduz como uma maior tendência a afundar. Inflando-se gradativamente o
-B.C., a neutralidade se restabelece. É uma peça delicada do equipamento e
+traduz como uma maior tendÃªncia a afundar. Inflando-se gradativamente o
+B.C., a neutralidade se restabelece. Ã‰ uma peÃ§a delicada do equipamento e
 deve ser operada com o maior cuidado, pois uma subida descontrolada pode
-trazer vários danos para o mergulhador. Existem vários modelos de B.C.’s
+trazer vÃ¡rios danos para o mergulhador. Existem vÃ¡rios modelos de B.C.â€™s
 cada qual para uma especialidade de mergulho, alguns bastantes
-sofisticados, nos quais ao cilindro do mergulhador é acoplado.
+sofisticados, nos quais ao cilindro do mergulhador Ã© acoplado.
 
 Lanternas
 
-Indispensáveis em algumas modalidades de mergulho (ex. noturno, caverna,
-profundo). Existem vários tipos e modelos, com pilhas descartáveis ou
-recarregáveis, algumas com foco divergente (mais usadas para mergulhos
+IndispensÃ¡veis em algumas modalidades de mergulho (ex. noturno, caverna,
+profundo). Existem vÃ¡rios tipos e modelos, com pilhas descartÃ¡veis ou
+recarregÃ¡veis, algumas com foco divergente (mais usadas para mergulhos
 noturnos) e outros convergentes (usadas para tocas em mergulhos diurnos).
-As lâmpadas de halogênio ou Kriptônio são muito mais intensas que as
-normais. Nunca pegue na lâmpada (na parte de vidro) com os dedos, pois a
-gordura da mão pode fazer com que ela queime.
+As lÃ¢mpadas de halogÃªnio ou KriptÃ´nio sÃ£o muito mais intensas que as
+normais. Nunca pegue na lÃ¢mpada (na parte de vidro) com os dedos, pois a
+gordura da mÃ£o pode fazer com que ela queime.
 
-Seu funcionamento por muito tempo fora d'água não é recomendado, pois
+Seu funcionamento por muito tempo fora d'Ã¡gua nÃ£o Ã© recomendado, pois
 esquenta demais e pode derretes partes da lanterna.
 
-Mais modernamente encontramos lanternas com lâmpadas de LED que são
-muito mais econômicas e com ótima durabilidade, sem perder a qualidade do
+Mais modernamente encontramos lanternas com lÃ¢mpadas de LED que sÃ£o
+muito mais econÃ´micas e com Ã³tima durabilidade, sem perder a qualidade do
 
                                                                                                                     13
 foco e luminosidade.
 
-Roupas Isotérmicas
+Roupas IsotÃ©rmicas
 
 Fabricadas em sua maioria de espuma de neoprene, destina-se
 primariamente a proteger o corpo de baixas temperatura e secundariamente
-proteger o corpo contra animais marinhos e escoriações.
+proteger o corpo contra animais marinhos e escoriaÃ§Ãµes.
 
-A princípio distinguiremos os tipos de roupas de neoprene, que são:
+A princÃ­pio distinguiremos os tipos de roupas de neoprene, que sÃ£o:
 
-    Roupa úmida
-    Roupa semi-seca
-    Roupa seca
+   ïƒ˜ Roupa Ãºmida
+   ïƒ˜ Roupa semi-seca
+   ïƒ˜ Roupa seca
 
-A primeira é comumente usada em mergulho livre e autônomo, apresenta-se
-em vários modelos (com ou sem zíper e/ou com ou sem capuz acoplado) e
-espessuras (as mais comuns de 3 e 5 mm). Quanto à especificação do
+A primeira Ã© comumente usada em mergulho livre e autÃ´nomo, apresenta-se
+em vÃ¡rios modelos (com ou sem zÃ­per e/ou com ou sem capuz acoplado) e
+espessuras (as mais comuns de 3 e 5 mm). Quanto Ã  especificaÃ§Ã£o do
 neoprene pode ser duble face, microporoso, plush, etc.
 
-A segunda é uma roupa que possui um no zíper semelhante a da roupa seca
-com vedação estanque. Também possuem vedação nos punhos e tornozelos
-que diminui a circulação de água dentro da roupa.
+A segunda Ã© uma roupa que possui um no zÃ­per semelhante a da roupa seca
+com vedaÃ§Ã£o estanque. TambÃ©m possuem vedaÃ§Ã£o nos punhos e tornozelos
+que diminui a circulaÃ§Ã£o de Ã¡gua dentro da roupa.
 
-A terceira é pouco encontrada, e de uso mais comum em mergulhos em
-águas muito frias ou muito poluídas. Com vedação hermética (estanque) no
-zíper, pulsos e pescoço o mergulhador não entra em contato com a água.
+A terceira Ã© pouco encontrada, e de uso mais comum em mergulhos em
+Ã¡guas muito frias ou muito poluÃ­das. Com vedaÃ§Ã£o hermÃ©tica (estanque) no
+zÃ­per, pulsos e pescoÃ§o o mergulhador nÃ£o entra em contato com a Ã¡gua.
 Deve-se ainda regular a quantidade de ar dentro da roupa, evitando assim o
-barotrauma de roupa seca. Três tipos básicos de matérias podem ser
-utilizados na sua fabricação, neoprene, borracha vulcanizada ou tecido
+barotrauma de roupa seca. TrÃªs tipos bÃ¡sicos de matÃ©rias podem ser
+utilizados na sua fabricaÃ§Ã£o, neoprene, borracha vulcanizada ou tecido
 trilaminado.
 
-Relógio
+RelÃ³gio
 
 No mergulho com uso de ar comprimido, o controle do tempo durante o
-mergulho é indispensável, não basta que o relógio seja a prova d'água, tem
-de ser a prova de pressão e contar ainda com um cronômetro ou coroa
-giratória.
+mergulho Ã© indispensÃ¡vel, nÃ£o basta que o relÃ³gio seja a prova d'Ã¡gua, tem
+de ser a prova de pressÃ£o e contar ainda com um cronÃ´metro ou coroa
+giratÃ³ria.
 
 Alguns modelos marcam mais que apenas o tempo, e chegam a ser pequenos
 computadores.
 
-Profundímetro
+ProfundÃ­metro
 
 Da mesma forma se faz presente o controle da profundidade, e outro
 
                                                                                                                     14
-elemento indispensável em mergulhos autônomos é o profundímetro.
-Existem quatro tipos, relacionados por ordem de sofisticação e precisão:
+elemento indispensÃ¡vel em mergulhos autÃ´nomos Ã© o profundÃ­metro.
+Existem quatro tipos, relacionados por ordem de sofisticaÃ§Ã£o e precisÃ£o:
 
-    Capilar
-    Tubo de Bourdon
-    Óleo
-    Eletrônicos
+   ïƒ˜ Capilar
+   ïƒ˜ Tubo de Bourdon
+   ïƒ˜ Ã“leo
+   ïƒ˜ EletrÃ´nicos
 
-Bússola
+BÃºssola
 
-O modelo a prova de pressão, usado pelos mergulhadores aplicam-se há
-tipos de mergulho onde se faz necessário a orientação subaquática.
+O modelo a prova de pressÃ£o, usado pelos mergulhadores aplicam-se hÃ¡
+tipos de mergulho onde se faz necessÃ¡rio a orientaÃ§Ã£o subaquÃ¡tica.
 
-Manômetro
+ManÃ´metro
 
-O manômetro de imersão é indispensável em garrafas de mergulho que
+O manÃ´metro de imersÃ£o Ã© indispensÃ¡vel em garrafas de mergulho que
 possuam registro sem reserva (tipo "k"). Serve para determinar de forma
-imediata, a quantidade de ar que resta durante o mergulho. Existem também
-os manômetros terrestres, estes servem apenas para leituras fora d'água.
+imediata, a quantidade de ar que resta durante o mergulho. Existem tambÃ©m
+os manÃ´metros terrestres, estes servem apenas para leituras fora d'Ã¡gua.
 
 Co mp ut adore s
 
-São pequenos computadores que tem por objetivo calcular a saturação dos
-tecidos do corpo humano baseados em padrões de modelos biofísicos e
-tabelas de descompressão. Fornecendo informações importantes
-automaticamente como: tempo de descompressão, residual de nitrogênio,
-intervalo de superfície, etc.
+SÃ£o pequenos computadores que tem por objetivo calcular a saturaÃ§Ã£o dos
+tecidos do corpo humano baseados em padrÃµes de modelos biofÃ­sicos e
+tabelas de descompressÃ£o. Fornecendo informaÃ§Ãµes importantes
+automaticamente como: tempo de descompressÃ£o, residual de nitrogÃªnio,
+intervalo de superfÃ­cie, etc.
 
-Bóias e Bandeiras
+BÃ³ias e Bandeiras
 
-O uso de uma bandeira sinalizadora para alertar que há mergulhadores na
-área é um fator de segurança. A eventual passagem de barcos constitui um
-dos mais sérios perigos a que o mergulhador está exposto. Existem dois
-modelos, a "Bandeira Alfa" reconhecida oficialmente (Convenção
+O uso de uma bandeira sinalizadora para alertar que hÃ¡ mergulhadores na
+Ã¡rea Ã© um fator de seguranÃ§a. A eventual passagem de barcos constitui um
+dos mais sÃ©rios perigos a que o mergulhador estÃ¡ exposto. Existem dois
+modelos, a "Bandeira Alfa" reconhecida oficialmente (ConvenÃ§Ã£o
 Internacional para a Salvaguarda da Vida no Mar) e a "Bandeira Diver"
 criada em 1949 por Denzel James Dockery (Doc), e difundida pela revista
 Skyn Diver foi aceita pelos seus leitores nos USA e hoje reconhecida
 internacionalmente.
 
-A bandeira é uma obrigação formal na presença de mergulhadores
-embarcados ou na água.
+A bandeira Ã© uma obrigaÃ§Ã£o formal na presenÃ§a de mergulhadores
+embarcados ou na Ã¡gua.
 
                                                                                                                     15
-Equipamento Autônomo de Respiração Subaquático (Self-Contained
+Equipamento AutÃ´nomo de RespiraÃ§Ã£o SubaquÃ¡tico (Self-Contained
 Underwater Breathing Apparatus - SCUBA)
 
-Conjunto de respiração subaquático autônomo, composto por um ou mais
-cilindros de alta pressão, conjunto de válvulas (1° e 2° estágios) e B.C.,
-manômetro e profundímetro
+Conjunto de respiraÃ§Ã£o subaquÃ¡tico autÃ´nomo, composto por um ou mais
+cilindros de alta pressÃ£o, conjunto de vÃ¡lvulas (1Â° e 2Â° estÃ¡gios) e B.C.,
+manÃ´metro e profundÃ­metro
 
-![](/assets/content/curso_mergulho_autonomo_basico/img/equipamentos_valvulas_estagios_profundimetro_narguile.png)
 
 
 Narguile
 
-Caracteriza-se por ser um equipamento de respiração subaquático
-dependente, isto é, o equipamento de suprimento de ar do mergulhador está
-na superfície.
+Caracteriza-se por ser um equipamento de respiraÃ§Ã£o subaquÃ¡tico
+dependente, isto Ã©, o equipamento de suprimento de ar do mergulhador estÃ¡
+na superfÃ­cie.
 
-Pode ser composto tanto por uma fonte de ar de alta pressão, quanto por uma
-fonte de ar de baixa pressão (12 a 25 atm), fazem parte do conjunto ainda,
-compressor, motor (a explosão ou elétrico), cilindros, tanque de volume,
-mangueiras e válvula reguladora. Deve ser lubrificado com óleo sintético
-atóxico, e o ar respirado pelo mergulhador deve ser filtrado com sílica gel e
-carvão ativado
+Pode ser composto tanto por uma fonte de ar de alta pressÃ£o, quanto por uma
+fonte de ar de baixa pressÃ£o (12 a 25 atm), fazem parte do conjunto ainda,
+compressor, motor (a explosÃ£o ou elÃ©trico), cilindros, tanque de volume,
+mangueiras e vÃ¡lvula reguladora. Deve ser lubrificado com Ã³leo sintÃ©tico
+atÃ³xico, e o ar respirado pelo mergulhador deve ser filtrado com sÃ­lica gel e
+carvÃ£o ativado
 
-Este tipo de aparelho é usado em trabalhos em áreas restritas, devido a sua
+Este tipo de aparelho Ã© usado em trabalhos em Ã¡reas restritas, devido a sua
 pouca mobilidade.
 
-3.2 - EQUIPAMENTO AUTÔNOMO DE RESPIRAÇÃO SUBAQUÁTICA
+3.2 - EQUIPAMENTO AUTÃ”NOMO DE RESPIRAÃ‡ÃƒO SUBAQUÃTICA
 
 Neste capitulo analisaremos individualmente todos os componentes do
-conjunto de respiração subaquático autônomo (circuito aberto), e
-deixaremos para outra oportunidade a análise do equipamento dependente e
+conjunto de respiraÃ§Ã£o subaquÃ¡tico autÃ´nomo (circuito aberto), e
+deixaremos para outra oportunidade a anÃ¡lise do equipamento dependente e
 de circuito aberto.
 
                                                                                                                     16
 Cilindro
 
-É o reservatório onde fica a mistura respiratória a ser utilizada no mergulho.
-O material constitutivo pode ser aço carbono, aço cromo molibdênio ou
-alumínio.
+Ã‰ o reservatÃ³rio onde fica a mistura respiratÃ³ria a ser utilizada no mergulho.
+O material constitutivo pode ser aÃ§o carbono, aÃ§o cromo molibdÃªnio ou
+alumÃ­nio.
 
-Os cilindros de alumínio são maiores externamente que a de aço, para o
+Os cilindros de alumÃ­nio sÃ£o maiores externamente que a de aÃ§o, para o
 mesmo volume interno, pois necessitam de paredes mais espessas para
-suportar a mesma pressão, são, entretanto mais leves e resistentes a corrosão.
-Atualmente estão muitos difundidos cilindros de aço cromo molibdênio
-revestidos por camadas externa de outros materiais não ferrosos, entre eles o
-alumínio.
+suportar a mesma pressÃ£o, sÃ£o, entretanto mais leves e resistentes a corrosÃ£o.
+Atualmente estÃ£o muitos difundidos cilindros de aÃ§o cromo molibdÃªnio
+revestidos por camadas externa de outros materiais nÃ£o ferrosos, entre eles o
+alumÃ­nio.
 
-No corpo do cilindro deve conter as marcas da data de fabricação (data do
-primeiro teste hidrostático), do último teste hidrostático, tipo de material,
-pressão de trabalho, volume interno, número de série, órgão de fiscalização,
+No corpo do cilindro deve conter as marcas da data de fabricaÃ§Ã£o (data do
+primeiro teste hidrostÃ¡tico), do Ãºltimo teste hidrostÃ¡tico, tipo de material,
+pressÃ£o de trabalho, volume interno, nÃºmero de sÃ©rie, Ã³rgÃ£o de fiscalizaÃ§Ã£o,
 etc.
 
-Todo equipamento de mergulho deve passar por manutenção preventiva. No
-caso dos cilindros um teste hidrostático a cada cinco anos expondo-o a uma
-pressão de teste maior que a de trabalho (geralmente uma vez e meia)
-calculando desta forma a deformidade temporária e permanente do cilindro.
-E sujeita-lo a uma inspeção visual interna a cada ano.
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/equipamentos_manutencao_preventiva_interna_cada.png)
+Todo equipamento de mergulho deve passar por manutenÃ§Ã£o preventiva. No
+caso dos cilindros um teste hidrostÃ¡tico a cada cinco anos expondo-o a uma
+pressÃ£o de teste maior que a de trabalho (geralmente uma vez e meia)
+calculando desta forma a deformidade temporÃ¡ria e permanente do cilindro.
+E sujeita-lo a uma inspeÃ§Ã£o visual interna a cada ano.
 
 
-![](/assets/content/curso_mergulho_autonomo_basico/img/equipamentos_manutencao_preventiva_interna_cada.png)
+
 
 
           CTC/DOT - 3AL - 3000 - 580 POOOO LUXFER 8A82
 
-CILINDRO DE ALUMÍNIO  CILINDRO DE AÇO CROMO
-                               MOLIBDÊNIO
+CILINDRO DE ALUMÃNIO  CILINDRO DE AÃ‡O CROMO
+                               MOLIBDÃŠNIO
 
                                                         17
-CTC/DO T - Ca nadian Transport               DO T – Departme nt of Transportation.
+CTC/DO T - Ca nadian Transport               DO T â€“ Departme nt of Transportation.
 Commission / Departme nt of
-Transportation, marca dos órgãos             3 AA - marcação para Aço
-fi s c ali za d o re s.                      Cromo molibdênio. Para os antigos de
+Transportation, marca dos Ã³rgÃ£os             3 AA - marcaÃ§Ã£o para AÃ§o
+fi s c ali za d o re s.                      Cromo molibdÃªnio. Para os antigos de
                                              liga de carbono, 3A.
-3AL - especificação do material
-alumí nio.                                   2250 - pressão de trabalho do cilindro
-                                             e m PSI. 0000B - número de série.
-3000 - pressão em PSI com que deve ser
-carregado o cilindro (pressão de trabalho).  P8T - marca do fabricante.
+3AL - especificaÃ§Ã£o do material
+alumÃ­ nio.                                   2250 - pressÃ£o de trabalho do cilindro
+                                             e m PSI. 0000B - nÃºmero de sÃ©rie.
+3000 - pressÃ£o em PSI com que deve ser
+carregado o cilindro (pressÃ£o de trabalho).  P8T - marca do fabricante.
 
-S80 - quantidade de ar em pés cúbico         8C82+ - mês e ano do pri meiro teste
-quando o cilindro estiver na pressão de      hidrostático. Entre esses, a marca do
-trabalho. No caso 80 pés cúbicos.            inspetor do que executou o teste.
+S80 - quantidade de ar em pÃ©s cÃºbico         8C82+ - mÃªs e ano do pri meiro teste
+quando o cilindro estiver na pressÃ£o de      hidrostÃ¡tico. Entre esses, a marca do
+trabalho. No caso 80 pÃ©s cÃºbicos.            inspetor do que executou o teste.
 
-POOOO - número de série do cilindro.         + - esse sinal somente é usado nos
-Geralmente a variação das letras depende     cilindros de aço e indica que o cilindro
-da capacidade do cilindro: P = 80 pés        poderá ser carregado com pressão de
-cúbicos; Y = 71,2 pés cúbicos; R = 62 pés    trabalho 10% maior do que a indicada
-cúbicos; KK = 105 pés cúbicos; UT = 100      durante o período de validade do
-pés cúbicos. Essas particularidades são do   pri meiro teste.
+POOOO - nÃºmero de sÃ©rie do cilindro.         + - esse sinal somente Ã© usado nos
+Geralmente a variaÃ§Ã£o das letras depende     cilindros de aÃ§o e indica que o cilindro
+da capacidade do cilindro: P = 80 pÃ©s        poderÃ¡ ser carregado com pressÃ£o de
+cÃºbicos; Y = 71,2 pÃ©s cÃºbicos; R = 62 pÃ©s    trabalho 10% maior do que a indicada
+cÃºbicos; KK = 105 pÃ©s cÃºbicos; UT = 100      durante o perÃ­odo de validade do
+pÃ©s cÃºbicos. Essas particularidades sÃ£o do   pri meiro teste.
 fabricante Luxfer.
                                              Os cilindros nacionais e os europeus,
-8A98 - mês e ano do primeiro teste           alé m de mostrare m unidades de pressão
-hidrostático. Entre esses, a marca do        diferentes, dão maior quantidade de
-inspetor que executou o teste.               infor mações como: peso do cilindro,
-                                             volume, pressão de teste, entre outros.
+8A98 - mÃªs e ano do primeiro teste           alÃ© m de mostrare m unidades de pressÃ£o
+hidrostÃ¡tico. Entre esses, a marca do        diferentes, dÃ£o maior quantidade de
+inspetor que executou o teste.               infor maÃ§Ãµes como: peso do cilindro,
+                                             volume, pressÃ£o de teste, entre outros.
 
 Uso correto:
 
-   • Nunca exceder a pressão de trabalho.
-   • Nunca deixar cilindros carregados expostos ao sol ou lugares quentes.
-   • Não esvazie totalmente seu cilindro, principalmente quando estiver
+   â€¢ Nunca exceder a pressÃ£o de trabalho.
+   â€¢ Nunca deixar cilindros carregados expostos ao sol ou lugares quentes.
+   â€¢ NÃ£o esvazie totalmente seu cilindro, principalmente quando estiver
 
        imerso.
-   • Guardar com uma pressão de aproximadamente de 50 a 100 PSI.
-   • Guardar sempre seu cilindro em pé.
-   • Inspeção visual a cada ano e, se for necessário limpeza interna.
-   • Mantenha o teste hidrostático em dia (a cada 5 anos).
-   • Nunca carregue o cilindro fora d'água.
-   • Não use um cilindro que foi carregado há muito tempo atrás.
-   • Certifique-se que o ar com que esta sendo carregado o cilindro é de
+   â€¢ Guardar com uma pressÃ£o de aproximadamente de 50 a 100 PSI.
+   â€¢ Guardar sempre seu cilindro em pÃ©.
+   â€¢ InspeÃ§Ã£o visual a cada ano e, se for necessÃ¡rio limpeza interna.
+   â€¢ Mantenha o teste hidrostÃ¡tico em dia (a cada 5 anos).
+   â€¢ Nunca carregue o cilindro fora d'Ã¡gua.
+   â€¢ NÃ£o use um cilindro que foi carregado hÃ¡ muito tempo atrÃ¡s.
+   â€¢ Certifique-se que o ar com que esta sendo carregado o cilindro Ã© de
 
        boa qualidade.
 
 Registro
 
-São válvulas como torneiras que abrem e fecham o fornecimento de ar do
+SÃ£o vÃ¡lvulas como torneiras que abrem e fecham o fornecimento de ar do
 
                                                                                                                     18
-cilindro. Em todo registro deve existir ainda uma válvula de segurança que
-libera o ar da garrafa caso a pressão interna ultrapasse bastante a pressão de
+cilindro. Em todo registro deve existir ainda uma vÃ¡lvula de seguranÃ§a que
+libera o ar da garrafa caso a pressÃ£o interna ultrapasse bastante a pressÃ£o de
 trabalho do cilindro.
 
-Os registros com reserva tipo “J”, hoje em desuso, são aqueles possuem
-válvula com mola, com certa pressão (cerca de 30 Kgf./cm²), que impede a
-saída total do ar pressurizado no interior do cilindro, quando este atinge a
-pressão da mola a passagem de ar é interrompida e, apenas,quando aberta
+Os registros com reserva tipo â€œJâ€, hoje em desuso, sÃ£o aqueles possuem
+vÃ¡lvula com mola, com certa pressÃ£o (cerca de 30 Kgf./cmÂ²), que impede a
+saÃ­da total do ar pressurizado no interior do cilindro, quando este atinge a
+pressÃ£o da mola a passagem de ar Ã© interrompida e, apenas,quando aberta
 manualmente, permite que o ar de reserva saia.
 
-Os registros tipo "K" que não possuem reserva, são os mais comumente
-encontrados. Neste caso a pressão relativa à reserva, é calculada pelo
-manômetro.
+Os registros tipo "K" que nÃ£o possuem reserva, sÃ£o os mais comumente
+encontrados. Neste caso a pressÃ£o relativa Ã  reserva, Ã© calculada pelo
+manÃ´metro.
 
-Temos ainda o tipo "H" que permitem a acoplagem de outro 1° estágio
+Temos ainda o tipo "H" que permitem a acoplagem de outro 1Â° estÃ¡gio
 independente do principal.
 
-Diferencia-se ainda pelo tipo de sistema de conexão se, "YOKE" ou "DIN"
-este último mais seguro por se tratar de um sistema macho/fêmea.
+Diferencia-se ainda pelo tipo de sistema de conexÃ£o se, "YOKE" ou "DIN"
+este Ãºltimo mais seguro por se tratar de um sistema macho/fÃªmea.
 
-Válvula Reguladora de Demanda (ou Regulador)
+VÃ¡lvula Reguladora de Demanda (ou Regulador)
 
-É aquela que se acopla ao registro e tem como função diminuir a alta pressão
-do cilindro, para uma baixa pressão ambiente, tornando o ar respirável para o
-mergulhador. A redução da pressão divide-se em duas etapas. A redução
-inicial ocorre no 1° estágio do regulador onde a alta pressão proveniente do
-cilindro é reduzida para uma pressão intermediária constante, entre 140 e
-150 PSI (aprox. 9 a 10 Kgf./cm²). O ar sob pressão é transportado por uma
-mangueira até o 2° estágio redutor, onde será liberado ao mergulhador há
-uma pressão ambiente.
+Ã‰ aquela que se acopla ao registro e tem como funÃ§Ã£o diminuir a alta pressÃ£o
+do cilindro, para uma baixa pressÃ£o ambiente, tornando o ar respirÃ¡vel para o
+mergulhador. A reduÃ§Ã£o da pressÃ£o divide-se em duas etapas. A reduÃ§Ã£o
+inicial ocorre no 1Â° estÃ¡gio do regulador onde a alta pressÃ£o proveniente do
+cilindro Ã© reduzida para uma pressÃ£o intermediÃ¡ria constante, entre 140 e
+150 PSI (aprox. 9 a 10 Kgf./cmÂ²). O ar sob pressÃ£o Ã© transportado por uma
+mangueira atÃ© o 2Â° estÃ¡gio redutor, onde serÃ¡ liberado ao mergulhador hÃ¡
+uma pressÃ£o ambiente.
 
-Existem basicamente dois tipos de primeiro estágio: os de diafragma
-balanceados; e os de pistão, estes por sua vez podem ser simples ou
+Existem basicamente dois tipos de primeiro estÃ¡gio: os de diafragma
+balanceados; e os de pistÃ£o, estes por sua vez podem ser simples ou
 balanceado.
 
-Podemos definir como primeiros estágios balanceados aqueles que não são
-afetados pela diminuição de pressão no cilindro, como conseqüência não
-causam aumento gradativo no esforço respiratório, à medida que o cilindro
+Podemos definir como primeiros estÃ¡gios balanceados aqueles que nÃ£o sÃ£o
+afetados pela diminuiÃ§Ã£o de pressÃ£o no cilindro, como conseqÃ¼Ãªncia nÃ£o
+causam aumento gradativo no esforÃ§o respiratÃ³rio, Ã  medida que o cilindro
 esvazia.
 
                                                                                                                     19
 20
 Back Pack
-Composto por uma cinta com fivela de desengate rápido, que passa pelo
-apoio das costa, este por sua vez é fixado à braçadeira, onde se acoplará a
+Composto por uma cinta com fivela de desengate rÃ¡pido, que passa pelo
+apoio das costa, este por sua vez Ã© fixado Ã  braÃ§adeira, onde se acoplarÃ¡ a
 garrafa.
 Boot
-Sapata de borracha que tem como função proteger o fundo do cilindro contra
-arranhões e em alguns casos servem para mante-los em pé.
+Sapata de borracha que tem como funÃ§Ã£o proteger o fundo do cilindro contra
+arranhÃµes e em alguns casos servem para mante-los em pÃ©.
 Console
-É o conjunto de equipamentos de precisão que se acopla ao manômetro, tais
-como o profundímetro, computador, bússola e etc.
+Ã‰ o conjunto de equipamentos de precisÃ£o que se acopla ao manÃ´metro, tais
+como o profundÃ­metro, computador, bÃºssola e etc.
 
                                                                                                                     21
-3.3 - CLASSIFICAÇÕES DO MERGULHO QUANTO AO TIPO DE
+3.3 - CLASSIFICAÃ‡Ã•ES DO MERGULHO QUANTO AO TIPO DE
 EQUIPAMENTO E MISTURAS GASOSAS UTILIZADAS
 
-O mergulho pode ser classificado de maneira genérica de dois modos,
-mergulho livre ou em apnéia, ou mergulho com respiração subaquática.
+O mergulho pode ser classificado de maneira genÃ©rica de dois modos,
+mergulho livre ou em apnÃ©ia, ou mergulho com respiraÃ§Ã£o subaquÃ¡tica.
 
-O mergulho livre ou em apnéia é aquele no qual não respiramos uma vez
-abaixo da superfície das águas.
+O mergulho livre ou em apnÃ©ia Ã© aquele no qual nÃ£o respiramos uma vez
+abaixo da superfÃ­cie das Ã¡guas.
 
-O mergulho com respiração subaquática é o mergulho no qual respiramos
-abaixo da superfície das águas. Este tipo de mergulho pode ainda ser
-subdividido quanto ao tipo de equipamento ou quanto ao tipo de gás
+O mergulho com respiraÃ§Ã£o subaquÃ¡tica Ã© o mergulho no qual respiramos
+abaixo da superfÃ­cie das Ã¡guas. Este tipo de mergulho pode ainda ser
+subdividido quanto ao tipo de equipamento ou quanto ao tipo de gÃ¡s
 respirado.
 
- QUANTO AO         AUTÔNOMO    - Circuito aberto (Aqualung)
+ QUANTO AO         AUTÃ”NOMO    - Circuito aberto (Aqualung)
     TIPO DE        DEPENDENTE  - Circuito fechado (Rebreater
                                fechado)
 EQUIPAMENTO                    - Circuito semi-fechado
@@ -475,103 +472,89 @@ EQUIPAMENTO                    - Circuito semi-fechado
                                - Sino fechado
 
 QUANTO AO TIPO DE     RASO     - Realizado a cima de 40 m
-GÁS RESPIRADO EM   PROFUNDO
+GÃS RESPIRADO EM   PROFUNDO
                                - Realizado abaixo de 40 m
-      RELAÇÃO A                - Saturação
+      RELAÃ‡ÃƒO A                - SaturaÃ§Ã£o
   PROFUNDIDADE
 
 Quanto ao tipo de equipamento
 
-O mergulho autônomo caracteriza-se pela fonte de ar estar junto com o
-mergulhador. No circuito aberto (SCUBA) todo o ar que expiramos é
-liberado e vai para a superfície; no circuito fechado (rebreather) o gás só
-escapa do regulador quando o mergulhador está retomando a superfície,
-mesmo assim em quantidades mínimas, o gás expirado retoma ao
-compartimento de origem, tendo antes passado por um filtro de CO2; já nos
+O mergulho autÃ´nomo caracteriza-se pela fonte de ar estar junto com o
+mergulhador. No circuito aberto (SCUBA) todo o ar que expiramos Ã©
+liberado e vai para a superfÃ­cie; no circuito fechado (rebreather) o gÃ¡s sÃ³
+escapa do regulador quando o mergulhador estÃ¡ retomando a superfÃ­cie,
+mesmo assim em quantidades mÃ­nimas, o gÃ¡s expirado retoma ao
+compartimento de origem, tendo antes passado por um filtro de CO2; jÃ¡ nos
 rebreather de circuito semi fechado, o mergulhador continua expelindo
 
                                                                                                                     22
-pequenas bolhas intermitentes, porém em menor volume do que no aparelho
-de mergulho autônomo convencional.
+pequenas bolhas intermitentes, porÃ©m em menor volume do que no aparelho
+de mergulho autÃ´nomo convencional.
 
-No mergulho dependente a fonte de gás está na superfície e a mistura
-respiratória chega ao mergulhador por meio de uma mangueira. Com o
-Narguile o umbilical do mergulhador está ligado diretamente à superfície.
-No Sino Aberto o umbilical do mergulhador está ligado a uma campânula
-com a parte inferior aberta e provida de estrado, possui sistema próprio de
-comunicação e suprimento de gás da superfície. Tem como objetivo
-conduzir o mergulhador até a profundidade aproximada do trabalho. A
-pressão interna é equivalente a pressão ambiente. O Sino Fechado é muito
-semelhante ao sino aberto, só que a campânula é fechada. A pressão interna é
-diferente da pressão ambiente. Estas duas pressões só equalizam quando o
+No mergulho dependente a fonte de gÃ¡s estÃ¡ na superfÃ­cie e a mistura
+respiratÃ³ria chega ao mergulhador por meio de uma mangueira. Com o
+Narguile o umbilical do mergulhador estÃ¡ ligado diretamente Ã  superfÃ­cie.
+No Sino Aberto o umbilical do mergulhador estÃ¡ ligado a uma campÃ¢nula
+com a parte inferior aberta e provida de estrado, possui sistema prÃ³prio de
+comunicaÃ§Ã£o e suprimento de gÃ¡s da superfÃ­cie. Tem como objetivo
+conduzir o mergulhador atÃ© a profundidade aproximada do trabalho. A
+pressÃ£o interna Ã© equivalente a pressÃ£o ambiente. O Sino Fechado Ã© muito
+semelhante ao sino aberto, sÃ³ que a campÃ¢nula Ã© fechada. A pressÃ£o interna Ã©
+diferente da pressÃ£o ambiente. Estas duas pressÃµes sÃ³ equalizam quando o
 sino atinge a profundidade de trabalho.
 
-No mergulho Raso, mergulho realizado até 40 metros de profundidade,
+No mergulho Raso, mergulho realizado atÃ© 40 metros de profundidade,
 normalmente utiliza-se ar comprimido, contudo a profundidades alem dos
-30 metros obtemos níveis de pressão parcial de N2 que produzem efeitos
-tóxicos perigosos a segurança do mergulhador. Ultimamente tem se
-utilizado misturas gazosas em mergulho raso desportivo (a mais comum é o
-NITROX), que diminuem a porcentagem do nitrogênio na mistura gasosa,
-aumentando o tempo de fundo sem descompressão e diminuindo o risco do
+30 metros obtemos nÃ­veis de pressÃ£o parcial de N2 que produzem efeitos
+tÃ³xicos perigosos a seguranÃ§a do mergulhador. Ultimamente tem se
+utilizado misturas gazosas em mergulho raso desportivo (a mais comum Ã© o
+NITROX), que diminuem a porcentagem do nitrogÃªnio na mistura gasosa,
+aumentando o tempo de fundo sem descompressÃ£o e diminuindo o risco do
 Mal Descompressivo.
 
-No Mergulho fundo, independente do tipo de equipamento, é aquele
-realizado a uma profundidade maior que 40 metros, onde não respiramos ar
-comprimido e sim uma mistura de hélio ou hidrogênio como gases inertes
-(no lugar do nitrogênio), com o oxigênio. O hidrogênio (HIDROX) é pouco
-usado porque é muito explosivo, o hélio (HELIOX) embora muito mais caro,
-é o mais seguro, e normalmente mais utilizado no mergulho comercial.
-Atualmente o TRIMIX (mistura de hélio, nitrogênio e oxigênio) tem se
-popularizado no mergulho técnico em profundidades abaixo de 40 metros.
+No Mergulho fundo, independente do tipo de equipamento, Ã© aquele
+realizado a uma profundidade maior que 40 metros, onde nÃ£o respiramos ar
+comprimido e sim uma mistura de hÃ©lio ou hidrogÃªnio como gases inertes
+(no lugar do nitrogÃªnio), com o oxigÃªnio. O hidrogÃªnio (HIDROX) Ã© pouco
+usado porque Ã© muito explosivo, o hÃ©lio (HELIOX) embora muito mais caro,
+Ã© o mais seguro, e normalmente mais utilizado no mergulho comercial.
+Atualmente o TRIMIX (mistura de hÃ©lio, nitrogÃªnio e oxigÃªnio) tem se
+popularizado no mergulho tÃ©cnico em profundidades abaixo de 40 metros.
 
-À medida que a profundidade aumenta a pressão parcial dos gases que
-compõem a mistura também aumenta, e em elevadas pressões parciais
-determinados gases se tornam tóxicos. A única maneira de evitar esse efeito
-indireto da pressão é diminuindo a porcentagem desses gases na mistura (ex.
-oxigênio e nitrogênio).
+Ã€ medida que a profundidade aumenta a pressÃ£o parcial dos gases que
+compÃµem a mistura tambÃ©m aumenta, e em elevadas pressÃµes parciais
+determinados gases se tornam tÃ³xicos. A Ãºnica maneira de evitar esse efeito
+indireto da pressÃ£o Ã© diminuindo a porcentagem desses gases na mistura (ex.
+oxigÃªnio e nitrogÃªnio).
 
                                                                                                                     23
 24
 
 ---
 
-![](/assets/content/curso_mergulho_autonomo_basico/img/equipamentos_x_x.png)
 
 
-![](/assets/content/curso_mergulho_autonomo_basico/img/equipamentos_x_x.jpg)
 
 
-![](/assets/content/curso_mergulho_autonomo_basico/img/equipamentos_x_x.jpg)
 
 
-![](/assets/content/curso_mergulho_autonomo_basico/img/equipamentos_x_x.png)
 
 
-![](/assets/content/curso_mergulho_autonomo_basico/img/equipamentos_x_x.png)
 
 
-![](/assets/content/curso_mergulho_autonomo_basico/img/equipamentos_x_x.jpg)
 
 
-![](/assets/content/curso_mergulho_autonomo_basico/img/equipamentos_x_x.jpg)
 
 
-![](/assets/content/curso_mergulho_autonomo_basico/img/equipamentos_x_x.png)
 
 
-![](/assets/content/curso_mergulho_autonomo_basico/img/equipamentos_x_x.jpg)
 
 
-![](/assets/content/curso_mergulho_autonomo_basico/img/equipamentos_x_x.jpg)
 
 
-![](/assets/content/curso_mergulho_autonomo_basico/img/equipamentos_x_x.png)
 
 
-![](/assets/content/curso_mergulho_autonomo_basico/img/equipamentos_x_x.png)
 
 
-![](/assets/content/curso_mergulho_autonomo_basico/img/equipamentos_x_x.jpg)
 
 
-![](/assets/content/curso_mergulho_autonomo_basico/img/equipamentos_x_x.png)

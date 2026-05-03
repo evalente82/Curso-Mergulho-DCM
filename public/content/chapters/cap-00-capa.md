@@ -1,22 +1,22 @@
----
+﻿---
 id: "capa"
 moduleId: "curso_mergulho_autonomo_basico"
-title: "Apresentação"
+title: "ApresentaÃ§Ã£o"
 number: 0
 ---
 MANUAL DO MERGULHO
-AUTÔNOMO DESPORTIVO
+AUTÃ”NOMO DESPORTIVO
 
- Curso de Mergulho (Básico)
+ï€  Curso de Mergulho (BÃ¡sico)
 
-            
+ï€ ï€ ï€ ï€  ï€ ï€ ï€  ï€ ï€ ï€  ï€ ï€ ï€  ï€ ï€ ï€  ï€ ï€        ï€ 
 
                               1
 Nota
 
-Este manual foi adquirido através de mototes de busca, mas apresenta excelente
+Este manual foi adquirido atravÃ©s de mototes de busca, mas apresenta excelente
 
-bibliografia, conferida, apesar de não haver dados do autor.                    .
+bibliografia, conferida, apesar de nÃ£o haver dados do autor.                    .
 
                                                               2
 
