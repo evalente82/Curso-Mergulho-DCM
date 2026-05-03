@@ -1,0 +1,190 @@
+{
+  "version": "2.0",
+  "modules": [
+    {
+      "id": "curso_mergulho_autonomo_basico",
+      "title": "Manual de Mergulho Autônomo Desportivo",
+      "subtitle": "Guarda-Vidas — Defesa Civil Maricá",
+      "tags": [
+        "mergulho",
+        "busca-e-resgate",
+        "guarda-vidas"
+      ],
+      "chapters": [
+        {
+          "id": "capa",
+          "moduleId": "curso_mergulho_autonomo_basico",
+          "filename": "cap-00-capa.md",
+          "number": 0,
+          "title": "Apresentação",
+          "description": "Nota introdutória e ficha do manual.",
+          "icon": "📋",
+          "excerpt": "MANUAL DO MERGULHO AUTÔNOMO DESPORTIVO Curso de Mergulho (Básico) 1 Nota Este manual foi adquirido através de mototes de busca, mas apresenta excelente bibliografia, conferida, apesar de não haver dad",
+          "imageCount": 1
+        },
+        {
+          "id": "historia-mergulho",
+          "moduleId": "curso_mergulho_autonomo_basico",
+          "filename": "cap-01-historia-mergulho.md",
+          "number": 1,
+          "title": "História do Mergulho",
+          "description": "A história do mergulho desde a Antiguidade até o mergulho moderno.",
+          "icon": "⚓",
+          "excerpt": "História do mergulho 1 (IN: Cousteau, Jaques-Yves. O Mundo dos Oceanos) \"Os seres humanos estão prestes a voltar ao mar, como alguns mamíferos fizeram há poucos milhões de anos, para se tornarem focas",
+          "imageCount": 6
+        },
+        {
+          "id": "certificadoras",
+          "moduleId": "curso_mergulho_autonomo_basico",
+          "filename": "cap-02-certificadoras.md",
+          "number": 2,
+          "title": "Certificadoras",
+          "description": "Entidades certificadoras de mergulho no Brasil e no mundo.",
+          "icon": "🏅",
+          "excerpt": "Certificadoras 2 As certificadoras existentes espalhadas pelo mundo são entidades tais como sociedades, associações, corporações, federações e confederações, que tem por objetivo a padronização na ins",
+          "imageCount": 1
+        },
+        {
+          "id": "equipamentos",
+          "moduleId": "curso_mergulho_autonomo_basico",
+          "filename": "cap-03-equipamentos.md",
+          "number": 3,
+          "title": "Equipamentos",
+          "description": "Equipamentos essenciais: máscara, roupa, cilindro, regulador, BCD e acessórios.",
+          "icon": "🤿",
+          "excerpt": "Equipamentos 3 3.1 - EQUIPAMENTOS Os equipamentos abaixo citados, máscara, snorkel e nadadeiras, são aqueles indispensáveis para pratica das atividades do mergulho, por esta razão há este grupo de equ",
+          "imageCount": 15
+        },
+        {
+          "id": "fisica-mergulho",
+          "moduleId": "curso_mergulho_autonomo_basico",
+          "filename": "cap-04-fisica-mergulho.md",
+          "number": 4,
+          "title": "Física Aplicada ao Mergulho",
+          "description": "Física da água: pressão, empuxo, luz, som e temperatura no ambiente subaquático.",
+          "icon": "🔬",
+          "excerpt": "Física aplicada ao mergulho 4 4.1 - NOÇÕES DE FÍSICA Para a melhor compreensão do mergulho e seus efeitos sobre o corpo humano, será necessário o conhecimento de certas noções de física. Neste capítul",
+          "imageCount": 14
+        },
+        {
+          "id": "fisiologia",
+          "moduleId": "curso_mergulho_autonomo_basico",
+          "filename": "cap-05-fisiologia.md",
+          "number": 5,
+          "title": "Fisiologia do Mergulho",
+          "description": "Efeitos do mergulho no organismo: barotraumas, narcose, doença descompressiva.",
+          "icon": "🫁",
+          "excerpt": "Fisiologia do mergulho 5 Neste capítulo abordaremos somente a parte da anatomia e fisiologia que estão ligadas diretamente com o mergulho, sendo dadas noções suficientes para o entendimento das altera",
+          "imageCount": 44
+        },
+        {
+          "id": "tabelas-descomp",
+          "moduleId": "curso_mergulho_autonomo_basico",
+          "filename": "cap-06-tabelas-descomp.md",
+          "number": 6,
+          "title": "Tabelas de Descompressão",
+          "description": "Uso correto das tabelas de descompressão USN e BSAC.",
+          "icon": "📊",
+          "excerpt": "Tabelas de descompressão 6 6.1 EMPREGO DAS TABELAS DE DESCOMPRESSÃO As tabelas para mergulhos com uso de ar comprimido, correntes no país, são homologadas pela DPC (Departamento de Portos e Costas), q",
+          "imageCount": 9
+        },
+        {
+          "id": "procedimentos",
+          "moduleId": "curso_mergulho_autonomo_basico",
+          "filename": "cap-07-procedimentos.md",
+          "number": 7,
+          "title": "Procedimentos, Técnica e Sinais",
+          "description": "Técnicas de mergulho, planejamento e sinais manuais.",
+          "icon": "🤙",
+          "excerpt": "Procedimentos, Técnica e Sinais 7 Desembaçando a Máscara Um dos fatores que mais atrapalham a boa visão do mergulhador é a máscara embaçada. Existem várias maneiras de desembaça-la. A primeira, mais f",
+          "imageCount": 8
+        },
+        {
+          "id": "animais-marinhos",
+          "moduleId": "curso_mergulho_autonomo_basico",
+          "filename": "cap-08-animais-marinhos.md",
+          "number": 8,
+          "title": "Animais Marinhos",
+          "description": "Animais marinhos perigosos e condutas de segurança.",
+          "icon": "🐠",
+          "excerpt": "Animais Marinhos 8 8.1 ANIMAIS MARINHOS Os seres marinhos são em sua maioria tímidos e inofensivos, e quase sempre fogem da presença humana. Os animais agressivos são raramente encontrados e a maioria",
+          "imageCount": 5
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "curso_mergulho_autonomo_basico/capa",
+      "title": "Apresentação",
+      "excerpt": "MANUAL DO MERGULHO AUTÔNOMO DESPORTIVO Curso de Mergulho (Básico) 1 Nota Este manual foi adquirido através de mototes de busca, mas apresenta excelente bibliografia, conferida, apesar de não haver dad",
+      "tags": [
+        "mergulho"
+      ]
+    },
+    {
+      "id": "curso_mergulho_autonomo_basico/historia-mergulho",
+      "title": "História do Mergulho",
+      "excerpt": "História do mergulho 1 (IN: Cousteau, Jaques-Yves. O Mundo dos Oceanos) \"Os seres humanos estão prestes a voltar ao mar, como alguns mamíferos fizeram há poucos milhões de anos, para se tornarem focas",
+      "tags": [
+        "mergulho"
+      ]
+    },
+    {
+      "id": "curso_mergulho_autonomo_basico/certificadoras",
+      "title": "Certificadoras",
+      "excerpt": "Certificadoras 2 As certificadoras existentes espalhadas pelo mundo são entidades tais como sociedades, associações, corporações, federações e confederações, que tem por objetivo a padronização na ins",
+      "tags": [
+        "mergulho"
+      ]
+    },
+    {
+      "id": "curso_mergulho_autonomo_basico/equipamentos",
+      "title": "Equipamentos",
+      "excerpt": "Equipamentos 3 3.1 - EQUIPAMENTOS Os equipamentos abaixo citados, máscara, snorkel e nadadeiras, são aqueles indispensáveis para pratica das atividades do mergulho, por esta razão há este grupo de equ",
+      "tags": [
+        "mergulho"
+      ]
+    },
+    {
+      "id": "curso_mergulho_autonomo_basico/fisica-mergulho",
+      "title": "Física Aplicada ao Mergulho",
+      "excerpt": "Física aplicada ao mergulho 4 4.1 - NOÇÕES DE FÍSICA Para a melhor compreensão do mergulho e seus efeitos sobre o corpo humano, será necessário o conhecimento de certas noções de física. Neste capítul",
+      "tags": [
+        "mergulho"
+      ]
+    },
+    {
+      "id": "curso_mergulho_autonomo_basico/fisiologia",
+      "title": "Fisiologia do Mergulho",
+      "excerpt": "Fisiologia do mergulho 5 Neste capítulo abordaremos somente a parte da anatomia e fisiologia que estão ligadas diretamente com o mergulho, sendo dadas noções suficientes para o entendimento das altera",
+      "tags": [
+        "mergulho"
+      ]
+    },
+    {
+      "id": "curso_mergulho_autonomo_basico/tabelas-descomp",
+      "title": "Tabelas de Descompressão",
+      "excerpt": "Tabelas de descompressão 6 6.1 EMPREGO DAS TABELAS DE DESCOMPRESSÃO As tabelas para mergulhos com uso de ar comprimido, correntes no país, são homologadas pela DPC (Departamento de Portos e Costas), q",
+      "tags": [
+        "mergulho"
+      ]
+    },
+    {
+      "id": "curso_mergulho_autonomo_basico/procedimentos",
+      "title": "Procedimentos, Técnica e Sinais",
+      "excerpt": "Procedimentos, Técnica e Sinais 7 Desembaçando a Máscara Um dos fatores que mais atrapalham a boa visão do mergulhador é a máscara embaçada. Existem várias maneiras de desembaça-la. A primeira, mais f",
+      "tags": [
+        "mergulho"
+      ]
+    },
+    {
+      "id": "curso_mergulho_autonomo_basico/animais-marinhos",
+      "title": "Animais Marinhos",
+      "excerpt": "Animais Marinhos 8 8.1 ANIMAIS MARINHOS Os seres marinhos são em sua maioria tímidos e inofensivos, e quase sempre fogem da presença humana. Os animais agressivos são raramente encontrados e a maioria",
+      "tags": [
+        "mergulho"
+      ]
+    }
+  ]
+}
