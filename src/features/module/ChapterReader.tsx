@@ -238,6 +238,9 @@ export default function ChapterReader() {
                     return <p>{children}</p>
                   },
                   img: ({ src, alt }) => {
+                    // Garante que o caminho funciona tanto em dev (/) quanto em produção (/Curso-Mergulho-DCM/)
+                    const imgSrc = src?.startsWith('http') ? src : assetUrl(src ?? '')
+
                     // Layout float-right: imagem à direita, texto flui à esquerda
                     if (alt === 'float-right') {
                       return (
@@ -246,7 +249,7 @@ export default function ChapterReader() {
                           style={{ maxWidth: 'min(260px, 45%)' }}
                         >
                           <img
-                            src={src} alt=""
+                            src={imgSrc} alt=""
                             className="rounded-xl w-full h-auto shadow-md"
                             loading="lazy"
                           />
@@ -257,7 +260,7 @@ export default function ChapterReader() {
                     return (
                       <figure className="my-6 flex flex-col items-center clear-both">
                         <img
-                          src={src} alt={alt ?? ''}
+                          src={imgSrc} alt={alt ?? ''}
                           className="rounded-xl max-w-full w-auto h-auto mx-auto shadow-md"
                           loading="lazy"
                           style={{ maxWidth: '100%' }}

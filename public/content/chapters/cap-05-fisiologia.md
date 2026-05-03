@@ -25,6 +25,9 @@ citadas são básicas para o funcionamento celular.
 
 O N2 é transportado dissolvido no plasma.
 
+![](/assets/content/curso_mergulho_autonomo_basico/img/fisiologia_variacoes_hiperbaricas_pela_boyle.jpg)
+
+
 [fisiologia_variacoes_hiperbaricas_pela_boyle.jpg]
 
                              Células dos tecidos. Paredes vasculares.
@@ -49,6 +52,9 @@ graxos e transporte subsequente da gordura para o sistema circulatório e,
 produção de células imunes.
 
 5.1.a - APARELHO CIRCULATÓRIO
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/fisiologia_comunicacao_fossas_tecidos_face.jpg)
+
 
 [fisiologia_comunicacao_fossas_tecidos_face.jpg]
 
