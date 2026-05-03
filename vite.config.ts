@@ -18,17 +18,19 @@ export default defineConfig(async () => {
         registerType: 'autoUpdate',
         includeAssets: ['favicon.svg', 'robots.txt', 'icons/*.png', 'offline.html'],
         workbox: {
+          // Incrementar a versão força o SW a descartar o cache antigo
+          cacheId: 'dcm-mergulho-v3',
           globPatterns: ['**/*.{js,css,html,png,jpg,json,md}'],
           runtimeCaching: [
             {
               urlPattern: /\/content\//,
               handler: 'NetworkFirst',
-              options: { cacheName: 'content-cache' }
+              options: { cacheName: 'content-cache-v3' }
             },
             {
               urlPattern: /\/assets\/content\//,
               handler: 'CacheFirst',
-              options: { cacheName: 'content-images', expiration: { maxEntries: 300 } }
+              options: { cacheName: 'content-images-v3', expiration: { maxEntries: 300 } }
             }
           ]
         },

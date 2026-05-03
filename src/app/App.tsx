@@ -141,14 +141,41 @@ function MobileNavLink({ to, children, onClick }: { to: string; children: React.
 // ─── Página Inicial (Dashboard Hero) ─────────────────────────────────────────
 function HomePage({ items: _items }: { items: unknown[] }) {
   const navigate = useNavigate()
-  const [mod, setMod] = useState<{ id: string; title: string; subtitle?: string; chapters: { id: string; title: string; description: string; icon: string; imageCount?: number; number: number }[] } | null>(null)
 
-  useEffect(() => {
-    fetch(assetUrl('/content/index.json'))
-      .then(r => r.json())
-      .then(idx => setMod(idx.modules?.[0] ?? null))
-      .catch(() => {})
-  }, [])
+  const modulos = [
+    {
+      icon: '🌊',
+      emoji: '🤿',
+      label: 'Mergulho Autônomo',
+      desc: 'Física, fisiologia, equipamentos e procedimentos de mergulho.',
+      to: '/modulo/curso_mergulho_autonomo_basico',
+      available: true,
+    },
+    {
+      icon: '🛟',
+      emoji: '🦺',
+      label: 'Equipamentos',
+      desc: 'Cilindros, reguladores, coletes e manutenção de equipamentos.',
+      to: '/em-construcao',
+      available: false,
+    },
+    {
+      icon: '🆘',
+      emoji: '🏥',
+      label: 'Busca e Resgate',
+      desc: 'Técnicas operacionais para missões aquáticas de busca e resgate.',
+      to: '/em-construcao',
+      available: false,
+    },
+    {
+      icon: '📶',
+      emoji: '💾',
+      label: 'Funciona Offline',
+      desc: 'Todo o conteúdo disponível sem conexão após o primeiro acesso.',
+      to: '/em-construcao',
+      available: false,
+    },
+  ]
 
   return (
     <div className="max-w-5xl mx-auto px-4 py-8 space-y-10">
@@ -175,7 +202,7 @@ function HomePage({ items: _items }: { items: unknown[] }) {
           </p>
           <div className="flex flex-wrap gap-3">
             <button onClick={() => navigate('/modulo/curso_mergulho_autonomo_basico')} className="btn-primary">
-              <BookOpen className="w-4 h-4" /> Ver Módulos
+              <BookOpen className="w-4 h-4" /> Acessar Apostila
             </button>
             <button
               onClick={() => navigate('/busca')}
@@ -188,70 +215,37 @@ function HomePage({ items: _items }: { items: unknown[] }) {
         </motion.div>
       </section>
 
-      {/* Cards de capítulos */}
-      {mod && (
-        <section>
-          <div className="flex items-center justify-between mb-4">
-            <h2 className="text-lg font-bold text-ink-700">{mod.title}</h2>
-            <button
-              onClick={() => navigate('/modulo/curso_mergulho_autonomo_basico')}
-              className="text-xs text-ocean-600 font-semibold hover:underline"
+      {/* Módulos */}
+      <section>
+        <h2 className="text-base font-bold text-ink-700 mb-4">Módulos do Curso</h2>
+        <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-4">
+          {modulos.map(({ icon, label, desc, to, available }, i) => (
+            <motion.button
+              key={label}
+              onClick={() => navigate(to)}
+              initial={{ opacity: 0, y: 16 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ delay: i * .07, duration: .35, ease: [.16,1,.3,1] }}
+              className="card p-5 text-left flex flex-col gap-3 group hover:border-ocean-300 hover:shadow-md active:scale-[.98] transition-all cursor-pointer relative"
             >
-              Ver todos →
-            </button>
-          </div>
-          <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
-            {mod.chapters.slice(0, 6).map((chap, i) => (
-              <motion.button
-                key={chap.id}
-                initial={{ opacity: 0, y: 16 }}
-                animate={{ opacity: 1, y: 0 }}
-                transition={{ delay: i * .07, duration: .35, ease: [.16,1,.3,1] }}
-                onClick={() => navigate(`/modulo/curso_mergulho_autonomo_basico/${chap.id}`)}
-                className="card p-5 text-left flex flex-col gap-3 group hover:border-ocean-300 hover:shadow-md transition-all active:scale-[.98]"
-              >
-                <div className="flex items-start justify-between">
-                  <span className="text-2xl">{chap.icon}</span>
-                  <span className="text-xs font-bold text-ink-300 bg-ink-100 rounded-lg px-2 py-0.5">
-                    {String(chap.number).padStart(2,'0')}
-                  </span>
-                </div>
-                <div>
-                  <p className="font-bold text-sm text-ink-900 mb-0.5 group-hover:text-ocean-700 transition-colors line-clamp-1">{chap.title}</p>
-                  <p className="text-xs text-ink-500 line-clamp-2">{chap.description}</p>
-                </div>
-                <span className="text-xs text-ocean-600 font-semibold self-end">Ler →</span>
-              </motion.button>
-            ))}
-          </div>
-        </section>
-      )}
-
-      {/* Destaques */}
-      <section className="grid grid-cols-2 sm:grid-cols-4 gap-4">
-        {[
-          { icon: '🌊', label: 'Mergulho Autônomo', to: '/modulo/curso_mergulho_autonomo_basico', available: true },
-          { icon: '🤿', label: 'Equipamentos',       to: '/em-construcao', available: false },
-          { icon: '🆘', label: 'Busca e Resgate',    to: '/em-construcao', available: false },
-          { icon: '📶', label: 'Funciona Offline',   to: '/em-construcao', available: false },
-        ].map(({ icon, label, to, available }, i) => (
-          <motion.button
-            key={label}
-            onClick={() => navigate(to)}
-            initial={{ opacity: 0, y: 16 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ delay: i * .07, duration: .35, ease: [.16,1,.3,1] }}
-            className="card flex flex-col items-center gap-2 py-5 px-3 text-center hover:border-ocean-300 hover:shadow-md active:scale-[.98] transition-all cursor-pointer relative"
-          >
-            <span className="text-2xl">{icon}</span>
-            <span className="text-xs font-semibold text-ink-600">{label}</span>
-            {!available && (
-              <span className="absolute top-2 right-2 text-[10px] font-bold bg-amber-100 text-amber-700 rounded px-1.5 py-0.5 leading-tight">
-                Em breve
-              </span>
-            )}
-          </motion.button>
-        ))}
+              {!available && (
+                <span className="absolute top-2 right-2 text-[10px] font-bold bg-amber-100 text-amber-700 rounded px-1.5 py-0.5 leading-tight">
+                  Em breve
+                </span>
+              )}
+              <span className="text-3xl">{icon}</span>
+              <div>
+                <p className={`font-bold text-sm mb-1 transition-colors line-clamp-1 ${available ? 'text-ink-900 group-hover:text-ocean-700' : 'text-ink-400'}`}>
+                  {label}
+                </p>
+                <p className="text-xs text-ink-500 line-clamp-2 leading-relaxed">{desc}</p>
+              </div>
+              {available && (
+                <span className="text-xs text-ocean-600 font-semibold self-end">Acessar →</span>
+              )}
+            </motion.button>
+          ))}
+        </div>
       </section>
     </div>
   )
