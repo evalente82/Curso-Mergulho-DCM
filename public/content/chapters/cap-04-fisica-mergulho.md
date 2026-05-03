@@ -5,9 +5,6 @@ title: "Física Aplicada ao Mergulho"
 number: 4
 ---
 
-Física aplicada ao mergulho 4
-
-4.1 - NOÇÕES DE FÍSICA
 Para a melhor compreensão do mergulho e seus efeitos sobre o corpo
 humano, será necessário o conhecimento de certas noções de física. Neste
 capítulo veremos somente a parte da física diretamente aplicada ao
@@ -25,6 +22,8 @@ formada por dois átomos de hidrogênio e um de oxigênio.
 ![](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_varia_proporcionalmente_temperatura_volume.jpg)
 
 
+[fisica-mergulho_varia_proporcionalmente_temperatura_volume.jpg]
+
 A matéria se divide em três estados:
 SÓLIDOS: Forma e volume definidos. São incompressíveis.
 LÍQÜIDO: Forma do recipiente que o contém, volume definido. São
@@ -36,6 +35,7 @@ aumento da pressão).
 ![](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_varia_proporcionalmente_temperatura_volume_2.jpg)
 
 
+[fisica-mergulho_varia_proporcionalmente_temperatura_volume_2.jpg]
                                                                                                                     25
 O ar atmosférico por nós respirado durante o mergulho é, uma mistura
 gasosa que, em condições hiperbáricas, tem comportamento diferente
@@ -48,13 +48,8 @@ aproximada:
 ![](/assets/content/curso_mergulho_autonomo_basico/img/Equipamentos_percentual_01.png)
 
 
-GÁS            FÓRMULA  PERCENTUAL
-Nitrogênio              78,08 %
-Oxigênio       N²       20,95 %
-Gás carbônico  O²       0,03 %
-Outros gases   CO²      0,94%
-
-               ---
+[Equipamentos_percentual_01.png]
+[Equipamentos_percentual_02.png]
 
 Para efeitos de cálculo no mergulho com ar podemos utilizas as
 porcentagens de 80% de N² e 20% de O² .
@@ -137,21 +132,24 @@ reduzido a metade do volume inicial (5 litros).
 ![](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_mistura_x_y_ar_liquido_sofre.png)
 
 
-                           A 10 m será de 1/2
-                           A 20 m será de 1/3
-                           A 30 m será de 1/4
-                           A 40 m será de 1/5
+[fisica-mergulho_mistura_x_y_ar_liquido_sofre.png]
+
+          A 10 m será de 1/2
+          A 20 m será de 1/3
+          A 30 m será de 1/4
+          A 40 m será de 1/5
 
                                                                                                                     28
 Ao contrario se subirmos com uma bola de 10 litros, dos dez metros de
 profundidade até a superfície, lá ela terá volume dobrado (20 litros).
+
 "Em uma temperatura constante, o volume ocupado por uma determinada
-massa de gás, é inversamente proporcional à pressão absoluta a que está
+massa de gás, é inversamente proporcional à pressão absoluta a que está sujeito.”
 
 ![](/assets/content/curso_mergulho_autonomo_basico/img/Fisica-mergulho_03.png)
 
 
-                                         sujeito.”
+[Fisica-mergulho_03.png]
 
 Lei de Charles e Gay Lussac
 A Lei de Charles nos explica que a pressão varia proporcionalmente com a
@@ -160,9 +158,9 @@ recarregarmos os cilindros de mergulho, na medida em que aumentamos a
 pressão em seu interior, notamos a elevação de sua temperatura. Da mesma
 maneira, a pressão varia proporcionalmente com a temperatura se o volume
 se mantiver constante.
-"A uma pressão constante o volume natural de uma mesma quantidade de
 
-               gás é proporcional a uma temperatura absoluta.”
+"A uma pressão constante o volume natural de uma mesma quantidade de gás é proporcional a uma temperatura absoluta.”
+
 Equação Geral dos Gases
 Quando temos certo volume de gás a uma temperatura e pressão, e fazemos
 com que todas estas variáveis se alterem, é a combinação da Lei de Boyle
@@ -178,6 +176,8 @@ temperatura no estado inicial é igual á relação tio produto, pressão vezes
 ![](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_igual_peso_liquido_deslocado.png)
 
 
+[fisica-mergulho_igual_peso_liquido_deslocado.png]
+
 onde:
        P é a pressão do gas.
        T é a temperatura termodinâmica.
@@ -188,6 +188,8 @@ de acordo com as condições acima) afirma-se que:
 
 ![](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_igual_peso_liquido_deslocado_2.png)
 
+
+[fisica-mergulho_igual_peso_liquido_deslocado_2.png]
 
 Lei de Dalton
 Os gases numa mistura exibem uma propriedade singular. Cada um exerce
@@ -204,7 +206,6 @@ Assim a pressão parcial do oxigênio é de 0,2 Kgf./cm²; a do nitrogênio é d
 
 mar.
    "Numa mistura gasosa, cada gás comporta-se como se ele ocupasse
-
  sozinho o volume global de mistura: a pressão total da mistura é a soma
          das pressões parciais dos diferentes gases que a compõem”
 
@@ -214,8 +215,9 @@ mar.
 ![](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_sofrer_mesma_dissolvido_pela_01.png)
 
 
-                                                                                                                    30
-Pp X (O2) +  Pp Y (N2) = P mistura X+Y(Ar)
+[fisica-mergulho_sofrer_mesma_dissolvido_pela_01.png]
+[fisica-mergulho_sofrer_mesma_dissolvido_pela_02.png]
+
 
 Principio de Arquimedes
 
@@ -229,6 +231,8 @@ desloca uma quantidade de líquido de peso menor que o seu, o objeto afunda.
 ![](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_fase_equilibrio_dissolvido_inferior.jpg)
 
 
+[fisica-mergulho_fase_equilibrio_dissolvido_inferior.jpg]
+
                                                                                                                     31
 "Todo corpo imerso em um líquido em equilíbrio é submetido a uma força
    vertical dirigida de baixo para cima de intensidade igual ao peso do
@@ -240,6 +244,8 @@ desloca uma quantidade de líquido de peso menor que o seu, o objeto afunda.
 ![](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_dito_supersaturado_critica_nivel.jpg)
 
 
+[fisica-mergulho_dito_supersaturado_critica_nivel.jpg]
+[fisica-mergulho_superficie_fase_dito_supersaturado.jpg]
                                                                                                                     32
 Princípio de Pascal
 A pressão exercida sobre um ponto qualquer de um fluido se transmite em
@@ -250,6 +256,9 @@ todas as direções com igual intensidade.
 
 ![](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_pode_admitir_equivalencia_padrao.png)
 
+
+[fisica-mergulho_pode_admitir_equivalencia_padrao.png]
+[fisica-mergulho_pressao_relativa_calculo_consumo.png]
 
   “Quando um ponto de um líquido em equilíbrio sofre uma variação de
  pressão, todos os outros pontos do líquido também irão sofrer a mesma
@@ -262,7 +271,6 @@ estado de saturação, estabelecer uma simples comparação de pressões.
  "Para um sistema liquido/gás e temperatura constante a solubilidade do
 gás no liquido é proporcional á pressão excedia por este gás neste líquido.
 “Numa mistura gasosa, a quantidade dissolvida de cada gás da mistura é
-
                           proporcional à pressão parcial”
 
 ![](/assets/content/curso_mergulho_autonomo_basico/img/Fisica_Estados_01.png)
@@ -274,34 +282,10 @@ gás no liquido é proporcional á pressão excedia por este gás neste líquido
 ![](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_total_otica_absorvidas_podem.png)
 
 
-                                                                     MOLÉCULAS
-                                                                       LIQUIDAS
+[fisica-mergulho_total_otica_absorvidas_podem.png]
+[fisica-mergulho_altura_trinta_para_olhos.jpg]
 
-                                                                         MOLÉCULAS
-                                                                             DE GÁS
-
-                                                                                                                    33
-ESTADO SATURADO - É obtido
-quando a tensão de gás dissolvido (no
-liquido) e a pressão de gás livre (na
-atmosfera) estão em equilíbrio: Fase de
-equilíbrio
-
-ESTADO DE NÃO SATURAÇÃO -
-Um líquido é dito não saturado quando
-a tensão de gás dissolvido é inferior a
-pressão do gás livre na superfície: Fase
-de absorção de gás.
-
-ESTADO DE SUPERSATURAÇÃO -
-Um líquido é dito supersaturado
-quando a tensão de gás dissolvido é
-superior a pressão de gás livre na sua
-superfície. Fase de restituição de gás.
-Obs.: Supersaturação crítica é o nível
-máximo que um líquido pode admitir
-antes da liberação espontânea do gás
-em formas de bolhas (macro bolhas)
+[Fisica_Estados_01.png]
 
 4.4 - UNIDADES DE EQUIVALÊNCIA PADRÃO
 
@@ -320,27 +304,7 @@ Para convertermos essas escalas utilizamos a regra de três simples.
 ![](/assets/content/curso_mergulho_autonomo_basico/img/Fisica_Equivalencia01.png)
 
 
-           A=B          EQUIVALÊNCIA PADRÃO
-
-           C=X          EQUIVALÊNCIA À SABER
-
-                    A · X = B · C logo X = B·C
-                                                          A
-
-COMPRIMENTO
-01 metro (m) = 100 centímetros (cm) = 1000 milímetros (mm) = 3,28 pés
-(ft.) = 39,37 polegadas (pol.)
-01 pé = 12 polegadas = 0, 3048 m
-01" (polegada) = 2,54 cm
-
-Exemplo I               Exemplo II
-
-Quantos metros equivalem a 60 pés? Quantos pés equivalem a 24 metros?
-
-1 pé = 0,30 metros      0,30 metros = 1 pé
-60 pés = X metros       24 metros = X pés
-
-           = 18 metros                                       80 pés
+[Fisica_Equivalencia01.png]
 
 A seguir veremos algumas definições:
 
@@ -363,43 +327,10 @@ nada mais é do que outra expressão de força sobre unidade de área.
 O manômetro é o aparelho utilizado para medir a pressão. As unidades
 barométricas são:
 
-atm = atmosfera
+![](/assets/content/curso_mergulho_autonomo_basico/img/Fisica-unidades_barométricas.png)
 
-PSI = libras força/pol²
 
-mm Hg = milímetros de mercúrio
-
- atm = 14,7 PSI = 1, 003 Kgf./cm² = 1,01 Bar = 760 mm Hg = 33,9 pés da
-água do mar = 10,3 m de água doce.
-
-Aproximadamente para efeitos de cálculos pode-se usar:
-
-1 atm = 15 PSI = 1Kgf./ cm2 = 1 Bar = 760 mm Hg = 33 pés de água do mar
-= 10 m de água doce.
-
-Exemplo I                         Exemplo II
-Quantos PSI têm em 7 atm?         Quantos atm têm em 150 PSI?
-
-1atm = 15 PSI                     15 PSI = 1 Bar
-7atm = X                          150 PSI = X
-
-X = 15 PSI x 7 atm = 105 PSI      X = 1 Bar x 150 PSI = 10 BAR
-          15 PSI                               15 PSI
-
-Exemplo III
-
-Quantos atm têm em 30 m de água do ATENÇÃO: Neste ultimo problema
-
-mar?                              estamos calculando equivalência de
-
-                                  pressão e não a pressão absoluta a
-
-10m de água = 1 atm               30m de profundidade (que será de 4
-
-30 m de água = X                  atm absolutas ou 4 ATA).
-
-X = 1 atm x 30 m de água = 3 atm
-          10 m de água
+[Fisica-unidades_barométricas.png]
 
                                                                 36
 Pressão Atmosférica
@@ -436,7 +367,9 @@ Pressão absoluta (Pabs) ou pressão total (Pt)
 é a somatória da pressão atmosférica com a
 pressão relativa.
 
-               Patm + Prel = Pabs
+
+
+      Patm + Prel = Pabs
 
 Cálculo de Consumo de Ar
 
@@ -446,8 +379,6 @@ necessário os cálculos da quantidade
 disponível, no caso, de ar comprimido, e a
 quantidade que iremos consumir em relação
 à profundidade.
-
-![](/assets/content/curso_mergulho_autonomo_basico/img/fisiologia_evolucao_sinais_mais_proxima.jpg)
 
 
                                                                                                                     37
@@ -464,14 +395,8 @@ pressão ambiente absoluta.
 ![](/assets/content/curso_mergulho_autonomo_basico/img/Fisica-Consumo01.png)
 
 
-20 l./min. (consumo na super.) X Pabs (pressão absoluta) = Consumo
 
-Qual será o consumo de ar de um mergulhador a 20 metros de profundidade?
-Cons. Super. = 20 litros por minuto Pabs a 20 m = 3 ATA
-20 X 3 = 60 litros por minuto
-Qual será o consumo de ar de um mergulhador a 55 metros de profundidade?
-Cons. Super. = 20 litros por minuto Pabs a 55 m = 6,5 ATA
-20 X 6.5 = 130 litros por minuto
+[Fisica-Consumo01.png]
 
 Cálculo em Relação à Capacidade de Cada Cilindro
 A equação resume-se na multiplicação da pressão de enchimento do cilindro
@@ -480,20 +405,15 @@ em litros.
 
 ![](/assets/content/curso_mergulho_autonomo_basico/img/Fisica_capacidade_cilindro.png)
 
-Quantos litros existem em uma garrafa de 11 litros e pressão de enchimento
-de 200 atm?
-Volume = 11 litros Pe= 200 atm
-Quantos litros existem em uma garrafa de 18 litros e pressão de enchimento
-de 250 atm?
-Volume = 18 litros Pe = 250 atm
+
+[Fisica_capacidade_cilindro.png]
 
 Cálculo do Ar Disponível e do Ar Reserva
 
 ![](/assets/content/curso_mergulho_autonomo_basico/img/Fisica_capacidade_cilindro_02.png)
 
-Nos registros mais antigos (tipo “J”) encontra-se o sistema de reserva de ar
-(esta reserva não deve ser considerada para o consumo durante o mergulho).
-Resume-se a uma mola com pressão de 30 atm instalada no interior do
+
+[Fisica_capacidade_cilindro_02.png]
 
                                                                                                                     38
 registro, a mesma fecha a passagem de ar quando a pressão da mola
@@ -578,5 +498,4 @@ deve rebocar uma bóia, de preferência com uma bandeira. Mesmo que um
 enrosco em seu hélice.
 
                                                                                                                     42
-
----
+Fisiologia do mergulho  5

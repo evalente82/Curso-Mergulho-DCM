@@ -5,86 +5,7 @@ title: "Animais Marinhos"
 number: 8
 ---
 
-102
-103
-104
-Animais Marinhos  8
-
-8.1 ANIMAIS MARINHOS
-
-Os seres marinhos são em sua maioria tímidos e inofensivos, e quase sempre
-fogem da presença humana. Os animais agressivos são raramente
-encontrados e a maioria dos incidentes ocorre porque o animal foi
-provocado. Evitando molestar estes animais raramente o mergulhador terá
-qualquer tipo de problemas.
-
-A seguir abordaremos alguns animais que devemos ter especial cuidado.
-
-Barracuda
-
-Os dentes afiados como navalha e as poderosas mandíbulas da barracuda,
-somando-se a capacidade de se abater sobre a presa com uma velocidade
-impressionante, deram-lhe a reputação de matadora de homens.
-
-Na verdade, porém, esse peixe poderoso, que pode crescer até quase dois
-metros e pesar cinqüenta quilos, só esteve envolvido em umas poucas
-dezenas de casos de ataque - e na maioria dos casos as informações não são
-fidedignas.
-
-O banhista estava em águas
-turvas e o ataque
-provavelmente foi acidental;
-a identidade do peixe atacante não foi confirmada com precisão. Quando um
-mergulhador, mesmo desarmado, nada em direção de uma barracuda, ela se
-afasta - mas não muito depressa - e logo volta por trás do homem. Como a
-impressão de ser seguido por um predador tão enigmático é extremamente
-desagradável, o cauteloso mergulhador se vira e torna a enxotar o peixe - por
-alguns segundos. Esse jogo de intimidação pode se prolongar por horas, sem
-qualquer fadiga aparente de parte da barracuda.
-
-Mangangá
-
-O mangangá, também conhecido como
-peixe-escorpião ou peixe-pedra, pela sua
-capacidade de se mimetizar com as pedras,
-possui uma aparência que não muito agradável;
-além de feio, é perigoso. Os lados e o focinho
-
-                     105
-são cobertos por espinhos e dobras de pele. Os primeiros raios de suas
-barbatanas anais e dorsais possuem ferrões venenosos. As glândulas
-venenosas pesam apenas algumas gramas, mas seu veneno é perigoso,
-podendo provocar desde forte dor com inchaço no local até levar ao estado
-de choque. Também o muco que lhe cobre a pele é venenoso e pode fazer
-infeccionar um simples arranhão.
-
-Medusas
-
-O pequeno guarda-chuva levemente azulado, que você
-encontra às vezes flutuando nas ondas, não é
-inofensivo. O mergulhador que tocar esse "objeto"
-transparente, logo sentirá uma sensação de
-queimadura. Esse guarda-chuva é a medusa, também
-conhecida popularmente como água-viva. É um
-metazoário que possui uma arma: células urticantes,
-cujo veneno paralisa presas menores e pode mesmo ser
-nocivo às pessoas. Seu nome foi tomado de uma das
-Górgonias de mitologia grega - A Medusa, que tinha a
-cabeça rodeada de serpentes.
-
-Na parte inferior de seu corpo gelatinoso, em forma de
-disco, está a boca rodeada de tentáculos curtos. De
-uma espécie de tubo central, denominado "manúbrio"
-saem quatro longos "braços" com os quais a auréola consegue pegar os
-micros organismos de que se alimenta.
-
-Moréia
-
-A moréia é uma grande comedora de carne e todos os peixes evitam chegar
-perto dos seus dentes curvos e pontudos. Existem 80 espécies de moréias
-vivendo em todos os mares quentes. Seu corpo cilíndrico tem somente duas
-
-                                    nadadeiras. Estas nadadeiras não são vistas
+nadadeiras. Estas nadadeiras não são vistas
                                     facilmente e correm como fitas ao longo das
                                     costas e do ventre.
 
@@ -216,6 +137,3 @@ peixinhos.
        Subacuáticas (C.M.A.S.). 1ª edição, 2002.
 
                                                                                                                   112
-
----
-

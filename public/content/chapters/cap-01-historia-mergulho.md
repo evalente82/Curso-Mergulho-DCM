@@ -115,7 +115,7 @@ descido a “dez braças muitas centenas de vezes” - um feito impossível.
 ![](/assets/content/curso_mergulho_autonomo_basico/img/historia-mergulho_feito_impossivel_feito_impossivel.jpg)
 
 
-
+[historia-mergulho_feito_impossivel_feito_impossivel.jpg]
 
 Em 1715, um inventor inglês, John Lethbridge, projetou este implausível aparato blindado
 para mergulhos. Alegou ter descido a dez braças no tanque lacrado centenas de vezes - um
@@ -138,8 +138,7 @@ Egypt.
 ![](/assets/content/curso_mergulho_autonomo_basico/img/historia-mergulho_verne_vinte_liberdade_curta.jpg)
 
 
-
-
+[historia-mergulho_verne_vinte_liberdade_curta.jpg]
                               Artefato de Rouquayrol e Denayrouze.
 
 Quatro anos antes da publicação do clássico de Júlio Verne, Vinte Mil
@@ -209,17 +208,9 @@ diante de seus olhos."
 ![](/assets/content/curso_mergulho_autonomo_basico/img/historia-mergulho_pressao_camara_flui_valvula.jpg)
 
 
-
+[historia-mergulho_pressao_camara_flui_valvula.jpg]
 
 Como funciona a válvula reguladora: A inalação reduz a pressão na câmara (A) por
 cima da membrana (B), fazendo-a levantar. A alavanca (C) ativada por essa membrana
 permite o fluxo de ar através da válvula de baixa pressão (D). Uma redução na pressão
 ocorre dentro da câmara (E), abrindo a válvula reguladora de alta pressão (F) e
-permitindo o fluxo de ar para o mergulhador. O ar expirado flui por uma válvula só de
-saída (G) para a câmara (H), que é aberta para a água através de orifícios (linhas
-pontilhadas).
-
-                                                                                                                     8
-
----
-

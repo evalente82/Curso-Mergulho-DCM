@@ -5,8 +5,6 @@ title: "Fisiologia do Mergulho"
 number: 5
 ---
 
-Fisiologia do mergulho  5
-
 Neste capítulo abordaremos somente a parte da anatomia e fisiologia que
 estão ligadas diretamente com o mergulho, sendo dadas noções suficientes
 para o entendimento das alterações fisiológicas e patológicas que possam
@@ -28,6 +26,7 @@ O N2 é transportado dissolvido no plasma.
 ![](/assets/content/curso_mergulho_autonomo_basico/img/fisiologia_variacoes_hiperbaricas_pela_boyle.jpg)
 
 
+[fisiologia_variacoes_hiperbaricas_pela_boyle.jpg]
 
                              Células dos tecidos. Paredes vasculares.
 
@@ -55,6 +54,7 @@ produção de células imunes.
 ![](/assets/content/curso_mergulho_autonomo_basico/img/fisiologia_comunicacao_fossas_tecidos_face.jpg)
 
 
+[fisiologia_comunicacao_fossas_tecidos_face.jpg]
 
 A circulação do sangue
 
@@ -1560,6 +1560,83 @@ ocorrer mais eventos trombóticos espontâneos não fatais do que na
 população que não usa. Além disso, os pesquisadores em medicina
 hiperbárica especulam que seu uso pode aumentar o risco de doença
 descompressiva ou o grau de comprometimento e severidade do dano
+tecidual ocorrido num acidente. Contudo, nenhum estudo em animais apoiou
+essa hipótese.”
 
----
+                                                                                                                    84
+Tabelas de descompressão 6
 
+6.1 EMPREGO DAS TABELAS DE DESCOMPRESSÃO
+
+As tabelas para mergulhos com uso de ar comprimido, correntes no país, são
+homologadas pela DPC (Departamento de Portos e Costas), que são as
+mesmas usadas na US Navy convertidas par a unidades métricas, são as
+seguintes.
+
+- Tabela Padrão de Descompressão a ar;
+
+- Tabela de Limites sem Descompressão;
+
+- Tabela de Tempo de Nitrogênio Residual.
+
+PROFUNDIDADE - É a profundidade máxima atingida durante o mergulho,
+medida em metros ou em pés. Caso não tenha na tabela usar a próxima
+maior.
+
+DEIXOU A SUPERFÍCIE (DS) - É o momento que o mergulhador começou
+a mergulhar (imergir).
+
+DEIXOU O FUNDO (DF) - É o momento em que o mergulhador deu início
+a sua subida.
+
+CHEGOU A SUPERFÍCIE (CS) - É o momento em que o mergulhador
+chega à superfície (emerge).
+
+TEMPO REAL DE FUNDO (TRF) - É o tempo percorrido desde DS até DF.
+
+TEMPO TOTAL DE FUNDO (TTF) - É o tempo durante o qual o
+organismo do mergulhador assimila N2. Freqüentemente igual ao TRF. No
+caso de mergulho repetitivo e alguns outro onde usamos os procedimentos
+especiais o TRF fica diferente do TTF. É o TTF que usamos para o calculo
+da descompressão e caso não encontremos nas tabelas, utilizamos o próximo
+maior.
+
+TEMPO TOTAL DE DESCOMPRESSÃO (TTD) - É o tempo percorrido
+desde DF até CS. Durante o este tempo o organismo do mergulhador elimina
+N2.
+
+TEMPO TOTAL DE MERGULHO (TTM) - É o tempo percorrido desde DS
+até CS ou a soma do TRF com o TTD.
+
+                                                                                                                    85
+PARADA PARA DESCOMPRESSÃO - É um determinado tempo que o
+mergulhador deverá ficar em uma determinada profundidade com a
+finalidade de eliminar o excesso de gases inertes que estão dissolvidos em
+seu organismo (no caso do mergulho com ar comprimido é o N2).
+
+ESQUEMA DESCOMPRESSIVO - É o esquema profundidade/TTF
+utilizado para acharmos na tabela, a descompressão necessária para um
+determinado mergulho. Nem sempre é semelhante ao mergulho realizado
+(ver procedimentos especiais).
+
+INTERVALO DE SUPERFÍCIE (IS) - É o tempo que o mergulhador passa
+na superfície entre dois mergulhos.
+
+MERGULHO SIMPLES - É qualquer mergulho realizado com intervalo de
+superfície maior que 12 horas. Pode ser com ou sem parada para
+descompressão.
+
+MERGULHO REPETITIVO OU SUCESSIVO - É qualquer mergulho
+realizado com intervalo de superfície inferior a 12 horas.
+
+NITROGÊNIO RESIDUAL - É a quantidade de nitrogênio (acima do
+normal) dissolvido nos tecidos dos mergulhadores após sua chegada a
+superfície. Levando no máximo 12 horas para ser eliminada.
+
+TEMPO DE NITROGÊNIO RESIDUAL (TRN) - É a quantidade de
+nitrogênio que ainda resta dissolvido no organismo do mergulhador no
+momento em que vai DS em um mergulho repetitivo, já transformado em
+tempo (minutos) e em relação à profundidade máxima que se programou
+atingir no novo mergulho.
+
+LETRA DO GRUPO REPETITIVO (LGR) - É uma letra relacionada com

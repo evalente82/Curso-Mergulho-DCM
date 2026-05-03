@@ -5,86 +5,6 @@ title: "Procedimentos, Técnica e Sinais"
 number: 7
 ---
 
-lâmina d'água situada a mais de 300 metros de altitude. Simplificando, é o
-mergulho em locais situados a mais de 300 acima do nível dos mares.
-
-                                                                                                                    92
-Procedimentos, Técnica e Sinais 7
-
-Desembaçando a Máscara
-
-Um dos fatores que mais atrapalham a boa visão do mergulhador é a máscara
-embaçada.
-
-Existem várias maneiras de desembaça-la. A primeira, mais fácil e mais
-utilizada, é lavar a parte interna do vidro com saliva (não funciona se a
-máscara estiver com óleo), a segunda, é passar produtos desembaçantes
-(detergentes) vendidos em lojas especializadas. Logo após, o mergulhador
-deverá lavar a máscara com água do mar.
-
-Vestindo a Roupa de Neoprene
-
-Para facilitar a colocação da roupa de neoprene, devemos molha-Ia ou passar
-em seu interior xampu neutro.
-
-Nunca utilize substâncias oleosas, porque estas penetram no neoprene e
-quando você quiser consertar sua roupa não haverá cola que segure.
-
-Como Montar o Equipamento Autônomo
-
-01- Remover a fita do registro.
-02- Checar o o'ring.
-03- Abrir um pouco o registro e fechá-lo rapidamente, para expulsar
-prováveis impurezas.
-04- Colocar o primeiro estágio fazendo com que o segundo estágio passe
-pelo lado direito do mergulhador.
-05- Checar a pressão da carga.
-06- Testar a válvula de segundo estágio, primeiramente a purga e depois
-respirando nela
-
-Como Entrar na Água
-
-Ao colocar-se na posição de entrada, não se demore impedindo que outros
-mergulhadores já equipados também entrada na água; ao cair no mar receba
-de alguém a bordo a lanterna ou o material fotográfico, que são sensíveis ao
-impacto da água e dirija-se para um local pré-combinado com seu dupla,
-deixando o local da queda na água livre para outro mergulhador. São bons
-lugares para esperar o dupla: o cabo da âncora ou um cabo lançado de popa
-com uma bóia. Nesta posição, verifique todo o equipamento, pois algo pode
-
-                                                                                                                    93
-ter-se soltado ou se deslocado durante a queda.
-
-Queda dorsal
-
-A queda dorsal é uma das entradas clássicas no mergulho autônomo. Nela, o
-mergulhador (todo equipado e com o regulador) senta na borda da
-embarcação, com as pernas para o interior, procurando posicionar-se o mais
-para a beirada possível olhando para frente e firmando com a mão direita a
-máscara e o regulador junto ao rosto e com a mão esquerda firmando a fivela
-do cinto de lastro.
-
-E importante verificar se não há ninguém onde se vai cair. Em seguida,
-impulsione o corpo levemente para trás, mantendo as pernas dobradas (na
-mesma posição de quando sentado).
-
-E um bom procedimento quando o equilíbrio do mergulhador está
-prejudicado pelo movimento do mar e/ou a altura do barco não é muito
-grande, pois do contrário pode-se dar uma volta completa no ar e cair com a
-frente do corpo na água.
-
-Salto vertical
-
-Também conhecido como passo de gigante, o salto vertical é um movimento
-simples e adequado para grandes alturas (mais de um metro), já que o
-primeiro impacto na água faz-se com os pés. Consiste em se ficar em pé na
-borda da embarcação olhando para frente e firmando com a mão direita a
-máscara e o regulador junto ao rosto e com a mão esquerda firmando a fivela
-do cinto de lastro, como nas outras manobras, e, com um passo largo, deve se
-afastar do barco com uma das pernas sempre em contato com a borda do
-barco para se manter uma distância segura do mesmo. Essa entrada torna-se
-problemática, caso a embarcação esteja oscilando muito e a borda não
-ofereça suporte para facilitar o equilíbrio. Nestas circunstâncias, pode o
 mergulhador cair, com todo o equipamento, para dentro do barco ou d'água,
 resultando daí contusões ou perda do equipamento.
 
@@ -302,5 +222,81 @@ tipo: dor de cabeça, câimbras, etc.
 - Nunca faça tudo o que você acha que pode fazer, faça sempre 30% menos.
 - Ajude seus colegas.
 
----
+                                                                                                                  102
+103
+104
+Animais Marinhos  8
 
+8.1 ANIMAIS MARINHOS
+
+Os seres marinhos são em sua maioria tímidos e inofensivos, e quase sempre
+fogem da presença humana. Os animais agressivos são raramente
+encontrados e a maioria dos incidentes ocorre porque o animal foi
+provocado. Evitando molestar estes animais raramente o mergulhador terá
+qualquer tipo de problemas.
+
+A seguir abordaremos alguns animais que devemos ter especial cuidado.
+
+Barracuda
+
+Os dentes afiados como navalha e as poderosas mandíbulas da barracuda,
+somando-se a capacidade de se abater sobre a presa com uma velocidade
+impressionante, deram-lhe a reputação de matadora de homens.
+
+Na verdade, porém, esse peixe poderoso, que pode crescer até quase dois
+metros e pesar cinqüenta quilos, só esteve envolvido em umas poucas
+dezenas de casos de ataque - e na maioria dos casos as informações não são
+fidedignas.
+
+O banhista estava em águas
+turvas e o ataque
+provavelmente foi acidental;
+a identidade do peixe atacante não foi confirmada com precisão. Quando um
+mergulhador, mesmo desarmado, nada em direção de uma barracuda, ela se
+afasta - mas não muito depressa - e logo volta por trás do homem. Como a
+impressão de ser seguido por um predador tão enigmático é extremamente
+desagradável, o cauteloso mergulhador se vira e torna a enxotar o peixe - por
+alguns segundos. Esse jogo de intimidação pode se prolongar por horas, sem
+qualquer fadiga aparente de parte da barracuda.
+
+Mangangá
+
+O mangangá, também conhecido como
+peixe-escorpião ou peixe-pedra, pela sua
+capacidade de se mimetizar com as pedras,
+possui uma aparência que não muito agradável;
+além de feio, é perigoso. Os lados e o focinho
+
+                     105
+são cobertos por espinhos e dobras de pele. Os primeiros raios de suas
+barbatanas anais e dorsais possuem ferrões venenosos. As glândulas
+venenosas pesam apenas algumas gramas, mas seu veneno é perigoso,
+podendo provocar desde forte dor com inchaço no local até levar ao estado
+de choque. Também o muco que lhe cobre a pele é venenoso e pode fazer
+infeccionar um simples arranhão.
+
+Medusas
+
+O pequeno guarda-chuva levemente azulado, que você
+encontra às vezes flutuando nas ondas, não é
+inofensivo. O mergulhador que tocar esse "objeto"
+transparente, logo sentirá uma sensação de
+queimadura. Esse guarda-chuva é a medusa, também
+conhecida popularmente como água-viva. É um
+metazoário que possui uma arma: células urticantes,
+cujo veneno paralisa presas menores e pode mesmo ser
+nocivo às pessoas. Seu nome foi tomado de uma das
+Górgonias de mitologia grega - A Medusa, que tinha a
+cabeça rodeada de serpentes.
+
+Na parte inferior de seu corpo gelatinoso, em forma de
+disco, está a boca rodeada de tentáculos curtos. De
+uma espécie de tubo central, denominado "manúbrio"
+saem quatro longos "braços" com os quais a auréola consegue pegar os
+micros organismos de que se alimenta.
+
+Moréia
+
+A moréia é uma grande comedora de carne e todos os peixes evitam chegar
+perto dos seus dentes curvos e pontudos. Existem 80 espécies de moréias
+vivendo em todos os mares quentes. Seu corpo cilíndrico tem somente duas

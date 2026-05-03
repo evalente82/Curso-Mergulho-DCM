@@ -35,7 +35,8 @@ function preprocessMarkdown(raw: string): string {
   const SECTION_RE   = /^(\d+\.\d+[a-z]?\s*[-–]\s*.{3,60})\s*$/       // 5.1 - Titulo
   const SUBSECT_RE   = /^(\d+\.\d+\.[a-z]\s*[-–]\s*.{3,60})\s*$/      // 5.1.a - Titulo
   const ALLCAPS_RE   = /^([A-ZÁÀÂÃÉÈÊÍÌÎÓÒÔÕÚÙÛÇ][A-ZÁÀÂÃÉÈÊÍÌÎÓÒÔÕÚÙÛÇ\s\-\/()]{4,60})$/
-  const MARKER_RE    = /^\s*\[[\w\-]+\.(jpg|jpeg|png|gif|webp)\]\s*$/i // [nome.jpg] orphan
+  // Remove marcadores [nome.jpg] que vêm do raw — aceita letras maiúsculas, Unicode e acentos
+  const MARKER_RE    = /^\s*\[[\w\u00C0-\u024F][\w\u00C0-\u024F\-]*\.(jpg|jpeg|png|gif|webp)\]\s*$/i
 
   return raw.split('\n').map(line => {
     // 1. Apaga marcadores órfãos de imagem
@@ -87,7 +88,11 @@ export default function ChapterReader() {
   const [activeId, setActiveId] = useState('')
   const [direction, setDirection] = useState<'left' | 'right'>('right')
 
-  const articleRef = useRef<HTMLDivElement>(null)
+  const articleRef   = useRef<HTMLDivElement>(null)
+  const saveTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null)
+
+  // ── Chave de persistência por capítulo ────────────────────────────────────
+  const posKey = `rpos_${moduleId}_${chapterId}`
 
   // ── Carregar módulo ──────────────────────────────────────────────────────
   useEffect(() => {
@@ -124,9 +129,39 @@ export default function ChapterReader() {
       .catch(() => setMd('# Erro\nCapítulo não encontrado.'))
   }, [chapter])
 
+  // ── Restaurar posição de leitura salva ────────────────────────────────────
+  // Só restaura se NÃO houver parâmetro ?q= (busca tem prioridade)
+  // Aguarda dois frames para garantir que o artigo foi pintado com altura real
+  useEffect(() => {
+    if (!md) return
+    const q = searchParams.get('q')?.trim()
+    if (q) return // busca tem prioridade — não restaura posição
+
+    const saved = localStorage.getItem(posKey)
+    if (!saved) return
+    const pct = parseFloat(saved)
+    if (!pct || pct < 1) return
+
+    // Duplo rAF + pequeno delay: garante que o layout já tem altura real
+    requestAnimationFrame(() => {
+      requestAnimationFrame(() => {
+        setTimeout(() => {
+          const article = articleRef.current
+          if (!article) return
+          const articleH = article.offsetHeight
+          const viewH    = window.innerHeight || document.documentElement.clientHeight
+          const total    = Math.max(1, articleH - viewH)
+          const targetY  = Math.round((pct / 100) * total) + article.offsetTop
+          window.scrollTo({ top: targetY, behavior: 'instant' })
+        }, 150)
+      })
+    })
+  }, [md]) // eslint-disable-line react-hooks/exhaustive-deps
+
   // ── Progresso de scroll ───────────────────────────────────────────────────
   // Usa getBoundingClientRect() no article — não depende de scrollTop/scrollY,
   // funciona independente de qual elemento CSS está scrollando (html/body/#root/etc.)
+  // Salva a posição no localStorage com debounce de 800ms
   useEffect(() => {
     if (!md) return
 
@@ -138,28 +173,32 @@ export default function ChapterReader() {
       const articleH  = article.offsetHeight
       const viewH     = window.innerHeight || document.documentElement.clientHeight
 
-      // Quantos px do artigo já passaram pelo topo da viewport
-      // (rect.top negativo significa que o topo saiu da tela = já rolamos para baixo)
       const scrolled = Math.max(0, -rect.top)
-      // Total rolável = altura do artigo menos a viewport (deixamos o fim aparecer = 100%)
       const total    = Math.max(1, articleH - viewH)
+      const pct      = Math.min(100, Math.round((scrolled / total) * 100))
 
-      setProgress(Math.min(100, Math.round((scrolled / total) * 100)))
+      setProgress(pct)
+
+      // Salva posição com debounce: evita escrever no localStorage a cada pixel
+      if (saveTimerRef.current) clearTimeout(saveTimerRef.current)
+      saveTimerRef.current = setTimeout(() => {
+        if (pct > 0) localStorage.setItem(posKey, String(pct))
+      }, 800)
     }
 
     calcProgress()
 
     window.addEventListener('scroll', calcProgress, { passive: true })
     window.addEventListener('resize', calcProgress, { passive: true })
-    // Cobre casos onde o scroll está num elemento pai (iOS Safari, etc.)
     document.addEventListener('scroll', calcProgress, { passive: true, capture: true })
 
     return () => {
       window.removeEventListener('scroll', calcProgress)
       window.removeEventListener('resize', calcProgress)
       document.removeEventListener('scroll', calcProgress, { capture: true } as any)
+      if (saveTimerRef.current) clearTimeout(saveTimerRef.current)
     }
-  }, [md])
+  }, [md, posKey])
 
   // ── IntersectionObserver → TOC ativo ──────────────────────────────────────
   useEffect(() => {
@@ -361,6 +400,16 @@ export default function ChapterReader() {
                     // Garante que o caminho funciona tanto em dev (/) quanto em produção (/Curso-Mergulho-DCM/)
                     const imgSrc = src?.startsWith('http') ? src : assetUrl(src ?? '')
 
+                    // Impede upscaling: quando a imagem natural é menor que o container,
+                    // limita ao tamanho real (evita borrão por interpolação)
+                    const handleLoad = (e: React.SyntheticEvent<HTMLImageElement>) => {
+                      const img = e.currentTarget
+                      const natural = img.naturalWidth
+                      if (natural > 0 && natural < (img.parentElement?.clientWidth ?? 9999)) {
+                        img.style.maxWidth = `${natural}px`
+                      }
+                    }
+
                     // Layout float-right: imagem à direita, texto flui à esquerda
                     if (alt === 'float-right') {
                       return (
@@ -372,6 +421,8 @@ export default function ChapterReader() {
                             src={imgSrc} alt=""
                             className="rounded-xl w-full h-auto shadow-md"
                             loading="lazy"
+                            decoding="async"
+                            onLoad={handleLoad}
                           />
                         </span>
                       )
@@ -381,8 +432,10 @@ export default function ChapterReader() {
                       <figure className="my-6 flex flex-col items-center clear-both">
                         <img
                           src={imgSrc} alt={alt ?? ''}
-                          className="rounded-xl max-w-full w-auto h-auto mx-auto shadow-md"
+                          className="rounded-xl max-w-full w-auto h-auto mx-auto shadow-md block"
                           loading="lazy"
+                          decoding="async"
+                          onLoad={handleLoad}
                           style={{ maxWidth: '100%' }}
                         />
                         {alt && alt.trim() !== '' && (

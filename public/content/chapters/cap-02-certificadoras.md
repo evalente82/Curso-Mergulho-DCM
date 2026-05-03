@@ -5,7 +5,12 @@ title: "Certificadoras"
 number: 2
 ---
 
-Certificadoras  2
+permitindo o fluxo de ar para o mergulhador. O ar expirado flui por uma válvula só de
+saída (G) para a câmara (H), que é aberta para a água através de orifícios (linhas
+pontilhadas).
+
+                                                                                                                     8
+Certificadoras  2
 
 As certificadoras existentes espalhadas pelo mundo são entidades tais como
 sociedades, associações, corporações, federações e confederações, que tem
@@ -46,10 +51,3 @@ referente ao mergulho profissional fica a critério de cursos homologados
 pela DPC (Diretoria de Portos e Costa), de acordo com as diretrizes
 estabelecidas nas portarias 113/DPC, de 16 de dezembro de 2003 e nº
 106/DPC, de 23 de dezembro de 2004 que Aprovam as Normas da
-Autoridade Marítima para as Atividades Subaquáticas, NORMAM-15/DPC
-sem a qual nenhuma escola esta habilitada a formar mergulhadores
-profissionais no país.
-
-                   9
-
----

@@ -5,7 +5,12 @@ title: "Equipamentos"
 number: 3
 ---
 
-Equipamentos  3
+Autoridade Marítima para as Atividades Subaquáticas, NORMAM-15/DPC
+sem a qual nenhuma escola esta habilitada a formar mergulhadores
+profissionais no país.
+
+                   9
+Equipamentos  3
 
 3.1 - EQUIPAMENTOS
 
@@ -278,7 +283,7 @@ embarcados ou na água.
 ![](/assets/content/curso_mergulho_autonomo_basico/img/equipamentos_valvulas_estagios_profundimetro_narguile.png)
 
 
-
+[equipamentos_valvulas_estagios_profundimetro_narguile.png]
 
                                                                                                                     15
 Equipamento Autônomo de Respiração Subaquático (Self-Contained
@@ -336,7 +341,7 @@ pressão de teste maior que a de trabalho (geralmente uma vez e meia)
 calculando desta forma a deformidade temporária e permanente do cilindro.
 E sujeita-lo a uma inspeção visual interna a cada ano.
 
-          CTC/DOT - 3AL - 3000 - 580 POOOO LUXFER 8A82
+[equipamentos_manutencao_preventiva_interna_cada_CILINDRO.png.png]
 
 CILINDRO DE ALUMÍNIO  CILINDRO DE AÇO CROMO
                                MOLIBDÊNIO
@@ -432,19 +437,18 @@ afetados pela diminuição de pressão no cilindro, como conseqüência não
 causam aumento gradativo no esforço respiratório, à medida que o cilindro
 esvazia.
 
-![](/assets/content/curso_mergulho_autonomo_basico/img/equipamentos_01.png)
+![](/assets/content/curso_mergulho_autonomo_basico/img/equipamento_03.png)
 
 
 ![](/assets/content/curso_mergulho_autonomo_basico/img/equipamentos_02.jpg)
 
 
-![](/assets/content/curso_mergulho_autonomo_basico/img/equipamento_03.png)
+![](/assets/content/curso_mergulho_autonomo_basico/img/equipamentos_01.png)
 
 
-
-
-
-
+[equipamentos_01.png]
+[equipamentos_02.jpg]
+[equipamento_03.png]
                                                                                                                     19
 20
 Back Pack
@@ -476,23 +480,7 @@ respirado.
 ![](/assets/content/curso_mergulho_autonomo_basico/img/Equipamentos_fluxograma.png)
 
 
-
-
- QUANTO AO         AUTÔNOMO    - Circuito aberto (Aqualung)
-    TIPO DE        DEPENDENTE  - Circuito fechado (Rebreater
-                               fechado)
-EQUIPAMENTO                    - Circuito semi-fechado
-                               (Rebreater semi-fechado)
-
-                               - Narguile
-                               - Sino aberto (sinete)
-                               - Sino fechado
-
-QUANTO AO TIPO DE     RASO     - Realizado a cima de 40 m
-GÁS RESPIRADO EM   PROFUNDO
-                               - Realizado abaixo de 40 m
-      RELAÇÃO A                - Saturação
-  PROFUNDIDADE
+ [Equipamentos_fluxograma.png]
 
 Quanto ao tipo de equipamento
 
@@ -547,10 +535,9 @@ oxigênio e nitrogênio).
 ![](/assets/content/curso_mergulho_autonomo_basico/img/Equipamentos_Tipos_de_Mergulho.png)
 
 
-
-
+[Equipamentos_Tipos_de_Mergulho.png]
                                                                                                                     23
 24
+Física aplicada ao mergulho 4
 
----
-
+4.1 - NOÇÕES DE FÍSICA

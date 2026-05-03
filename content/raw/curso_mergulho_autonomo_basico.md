@@ -1097,7 +1097,6 @@ disponível, no caso, de ar comprimido, e a
 quantidade que iremos consumir em relação
 à profundidade.
 
-[fisiologia_evolucao_sinais_mais_proxima.jpg]
 
                                                                                                                     37
 O homem, ao nível do mar, tem um consumo de ar de 20 litros por minuto
