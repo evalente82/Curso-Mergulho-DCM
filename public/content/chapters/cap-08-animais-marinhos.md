@@ -1,7 +1,7 @@
 ---
-id: "animais-marinhos"
-moduleId: "curso_mergulho_autonomo_basico"
-title: "Animais Marinhos"
+title: Animais Marinhos
+id: animais-marinhos
+moduleId: curso_mergulho_autonomo_basico
 number: 8
 ---
 
@@ -135,5 +135,11 @@ peixinhos.
        Actividades SubacuÃÂ¡ticas (F.E.D.A.S.). Sistema de enseÃÂ±anza
        homologado por la ConfederaciÃÂ³n Mundial de Actividades
        SubacuÃÂ¡ticas (C.M.A.S.). 1ÃÂª ediÃÂ§ÃÂ£o, 2002.
+
+teste de edição do ENDRIGO !
+
+![Tubarão](/Curso-Mergulho-DCM/assets/content/curso_mergulho_autonomo_basico/img/img-100.png "Shark")
+
+editado e funcionando !
 
                                                                                                                   112
