@@ -1,17 +1,15 @@
 # ══════════════════════════════════════════════════════════════════════════════
 # Decap CMS — Configuração do Painel de Conteúdo DCM
 # Documentação: https://decapcms.org/docs/configuration-options/
+# GitHub OAuth App Client ID: Ov23lisahkV7awutv0C1
 # ══════════════════════════════════════════════════════════════════════════════
-
-# ── Modo LOCAL (desenvolvimento sem OAuth) ────────────────────────────────────
-# Permite editar arquivos locais sem autenticação GitHub.
-# REMOVA esta linha antes do deploy em produção.
-local_backend: true
 
 backend:
   name: github
   repo: evalente82/Curso-Mergulho-DCM
   branch: main
+  # Proxy de autenticação OAuth gratuito — sem backend próprio necessário
+  # Callback URL no OAuth App: https://sveltia-cms-auth.pages.dev/callback
   base_url: https://sveltia-cms-auth.pages.dev
   auth_endpoint: auth
 
