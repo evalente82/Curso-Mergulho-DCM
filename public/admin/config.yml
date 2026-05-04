@@ -24,7 +24,7 @@ backend:
 
 # ── Localização das mídias ────────────────────────────────────────────────────
 media_folder: public/assets/content/curso_mergulho_autonomo_basico/img
-public_folder: /Curso-Mergulho-DCM/assets/content/curso_mergulho_autonomo_basico/img
+public_folder: /assets/content/curso_mergulho_autonomo_basico/img
 
 locale: pt
 

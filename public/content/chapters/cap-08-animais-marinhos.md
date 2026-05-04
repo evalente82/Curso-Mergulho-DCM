@@ -5,140 +5,140 @@ moduleId: curso_mergulho_autonomo_basico
 number: 8
 ---
 
-nadadeiras. Estas nadadeiras nÃÂ£o sÃÂ£o vistas
+nadadeiras. Estas nadadeiras não são vistas
                                     facilmente e correm como fitas ao longo das
                                     costas e do ventre.
 
-                                    Ela ÃÂ© venenosa, mas seu veneno nÃÂ£o sai das
-                                    presas, como na serpente, e sim do cÃÂ©u da
+                                    Ela é venenosa, mas seu veneno não sai das
+                                    presas, como na serpente, e sim do céu da
                                     boca.
 
-Escondida numa fendas de rocha, a morÃÂ©ia fica ÃÂ  espera de sua vÃÂ­tima. Ela
-tem excelente olfato e seu alimento favorito sÃÂ£o os moluscos.
+Escondida numa fendas de rocha, a moréia fica à espera de sua vítima. Ela
+tem excelente olfato e seu alimento favorito são os moluscos.
 
                                                                                                                   106
 Serpentes Marinhas
 
-Algumas das mais venenosas criaturas do mar sÃÂ£o as serpentes marinhas.
+Algumas das mais venenosas criaturas do mar são as serpentes marinhas.
 Seu veneno paralisa o sistema nervoso da vitima, incapaz de acionar os
-mÃÂºsculos para a respiraÃÂ§ÃÂ£o, logo morre sufocada. JÃÂ¡ se disse muitas vezes
-que as serpentes marinhas tÃÂªm a boca muito pequena e sÃÂ³ podem morder a
-pele tenra do homem na base do polegar. NÃÂ£o ÃÂ© verdade. Essas serpentes
-podem morder em qualquer lugar, mas sÃÂ³ o fazem se provocadas. No Golfo
-PÃÂ©rsico, muitos mergulhadores de pÃÂ©rolas sem mÃÂ¡scara de mergulho foram
-mortos por serpentes marinhas, porque nÃÂ£o puderam vÃÂª-Ias e agarraram-nas
+músculos para a respiração, logo morre sufocada. Já se disse muitas vezes
+que as serpentes marinhas têm a boca muito pequena e só podem morder a
+pele tenra do homem na base do polegar. Não é verdade. Essas serpentes
+podem morder em qualquer lugar, mas só o fazem se provocadas. No Golfo
+Pérsico, muitos mergulhadores de pérolas sem máscara de mergulho foram
+mortos por serpentes marinhas, porque não puderam vê-Ias e agarraram-nas
 por acidente.
 
 Polvo
 
-Os olhos do polvo tÃÂªm pÃÂ¡lpebras e sÃÂ£o capazes de distinguir as cores. Para
-focalizar os objetos, o cristalino do olho se desloca ao invÃÂ©s de modificar sua
-forma como ocorre no olho humano. O polvo ÃÂ© um animal inteligente, com
-um cÃÂ©rebro comparÃÂ¡vel a dos vertebrados mais desenvolvidos.
+Os olhos do polvo têm pálpebras e são capazes de distinguir as cores. Para
+focalizar os objetos, o cristalino do olho se desloca ao invés de modificar sua
+forma como ocorre no olho humano. O polvo é um animal inteligente, com
+um cérebro comparável a dos vertebrados mais desenvolvidos.
 
-O polvo comum existe em todos os oceanos. Ele caÃÂ§a tudo o que se move.
-Costuma abrigar-se nas fendas das rochas onde se torna invisÃÂ­vel, mudando
-de cor. A sua pele ÃÂ© muito sensÃÂ­vel ÃÂ  luz. Para escapar aos seus inimigos, ele
+O polvo comum existe em todos os oceanos. Ele caça tudo o que se move.
+Costuma abrigar-se nas fendas das rochas onde se torna invisível, mudando
+de cor. A sua pele é muito sensível à luz. Para escapar aos seus inimigos, ele
 solta um jato de tinta negra que atordoa o seu perseguidor, privando-o
-temporariamente da visÃÂ£o e do olfato.
+temporariamente da visão e do olfato.
 
-ÃÂ um animal solitÃÂ¡rio, exceto na ÃÂ©poca do acasalamento quando ocorrem
+É um animal solitário, exceto na época do acasalamento quando ocorrem
 lutas entres os machos.
 
-Um dos tentÃÂ¡culos do macho ÃÂ© seu ÃÂ³rgÃÂ£o reprodutor. Um mÃÂªs depois do
-cruzamento, a fÃÂªmea estÃÂ¡ ocupada com os ovos que ela prende nas paredes
+Um dos tentáculos do macho é seu órgão reprodutor. Um mês depois do
+cruzamento, a fêmea está ocupada com os ovos que ela prende nas paredes
 do seu abrigo. Mais tarde, ela ira cuidar dos filhotes.
 
 Raia
 
-Raia ÃÂ© o nome genÃÂ©rico dos peixes da ordem dos Rajiformes. HÃÂ¡ dois
-                                   grupos: Os Torpedinidae, ou raias-elÃÂ©tricas, e
-                                   os Ragidae, ou raias-verdadeiras. Este ÃÂºltimo
-                                   grupo ÃÂ© mais importante e o mais variado. Nele
+Raia é o nome genérico dos peixes da ordem dos Rajiformes. Há dois
+                                   grupos: Os Torpedinidae, ou raias-elétricas, e
+                                   os Ragidae, ou raias-verdadeiras. Este último
+                                   grupo é mais importante e o mais variado. Nele
                                    se incluem as jamantas, as raias venenosas,
-                                   como a ÃÂ¡guia-do-mar, as raias-chitas, que sÃÂ£o
+                                   como a águia-do-mar, as raias-chitas, que são
                                    raias pequenas com espinhos laterais na cauda,
                                    e a raia-lisa, cuja cauda produz uma carga
 
                                                                                                                   107
-elÃÂ©trica bem fraca.
+elétrica bem fraca.
 
-NÃÂ£o sÃÂ£o escamas que cobrem o corpo das raias e sim pequenos dentes,
-chamados dentÃÂ­culos.
+Não são escamas que cobrem o corpo das raias e sim pequenos dentes,
+chamados dentículos.
 
-Parecem muito com pequenos ganchos. Um deles ÃÂ© especialmente perigoso;
-trata-se de um super dente ligado ÃÂ  cauda, estreita e comprida, e que solta
-veneno. CaÃÂ§am em pequenos cardumes, apanhando peixes e crustÃÂ¡ceos. A
-pele por nÃÂ£o possui escamas, e o fato de ser lisa dÃÂ¡ grande agilidade ao peixe.
-A jamanta consegue pular fora d'ÃÂ¡gua com uma agilidade inesperada para
-um peixe de seu tamanho. E ÃÂ© durante pulos desse tipo que a fÃÂªmea dÃÂ¡ ÃÂ  lu z
+Parecem muito com pequenos ganchos. Um deles é especialmente perigoso;
+trata-se de um super dente ligado à cauda, estreita e comprida, e que solta
+veneno. Caçam em pequenos cardumes, apanhando peixes e crustáceos. A
+pele por não possui escamas, e o fato de ser lisa dá grande agilidade ao peixe.
+A jamanta consegue pular fora d'água com uma agilidade inesperada para
+um peixe de seu tamanho. E é durante pulos desse tipo que a fêmea dá à lu z
 seus filhotes.
 
-OuriÃÂ§o-do-mar
+Ouriço-do-mar
 
 Esta pequena bola um pouco achatada, coberta
-de espinhos, ÃÂ© um ouriÃÂ§o-do-mar. Na parte de
+de espinhos, é um ouriço-do-mar. Na parte de
 baixo do animal fica uma boca com dentes
 afiados e um possante mecanismo de
-mastigaÃÂ§ÃÂ£o. Os pÃÂ©s em forma de tubo, que saem
-por entre os espinhos, raramente sÃÂ£o usados
+mastigação. Os pés em forma de tubo, que saem
+por entre os espinhos, raramente são usados
 para paralisar um inimigo agressor. Com esses
-pÃÂ©s, o ouriÃÂ§o-do-mar se movimenta lentamente
+pés, o ouriço-do-mar se movimenta lentamente
 pelo leito do mar, procurando abrigo nas cavidades das rochas e alimentos.
 
-O alimento consiste principalmente em algas, mas o ouriÃÂ§o-do-mar come
-tambÃÂ©m pedaÃÂ§os de peixes e restos de animais. O mergulhador sem proteÃÂ§ÃÂ£o
-adequada que se chocar num ouriÃÂ§o-do-mar logo saberÃÂ¡ por que tem este
-nome. Apesar de inofensivo ÃÂ© o grande responsÃÂ¡vel pela maioria dos
+O alimento consiste principalmente em algas, mas o ouriço-do-mar come
+também pedaços de peixes e restos de animais. O mergulhador sem proteção
+adequada que se chocar num ouriço-do-mar logo saberá por que tem este
+nome. Apesar de inofensivo é o grande responsável pela maioria dos
 "acidentes" durante o mergulho seus espinhos penetram e quebram na pele e
-sua remoÃÂ§ÃÂ£o ÃÂ© sempre dolorosa.
+sua remoção é sempre dolorosa.
 
-TubarÃÂ£o
+Tubarão
 
-                                                     O tubarÃÂ£o tem placas compactas
-                                                     em lugar das escamas. SÃÂ£o
+                                                     O tubarão tem placas compactas
+                                                     em lugar das escamas. São
                                                      como dentes na pele, com polpa
                                                      revestida de marfim e recobertas
                                                      de esmalte.
 
-As inÃÂºmeras espÃÂ©cies de tubarÃÂµes incluem algumas inofensivas, como o
-tubarÃÂ£o-zebra e o tubarÃÂ£o-de-pregas e outra carnÃÂ­voras como o
-tubarÃÂ£o-branco, o tubarÃÂ£o-azul e o tubarÃÂ£o-tigre. Os menores alimentam-se
-de pequenos peixes nas ÃÂ¡guas prÃÂ³ximas da costa, os mais agressivos sÃÂ£o
+As inúmeras espécies de tubarões incluem algumas inofensivas, como o
+tubarão-zebra e o tubarão-de-pregas e outra carnívoras como o
+tubarão-branco, o tubarão-azul e o tubarão-tigre. Os menores alimentam-se
+de pequenos peixes nas águas próximas da costa, os mais agressivos são
 
                                                                                                                   108
-aqueles cujo tamanho e estruturas dos dentes indicam que sÃÂ£o caÃÂ§adores
-vorazes. SÃÂ£o rÃÂ¡pidos nadadores, impelidos pela cauda assimÃÂ©trica; o lobo
-dorsal da nadadeira caudal ÃÂ© maior. O tubarÃÂ£o-azul e o tubarÃÂ£o martelos
+aqueles cujo tamanho e estruturas dos dentes indicam que são caçadores
+vorazes. São rápidos nadadores, impelidos pela cauda assimétrica; o lobo
+dorsal da nadadeira caudal é maior. O tubarão-azul e o tubarão martelos
 podem atacar as pessoas. Cada maxilar tem uma fileira de dentes funcionais
 e 5 a 6 fileiras de reserva.
-O gigante tubarÃÂ£o-baleia, que pode alcanÃÂ§ar 15 m de comprimento, tem
-dentes reduzidos, apropriado ÃÂ  sua dieta de pequenos crustÃÂ¡ceos e
+O gigante tubarão-baleia, que pode alcançar 15 m de comprimento, tem
+dentes reduzidos, apropriado à sua dieta de pequenos crustáceos e
 peixinhos.
 
                                                                                                                   109
 110
 111
 Bibliografia
-   Ã¯ÂÂ· Cousteau, Jacques- Yves. O Mundo dos Oceanos. Record. Rio de
+    Cousteau, Jacques- Yves. O Mundo dos Oceanos. Record. Rio de
        Janeiro: Copyright Co, 1979.
-   Ã¯ÂÂ· STAP MarÃÂ­tima. Curso de Mergulho Raso Profissional. Centro de
-       Atividades SubaquÃÂ¡ticas. Rio de Janeiro, 1991.
-   Ã¯ÂÂ· The Encyclopedia of Recreational Diving. PADI EUROPE, 1994.
-   Ã¯ÂÂ· U.S. Navy Diving Manual. Washington D.C.: Navy Department,
+    STAP Marítima. Curso de Mergulho Raso Profissional. Centro de
+       Atividades Subaquáticas. Rio de Janeiro, 1991.
+    The Encyclopedia of Recreational Diving. PADI EUROPE, 1994.
+    U.S. Navy Diving Manual. Washington D.C.: Navy Department,
        1970.
-   Ã¯ÂÂ· Revista Mergulhar. Ed. Mergulhar Ltda. Rio de Janeiro, 1988.
-   Ã¯ÂÂ· Sub, Editora IgarÃÂ¡ Ltda. Rio de Janeiro, 1995 .
-   Ã¯ÂÂ· Mergulho. GR Um Editora Ltda. SÃÂ£o Paulo, 1996.
-   Ã¯ÂÂ· Scuba. Atol Editora Ltda. SÃÂ£o Paulo, 1996.
-   Ã¯ÂÂ· Buceo Profundo - Manual realizado por la FederaciÃÂ³n EspaÃÂ±ola de
-       Actividades SubacuÃÂ¡ticas (F.E.D.A.S.). Sistema de enseÃÂ±anza
-       homologado por la ConfederaciÃÂ³n Mundial de Actividades
-       SubacuÃÂ¡ticas (C.M.A.S.). 1ÃÂª ediÃÂ§ÃÂ£o, 2002.
+    Revista Mergulhar. Ed. Mergulhar Ltda. Rio de Janeiro, 1988.
+    Sub, Editora Igará Ltda. Rio de Janeiro, 1995 .
+    Mergulho. GR Um Editora Ltda. São Paulo, 1996.
+    Scuba. Atol Editora Ltda. São Paulo, 1996.
+    Buceo Profundo - Manual realizado por la Federación Española de
+       Actividades Subacuáticas (F.E.D.A.S.). Sistema de enseñanza
+       homologado por la Confederación Mundial de Actividades
+       Subacuáticas (C.M.A.S.). 1ª edição, 2002.
 
 teste de edição do ENDRIGO !
 
-![Tubarão](/Curso-Mergulho-DCM/assets/content/curso_mergulho_autonomo_basico/img/img-100.png "Shark")
+![Tubarão](/assets/content/curso_mergulho_autonomo_basico/img/img-100.png "Shark")
 
 editado e funcionando !
 
