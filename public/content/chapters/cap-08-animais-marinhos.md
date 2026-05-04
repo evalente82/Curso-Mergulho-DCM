@@ -5,11 +5,9 @@ moduleId: curso_mergulho_autonomo_basico
 number: 8
 ---
 
-nadadeiras. Estas nadadeiras não são vistas
-                                    facilmente e correm como fitas ao longo das
-                                    costas e do ventre.
+teste
 
-                                    Ela é venenosa, mas seu veneno não sai das
+
                                     presas, como na serpente, e sim do céu da
                                     boca.
 
@@ -141,4 +139,12 @@ ajuste
 
 ![](/assets/content/curso_mergulho_autonomo_basico/img/animais-marinhos_possante_mecanismo_movimenta_lentamente.png)
 
-                                                                        mais ajuste de edição...                                          112
+                                                                        mais ajuste de edição...           
+
+mais teste
+
+![ouvido](/assets/content/curso_mergulho_autonomo_basico/img/fisiologia_formas_manifestacao_unico_sintoma.png "Ouvido")
+
+1\*-texto simples
+
+2- teste
