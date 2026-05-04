@@ -30,6 +30,11 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
+      - name: Fix chapter encoding (garante UTF-8 correto mesmo após edição pelo CMS)
+        run: |
+          pip install ftfy -q
+          python scripts/fix-encoding-body.py
+
       - name: Typecheck
         run: npm run typecheck
 

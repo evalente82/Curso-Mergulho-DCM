@@ -2,18 +2,15 @@
 fix-encoding-body.py
 ─────────────────────────────────────────────────────────
 Corrige o mojibake (double UTF-8 encoding) em TODOS os
-arquivos .md dentro de public/content/chapters/.
+arquivos .md dentro de public/content/chapters/ e no
+public/content/index.json.
 
-O problema:
-  - Arquivos originais eram Latin-1/Windows-1252
-  - Foram convertidos incorretamente para UTF-8 duas vezes
-  - Resultado: "São" aparece como "SÃÂ£o"
+Rodado automaticamente pelo GitHub Actions antes do build,
+garantindo que edições feitas pelo Sveltia CMS (que às vezes
+salva com encoding incorreto) sejam sempre corrigidas antes
+de ir para produção.
 
-A solução (ftfy):
-  - ftfy detecta automaticamente o tipo de corrupção
-  - Corrige sem precisar saber exatamente quantas camadas
-
-Uso:
+Uso manual:
   python scripts/fix-encoding-body.py
 """
 
@@ -21,14 +18,19 @@ import glob
 import ftfy
 import os
 
-CHAPTERS_DIR = os.path.join(
-    os.path.dirname(__file__), "..", "public", "content", "chapters"
-)
+ROOT = os.path.join(os.path.dirname(__file__), "..")
 
+# ── Capítulos .md ────────────────────────────────────────
+CHAPTERS_DIR = os.path.join(ROOT, "public", "content", "chapters")
 files = glob.glob(os.path.join(CHAPTERS_DIR, "*.md"))
 
+# ── index.json ───────────────────────────────────────────
+INDEX_FILE = os.path.join(ROOT, "public", "content", "index.json")
+if os.path.exists(INDEX_FILE):
+    files.append(INDEX_FILE)
+
 if not files:
-    print("❌ Nenhum arquivo .md encontrado em:", CHAPTERS_DIR)
+    print("❌ Nenhum arquivo encontrado.")
     exit(1)
 
 fixed_count = 0
