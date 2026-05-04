@@ -1,7 +1,7 @@
 ---
 id: "procedimentos"
 moduleId: "curso_mergulho_autonomo_basico"
-title: "Procedimentos, TÃ©cnica e Sinais"
+title: "Procedimentos, Técnica e Sinais"
 number: 7
 ---
 

@@ -1,7 +1,7 @@
 ---
 id: "tabelas-descomp"
 moduleId: "curso_mergulho_autonomo_basico"
-title: "Tabelas de Descompress√£o"
+title: "Tabelas de Descompress„o"
 number: 6
 ---
 

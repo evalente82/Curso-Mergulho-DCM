@@ -1,7 +1,7 @@
 ---
 id: "fisica-mergulho"
 moduleId: "curso_mergulho_autonomo_basico"
-title: "FÃ­sica Aplicada ao Mergulho"
+title: "Física Aplicada ao Mergulho"
 number: 4
 ---
 

@@ -1,7 +1,7 @@
 ---
 id: "historia-mergulho"
 moduleId: "curso_mergulho_autonomo_basico"
-title: "HistÃ³ria do Mergulho"
+title: "História do Mergulho"
 number: 1
 ---
 

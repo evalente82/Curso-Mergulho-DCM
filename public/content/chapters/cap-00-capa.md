@@ -1,7 +1,7 @@
 ---
 id: "capa"
 moduleId: "curso_mergulho_autonomo_basico"
-title: "ApresentaÃ§Ã£o"
+title: "Apresentação"
 number: 0
 ---
 

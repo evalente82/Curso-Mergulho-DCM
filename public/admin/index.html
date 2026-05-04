@@ -4,16 +4,8 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>DCM Admin — Painel de Conteúdo</title>
-
-    <!-- Decap CMS via CDN (não passa pelo pipeline Vite) -->
-    <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
-    <script>
-      // Força o carregamento do config.yml do mesmo diretório
-      // Necessário porque o Vite serve /admin/ com base path diferente
-      if (window.CMS) {
-        CMS.init({ config: { load_config_file: true } });
-      }
-    </script>
+    <!-- Decap CMS 3.3.3 — versão fixada para estabilidade -->
+    <script src="https://unpkg.com/decap-cms@3.3.3/dist/decap-cms.js"></script>
   </head>
   <body>
     <!--
