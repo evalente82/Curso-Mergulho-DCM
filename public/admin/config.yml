@@ -8,9 +8,11 @@ backend:
   name: github
   repo: evalente82/Curso-Mergulho-DCM
   branch: main
-  # Proxy OAuth — callback: https://sveltia-cms-auth.pages.dev/callback
-  base_url: https://sveltia-cms-auth.pages.dev
-  auth_endpoint: auth
+  # ── PKCE: autenticação sem proxy — o GitHub redireciona de volta para /admin/
+  # Callback URL no OAuth App deve ser:
+  #   https://evalente82.github.io/Curso-Mergulho-DCM/admin/
+  auth_type: pkce
+  app_id: Ov23lisahkV7awutv0C1
 
 # ── MODO LOCAL: descomente APENAS para testar sem OAuth ─────────────────────
 # local_backend: true

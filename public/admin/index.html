@@ -4,28 +4,11 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>DCM Admin — Painel de Conteúdo</title>
+    <!-- Força o Decap CMS a buscar config.yml pelo caminho absoluto correto -->
+    <link rel="cms-config-url" type="application/json" href="/Curso-Mergulho-DCM/admin/config.yml" />
   </head>
   <body>
     <!-- Decap CMS 3.3.3 — script no final do body para document.body existir -->
     <script src="https://unpkg.com/decap-cms@3.3.3/dist/decap-cms.js"></script>
-  </body>
-</html>
-    <!--
-      ╔══════════════════════════════════════════════════════╗
-      ║          DECAP CMS — Git-Based CMS Panel             ║
-      ║  Autenticação via GitHub OAuth App                   ║
-      ║  Lê e salva arquivos direto no repositório via API   ║
-      ╚══════════════════════════════════════════════════════╝
-
-      Para configurar o OAuth:
-      1. Acesse github.com/settings/developers → "OAuth Apps"
-      2. Crie um app com:
-         • Homepage URL: https://evalente82.github.io/Curso-Mergulho-DCM/
-         • Authorization callback URL:
-           https://sveltia-cms-auth.pages.dev/callback
-      3. Anote o Client ID — você não precisa de backend próprio.
-
-      Veja README-ADMIN.md para o passo a passo completo.
-    -->
   </body>
 </html>

@@ -1,17 +1,49 @@
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 import { VitePWA } from 'vite-plugin-pwa'
+import type { Connect } from 'vite'
+import fs from 'fs'
+import path from 'path'
 
 // ── Configuração do Vite ────────────────────────────────────────────────────
 // BASE_URL em produção: /Curso-Mergulho-DCM/
 // BASE_URL em dev:      /
-// A pasta public/admin/ é copiada como estático (Decap CMS não precisa do
-// pipeline Vite — ele carrega seu próprio JS via CDN).
+// Plugin customizado: intercepta /admin/ e serve public/admin/index.html
+// diretamente, impedindo que o React SPA capture essa rota.
 // ────────────────────────────────────────────────────────────────────────────
+
+function adminStaticPlugin() {
+  return {
+    name: 'admin-static',
+    configureServer(server: { middlewares: Connect.Server }) {
+      server.middlewares.use((req, _res, next) => {
+        // Normaliza a URL removendo query string
+        const url = req.url?.split('?')[0] ?? ''
+
+        // Serve arquivos estáticos de /admin/ (config.yml, etc.) sem interceptar
+        if (/\/(Curso-Mergulho-DCM\/)?admin\/(.+)$/.test(url)) {
+          // É um subarquivo do admin (ex: config.yml) — deixa o Vite servir normalmente
+          return next()
+        }
+
+        // Se a rota for exatamente /admin ou /admin/ — serve o index.html do CMS
+        if (/\/(Curso-Mergulho-DCM\/)?admin\/?$/.test(url)) {
+          const adminHtml = path.resolve(process.cwd(), 'public', 'admin', 'index.html')
+          if (fs.existsSync(adminHtml)) {
+            req.url = '/Curso-Mergulho-DCM/admin/index.html'
+          }
+        }
+        next()
+      })
+    },
+  }
+}
+
 export default defineConfig({
   base: '/Curso-Mergulho-DCM/',
 
   plugins: [
+    adminStaticPlugin(),
     react(),
     VitePWA({
       registerType: 'autoUpdate',
