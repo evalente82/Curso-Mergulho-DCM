@@ -1,190 +1,201 @@
 {
-  "version": "2.0",
+  "id": "colaboradores",
+  "title": "Colaboradores",
+  "description": "Listagem de Professores que colaboraram com o conteúdo.",
+  "chapters": [
+    {
+      "id": "Daniel",
+      "title": "Daniel Warley",
+      "file": "teste 01",
+      "duration": 3
+    }
+  ],
+  "items": [
+    {
+      "tags": [
+        "mergulho"
+      ],
+      "excerpt": "MANUAL DO MERGULHO AUTÔNOMO DESPORTIVO Curso de Mergulho (Básico) 1 Nota Este manual foi adquirido através de mototes de busca, mas apresenta excelente bibliografia, conferida, apesar de não haver dad",
+      "title": "Apresentação",
+      "id": "curso_mergulho_autonomo_basico/capa"
+    },
+    {
+      "tags": [
+        "mergulho"
+      ],
+      "excerpt": "História do mergulho 1 (IN: Cousteau, Jaques-Yves. O Mundo dos Oceanos) \"Os seres humanos estão prestes a voltar ao mar, como alguns mamíferos fizeram há poucos milhões de anos, para se tornarem focas",
+      "title": "História do Mergulho",
+      "id": "curso_mergulho_autonomo_basico/historia-mergulho"
+    },
+    {
+      "tags": [
+        "mergulho"
+      ],
+      "excerpt": "permitindo o fluxo de ar para o mergulhador. O ar expirado flui por uma válvula só de saída (G) para a câmara (H), que é aberta para a água através de orifícios (linhas pontilhadas). 8 Certificadoras",
+      "title": "Certificadoras",
+      "id": "curso_mergulho_autonomo_basico/certificadoras"
+    },
+    {
+      "tags": [
+        "mergulho"
+      ],
+      "excerpt": "Autoridade Marítima para as Atividades Subaquáticas, NORMAM-15/DPC sem a qual nenhuma escola esta habilitada a formar mergulhadores profissionais no país. 9 Equipamentos 3 3.1 - EQUIPAMENTOS Os equipa",
+      "title": "Equipamentos",
+      "id": "curso_mergulho_autonomo_basico/equipamentos"
+    },
+    {
+      "tags": [
+        "mergulho"
+      ],
+      "excerpt": "Para a melhor compreensão do mergulho e seus efeitos sobre o corpo humano, será necessário o conhecimento de certas noções de física. Neste capítulo veremos somente a parte da física diretamente aplic",
+      "title": "Física Aplicada ao Mergulho",
+      "id": "curso_mergulho_autonomo_basico/fisica-mergulho"
+    },
+    {
+      "tags": [
+        "mergulho"
+      ],
+      "excerpt": "Neste capítulo abordaremos somente a parte da anatomia e fisiologia que estão ligadas diretamente com o mergulho, sendo dadas noções suficientes para o entendimento das alterações fisiológicas e patol",
+      "title": "Fisiologia do Mergulho",
+      "id": "curso_mergulho_autonomo_basico/fisiologia"
+    },
+    {
+      "tags": [
+        "mergulho"
+      ],
+      "excerpt": "um mergulho, utilizada para calcular o TRN de um mergulho repetitivo. Representa a quantidade de nitrogênio residual que se tem após um determinado mergulho. Quanto mais próximo do início do alfabeto,",
+      "title": "Tabelas de Descompressão",
+      "id": "curso_mergulho_autonomo_basico/tabelas-descomp"
+    },
+    {
+      "tags": [
+        "mergulho"
+      ],
+      "excerpt": "mergulhador cair, com todo o equipamento, para dentro do barco ou d'água, resultando daí contusões ou perda do equipamento. Entrada silenciosa A entrada silenciosa é um dos melhores procedimentos: o m",
+      "title": "Procedimentos, Técnica e Sinais",
+      "id": "curso_mergulho_autonomo_basico/procedimentos"
+    },
+    {
+      "tags": [
+        "mergulho"
+      ],
+      "excerpt": "nadadeiras. Estas nadadeiras não são vistas facilmente e correm como fitas ao longo das costas e do ventre. Ela é venenosa, mas seu veneno não sai das presas, como na serpente, e sim do céu da boca. E",
+      "title": "Animais Marinhos",
+      "id": "curso_mergulho_autonomo_basico/animais-marinhos"
+    }
+  ],
   "modules": [
     {
-      "id": "curso_mergulho_autonomo_basico",
-      "title": "Manual de Mergulho Autônomo Desportivo",
-      "subtitle": "Guarda-Vidas — Defesa Civil Maricá",
+      "chapters": [
+        {
+          "imageCount": 1,
+          "excerpt": "MANUAL DO MERGULHO AUTÔNOMO DESPORTIVO Curso de Mergulho (Básico) 1 Nota Este manual foi adquirido através de mototes de busca, mas apresenta excelente bibliografia, conferida, apesar de não haver dad",
+          "icon": "📋",
+          "description": "Nota introdutória e ficha do manual.",
+          "title": "Apresentação",
+          "number": 0,
+          "filename": "cap-00-capa.md",
+          "moduleId": "curso_mergulho_autonomo_basico",
+          "id": "capa"
+        },
+        {
+          "imageCount": 6,
+          "excerpt": "História do mergulho 1 (IN: Cousteau, Jaques-Yves. O Mundo dos Oceanos) \"Os seres humanos estão prestes a voltar ao mar, como alguns mamíferos fizeram há poucos milhões de anos, para se tornarem focas",
+          "icon": "⚓",
+          "description": "A história do mergulho desde a Antiguidade até o mergulho moderno.",
+          "title": "História do Mergulho",
+          "number": 1,
+          "filename": "cap-01-historia-mergulho.md",
+          "moduleId": "curso_mergulho_autonomo_basico",
+          "id": "historia-mergulho"
+        },
+        {
+          "imageCount": 1,
+          "excerpt": "permitindo o fluxo de ar para o mergulhador. O ar expirado flui por uma válvula só de saída (G) para a câmara (H), que é aberta para a água através de orifícios (linhas pontilhadas). 8 Certificadoras",
+          "icon": "🏅",
+          "description": "Entidades certificadoras de mergulho no Brasil e no mundo.",
+          "title": "Certificadoras",
+          "number": 2,
+          "filename": "cap-02-certificadoras.md",
+          "moduleId": "curso_mergulho_autonomo_basico",
+          "id": "certificadoras"
+        },
+        {
+          "imageCount": 15,
+          "excerpt": "Autoridade Marítima para as Atividades Subaquáticas, NORMAM-15/DPC sem a qual nenhuma escola esta habilitada a formar mergulhadores profissionais no país. 9 Equipamentos 3 3.1 - EQUIPAMENTOS Os equipa",
+          "icon": "🤿",
+          "description": "Equipamentos essenciais: máscara, roupa, cilindro, regulador, BCD e acessórios.",
+          "title": "Equipamentos",
+          "number": 3,
+          "filename": "cap-03-equipamentos.md",
+          "moduleId": "curso_mergulho_autonomo_basico",
+          "id": "equipamentos"
+        },
+        {
+          "imageCount": 12,
+          "excerpt": "Para a melhor compreensão do mergulho e seus efeitos sobre o corpo humano, será necessário o conhecimento de certas noções de física. Neste capítulo veremos somente a parte da física diretamente aplic",
+          "icon": "🔬",
+          "description": "Física da água: pressão, empuxo, luz, som e temperatura no ambiente subaquático.",
+          "title": "Física Aplicada ao Mergulho",
+          "number": 4,
+          "filename": "cap-04-fisica-mergulho.md",
+          "moduleId": "curso_mergulho_autonomo_basico",
+          "id": "fisica-mergulho"
+        },
+        {
+          "imageCount": 46,
+          "excerpt": "Neste capítulo abordaremos somente a parte da anatomia e fisiologia que estão ligadas diretamente com o mergulho, sendo dadas noções suficientes para o entendimento das alterações fisiológicas e patol",
+          "icon": "🫁",
+          "description": "Efeitos do mergulho no organismo: barotraumas, narcose, doença descompressiva.",
+          "title": "Fisiologia do Mergulho",
+          "number": 5,
+          "filename": "cap-05-fisiologia.md",
+          "moduleId": "curso_mergulho_autonomo_basico",
+          "id": "fisiologia"
+        },
+        {
+          "imageCount": 9,
+          "excerpt": "um mergulho, utilizada para calcular o TRN de um mergulho repetitivo. Representa a quantidade de nitrogênio residual que se tem após um determinado mergulho. Quanto mais próximo do início do alfabeto,",
+          "icon": "📊",
+          "description": "Uso correto das tabelas de descompressão USN e BSAC.",
+          "title": "Tabelas de Descompressão",
+          "number": 6,
+          "filename": "cap-06-tabelas-descomp.md",
+          "moduleId": "curso_mergulho_autonomo_basico",
+          "id": "tabelas-descomp"
+        },
+        {
+          "imageCount": 8,
+          "excerpt": "mergulhador cair, com todo o equipamento, para dentro do barco ou d'água, resultando daí contusões ou perda do equipamento. Entrada silenciosa A entrada silenciosa é um dos melhores procedimentos: o m",
+          "icon": "🤙",
+          "description": "Técnicas de mergulho, planejamento e sinais manuais.",
+          "title": "Procedimentos, Técnica e Sinais",
+          "number": 7,
+          "filename": "cap-07-procedimentos.md",
+          "moduleId": "curso_mergulho_autonomo_basico",
+          "id": "procedimentos"
+        },
+        {
+          "imageCount": 3,
+          "excerpt": "nadadeiras. Estas nadadeiras não são vistas facilmente e correm como fitas ao longo das costas e do ventre. Ela é venenosa, mas seu veneno não sai das presas, como na serpente, e sim do céu da boca. E",
+          "icon": "🐠",
+          "description": "Animais marinhos perigosos e condutas de segurança.",
+          "title": "Animais Marinhos",
+          "number": 8,
+          "filename": "cap-08-animais-marinhos.md",
+          "moduleId": "curso_mergulho_autonomo_basico",
+          "id": "animais-marinhos"
+        }
+      ],
       "tags": [
         "mergulho",
         "busca-e-resgate",
         "guarda-vidas"
       ],
-      "chapters": [
-        {
-          "id": "capa",
-          "moduleId": "curso_mergulho_autonomo_basico",
-          "filename": "cap-00-capa.md",
-          "number": 0,
-          "title": "Apresentação",
-          "description": "Nota introdutória e ficha do manual.",
-          "icon": "📋",
-          "excerpt": "MANUAL DO MERGULHO AUTÔNOMO DESPORTIVO Curso de Mergulho (Básico) 1 Nota Este manual foi adquirido através de mototes de busca, mas apresenta excelente bibliografia, conferida, apesar de não haver dad",
-          "imageCount": 1
-        },
-        {
-          "id": "historia-mergulho",
-          "moduleId": "curso_mergulho_autonomo_basico",
-          "filename": "cap-01-historia-mergulho.md",
-          "number": 1,
-          "title": "História do Mergulho",
-          "description": "A história do mergulho desde a Antiguidade até o mergulho moderno.",
-          "icon": "⚓",
-          "excerpt": "História do mergulho 1 (IN: Cousteau, Jaques-Yves. O Mundo dos Oceanos) \"Os seres humanos estão prestes a voltar ao mar, como alguns mamíferos fizeram há poucos milhões de anos, para se tornarem focas",
-          "imageCount": 6
-        },
-        {
-          "id": "certificadoras",
-          "moduleId": "curso_mergulho_autonomo_basico",
-          "filename": "cap-02-certificadoras.md",
-          "number": 2,
-          "title": "Certificadoras",
-          "description": "Entidades certificadoras de mergulho no Brasil e no mundo.",
-          "icon": "🏅",
-          "excerpt": "permitindo o fluxo de ar para o mergulhador. O ar expirado flui por uma válvula só de saída (G) para a câmara (H), que é aberta para a água através de orifícios (linhas pontilhadas). 8 Certificadoras ",
-          "imageCount": 1
-        },
-        {
-          "id": "equipamentos",
-          "moduleId": "curso_mergulho_autonomo_basico",
-          "filename": "cap-03-equipamentos.md",
-          "number": 3,
-          "title": "Equipamentos",
-          "description": "Equipamentos essenciais: máscara, roupa, cilindro, regulador, BCD e acessórios.",
-          "icon": "🤿",
-          "excerpt": "Autoridade Marítima para as Atividades Subaquáticas, NORMAM-15/DPC sem a qual nenhuma escola esta habilitada a formar mergulhadores profissionais no país. 9 Equipamentos 3 3.1 - EQUIPAMENTOS Os equipa",
-          "imageCount": 15
-        },
-        {
-          "id": "fisica-mergulho",
-          "moduleId": "curso_mergulho_autonomo_basico",
-          "filename": "cap-04-fisica-mergulho.md",
-          "number": 4,
-          "title": "Física Aplicada ao Mergulho",
-          "description": "Física da água: pressão, empuxo, luz, som e temperatura no ambiente subaquático.",
-          "icon": "🔬",
-          "excerpt": "Para a melhor compreensão do mergulho e seus efeitos sobre o corpo humano, será necessário o conhecimento de certas noções de física. Neste capítulo veremos somente a parte da física diretamente aplic",
-          "imageCount": 12
-        },
-        {
-          "id": "fisiologia",
-          "moduleId": "curso_mergulho_autonomo_basico",
-          "filename": "cap-05-fisiologia.md",
-          "number": 5,
-          "title": "Fisiologia do Mergulho",
-          "description": "Efeitos do mergulho no organismo: barotraumas, narcose, doença descompressiva.",
-          "icon": "🫁",
-          "excerpt": "Neste capítulo abordaremos somente a parte da anatomia e fisiologia que estão ligadas diretamente com o mergulho, sendo dadas noções suficientes para o entendimento das alterações fisiológicas e patol",
-          "imageCount": 46
-        },
-        {
-          "id": "tabelas-descomp",
-          "moduleId": "curso_mergulho_autonomo_basico",
-          "filename": "cap-06-tabelas-descomp.md",
-          "number": 6,
-          "title": "Tabelas de Descompressão",
-          "description": "Uso correto das tabelas de descompressão USN e BSAC.",
-          "icon": "📊",
-          "excerpt": "um mergulho, utilizada para calcular o TRN de um mergulho repetitivo. Representa a quantidade de nitrogênio residual que se tem após um determinado mergulho. Quanto mais próximo do início do alfabeto,",
-          "imageCount": 9
-        },
-        {
-          "id": "procedimentos",
-          "moduleId": "curso_mergulho_autonomo_basico",
-          "filename": "cap-07-procedimentos.md",
-          "number": 7,
-          "title": "Procedimentos, Técnica e Sinais",
-          "description": "Técnicas de mergulho, planejamento e sinais manuais.",
-          "icon": "🤙",
-          "excerpt": "mergulhador cair, com todo o equipamento, para dentro do barco ou d'água, resultando daí contusões ou perda do equipamento. Entrada silenciosa A entrada silenciosa é um dos melhores procedimentos: o m",
-          "imageCount": 8
-        },
-        {
-          "id": "animais-marinhos",
-          "moduleId": "curso_mergulho_autonomo_basico",
-          "filename": "cap-08-animais-marinhos.md",
-          "number": 8,
-          "title": "Animais Marinhos",
-          "description": "Animais marinhos perigosos e condutas de segurança.",
-          "icon": "🐠",
-          "excerpt": "nadadeiras. Estas nadadeiras não são vistas facilmente e correm como fitas ao longo das costas e do ventre. Ela é venenosa, mas seu veneno não sai das presas, como na serpente, e sim do céu da boca. E",
-          "imageCount": 3
-        }
-      ]
+      "subtitle": "Guarda-Vidas — Defesa Civil Maricá",
+      "title": "Manual de Mergulho Autônomo Desportivo",
+      "id": "curso_mergulho_autonomo_basico"
     }
   ],
-  "items": [
-    {
-      "id": "curso_mergulho_autonomo_basico/capa",
-      "title": "Apresentação",
-      "excerpt": "MANUAL DO MERGULHO AUTÔNOMO DESPORTIVO Curso de Mergulho (Básico) 1 Nota Este manual foi adquirido através de mototes de busca, mas apresenta excelente bibliografia, conferida, apesar de não haver dad",
-      "tags": [
-        "mergulho"
-      ]
-    },
-    {
-      "id": "curso_mergulho_autonomo_basico/historia-mergulho",
-      "title": "História do Mergulho",
-      "excerpt": "História do mergulho 1 (IN: Cousteau, Jaques-Yves. O Mundo dos Oceanos) \"Os seres humanos estão prestes a voltar ao mar, como alguns mamíferos fizeram há poucos milhões de anos, para se tornarem focas",
-      "tags": [
-        "mergulho"
-      ]
-    },
-    {
-      "id": "curso_mergulho_autonomo_basico/certificadoras",
-      "title": "Certificadoras",
-      "excerpt": "permitindo o fluxo de ar para o mergulhador. O ar expirado flui por uma válvula só de saída (G) para a câmara (H), que é aberta para a água através de orifícios (linhas pontilhadas). 8 Certificadoras ",
-      "tags": [
-        "mergulho"
-      ]
-    },
-    {
-      "id": "curso_mergulho_autonomo_basico/equipamentos",
-      "title": "Equipamentos",
-      "excerpt": "Autoridade Marítima para as Atividades Subaquáticas, NORMAM-15/DPC sem a qual nenhuma escola esta habilitada a formar mergulhadores profissionais no país. 9 Equipamentos 3 3.1 - EQUIPAMENTOS Os equipa",
-      "tags": [
-        "mergulho"
-      ]
-    },
-    {
-      "id": "curso_mergulho_autonomo_basico/fisica-mergulho",
-      "title": "Física Aplicada ao Mergulho",
-      "excerpt": "Para a melhor compreensão do mergulho e seus efeitos sobre o corpo humano, será necessário o conhecimento de certas noções de física. Neste capítulo veremos somente a parte da física diretamente aplic",
-      "tags": [
-        "mergulho"
-      ]
-    },
-    {
-      "id": "curso_mergulho_autonomo_basico/fisiologia",
-      "title": "Fisiologia do Mergulho",
-      "excerpt": "Neste capítulo abordaremos somente a parte da anatomia e fisiologia que estão ligadas diretamente com o mergulho, sendo dadas noções suficientes para o entendimento das alterações fisiológicas e patol",
-      "tags": [
-        "mergulho"
-      ]
-    },
-    {
-      "id": "curso_mergulho_autonomo_basico/tabelas-descomp",
-      "title": "Tabelas de Descompressão",
-      "excerpt": "um mergulho, utilizada para calcular o TRN de um mergulho repetitivo. Representa a quantidade de nitrogênio residual que se tem após um determinado mergulho. Quanto mais próximo do início do alfabeto,",
-      "tags": [
-        "mergulho"
-      ]
-    },
-    {
-      "id": "curso_mergulho_autonomo_basico/procedimentos",
-      "title": "Procedimentos, Técnica e Sinais",
-      "excerpt": "mergulhador cair, com todo o equipamento, para dentro do barco ou d'água, resultando daí contusões ou perda do equipamento. Entrada silenciosa A entrada silenciosa é um dos melhores procedimentos: o m",
-      "tags": [
-        "mergulho"
-      ]
-    },
-    {
-      "id": "curso_mergulho_autonomo_basico/animais-marinhos",
-      "title": "Animais Marinhos",
-      "excerpt": "nadadeiras. Estas nadadeiras não são vistas facilmente e correm como fitas ao longo das costas e do ventre. Ela é venenosa, mas seu veneno não sai das presas, como na serpente, e sim do céu da boca. E",
-      "tags": [
-        "mergulho"
-      ]
-    }
-  ]
+  "version": "2.0"
 }
