@@ -5,10 +5,61 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="robots" content="noindex" />
     <title>DCM Admin — Painel de Conteúdo</title>
+    <link rel="icon" type="image/png" href="/Curso-Mergulho-DCM/icons/Icone_fundo_Cinza.png" />
+    <style>
+      /* ── Logo VCorp abaixo da lista de coleções ── */
+      [data-svelte-h] nav ul::after,
+      .sidebar-footer-brand {
+        display: block;
+      }
+
+      /* Injeta o rodapé de marca via CSS pseudo-element não funciona bem,
+         então usamos um script inline abaixo para injetar o DOM */
+    </style>
   </head>
   <body>
-    <!-- Sveltia CMS — carregado conforme template oficial (sem type=module, sem link cms-config-url) -->
-    <!-- config.yml é lido automaticamente da mesma pasta /admin/ -->
+    <!-- Sveltia CMS — carregado conforme template oficial -->
     <script src="https://unpkg.com/@sveltia/cms/dist/sveltia-cms.js"></script>
+
+    <!-- ── Injeta logo VCorp no sidebar do CMS após o carregamento ── -->
+    <script>
+      (function injectBrand() {
+        function tryInject() {
+          // Sveltia CMS monta um shadow DOM ou elemento nav — tentamos pelo body
+          const sidebar = document.querySelector('nav[aria-label="Collections"]') ||
+                          document.querySelector('.sidebar') ||
+                          document.querySelector('nav')
+          if (!sidebar) { setTimeout(tryInject, 800); return }
+
+          if (document.getElementById('vcorp-brand')) return
+
+          const brand = document.createElement('div')
+          brand.id = 'vcorp-brand'
+          brand.style.cssText = [
+            'position:fixed', 'bottom:0', 'left:0', 'width:220px',
+            'background:#0f172a', 'border-top:1px solid #1e293b',
+            'padding:14px 16px', 'display:flex', 'flex-direction:column',
+            'align-items:center', 'gap:8px', 'z-index:9999'
+          ].join(';')
+
+          brand.innerHTML = `
+            <img src="/Curso-Mergulho-DCM/icons/vcorpLogo.png"
+                 alt="VCorp Sistem"
+                 style="height:36px;object-fit:contain;opacity:.9;" />
+            <p style="color:#64748b;font-size:10px;text-align:center;line-height:1.5;margin:0;">
+              © 2025 VCorp Sistem<br>CNPJ 28.988.813/0001-50
+            </p>
+            <a href="https://vcorpsistem.com" target="_blank" rel="noopener"
+               style="color:#38bdf8;font-size:10px;text-decoration:none;">
+              vcorpsistem.com
+            </a>
+          `
+          document.body.appendChild(brand)
+        }
+        // Aguarda o CMS montar a UI
+        if (document.readyState === 'complete') { setTimeout(tryInject, 1200) }
+        else { window.addEventListener('load', () => setTimeout(tryInject, 1200)) }
+      })()
+    </script>
   </body>
 </html>

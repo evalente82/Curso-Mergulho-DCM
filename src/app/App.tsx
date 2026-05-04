@@ -7,6 +7,7 @@ import ContentSearch from '../features/content/ContentSearch'
 import ModulePage from '../features/module/ModulePage'
 import ChapterReader from '../features/module/ChapterReader'
 import { assetUrl } from '../shared/basePath'
+import Footer from '../shared/Footer'
 
 // ─── Tipos ────────────────────────────────────────────────────────────────────
 export type ContentItem = {
@@ -105,9 +106,7 @@ function AppShell() {
       </main>
 
       {/* ── Footer ── */}
-      <footer className="bg-ocean-950 text-ocean-400 text-xs text-center py-4 px-4">
-        Defesa Civil Maricá — Curso de Mergulho de Busca e Resgate &nbsp;·&nbsp; Conteúdo protegido · uso interno
-      </footer>
+      <Footer />
     </div>
   )
 }
