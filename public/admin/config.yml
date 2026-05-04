@@ -12,7 +12,7 @@ backend:
   base_url: https://sveltia-cms-auth.pages.dev
   auth_endpoint: auth
 
-# ── MODO LOCAL: descomente para testar sem OAuth ─────────────────────────────
+# ── MODO LOCAL: descomente APENAS para testar sem OAuth ─────────────────────
 # local_backend: true
 # (rode em paralelo: npx netlify-cms-proxy-server)
 # ─────────────────────────────────────────────────────────────────────────────
