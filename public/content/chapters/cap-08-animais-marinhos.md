@@ -136,10 +136,8 @@ peixinhos.
        homologado por la Confederación Mundial de Actividades
        Subacuáticas (C.M.A.S.). 1ª edição, 2002.
 
-teste de edição do ENDRIGO !
+novo teste de edição para atualização da pagina
 
-![Tubarão](/assets/content/curso_mergulho_autonomo_basico/img/img-100.png "Shark")
-
-editado e funcionando !
+![](/assets/content/curso_mergulho_autonomo_basico/img/animais-marinhos_possante_mecanismo_movimenta_lentamente.png)
 
                                                                                                                   112
