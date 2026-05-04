@@ -136,8 +136,9 @@ peixinhos.
        homologado por la Confederación Mundial de Actividades
        Subacuáticas (C.M.A.S.). 1ª edição, 2002.
 
-novo teste de edição para atualização da pagina
+novo teste de edição para atualização da pagina...
+ajuste
 
 ![](/assets/content/curso_mergulho_autonomo_basico/img/animais-marinhos_possante_mecanismo_movimenta_lentamente.png)
 
-                                                                                                                  112
+                                                                        mais ajuste de edição...                                          112
