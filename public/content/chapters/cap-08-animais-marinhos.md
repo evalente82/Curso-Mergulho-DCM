@@ -7,9 +7,13 @@ number: 8
 
 teste novo
 
-![barometro](/assets/content/curso_mergulho_autonomo_basico/img/barometro-ATM.png "ATM-barometro")
+![barometro01](/assets/content/curso_mergulho_autonomo_basico/img/barometro-ATM.png "ATM-barometro")teste
 
-                                    presas, como na serpente, e sim do céu da
+                                  
+
+![](/assets/content/curso_mergulho_autonomo_basico/img/animais-marinhos_barracuda_manganga_mimetizar_pedras.jpg)
+
+  presas, como na serpente, e sim do céu da
                                     boca.
 
 Escondida numa fendas de rocha, a moréia fica à espera de sua vítima. Ela
