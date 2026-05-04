@@ -76,32 +76,7 @@ collections:
             multiple: false
 
   # ── Índice de Módulos ───────────────────────────────────────────────────────
-  - name: module_config
-    label: "⚙️ Configuração do Curso"
-    description: "Título, descrição e ordem dos capítulos."
-    files:
-      - name: index
-        label: "index.json — Estrutura do Curso"
-        file: public/content/index.json
-        fields:
-          - label: "ID do Módulo"
-            name: id
-            widget: string
-
-          - label: "Título do Curso"
-            name: title
-            widget: string
-
-          - label: "Descrição"
-            name: description
-            widget: text
-
-          - label: "Capítulos"
-            name: chapters
-            widget: list
-            label_singular: "Capítulo"
-            fields:
-              - { label: "ID", name: id, widget: string }
-              - { label: "Título", name: title, widget: string }
-              - { label: "Arquivo", name: file, widget: string }
-              - { label: "Duração (min)", name: duration, widget: number, value_type: int, required: false }
+  # ⚠️  DESABILITADO: editar o index.json pelo CMS sobrescreve a estrutura
+  # inteira do curso. Edite manualmente via código se necessário.
+  # - name: module_config
+  #   label: "⚙️ Configuração do Curso"
