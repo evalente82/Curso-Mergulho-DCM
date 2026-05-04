@@ -1,7 +1,8 @@
 /**
  * fix-frontmatter-encoding.js
- * Corrige o encoding UTF-8 corrompido nos títulos do frontmatter
- * dos capítulos. Lê cada arquivo como latin1 e reescreve como UTF-8.
+ * Converte todos os capítulos de latin1 → UTF-8.
+ * O split-chapters.js gerou os arquivos com encoding latin1.
+ * O Decap CMS (e a web em geral) exige UTF-8.
  */
 import { readFileSync, writeFileSync, readdirSync } from 'fs'
 import { join } from 'path'
@@ -9,42 +10,26 @@ import { join } from 'path'
 const chaptersDir = join(process.cwd(), 'public', 'content', 'chapters')
 const files = readdirSync(chaptersDir).filter(f => f.endsWith('.md'))
 
-const titleFix = {
-  'capa':              'Apresentação',
-  'historia-mergulho': 'História do Mergulho',
-  'certificadoras':    'Certificadoras',
-  'equipamentos':      'Equipamentos',
-  'fisica-mergulho':   'Física Aplicada ao Mergulho',
-  'fisiologia':        'Fisiologia do Mergulho',
-  'tabelas-descomp':   'Tabelas de Descompressão',
-  'procedimentos':     'Procedimentos, Técnica e Sinais',
-  'animais-marinhos':  'Animais Marinhos',
-}
-
-let fixed = 0
+let converted = 0
 
 for (const file of files) {
   const filePath = join(chaptersDir, file)
-  // Lê os bytes brutos como latin1 para preservar o conteúdo exato
-  const raw = readFileSync(filePath, 'latin1')
 
-  const idMatch = raw.match(/id:\s*"?([^"\n]+)"?/)
-  if (!idMatch) continue
+  // Lê como latin1: cada byte vira o codepoint equivalente (0x00–0xFF)
+  const latin1Content = readFileSync(filePath, 'latin1')
 
-  const id = idMatch[1].trim()
-  const correctTitle = titleFix[id]
-  if (!correctTitle) continue
-
-  const corrected = raw.replace(/title:\s*".+"/, `title: "${correctTitle}"`)
-
-  if (corrected !== raw) {
-    // Grava de volta mantendo os bytes do conteúdo do corpo como estão
-    writeFileSync(filePath, Buffer.from(corrected, 'latin1'))
-    console.log(`Corrigido: ${file}`)
-    fixed++
-  } else {
-    console.log(`Sem mudanca: ${file}`)
+  // Verifica se já é UTF-8 válido (evita dupla conversão)
+  const asBuffer = Buffer.from(latin1Content, 'latin1')
+  const roundtrip = asBuffer.toString('utf8')
+  if (roundtrip === latin1Content) {
+    console.log(`⏭  Já é UTF-8: ${file}`)
+    continue
   }
+
+  // Grava como UTF-8 — cada codepoint U+00E3 (ã) vira os bytes 0xC3 0xA3
+  writeFileSync(filePath, latin1Content, 'utf8')
+  console.log(`✅ Convertido latin1→UTF-8: ${file}`)
+  converted++
 }
 
-console.log(`\n${fixed} arquivo(s) corrigido(s).`)
+console.log(`\n${converted} arquivo(s) convertido(s) para UTF-8.`)
