@@ -14,9 +14,8 @@ backend:
   repo: evalente82/Curso-Mergulho-DCM
   branch: main
   # ── Sveltia CMS Authenticator (Cloudflare Workers)
-  # Substitua pela URL real do seu Worker após o deploy em:
-  # https://deploy.workers.cloudflare.com/?url=https://github.com/sveltia/sveltia-cms-auth
-  base_url: https://sveltia-cms-auth.SUBSTITUA_SEU_SUBDOMINIO.workers.dev
+  # Worker: evalente82/dcm-admin-mergulho
+  base_url: https://dcm-admin-mergulho.endrigo-valente.workers.dev
 
 # ── MODO LOCAL: descomente APENAS para testar sem OAuth ─────────────────────
 # local_backend: true
