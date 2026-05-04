@@ -1,0 +1,98 @@
+# ══════════════════════════════════════════════════════════════════════════════
+# Decap CMS — Configuração do Painel de Conteúdo DCM
+# Documentação: https://decapcms.org/docs/configuration-options/
+# GitHub OAuth App Client ID: Ov23lisahkV7awutv0C1
+# ══════════════════════════════════════════════════════════════════════════════
+
+backend:
+  name: github
+  repo: evalente82/Curso-Mergulho-DCM
+  branch: main
+  # Proxy de autenticação OAuth gratuito — sem backend próprio necessário
+  # Callback URL no OAuth App: https://sveltia-cms-auth.pages.dev/callback
+  base_url: https://sveltia-cms-auth.pages.dev
+  auth_endpoint: auth
+
+# ── Localização das mídias ────────────────────────────────────────────────────
+media_folder: public/assets/content/curso_mergulho_autonomo_basico/img
+public_folder: /Curso-Mergulho-DCM/assets/content/curso_mergulho_autonomo_basico/img
+
+locale: pt
+
+# ══════════════════════════════════════════════════════════════════════════════
+# COLEÇÕES
+# ══════════════════════════════════════════════════════════════════════════════
+collections:
+
+  # ── Capítulos ───────────────────────────────────────────────────────────────
+  - name: chapters
+    label: "📖 Capítulos"
+    label_singular: "Capítulo"
+    description: "Edite o texto e as imagens dos capítulos do curso."
+    folder: public/content/chapters
+    create: false
+    delete: false
+    extension: md
+    # Campos mapeados com o frontmatter REAL dos arquivos
+    # (id, moduleId, title, number)
+    fields:
+      - label: "Título"
+        name: title
+        widget: string
+        hint: "Título exibido no menu e no topo do capítulo."
+
+      - label: "ID do Capítulo"
+        name: id
+        widget: string
+        hint: "Identificador único (ex: historia-mergulho). Não altere."
+
+      - label: "ID do Módulo"
+        name: moduleId
+        widget: hidden
+        default: "curso_mergulho_autonomo_basico"
+
+      - label: "Número do Capítulo"
+        name: number
+        widget: number
+        value_type: int
+        min: 0
+        hint: "Posição na sequência (0 = capa)."
+
+      - label: "Conteúdo"
+        name: body
+        widget: markdown
+        hint: "Conteúdo completo. Use a barra de ferramentas para inserir imagens."
+        media_library:
+          config:
+            multiple: false
+
+  # ── Índice de Módulos ───────────────────────────────────────────────────────
+  - name: module_config
+    label: "⚙️ Configuração do Curso"
+    description: "Título, descrição e ordem dos capítulos."
+    files:
+      - name: index
+        label: "index.json — Estrutura do Curso"
+        file: public/content/index.json
+        fields:
+          - label: "ID do Módulo"
+            name: id
+            widget: string
+
+          - label: "Título do Curso"
+            name: title
+            widget: string
+
+          - label: "Descrição"
+            name: description
+            widget: text
+
+          - label: "Capítulos"
+            name: chapters
+            widget: list
+            label_singular: "Capítulo"
+            fields:
+              - { label: "ID", name: id, widget: string }
+              - { label: "Título", name: title, widget: string }
+              - { label: "Arquivo", name: file, widget: string }
+              - { label: "Duração (min)", name: duration, widget: number, value_type: int, required: false }

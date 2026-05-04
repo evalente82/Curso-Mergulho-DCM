@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>DCM Admin — Painel de Conteúdo</title>
+
+    <!-- Decap CMS via CDN (não passa pelo pipeline Vite) -->
+    <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
+    <script>
+      // Força o carregamento do config.yml do mesmo diretório
+      // Necessário porque o Vite serve /admin/ com base path diferente
+      if (window.CMS) {
+        CMS.init({ config: { load_config_file: true } });
+      }
+    </script>
+  </head>
+  <body>
+    <!--
+      ╔══════════════════════════════════════════════════════╗
+      ║          DECAP CMS — Git-Based CMS Panel             ║
+      ║  Autenticação via GitHub OAuth App                   ║
+      ║  Lê e salva arquivos direto no repositório via API   ║
+      ╚══════════════════════════════════════════════════════╝
+
+      Para configurar o OAuth:
+      1. Acesse github.com/settings/developers → "OAuth Apps"
+      2. Crie um app com:
+         • Homepage URL: https://evalente82.github.io/Curso-Mergulho-DCM/
+         • Authorization callback URL:
+           https://sveltia-cms-auth.pages.dev/callback
+      3. Anote o Client ID — você não precisa de backend próprio.
+
+      Veja README-ADMIN.md para o passo a passo completo.
+    -->
+  </body>
+</html>

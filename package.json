@@ -2,8 +2,10 @@
   "name": "curso-mergulho-dcm",
   "version": "0.1.0",
   "private": true,
+  "type": "module",
   "scripts": {
     "dev": "vite",
+    "cms-proxy": "npx netlify-cms-proxy-server",
     "build": "vite build",
     "preview": "vite preview --port 5173",
     "typecheck": "tsc --noEmit",
