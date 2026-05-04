@@ -4,14 +4,19 @@
 # GitHub OAuth App Client ID: Ov23lisahkV7awutv0C1
 # ══════════════════════════════════════════════════════════════════════════════
 
+# ══════════════════════════════════════════════════════════════════════════════
+# Sveltia CMS — Configuração do Painel de Conteúdo DCM
+# Autenticação: Sveltia CMS Authenticator (Cloudflare Workers)
+# ══════════════════════════════════════════════════════════════════════════════
+
 backend:
   name: github
   repo: evalente82/Curso-Mergulho-DCM
   branch: main
-  # ── Autenticação via Access Token (GitHub PAT)
-  # Na tela de login, clique em "Sign in with token"
-  # Gere um token em: https://github.com/settings/tokens
-  # Escopo necessário: repo (acesso completo ao repositório)
+  # ── Sveltia CMS Authenticator (Cloudflare Workers)
+  # Substitua pela URL real do seu Worker após o deploy em:
+  # https://deploy.workers.cloudflare.com/?url=https://github.com/sveltia/sveltia-cms-auth
+  base_url: https://sveltia-cms-auth.SUBSTITUA_SEU_SUBDOMINIO.workers.dev
 
 # ── MODO LOCAL: descomente APENAS para testar sem OAuth ─────────────────────
 # local_backend: true
