@@ -1,22 +1,26 @@
 ---
-id: "animais-marinhos"
-moduleId: "curso_mergulho_autonomo_basico"
-title: "Animais Marinhos"
+title: Animais Marinhos
+id: animais-marinhos
+moduleId: curso_mergulho_autonomo_basico
 number: 8
 ---
-
 nadadeiras. Estas nadadeiras não são vistas
                                     facilmente e correm como fitas ao longo das
                                     costas e do ventre.
 
-                                    Ela é venenosa, mas seu veneno não sai das
-                                    presas, como na serpente, e sim do céu da
-                                    boca.
+```
+                                Ela é venenosa, mas seu veneno não sai das
+                                presas, como na serpente, e sim do céu da
+                                boca.
+```
 
 Escondida numa fendas de rocha, a moréia fica à espera de sua vítima. Ela
 tem excelente olfato e seu alimento favorito são os moluscos.
 
-                                                                                                                  106
+```
+                                                                                                              106
+```
+
 Serpentes Marinhas
 
 Algumas das mais venenosas criaturas do mar são as serpentes marinhas.
@@ -60,7 +64,10 @@ Raia é o nome genérico dos peixes da ordem dos Rajiformes. Há dois
                                    raias pequenas com espinhos laterais na cauda,
                                    e a raia-lisa, cuja cauda produz uma carga
 
-                                                                                                                  107
+```
+                                                                                                              107
+```
+
 elétrica bem fraca.
 
 Não são escamas que cobrem o corpo das raias e sim pequenos dentes,
@@ -95,18 +102,23 @@ sua remoção é sempre dolorosa.
 
 Tubarão
 
-                                                     O tubarão tem placas compactas
-                                                     em lugar das escamas. São
-                                                     como dentes na pele, com polpa
-                                                     revestida de marfim e recobertas
-                                                     de esmalte.
+```
+                                                 O tubarão tem placas compactas
+                                                 em lugar das escamas. São
+                                                 como dentes na pele, com polpa
+                                                 revestida de marfim e recobertas
+                                                 de esmalte.
+```
 
 As inúmeras espécies de tubarões incluem algumas inofensivas, como o
 tubarão-zebra e o tubarão-de-pregas e outra carnívoras como o
 tubarão-branco, o tubarão-azul e o tubarão-tigre. Os menores alimentam-se
 de pequenos peixes nas águas próximas da costa, os mais agressivos são
 
-                                                                                                                  108
+```
+                                                                                                              108
+```
+
 aqueles cujo tamanho e estruturas dos dentes indicam que são caçadores
 vorazes. São rápidos nadadores, impelidos pela cauda assimétrica; o lobo
 dorsal da nadadeira caudal é maior. O tubarão-azul e o tubarão martelos
@@ -116,7 +128,10 @@ O gigante tubarão-baleia, que pode alcançar 15 m de comprimento, tem
 dentes reduzidos, apropriado à sua dieta de pequenos crustáceos e
 peixinhos.
 
-                                                                                                                  109
+```
+                                                                                                              109
+```
+
 110
 111
 Bibliografia
@@ -136,4 +151,12 @@ peixinhos.
        homologado por la Confederación Mundial de Actividades
        Subacuáticas (C.M.A.S.). 1ª edição, 2002.
 
-                                                                                                                  112
+```
+                                                                                                              112
+```
+
+teste de edição do Endrigo
+
+![tubarão](/Curso-Mergulho-DCM/assets/content/curso_mergulho_autonomo_basico/img/img-100.png "shark")
+
+restante do texto
