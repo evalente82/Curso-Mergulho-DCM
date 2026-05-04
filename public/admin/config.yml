@@ -8,11 +8,10 @@ backend:
   name: github
   repo: evalente82/Curso-Mergulho-DCM
   branch: main
-  # ── PKCE: autenticação sem proxy — o GitHub redireciona de volta para /admin/
-  # Callback URL no OAuth App deve ser:
-  #   https://evalente82.github.io/Curso-Mergulho-DCM/admin/
-  auth_type: pkce
-  app_id: Ov23lisahkV7awutv0C1
+  # ── Autenticação via Access Token (GitHub PAT)
+  # Na tela de login, clique em "Sign in with token"
+  # Gere um token em: https://github.com/settings/tokens
+  # Escopo necessário: repo (acesso completo ao repositório)
 
 # ── MODO LOCAL: descomente APENAS para testar sem OAuth ─────────────────────
 # local_backend: true

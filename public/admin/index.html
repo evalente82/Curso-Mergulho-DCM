@@ -3,12 +3,12 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="robots" content="noindex" />
     <title>DCM Admin — Painel de Conteúdo</title>
-    <!-- Força o CMS a buscar config.yml pelo caminho absoluto correto (YAML, não JSON) -->
-    <link rel="cms-config-url" href="/Curso-Mergulho-DCM/admin/config.yml" />
   </head>
   <body>
-    <!-- Sveltia CMS — substituto drop-in do Decap CMS com suporte PKCE nativo para GitHub -->
-    <script src="https://unpkg.com/@sveltia/cms/dist/sveltia-cms.js" type="module"></script>
+    <!-- Sveltia CMS — carregado conforme template oficial (sem type=module, sem link cms-config-url) -->
+    <!-- config.yml é lido automaticamente da mesma pasta /admin/ -->
+    <script src="https://unpkg.com/@sveltia/cms/dist/sveltia-cms.js"></script>
   </body>
 </html>
