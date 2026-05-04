@@ -5,7 +5,7 @@ moduleId: curso_mergulho_autonomo_basico
 number: 8
 ---
 
-teste
+teste novo
 
 ![barometro](/assets/content/curso_mergulho_autonomo_basico/img/barometro-ATM.png "ATM-barometro")
 
