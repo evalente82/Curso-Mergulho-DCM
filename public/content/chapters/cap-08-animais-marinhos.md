@@ -7,6 +7,7 @@ number: 8
 
 teste
 
+![barometro](/assets/content/curso_mergulho_autonomo_basico/img/barometro-ATM.png "ATM-barometro")
 
                                     presas, como na serpente, e sim do céu da
                                     boca.
