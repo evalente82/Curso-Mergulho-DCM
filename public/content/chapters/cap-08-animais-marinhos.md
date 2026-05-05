@@ -7,7 +7,7 @@ number: 8
 
 # _~~`novo texto de teste par atualização dinamica do capitulo`~~_
 
-##novo capitulo teste
+## novo capitulo teste
 
 ![](/assets/content/curso_mergulho_autonomo_basico/img/barometro-ATM.png)
 
@@ -26,6 +26,12 @@ fimmmmmmmmm
 
 **novo fim**
 
-# ##Endrigo Valente
+# ## Endrigo Valente
 
 teste de texto para visualização
+
+mais tipo de texto  
+
+### ## como inserir topicos
+
+assim inseriu um topico novo
