@@ -5,6 +5,16 @@ import { motion, AnimatePresence } from 'framer-motion'
 import { Search, BookOpen } from 'lucide-react'
 import type { ContentItem } from '../../app/App'
 
+// ── Normaliza texto para busca sem acento e sem maiúscula ─────────────────
+// Ex: "Fisiología" → "fisiologia", "PULMÃO" → "pulmao"
+function normalize(text: string): string {
+  return text
+    .toLowerCase()
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '') // remove diacríticos (acentos)
+    .replace(/[^\w\s]/g, ' ')        // substitui pontuação por espaço
+}
+
 export default function ContentSearch({ items }: { items: ContentItem[] }) {
   // eslint-disable-next-line @typescript-eslint/no-explicit-any
   const [idx, setIdx]         = useState<any | null>(null)
@@ -12,18 +22,20 @@ export default function ContentSearch({ items }: { items: ContentItem[] }) {
   const [results, setResults] = useState<ContentItem[]>([])
   const navigate = useNavigate()
 
-  // Constrói índice quando items chegam
+  // Constrói índice quando items chegam — indexa texto normalizado
   useEffect(() => {
     if (!items.length) return
     const index = new (FlexSearch as any).Index({ tokenize: 'forward', cache: true })
-    items.forEach((it, i) => index.add(i, `${it.title} ${it.excerpt ?? ''}`))
+    items.forEach((it, i) =>
+      index.add(i, normalize(`${it.title} ${it.excerpt ?? ''}`))
+    )
     setIdx(index)
   }, [items])
 
-  // Executa busca
+  // Executa busca com query normalizada (sem acento, sem maiúscula)
   useEffect(() => {
     if (!idx || !q.trim()) return setResults([])
-    const ids = idx.search(q, 10) as number[]
+    const ids = idx.search(normalize(q), 10) as number[]
     setResults(ids.map(i => items[i]).filter(Boolean))
   }, [q, idx, items])
 

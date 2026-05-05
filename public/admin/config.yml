@@ -70,12 +70,14 @@ collections:
       - label: "Conteúdo"
         name: body
         widget: markdown
-        hint: "Conteúdo completo. Use a barra de ferramentas para inserir imagens."
-        media_library:
+        hint: >
+          Use ## para criar uma SEÇÃO (aparece no índice lateral como item principal).
+          Use ### para criar uma SUBSEÇÃO (aparece indentada no índice).
+          Use #### para sub-subseção. Todos os títulos com # viram entradas clicáveis no índice.
+          Para inserir imagem: clique no ícone de imagem na barra de ferramentas.
+            media_library:
           config:
-            multiple: false
-
-  # ── Índice de Módulos ───────────────────────────────────────────────────────
+            multiple: false  # ── Índice de Módulos ───────────────────────────────────────────────────────
   # ⚠️  DESABILITADO: editar o index.json pelo CMS sobrescreve a estrutura
   # inteira do curso. Edite manualmente via código se necessário.
   # - name: module_config

@@ -94,14 +94,15 @@
 /* ── Highlight de busca assertiva ── */
 /* Classe adicionada/removida via JS ao elemento encontrado pelo ?q= */
 .search-hit {
-  animation: search-pulse 3s ease forwards;
+  animation: search-pulse 5s ease forwards;
   border-radius: 4px;
   outline: 2px solid transparent;
 }
 
 @keyframes search-pulse {
   0%   { background-color: #fef08a; outline-color: #facc15; }  /* amarelo vibrante */
-  30%  { background-color: #fef9c3; outline-color: #fde047; }  /* amarelo suave */
+  20%  { background-color: #fef08a; outline-color: #facc15; }  /* mantém vivo por 1s */
+  60%  { background-color: #fef9c3; outline-color: #fde047; }  /* amarelo suave */
   100% { background-color: transparent; outline-color: transparent; }
 }
 

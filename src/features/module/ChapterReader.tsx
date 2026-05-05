@@ -20,6 +20,16 @@ function slugify(text: string) {
     .replace(/\s+/g, '-')
 }
 
+// ── Normaliza texto para comparação sem acento e sem maiúscula ────────────
+// Mesma função usada em ContentSearch — garante que "pulmao" encontra "Pulmão"
+function normalizeSearch(text: string): string {
+  return text
+    .toLowerCase()
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '')
+    .replace(/[^\w\s]/g, ' ')
+}
+
 type TocEntry = { id: string; text: string; level: number }
 
 // ── Pré-processa o markdown vindo dos capítulos ────────────────────────────
@@ -231,7 +241,7 @@ export default function ChapterReader() {
       const article = articleRef.current
       if (!article) return
 
-      const qLower = q.toLowerCase()
+      const qNorm = normalizeSearch(q)
 
       // Percorre elementos de texto do artigo na ordem do DOM
       const candidates = article.querySelectorAll<HTMLElement>(
@@ -240,7 +250,7 @@ export default function ChapterReader() {
 
       let target: HTMLElement | null = null
       Array.from(candidates).some(el => {
-        if (el.textContent?.toLowerCase().includes(qLower)) {
+        if (normalizeSearch(el.textContent ?? '').includes(qNorm)) {
           target = el as HTMLElement
           return true
         }
@@ -253,9 +263,9 @@ export default function ChapterReader() {
       // Scroll até o elemento
       hit.scrollIntoView({ behavior: 'smooth', block: 'center' })
 
-      // Highlight visual: adiciona classe temporária
+      // Highlight visual: adiciona classe temporária — 5 segundos
       hit.classList.add('search-hit')
-      setTimeout(() => hit.classList.remove('search-hit'), 3000)
+      setTimeout(() => hit.classList.remove('search-hit'), 5000)
     }, 400) // 400ms → garante que o artigo já está pintado
 
     return () => clearTimeout(timer)
@@ -576,29 +586,86 @@ function TocPanel({
     </nav>
   )
 
+  // Aviso quando há poucas entradas (possivelmente falta de headings no MD)
+  const fewEntries = toc.length === 1
+
   return (
     <nav aria-label="Índice">
-      <p className="text-[10px] font-bold uppercase tracking-widest text-ink-400 mb-3 px-1">Neste capítulo</p>
+      {/* Cabeçalho com contador */}
+      <div className="flex items-center justify-between mb-3 px-1">
+        <p className="text-[10px] font-bold uppercase tracking-widest text-ink-400">
+          Neste capítulo
+        </p>
+        <span className="text-[10px] font-semibold text-ink-300 bg-ink-100 rounded-full px-1.5 py-0.5">
+          {toc.length}
+        </span>
+      </div>
+
+      {/* Banner de aviso quando só tem 1 item */}
+      {fewEntries && (
+        <div className="mb-3 px-2 py-2 rounded-lg bg-amber-50 border border-amber-200">
+          <p className="text-[10px] text-amber-700 leading-tight">
+            💡 Adicione títulos <code className="font-mono">##</code> e <code className="font-mono">###</code> no editor para criar mais seções no índice.
+          </p>
+        </div>
+      )}
+
       <ul className="space-y-0.5">
         {toc.map((entry, i) => {
           const isActive = activeId === entry.id
-          const indent = entry.level === 1 ? '' : entry.level === 2 ? 'pl-3' : entry.level === 3 ? 'pl-6' : 'pl-8'
-          const weight = entry.level === 1 ? 'font-bold text-[11px]' : entry.level === 2 ? 'font-semibold text-[11px]' : 'font-normal text-[10.5px]'
-          const color  = isActive ? 'text-ocean-600 bg-ocean-50' : 'text-ink-600 hover:text-ocean-600 hover:bg-ink-50'
+
+          // Cores e estilos por nível
+          const levelConfig = {
+            1: {
+              indent: '',
+              weight: 'font-bold text-[11px]',
+              marker: <span className="shrink-0 w-2 h-2 rounded-sm bg-ocean-400 opacity-80" />,
+              label: null,
+            },
+            2: {
+              indent: 'pl-3',
+              weight: 'font-semibold text-[11px]',
+              marker: <span className="shrink-0 w-1.5 h-1.5 rounded-full bg-current opacity-50 mt-px" />,
+              label: <span className="text-[9px] uppercase tracking-wide text-ink-300 font-medium shrink-0">Seção</span>,
+            },
+            3: {
+              indent: 'pl-6',
+              weight: 'font-normal text-[10.5px]',
+              marker: <ChevronRight className="w-3 h-3 shrink-0 text-ink-300" />,
+              label: <span className="text-[9px] uppercase tracking-wide text-ink-300 font-medium shrink-0">Sub</span>,
+            },
+            4: {
+              indent: 'pl-9',
+              weight: 'font-normal text-[10px] italic',
+              marker: <span className="shrink-0 w-0.5 h-3 rounded bg-ink-200" />,
+              label: null,
+            },
+          }[Math.min(entry.level, 4) as 1|2|3|4] ?? {
+            indent: 'pl-9', weight: 'font-normal text-[10px]', marker: null, label: null
+          }
+
+          const color = isActive
+            ? 'text-ocean-600 bg-ocean-50 ring-1 ring-ocean-200'
+            : 'text-ink-600 hover:text-ocean-600 hover:bg-ink-50'
 
           return (
             <li key={`${entry.id}-${i}`} className="relative">
               {/* Linha vertical da árvore para sub-itens */}
               {entry.level > 1 && (
-                <span className="absolute left-[10px] top-0 bottom-0 w-px bg-ink-100" aria-hidden />
+                <span
+                  className="absolute left-[10px] top-0 bottom-0 w-px bg-ink-100"
+                  aria-hidden
+                />
               )}
               <button
                 onClick={() => onSelect(entry.id)}
-                className={`w-full text-left flex items-center gap-1.5 rounded-lg px-2 py-1.5 transition-colors ${indent} ${weight} ${color}`}
+                title={entry.text}
+                className={`w-full text-left flex items-center gap-1.5 rounded-lg px-2 py-1.5 transition-colors
+                  ${levelConfig.indent} ${levelConfig.weight} ${color}`}
               >
-                {entry.level === 2 && <span className="shrink-0 w-1 h-1 rounded-full bg-current opacity-60 ml-0.5" />}
-                {entry.level >= 3 && <ChevronRight className="w-3 h-3 shrink-0 text-ink-300" />}
-                <span className="line-clamp-2 leading-tight">{entry.text}</span>
+                {levelConfig.marker}
+                <span className="truncate leading-tight flex-1">{entry.text}</span>
+                {levelConfig.label}
               </button>
             </li>
           )
