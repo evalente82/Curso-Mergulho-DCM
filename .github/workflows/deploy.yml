@@ -6,20 +6,23 @@ on:
 
 # Permissões obrigatórias para o método oficial de deploy do GitHub Pages
 permissions:
-  contents: read
+  contents: write      # necessário para commitar encoding fix de volta ao repo
   pages: write
   id-token: write
 
-# Garante que só um deploy rode por vez
+# Deploys aguardam em fila — NÃO cancela o anterior
+# Isso garante que cada Save do CMS gere um deploy completo
 concurrency:
   group: pages
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Use Node.js 20
         uses: actions/setup-node@v4
@@ -30,10 +33,15 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Fix chapter encoding (garante UTF-8 correto mesmo após edição pelo CMS)
+      - name: Fix chapter encoding (corrige mojibake do CMS e commita de volta)
         run: |
           pip install ftfy -q
           python scripts/fix-encoding-body.py
+          # Se houve correções, commita de volta para o repo
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git diff --quiet || git commit -am "fix(encoding): correcao automatica de mojibake pos-CMS [skip ci]"
+          git push || true
 
       - name: Typecheck
         run: npm run typecheck
