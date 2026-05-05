@@ -9,8 +9,6 @@ teste novo
 
 ![barometro01](/assets/content/curso_mergulho_autonomo_basico/img/barometro-ATM.png "ATM-barometro")teste
 
-                                  
-
 ![](/assets/content/curso_mergulho_autonomo_basico/img/animais-marinhos_barracuda_manganga_mimetizar_pedras.jpg)
 
   presas, como na serpente, e sim do céu da
