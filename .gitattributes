@@ -1,0 +1,30 @@
+# .gitattributes
+# Força todos os arquivos de texto a usar LF no repositório
+# Isso evita o bug de commits vazios no Sveltia CMS:
+# O CMS sempre salva com LF. Se o git converte para CRLF (autocrlf=true no Windows),
+# na próxima leitura o CMS não detecta diferença e cria commits vazios.
+
+* text=auto eol=lf
+
+# Arquivos que DEVEM ser LF no repo e no disco
+*.md   text eol=lf
+*.json text eol=lf
+*.yml  text eol=lf
+*.yaml text eol=lf
+*.ts   text eol=lf
+*.tsx  text eol=lf
+*.js   text eol=lf
+*.jsx  text eol=lf
+*.css  text eol=lf
+*.html text eol=lf
+*.toml text eol=lf
+
+# Binários — nunca alterar
+*.png  binary
+*.jpg  binary
+*.jpeg binary
+*.gif  binary
+*.webp binary
+*.ico  binary
+*.woff binary
+*.woff2 binary
