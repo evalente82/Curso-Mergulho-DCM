@@ -70,25 +70,37 @@ export default defineConfig({
         ],
       },
       workbox: {
-        // Cacheia os capítulos e imagens para offline-first
         globPatterns: ['**/*.{js,css,html,ico,png,svg,jpg,jpeg,webp,woff2}'],
         runtimeCaching: [
           {
-            // Capítulos markdown
+            // Capítulos markdown: NetworkFirst — busca sempre a versão mais
+            // recente da rede; só usa cache se estiver offline.
             urlPattern: /\/content\/chapters\/.+\.md$/,
-            handler: 'CacheFirst',
+            handler: 'NetworkFirst',
             options: {
               cacheName: 'chapters-cache',
-              expiration: { maxEntries: 50, maxAgeSeconds: 60 * 60 * 24 * 30 },
+              networkTimeoutSeconds: 5,
+              expiration: { maxEntries: 50, maxAgeSeconds: 60 * 60 * 24 * 7 },
             },
           },
           {
-            // Imagens do curso
+            // index.json (estrutura do curso): NetworkFirst pelo mesmo motivo
+            urlPattern: /\/content\/index\.json$/,
+            handler: 'NetworkFirst',
+            options: {
+              cacheName: 'index-cache',
+              networkTimeoutSeconds: 5,
+              expiration: { maxEntries: 5, maxAgeSeconds: 60 * 60 * 24 * 7 },
+            },
+          },
+          {
+            // Imagens do curso: StaleWhileRevalidate — serve do cache
+            // imediatamente mas atualiza em segundo plano para o próximo F5.
             urlPattern: /\/assets\/content\/.+\.(jpg|jpeg|png|webp|svg)$/,
-            handler: 'CacheFirst',
+            handler: 'StaleWhileRevalidate',
             options: {
               cacheName: 'images-cache',
-              expiration: { maxEntries: 200, maxAgeSeconds: 60 * 60 * 24 * 90 },
+              expiration: { maxEntries: 200, maxAgeSeconds: 60 * 60 * 24 * 30 },
             },
           },
         ],
