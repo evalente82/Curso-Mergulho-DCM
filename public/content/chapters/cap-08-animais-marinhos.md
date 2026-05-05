@@ -1,11 +1,28 @@
 ---
-title: Animais Marinhos
+title: Animais Marinhos2
 id: animais-marinhos
 moduleId: curso_mergulho_autonomo_basico
 number: 8
 ---
 
-teste novo
+# _~~`Edição executada pelo revisor Endrigo Valente no dia 04/05/26`~~_
+
+- teste
+- novo
+- teste
+
+> um textosimples de teste
+
+```plain
+aqui tem um texto diferente
+sequencia
+teste
+```
+
+**Os olhos do polvo têm pálpebras e são capazes de distinguir as cores. Para**
+**focalizar os objetos, o cristalino do olho se desloca ao invés de modificar sua**
+**forma como ocorre no olho humano. O polvo é um animal inteligente, com**
+**um cérebro comparável a dos vertebrados mais desenvolvidos.**
 
 ![barometro01](/assets/content/curso_mergulho_autonomo_basico/img/barometro-ATM.png "ATM-barometro")teste
 
@@ -31,11 +48,6 @@ mortos por serpentes marinhas, porque não puderam vê-Ias e agarraram-nas
 por acidente.
 
 Polvo
-
-Os olhos do polvo têm pálpebras e são capazes de distinguir as cores. Para
-focalizar os objetos, o cristalino do olho se desloca ao invés de modificar sua
-forma como ocorre no olho humano. O polvo é um animal inteligente, com
-um cérebro comparável a dos vertebrados mais desenvolvidos.
 
 O polvo comum existe em todos os oceanos. Ele caça tudo o que se move.
 Costuma abrigar-se nas fendas das rochas onde se torna invisível, mudando
