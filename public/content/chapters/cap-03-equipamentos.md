@@ -283,7 +283,7 @@ embarcados ou na água.
 ![](/assets/content/curso_mergulho_autonomo_basico/img/equipamentos_valvulas_estagios_profundimetro_narguile.png)
 
 
-[equipamentos_valvulas_estagios_profundimetro_narguile.png]
+![equipamentos_valvulas_estagios_profundimetro_narguile.png](/assets/content/curso_mergulho_autonomo_basico/img/equipamentos_valvulas_estagios_profundimetro_narguile.png)
 
                                                                                                                     15
 Equipamento Autônomo de Respiração Subaquático (Self-Contained
@@ -341,7 +341,7 @@ pressão de teste maior que a de trabalho (geralmente uma vez e meia)
 calculando desta forma a deformidade temporária e permanente do cilindro.
 E sujeita-lo a uma inspeção visual interna a cada ano.
 
-[equipamentos_manutencao_preventiva_interna_cada_CILINDRO.png.png]
+![equipamentos_manutencao_preventiva_interna_cada_CILINDRO.png.png](/assets/content/curso_mergulho_autonomo_basico/img/equipamentos_manutencao_preventiva_interna_cada_CILINDRO.png.png)
 
 CILINDRO DE ALUMÍNIO  CILINDRO DE AÇO CROMO
                                MOLIBDÊNIO
@@ -446,9 +446,9 @@ esvazia.
 ![](/assets/content/curso_mergulho_autonomo_basico/img/equipamentos_01.png)
 
 
-[equipamentos_01.png]
-[equipamentos_02.jpg]
-[equipamento_03.png]
+![equipamentos_01.png](/assets/content/curso_mergulho_autonomo_basico/img/equipamentos_01.png)
+![equipamentos_02.jpg](/assets/content/curso_mergulho_autonomo_basico/img/equipamentos_02.jpg)
+![equipamento_03.png](/assets/content/curso_mergulho_autonomo_basico/img/equipamento_03.png)
                                                                                                                     19
 20
 Back Pack
@@ -535,7 +535,7 @@ oxigênio e nitrogênio).
 ![](/assets/content/curso_mergulho_autonomo_basico/img/Equipamentos_Tipos_de_Mergulho.png)
 
 
-[Equipamentos_Tipos_de_Mergulho.png]
+![Equipamentos_Tipos_de_Mergulho.png](/assets/content/curso_mergulho_autonomo_basico/img/Equipamentos_Tipos_de_Mergulho.png)
                                                                                                                     23
 24
 Física aplicada ao mergulho 4

@@ -26,7 +26,7 @@ O N2 é transportado dissolvido no plasma.
 ![](/assets/content/curso_mergulho_autonomo_basico/img/fisiologia_variacoes_hiperbaricas_pela_boyle.jpg)
 
 
-[fisiologia_variacoes_hiperbaricas_pela_boyle.jpg]
+![fisiologia_variacoes_hiperbaricas_pela_boyle.jpg](/assets/content/curso_mergulho_autonomo_basico/img/fisiologia_variacoes_hiperbaricas_pela_boyle.jpg)
 
                              Células dos tecidos. Paredes vasculares.
 
@@ -54,7 +54,7 @@ produção de células imunes.
 ![](/assets/content/curso_mergulho_autonomo_basico/img/fisiologia_comunicacao_fossas_tecidos_face.jpg)
 
 
-[fisiologia_comunicacao_fossas_tecidos_face.jpg]
+![fisiologia_comunicacao_fossas_tecidos_face.jpg](/assets/content/curso_mergulho_autonomo_basico/img/fisiologia_comunicacao_fossas_tecidos_face.jpg)
 
 A circulação do sangue
 

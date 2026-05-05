@@ -22,7 +22,7 @@ formada por dois átomos de hidrogênio e um de oxigênio.
 ![](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_varia_proporcionalmente_temperatura_volume.jpg)
 
 
-[fisica-mergulho_varia_proporcionalmente_temperatura_volume.jpg]
+![fisica-mergulho_varia_proporcionalmente_temperatura_volume.jpg](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_varia_proporcionalmente_temperatura_volume.jpg)
 
 A matéria se divide em três estados:
 SÓLIDOS: Forma e volume definidos. São incompressíveis.
@@ -35,7 +35,7 @@ aumento da pressão).
 ![](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_varia_proporcionalmente_temperatura_volume_2.jpg)
 
 
-[fisica-mergulho_varia_proporcionalmente_temperatura_volume_2.jpg]
+![fisica-mergulho_varia_proporcionalmente_temperatura_volume_2.jpg](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_varia_proporcionalmente_temperatura_volume_2.jpg)
                                                                                                                     25
 O ar atmosférico por nós respirado durante o mergulho é, uma mistura
 gasosa que, em condições hiperbáricas, tem comportamento diferente
@@ -48,8 +48,8 @@ aproximada:
 ![](/assets/content/curso_mergulho_autonomo_basico/img/Equipamentos_percentual_01.png)
 
 
-[Equipamentos_percentual_01.png]
-[Equipamentos_percentual_02.png]
+![Equipamentos_percentual_01.png](/assets/content/curso_mergulho_autonomo_basico/img/Equipamentos_percentual_01.png)
+![Equipamentos_percentual_02.png](/assets/content/curso_mergulho_autonomo_basico/img/Equipamentos_percentual_02.png)
 
 Para efeitos de cálculo no mergulho com ar podemos utilizas as
 porcentagens de 80% de N² e 20% de O² .
@@ -132,7 +132,7 @@ reduzido a metade do volume inicial (5 litros).
 ![](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_mistura_x_y_ar_liquido_sofre.png)
 
 
-[fisica-mergulho_mistura_x_y_ar_liquido_sofre.png]
+![fisica-mergulho_mistura_x_y_ar_liquido_sofre.png](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_mistura_x_y_ar_liquido_sofre.png)
 
           A 10 m será de 1/2
           A 20 m será de 1/3
@@ -149,7 +149,7 @@ massa de gás, é inversamente proporcional à pressão absoluta a que está suj
 ![](/assets/content/curso_mergulho_autonomo_basico/img/Fisica-mergulho_03.png)
 
 
-[Fisica-mergulho_03.png]
+![Fisica-mergulho_03.png](/assets/content/curso_mergulho_autonomo_basico/img/Fisica-mergulho_03.png)
 
 Lei de Charles e Gay Lussac
 A Lei de Charles nos explica que a pressão varia proporcionalmente com a
@@ -176,7 +176,7 @@ temperatura no estado inicial é igual á relação tio produto, pressão vezes
 ![](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_igual_peso_liquido_deslocado.png)
 
 
-[fisica-mergulho_igual_peso_liquido_deslocado.png]
+![fisica-mergulho_igual_peso_liquido_deslocado.png](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_igual_peso_liquido_deslocado.png)
 
 onde:
        P é a pressão do gas.
@@ -189,7 +189,7 @@ de acordo com as condições acima) afirma-se que:
 ![](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_igual_peso_liquido_deslocado_2.png)
 
 
-[fisica-mergulho_igual_peso_liquido_deslocado_2.png]
+![fisica-mergulho_igual_peso_liquido_deslocado_2.png](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_igual_peso_liquido_deslocado_2.png)
 
 Lei de Dalton
 Os gases numa mistura exibem uma propriedade singular. Cada um exerce
@@ -215,8 +215,8 @@ mar.
 ![](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_sofrer_mesma_dissolvido_pela_01.png)
 
 
-[fisica-mergulho_sofrer_mesma_dissolvido_pela_01.png]
-[fisica-mergulho_sofrer_mesma_dissolvido_pela_02.png]
+![fisica-mergulho_sofrer_mesma_dissolvido_pela_01.png](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_sofrer_mesma_dissolvido_pela_01.png)
+![fisica-mergulho_sofrer_mesma_dissolvido_pela_02.png](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_sofrer_mesma_dissolvido_pela_02.png)
 
 
 Principio de Arquimedes
@@ -231,7 +231,7 @@ desloca uma quantidade de líquido de peso menor que o seu, o objeto afunda.
 ![](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_fase_equilibrio_dissolvido_inferior.jpg)
 
 
-[fisica-mergulho_fase_equilibrio_dissolvido_inferior.jpg]
+![fisica-mergulho_fase_equilibrio_dissolvido_inferior.jpg](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_fase_equilibrio_dissolvido_inferior.jpg)
 
                                                                                                                     31
 "Todo corpo imerso em um líquido em equilíbrio é submetido a uma força
@@ -244,8 +244,8 @@ desloca uma quantidade de líquido de peso menor que o seu, o objeto afunda.
 ![](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_dito_supersaturado_critica_nivel.jpg)
 
 
-[fisica-mergulho_dito_supersaturado_critica_nivel.jpg]
-[fisica-mergulho_superficie_fase_dito_supersaturado.jpg]
+![fisica-mergulho_dito_supersaturado_critica_nivel.jpg](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_dito_supersaturado_critica_nivel.jpg)
+![fisica-mergulho_superficie_fase_dito_supersaturado.jpg](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_superficie_fase_dito_supersaturado.jpg)
                                                                                                                     32
 Princípio de Pascal
 A pressão exercida sobre um ponto qualquer de um fluido se transmite em
@@ -257,8 +257,8 @@ todas as direções com igual intensidade.
 ![](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_pode_admitir_equivalencia_padrao.png)
 
 
-[fisica-mergulho_pode_admitir_equivalencia_padrao.png]
-[fisica-mergulho_pressao_relativa_calculo_consumo.png]
+![fisica-mergulho_pode_admitir_equivalencia_padrao.png](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_pode_admitir_equivalencia_padrao.png)
+![fisica-mergulho_pressao_relativa_calculo_consumo.png](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_pressao_relativa_calculo_consumo.png)
 
   "Quando um ponto de um líquido em equilíbrio sofre uma variação de
  pressão, todos os outros pontos do líquido também irão sofrer a mesma
@@ -282,10 +282,10 @@ gás no liquido é proporcional á pressão excedia por este gás neste líquido
 ![](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_total_otica_absorvidas_podem.png)
 
 
-[fisica-mergulho_total_otica_absorvidas_podem.png]
-[fisica-mergulho_altura_trinta_para_olhos.jpg]
+![fisica-mergulho_total_otica_absorvidas_podem.png](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_total_otica_absorvidas_podem.png)
+![fisica-mergulho_altura_trinta_para_olhos.jpg](/assets/content/curso_mergulho_autonomo_basico/img/fisica-mergulho_altura_trinta_para_olhos.jpg)
 
-[Fisica_Estados_01.png]
+![Fisica_Estados_01.png](/assets/content/curso_mergulho_autonomo_basico/img/Fisica_Estados_01.png)
 
 4.4 - UNIDADES DE EQUIVALÊNCIA PADRÃO
 
@@ -304,7 +304,7 @@ Para convertermos essas escalas utilizamos a regra de três simples.
 ![](/assets/content/curso_mergulho_autonomo_basico/img/Fisica_Equivalencia01.png)
 
 
-[Fisica_Equivalencia01.png]
+![Fisica_Equivalencia01.png](/assets/content/curso_mergulho_autonomo_basico/img/Fisica_Equivalencia01.png)
 
 A seguir veremos algumas definições:
 
@@ -330,7 +330,7 @@ barométricas são:
 ![](/assets/content/curso_mergulho_autonomo_basico/img/Fisica-unidades_barométricas.png)
 
 
-[Fisica-unidades_barométricas.png]
+![Fisica-unidades_barométricas.png](/assets/content/curso_mergulho_autonomo_basico/img/Fisica-unidades_barométricas.png)
 
                                                                 36
 Pressão Atmosférica
@@ -396,7 +396,7 @@ pressão ambiente absoluta.
 
 
 
-[Fisica-Consumo01.png]
+![Fisica-Consumo01.png](/assets/content/curso_mergulho_autonomo_basico/img/Fisica-Consumo01.png)
 
 Cálculo em Relação à Capacidade de Cada Cilindro
 A equação resume-se na multiplicação da pressão de enchimento do cilindro
@@ -406,14 +406,14 @@ em litros.
 ![](/assets/content/curso_mergulho_autonomo_basico/img/Fisica_capacidade_cilindro.png)
 
 
-[Fisica_capacidade_cilindro.png]
+![Fisica_capacidade_cilindro.png](/assets/content/curso_mergulho_autonomo_basico/img/Fisica_capacidade_cilindro.png)
 
 Cálculo do Ar Disponível e do Ar Reserva
 
 ![](/assets/content/curso_mergulho_autonomo_basico/img/Fisica_capacidade_cilindro_02.png)
 
 
-[Fisica_capacidade_cilindro_02.png]
+![Fisica_capacidade_cilindro_02.png](/assets/content/curso_mergulho_autonomo_basico/img/Fisica_capacidade_cilindro_02.png)
 
                                                                                                                     38
 registro, a mesma fecha a passagem de ar quando a pressão da mola
