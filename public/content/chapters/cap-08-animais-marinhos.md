@@ -1,5 +1,5 @@
 ---
-title: Animais Marinhos2
+title: Animais Marinhos23
 id: animais-marinhos
 moduleId: curso_mergulho_autonomo_basico
 number: 8
