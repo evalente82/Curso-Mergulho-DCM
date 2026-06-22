@@ -39,8 +39,8 @@ collections:
     label_singular: "Capítulo"
     description: "Edite o texto e as imagens dos capítulos do curso."
     folder: public/content/chapters
-    create: false
-    delete: false
+    create: true
+    delete: true
     extension: md
     # Campos mapeados com o frontmatter REAL dos arquivos
     # (id, moduleId, title, number)
